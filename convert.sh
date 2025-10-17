@@ -18,3 +18,4 @@ for json in cache/*.json; do
     -f nt
 done >> all_mass.nt
 
+sort -u all_mass.nt > all_mass_unique.nt
