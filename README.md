@@ -5,11 +5,12 @@ De JSON die via de API wordt geharvest wordt in verband met throttling opgeslage
 De mass.rq bevat the SPARQL CONSTRUCT die de JSON omzet naar RDF. Vanwege missende data worden ook vanuit de lijst via mass-list.rq triples gemaakt.
 Het script convert.sh voert alle bovengenoemde stappen uit en resulteert in het bestand all_mass.nt.
 
+![Model of converted RDF](model.png)
 # Requirements
 
 - Bash
 - Python 3
-- (SPARQL-Anything)[https://github.com/SPARQL-Anything/sparql.anything/releases]
+- [SPARQL-Anything](https://github.com/SPARQL-Anything/sparql.anything/releases)
 
 # Commentaar API data	
 
