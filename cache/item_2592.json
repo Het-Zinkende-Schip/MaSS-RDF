@@ -1,0 +1,27 @@
+{
+  "id": "2592",
+  "code": "sagasbank-unidentified",
+  "name": "Sagasbank (unidentified)",
+  "type": "wreck",
+  "lat": "54.2500000",
+  "lon": "11.1333330",
+  "location": "Sagasbank, Lübecker Bucht, Duitsland",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1960",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-06-03 18:42:58",
+  "modified_on": "2025-07-11 17:41:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>This wooden wreck has not been identified yet, but given the size and way of construction, it is reminiscent of a fish cutter of the first half of the 20th century.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002684.jpg\" alt=\"A sketch of the wrecksite \"> <div class=\"img-source\">Oleksiy Konovalov</div> <figcaption class=\"img-description\">A sketch of the wrecksite by the naval architect and underwater artist Oleksiy Konovalov.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002652.jpg\" alt=\"The wreck with a noticeable list of 30&deg; to the starboard side.\"> <div class=\"img-source\">Erhard Schulz</div> <figcaption class=\"img-description\">The wreck with a noticeable list of 30&deg; to the starboard side.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002653.jpg\" alt=\"The well preserved stern with the rudder and propeller.\"> <div class=\"img-source\">Erhard Schulz</div> <figcaption class=\"img-description\">The well preserved stern with the rudder and propeller.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002654.jpg\" alt=\"The rounded stern section, with a diver next to it\"> <div class=\"img-source\">Erhard Schulz</div> <figcaption class=\"img-description\">The rounded stern section</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002655.jpg\" alt=\"Futtocks with outer and ceiling planks at the reasonably well preserved port side.\"> <div class=\"img-source\">Erhard Schulz</div> <figcaption class=\"img-description\">Futtocks with outer and ceiling planks at the reasonably well preserved port side.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002656.jpg\" alt=\"The stempost at the bottom of the sea\"> <div class=\"img-source\">Erhard Schulz</div> <figcaption class=\"img-description\">The stempost</figcaption> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>65 &frac12; voet (20 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>In March 2007, the wreck was discovered by a survey vessel of the Maritime and Hydrographic Agency of Germany (BSH: <em>Bundesamt f&uuml;r Seeschifffahrt und Hydrographie</em>) at a depth of 14 metres. The bow is in a state of advanced deterioration. The wreck has become a habitat for marine life, like lumpfish. Derelict fishing gear has been observed too.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Oppelt, I. (2019).<br /><em>Wracktauchen: Die schönsten Tauchplätze der Ostsee.</em><br />Wetnotes.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

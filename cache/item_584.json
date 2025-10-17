@@ -1,0 +1,27 @@
+{
+  "id": "584",
+  "code": "burgzand-noord-18-bzn-18",
+  "name": "Burgzand Noord 18 (BZN 18)",
+  "type": "wreck",
+  "lat": "53.0540000",
+  "lon": "4.9600000",
+  "location": "Wadden sea, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2018-01-03 00:00:00",
+  "modified_on": "2025-06-06 22:06:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De Burgzand Noord 18 (BZN 18) is een 17<sup>e</sup>-eeuws scheepswrak.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Analyses van de multibeam sonar uit 2009 brachten een nieuw scheepswrak (BZN 18) aan het licht op 40 m van het BZN 3 wrak. HIervoor waren er geen duidelijke structuren zichtbaar. Uit duikonderzoek in 2013 is gebleken dat het om een wrak van ongeveer 25 m lengte gaat. Er is verder weinig bekend over de locatie, behalve dat het al zwaar is aangevallen door scheepsworm. Sinds 1850 is het gebied ongeveer 6 m verdiept. Opvallend is dat kort na het verschijnen van het wrak op de zeebodem in 2009 snel een diepe erosiekuil ontstond aan de oostzijde. In 2013 bereikte de kuil zijn maximale diepte van 3 m. Vervolgens werd de erosiekuil opgevuld en volledig ge&euml;galiseerd in 2015.</p> <p>Tijdens een duikonderzoek in 2013 was het hoogteverschil tussen het wrak en de oostkant al meer dan 2 m. Dit was echter verdwenen in 2015, toen het gebied rond het wrak afvlakte.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001315.png\" alt=\"afbeelding van een multibeam sonar, waarin het hoogteverschil tussen wrak en oostkant\"></figure></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

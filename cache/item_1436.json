@@ -1,0 +1,27 @@
+{
+  "id": "1436",
+  "code": "ms-neutron",
+  "name": "MS Neutron",
+  "type": "wreck",
+  "lat": "51.3844000",
+  "lon": "3.0306830",
+  "location": "België",
+  "firstdate": "1964-04-17",
+  "firstyear": "1964",
+  "firstyearend": null,
+  "lastdate": "1965-08-04",
+  "lastyear": "1965",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Martijn Heijink",
+  "created_on": "2020-07-24 14:25:14",
+  "modified_on": "2025-06-10 16:31:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>MV Neutron werd in september 1964 opgeleverd. Nog geen jaar later, op 3 augustus 1965, voer het schip rond kwart over twaalf 's nachts op een blinde klip of scheepswrak. De kapitein vroeg onmiddellijke bijstand en de zeven bemanningsleden en vijf passagiers werden door het vissersvaartuig Zeebrugge 555 aan boord genomen. Achteraf was er onduidelijkheid over de oorzaak van de scheepsramp: de kapitein meende dat hij niet op het wrak van de Samsip was gelopen, omdat hij dit al gepasseerd moest zijn. De Raad voor de Scheepvaart was het niet met hem eens. De Raad nam aan dat de Neutron op het enige wrak ter plekke moest zijn gestoten, dat van de Samsip. Dit wrak was met een boei gemarkeerd. Wegens zorgeloze navigatie ontnam de Raad de kapitein van de Neutron gedurende tien maanden zijn bevoegdheid om als kapitein op zeeschepen te varen.</p> <p>In 1970 is een wrak ontdekt dat waarschijnlijk de <em>Neutron </em>is.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bouwtekeningen van het schip zijn bewaard bij het Noordelijk Scheepvaartmuseum in Groningen.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Thomas Breider</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>12</td></tr><tr><th scope=\"row\">Vermogen</th><td>360 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>9 knopen ~ 17 km/u (10 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>168 voet (51,2 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>12 &frac14; voet (3,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>400 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak van de Neutron ligt op een maximale diepte van circa 12 meter en ter hoogte van het ruim in twee stukken gescheurd. Het wrak is grotendeels in het zand weggezakt, waarbij het achterschip omgekeerd ligt en zware averij vertoont.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Agentschap Onroerend Erfgoed.<br /><a href=\"http://www.maritieme-archeologie.be/WK_Ship_GenView.aspx?ObjCId=1767&amp;type=1&amp;utype=guest\">Neutron MV/MS.</a></li><li>Stichting Maritiem-Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=4608\">Neutron - ID 4608.</a></li><li>Dirk Termote en Tomas Termote (2009).<br /><em>Schatten en scheepswrakken: boeiende onderwaterarcheologie in de Noordzee.</em><br />z.p., Schuyt.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

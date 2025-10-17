@@ -1,0 +1,27 @@
+{
+  "id": "1557",
+  "code": "odm-x",
+  "name": "ODM X",
+  "type": "wreck",
+  "lat": "51.8124620",
+  "lon": "5.4495835",
+  "location": "Dreumel, Nederland",
+  "firstdate": null,
+  "firstyear": "100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "450",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-23 11:56:10",
+  "modified_on": "2020-08-23 11:56:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

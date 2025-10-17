@@ -1,0 +1,27 @@
+{
+  "id": "4041",
+  "code": "ng29",
+  "name": "NG29",
+  "type": "wreck",
+  "lat": "52.7583290",
+  "lon": "5.7551700",
+  "location": "Bant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:52:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1969 werd de vondst van een scheepswrak gemeld op kavel G29 in de Noordoostpolder. Datzelfde jaar vond een verkenning plaats. Het zou gaan om een vermoedelijk 17de/18de-eeuws schip, maar vondsten die een preciezere datering mogelijk maakten werden niet gedaan. Het wrak is daarna in de grond gebleven. In het jaar 2000 werd het herverkend, ditmaal met hulp van studenten. De gevonden scheepsrest bleek het karveel gebouwde vlak van een vrachtschip te zijn, met gesloten wegering en een dooskiel. Het is gebouwd volgens het bottom-first-principe. Ook werden nu enkele voorwerpen aangetroffen in het wrak, voornamelijk objecten die vallen onder de categorie&euml;n scheepsuitrusting en -inventaris. Een lading werd echter niet gevonden. Uit dendrochronologisch onderzoek van het scheepshout is een veldatum gekomen van 1558/1559 AD, wat in de richting van een vroegere ondergangsdatum wijst dan eerder werd verondersteld, circa eind 16de of begin 17de eeuw. Hoewel het wrak op sommige plekken nog te boek staat als vissersschip/waterschip (dit was gebaseerd op de bouw voor zover die zichtbaar was bij de verkenning in 1969), werd in 2000 duidelijk dat het een vrachtschip en geen vissersschip betrof.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zuj-qk3m\">Opgravingsdocumentatie scheepswrak NG29.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "283",
+  "code": "samed-ngam",
+  "name": "Samed Ngam",
+  "type": "structure",
+  "lat": "12.3170000",
+  "lon": "102.2080000",
+  "location": "Samed Ngam, Thailand",
+  "firstdate": null,
+  "firstyear": "1760",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1860",
+  "lastyearend": null,
+  "country": "Thailand",
+  "countrycode": "TH",
+  "author": "Will Brouwers",
+  "created_on": "2011-09-06 00:00:00",
+  "modified_on": "2025-05-27 16:36:21",
+  "deleted_on": null,
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

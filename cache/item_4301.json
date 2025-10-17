@@ -1,0 +1,27 @@
+{
+  "id": "4301",
+  "code": "bu22",
+  "name": "BU22",
+  "type": "wreck",
+  "lat": "52.2642634",
+  "lon": "5.3698489",
+  "location": "Randmeer, Nederland",
+  "firstdate": null,
+  "firstyear": "1895",
+  "firstyearend": "1895",
+  "lastdate": null,
+  "lastyear": "1952",
+  "lastyearend": "1963",
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Vossail",
+  "created_on": "2025-07-15 00:05:34",
+  "modified_on": "2025-07-15 00:05:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hopman</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>2</td></tr><tr><th scope=\"row\">Vermogen</th><td>20 pk</td></tr><tr><th scope=\"row\">Lengte</th><td>36 voet (11 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>12 voet (3,7 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>3 voet (0,9 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>12 voet (3,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>6 ton</td></tr><tr><th scope=\"row\">Deplacement</th><td>14 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Pieter de Vos.<br /><a href=\"http://www.dedarp.nl/wvs\">wrakken van Spakenburg.</a></li><li>zuiderzeecollectie.nl.<br /><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40003461\">Zuiderzeecollectie.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

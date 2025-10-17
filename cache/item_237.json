@@ -1,0 +1,27 @@
+{
+  "id": "237",
+  "code": "oseberg-ship",
+  "name": "Oseberg ship",
+  "type": "wreck",
+  "lat": "59.5500000",
+  "lon": "10.4000000",
+  "location": "Vestfold, Noorwegen",
+  "firstdate": null,
+  "firstyear": "800",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "850",
+  "lastyearend": null,
+  "country": "Noorwegen",
+  "countrycode": "NO",
+  "author": "Will Brouwers",
+  "created_on": "2010-12-16 00:00:00",
+  "modified_on": "2025-06-06 17:20:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Oseberg schip is gevonden in een grote grafheuvel op een boerderij genaamd Slagen in Vestfold, Noorwegen en is in 1904 opgegraven. Het schip is rond 1815-1820 n.C gebouwd. Nadien is het gebruikt om een grafheuvel te maken voor twee vrouwen van een hoge sociale status. Onder het schip bevond zich een dikke laag blauwe klei en de heuvel zelf bestond uit turg. Dit verklaard de heel goede staat van conservering van het schip en de objecten van hout, leer en textiel die erin gevonden werden. Dit zijn objecten die slechts bij hoge uitzondering overleven in graven uit de Vikingtijd.</p> <p>De grafheuvel is in vroeger tijden geplunderd, wat wellicht verklaard waarom er geen juwelen en andere kostbare objecten van metaal gevonden werden. De boeg en het achterschip zijn bewerkt met verfijnd houtsnijwerk in de karakteristieke 'pakkende beest' stijl, ook bekend als de Oseberg stijl.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000391.jpg\" alt=\"Woodcarving on the bow. Viking Ship Museum, Oslo, Norway.\"> <div class=\"img-source\">Wikimedia Commons</div> <figcaption class=\"img-description\">Houtsnijwerk op de boeg.</figcaption> </figure> <h2>Oseberg textiel</h2> <p>Naast vele andere vondsten bevatte de Oseberg grafkamer ook de grootste en meest gevari&euml;erde collectie textiel en werktuigen om textiel te maken die ooit in een Vikinggraf gevonden is. Het kent zijn gelijke niet in de Scandinavische prehistorie. De collectie bestaat uit een aantal fragmenten van tapijten en in patronen geweven dekens van wol en linnen, kaartgeweven linten en een grote verzameling stoffen fragmenten, afkomstig van kleding, zeilen of tenten, vloerkleden, enzovoorts, en verder werden er nog resten van zijden stoffen en zijden borduurwerk gevonden. De fragmenten bevonden zich grotendeels in een slechte staat en diverse reconstructies, zoals die hieronder, zijn door de jaren heen gemaakt. De textielfragmenten geven grotendeels religieuze en mythologische scenes weer, wat de vondst nog unieker maakt.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004088.jpg\" alt=\"Watercolor Reconstruction of the left side of the wagon procession part of the Oseberg Tapestry by Mary Storm, 1940, Kulturhistorisk Museum, Oslo\"> <div class=\"img-source\">Kulturhistorisk Museum, Oslo</div> <figcaption class=\"img-description\">Reconstructie met waterverf van de linkerkant van het zogenaamde wagenprocessie deel van het Osebergtapijt door Mary Storm, 1940.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Ander namen voor het scheepstype: drakkar.</p> <p>Overnaads schip gebouwd van eikenhout.</p> <p>Beldoeld voor roeien en zeilen.</p> <p>De bovenste gang had vijftien gaten voor roeiriemen aan beide zijden.</p> <p>Ook al was het zeewaardig, is het schip relatief licht gebouwd en er word aangenomen dat het alleen voor kustreizen gebruikt is.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004086.jpg?modifiedon=1707478077\" alt=\"Oseberg ship, Viking Ship Museum, Oslo, Norway.\"> <div class=\"img-source\">Wikimedia Commons</div> <figcaption class=\"img-description\">Het schip zoals het ten toon gesteld is in het Vikingtidsmuseet (onderdeel van het Kulturhistorisk Museum) in Oslo.</figcaption> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Snelheid</th><td>10 knopen ~ 19 km/u (12 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>39 &frac14; voet (12 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>16 &frac12; voet (5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://www.khm.uio.no/vikingskipshuset/oseberg/index_eng.html\">Viking ship, Kultur historik museum.</a></li><li><a href=\"https://en.wikipedia.org/wiki/Oseberg_ship\">Oseberg ship on Wikipedia.</a></li><li><a href=\"http://www.forest.gen.nz/Medieval/articles/Oseberg/textiles/TEXTILE.HTM\">Oseberg textiles.</a></li><li><a href=\"https://mass.cultureelerfgoed.nl/gokstad-ship\">See also Gokstad ship.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

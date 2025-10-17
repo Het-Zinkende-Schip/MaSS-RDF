@@ -1,0 +1,27 @@
+{
+  "id": "940",
+  "code": "schelvis",
+  "name": "Schelvis",
+  "type": "wreck",
+  "lat": "29.8897890",
+  "lon": "48.3925782",
+  "location": "Basra, Irak",
+  "firstdate": null,
+  "firstyear": "1644",
+  "firstyearend": null,
+  "lastdate": "1646-01-15",
+  "lastyear": "1646",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-22 13:48:05",
+  "modified_on": "2022-11-29 15:10:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 5 januari 1646 is de Schelvis, bij het vertrek van Basra (Iraq) tijdens het lossen van drie saluutschoten verongelukt. Bij het lossen van het tweede saluutschot barstte het kanon en vloog het schip in brand. Hierbij kwamen 5 personen om en werden ongeveer 15, onder wie schipper Haen gewond.<br>Het uitgebrande wrak dreef na twee dagen aan het strand. Er kon weinig van de lading worden geborgen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Amsterdam, in 1644</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91742\">DAS 0625.1.</a></li><li><a href=\"https://www.delpher.nl/nl/tijdschriften/view?query=Roobacker&amp;coll=dts&amp;identifier=MMUBA13:001647001:00341 \">Tijdschrift van het Koninklijk Aardrijkskundig Genootschap  dl XXIV (1907), p 305 ev.</a></li><li><a href=\"https://www.atlasofmutualheritage.nl/nl/Al-Basrah.615p\">Atlas of Mutual Heritage.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

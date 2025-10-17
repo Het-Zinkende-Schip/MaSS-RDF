@@ -1,0 +1,27 @@
+{
+  "id": "892",
+  "code": "zwarte-leeuw",
+  "name": "Zwarte Leeuw",
+  "type": "wreck",
+  "lat": "-8.0333741",
+  "lon": "-34.8216991",
+  "location": "Recife, Brazilië",
+  "firstdate": null,
+  "firstyear": "1620",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1629",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-01 15:37:52",
+  "modified_on": "2025-05-23 10:57:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Swarte Leeuw vertrok 22 december 1629 vanuit Recife. Aan boord waren de zieke commandeur Dirck Symonz van Uytgeest en Luitenant kolonel van Elst.</p> <p>De Laet vermeldt dat het schip als verloren moest worden beschouwd er werd nooit meer iets van vernomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Fregat?</p> <p>Gebouwd: Amsterdam 162?<br>Eigenaar: WIC kamer Amsterdam</p> <p>Tonnage: 180 last</p> <p>Complement: 92, 65 soldaten</p> <p>Kapitein: Marcus Martensz.</p> <p>Armament: 24 (4/20)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>De Laet VII,205, Korte Verhaal.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

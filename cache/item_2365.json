@@ -1,0 +1,27 @@
+{
+  "id": "2365",
+  "code": "tidore-1668",
+  "name": "Tidor",
+  "type": "wreck",
+  "lat": "53.4590833",
+  "lon": "5.6150436",
+  "location": "Ameland, Nederland",
+  "firstdate": null,
+  "firstyear": "1668",
+  "firstyearend": null,
+  "lastdate": "1683-09-27",
+  "lastyear": "1683",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-10 11:24:02",
+  "modified_on": "2025-06-24 10:52:45",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Tidor </strong></em>was het vice admiraal schip van de retourvloot die vertrok op 27 februari 1683 uit Batavia. Schipper Jacob Been overleed tijdens de reis op 14 april 1683. Hij werd opgevolgd door Claas Boudewijnsz. Vlamingh. (Hesse 142)</p> <p>De Tidor maakte vijf retourreizen alvorens te vergaan op de zesde thuisreis bij Ameland. De Tidor is door veronachtzaamheid verongelukt. Het grootste deel van de opvarenden, waaronder ook schipper Klaas Fleming, kwam om. (<a href=\"https://api.deutsche-digitale-bibliothek.de/binary/88c42136-e3b7-416b-88af-c52051b88aab.pdf\">Hesse 174</a>)</p> <p>Relaas van overlevende 3e stuurman Frederick Willemss :</p> <p><em>dat hij [op de Tidor] op 26 deses maents van september gekomen sijnde op het Doggerssant op 14 a 15 vadem water de cours gestelt heeft Zuijd Zuijd Oost aen om de breeveertien aen de westelijcke kant aen te lopen. Dat daer op voortseijlende met moij weer in de naenacht de 27 d.o omtrent een uer voor dagh de derdewaeck wiens waght het was eenige brandingh vernemende hem opriep, dat sij daer op het loot werpende haer bevonden op thien vadem water. Dat het dagelicx ancker en tuijtouw aenstonts uijtgeset en het roer opgeduwt sijnde het touw was gebroken, en eer het pleghtancker was uijtgebraght het schip tegens de wal van Ameland geset een quart mijl van het lant, meest met laegh water. Dat het aldaer aen stucken is gestoten en daer van omtrent hondert mannen geborgen, en vijftigh verdroncken. Dat een goet gedeeelte van de ladinge op strant quam aensetten en geborgen wiert onder het toesight van den Opperstuerman den schipper verdroncken sijnde </em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Middelburg, 1670. (<a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=525&amp;accessor=searchText&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=1&amp;view=\">Van Dam, 486</a>)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Flemming, Klaas</td></tr><tr><th scope=\"row\">Lengte</th><td>160 Amsterdamse&nbsp;voet (45,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>38 Amsterdamse&nbsp;voet (10,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1094 ton (547 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Elias Hesse (1931).<br /><a href=\"https://api.deutsche-digitale-bibliothek.de/binary/88c42136-e3b7-416b-88af-c52051b88aab.pdf\">Reisebeschreibungen von deutschen Beamten und Kriegsleuten im Dienst der Niederländischen West- und Ost-Indischen Kompagnien 1602 - 1797.</a><br />Martinus Nijhoff, 's-Gravenhage.</li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0148?query=\">NL-HaNA_1.04.02_4932_0148.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/242/file/NL-HaNA_1.04.02_242_0035?eadID=1.04.02&amp;unitID=242&amp;query=242\">journaal 30-9-1683.</a></li><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/96683\">DAS 5774.5.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

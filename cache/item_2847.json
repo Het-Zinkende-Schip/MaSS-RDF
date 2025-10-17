@@ -1,0 +1,27 @@
+{
+  "id": "2847",
+  "code": "eemdijk",
+  "name": "Eemdijk",
+  "type": "wreck",
+  "lat": "61.3120997",
+  "lon": "1.4165026",
+  "location": "Noordzee, Verenigd Koninkrijk",
+  "firstdate": "1910-12-31",
+  "firstyear": "1910",
+  "firstyearend": null,
+  "lastdate": "1917-06-06",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-15 11:40:40",
+  "modified_on": "2025-06-15 11:48:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het vrachtschip <em><strong>SS Eemdijk</strong></em> werd tijdens de Eerst Wereldoorlog tweemaal door Duitse onderzeeers getorpedeerd.</p> <p>Op weg van Baltimore naar Rotterdam met een lading mais, werd ze op 6 april 1916 door de Duitse onderzeeboot UB 8 getorpedeerd. Ondanks de schade bleef de Eemdijk drijven. Ze werd door Britse sleepboten naar Southampton gesleept en daar hersteld.</p> <p><strong>Eemdijk laatste reis</strong><br>&nbsp;Op reis met een lading graan van Boston via Halifax naar Rotterdam is de <em><strong>Eemdijk</strong></em> op 6 juni 1917 op de Atlantische Oceaan bij de Shetland eilanden door de Duitse onderzeeer <strong>U88</strong> aangehouden.</p> <p>Nadat de 23 opvarenden gelegenheid was gegeven het schip te verlaten, werd de &lsquo;EEMDIJK&rsquo; om 14.30 uur op 6 juni 1917 tot zinken gebracht. Alle opvarenden werden gered. De onderzeeboot had eerst een torpedo afgevuurd en bracht ten slotte de <strong><em>Eemdijk</em></strong> met kanonvuur tot zinken. De lading bestond uit rogge, haver en ma&iuml;s.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Rederij: Van Solleveld, van der Meer &amp; van Hattum's Scheepvaatbedrijf, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Swart, T.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>23</td></tr><tr><th scope=\"row\">Lengte</th><td>325 &frac12; voet (99,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>47 &frac14; voet (14,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3048 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=1899\">ID 1899.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22SS+Eemdijk%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;identifier=MMRHCE01:000040036:mpeg21:a0007&amp;resultsidentifier=MMRH\">De Zuid-Willemsvaart, 12-06-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1264",
+  "code": "triton",
+  "name": "Triton",
+  "type": "wreck",
+  "lat": "-6.0305825",
+  "lon": "113.5678716",
+  "location": "Java Zee, Indonesië",
+  "firstdate": null,
+  "firstyear": "1773",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1792",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-30 13:01:30",
+  "modified_on": "2024-12-17 10:00:38",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Triton </em>maakte vier retourreizen sinds 1776. Ze moest op haar derde retourreis naar Nederland uitwijken naar Trondheim in Noorwegen tijdens de Vierde Engelse Oorlog (1780-1784). Ze heeft daar bijna anderhalf jaar gelegen voor ze verder kon naar Nederland.</p> <p>Vanaf 1787 bleef de Triton in Azi&euml;. Zij is in 1792 in Indi&euml; vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Spiegelretour/Homeward bound<br>Gebouwd/Built: Oosterburg VOC werf, Amsterdam, 1773<br>Eigenaar/Owner: VOC kamer Amsterdam, VOC kamer Zeeland (v.a. 1785)<br>Tonnage: 575</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

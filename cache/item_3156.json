@@ -1,0 +1,27 @@
+{
+  "id": "3156",
+  "code": "timor-2",
+  "name": "Timor",
+  "type": "wreck",
+  "lat": "-33.8317407",
+  "lon": "18.3863202",
+  "location": "Whale rock, Robben Island, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1840",
+  "firstyearend": null,
+  "lastdate": "1856-12-22",
+  "lastyear": "1856",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-22 23:59:15",
+  "modified_on": "2025-07-25 12:47:22",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Timor</em></strong> was een bark, van Padang naar Rotterdam onderweg Gestrand op de klippen bij Whale Rock en totaal verbrijzeld. De bemanning werd gered.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003809.jpg\" alt=\"Krantenknipsel over de Nederlandse Bark Timor.\"> <div class=\"img-source\">NRC_5-3-1857</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: C. Gips &amp; Zonen - Werf 'De Merwede', Dordrecht</p> <p>Eigenaar: Mr. Pieter Bluss&eacute; van Oud Alblas, Dordrecht</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>J.T. Agema</td></tr><tr><th scope=\"row\">Tonnage</th><td>441 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=8084\">Marhisdata ID 8084.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li>Allen Tony.<br /><a href=\"https://wrecksite.eu/wreck.aspx?305678\">SV Timor (+1856).</a></li><li>George Lourens Kiers.<br /><a href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/George_Lourens_Kiers_-_Een_gestrand_barkschip_-_S.4069%28a%29_-_Het_Scheepvaartmuseum.jpg/640px-George_Lourens_Kiers_-_Een_gestrand_barkschip_-_S.4069%28a%29_-_Het_Scheepvaartmuseum.jpg\">Een Gestrand Barkschip.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

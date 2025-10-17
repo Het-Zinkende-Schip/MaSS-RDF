@@ -1,0 +1,27 @@
+{
+  "id": "1212",
+  "code": "uitdam",
+  "name": "Uitdam",
+  "type": "wreck",
+  "lat": "-2.0248679",
+  "lon": "99.6246071",
+  "location": "Tuapejat, Sipor, Indonesië",
+  "firstdate": null,
+  "firstyear": "1668",
+  "firstyearend": null,
+  "lastdate": "1677-11-02",
+  "lastyear": "1677",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-14 14:54:48",
+  "modified_on": "2025-06-10 11:48:29",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Uitdam</em> was onderweg van Bengalen naar Batavia. Toen het op het noorden van het eiland Goede Fortuin vastliep. 38 bemanningsleden en 33 slaven konden zich redden. Ze werden aangevallen door de eilandbewoners. Na twee weken besloot de bemanning de tocht naar Sumatra Priaman (150 km) te maken.</p> <p>De slaven en lading werd achtergelaten. Ze haalden inderdaad het vasteland. De commandeur van het fort stuurde het jacht&nbsp;<em>Schelvis</em> om de lading en achtergeblevenen op te pikken. Ze vonden de site van de schipbreuk maar troffen niemand meer aan. (Daghregister 24 en 25 januari 1678, p. 41)<br><br></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001746.jpg\" alt=\"Nieuwe kaart van het Eyland Sumatra verbeterd door Fran&ccedil;ois Valentijn Braam, J. van\"> <figcaption class=\"img-description\">Deel van West Sumatra met eiland Goede Fortuin</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: op de VOC-werf in Amsterdam, 1668<br>Lengte: 128<br>Breedte: 27 &frac12;<br>Diepgang: 12 &frac34;<br>Tonnage: 224 last</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Dagh-register gehouden int Casteel Batavia vant passerende daer ter plaetse als over geheel Nederlandts-India. 1624/29-1682.</em><br />Den Haag.</li><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92268\">DAS 1185.2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

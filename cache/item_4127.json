@@ -1,0 +1,27 @@
+{
+  "id": "4127",
+  "code": "nr1-iii",
+  "name": "NR1-III",
+  "type": "wreck",
+  "lat": "52.7778090",
+  "lon": "5.8465350",
+  "location": "Kuinre, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": "1600",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:41:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bij het opgraven van een bij drainage in de eerste greppel van kavel R1 in de Noordoostpolder gevonden scheepswrak werd nog een rest van een zeer licht scheepje gevonden, &eacute;&eacute;n van tenminste drie afzonderlijke scheepswrakken die op kavel R1 werden aangetroffen. Eerst dacht men dat het om een fragment van &eacute;&eacute;n van de andere twee wrakken ging, maar dit bleek niet het geval. Het zou een platboomd, overnaads scheepje zijn geweest van klein formaat, zonder kiel of scheg, In het wrak werden geen dateerbare vondsten teruggevonden.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zyd-y9t8\">Opgravingsdocumentatie scheepswrak NR1-III.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

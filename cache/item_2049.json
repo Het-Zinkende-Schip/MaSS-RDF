@@ -1,0 +1,27 @@
+{
+  "id": "2049",
+  "code": "no99",
+  "name": "NO99",
+  "type": "wreck",
+  "lat": "52.6820000",
+  "lon": "5.8049600",
+  "location": "Emmeloord, Nederland",
+  "firstdate": null,
+  "firstyear": "1590",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1610",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-01-30 12:40:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op kavel O99 in de Noordoostpolder zijn in de herfst van 1945, ten zuiden van de Bomenweg, de restanten van een klein overnaads gebouwd vissersschip uit de zeventiende eeuw opgegraven. In het schip zijn veel voorwerpen aangetroffen, die tot de inventaris behoren, dat wil zeggen voorwerpen die te maken hebben met het verblijf aan boord. Aanwezig waren diverse kookpotten van roodbakkend aardewerk, een tinnen drinkbekertje, een leren messchede en enkele munten. Op een van de munten (waaronder Spaanse matten, Bourgondische, Hollandse, Friese en Duitse munten) staat het jaartal 1606, waaruit afgeleid kan worden dat het schip na dat jaar moet zijn vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een zeventiende-eeuws vissersschip, Emmeloord</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zaa-jfjs\">Opgravingsdocumentatie scheepswrak NO99.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1040",
+  "code": "nijmegen",
+  "name": "Nijmegen",
+  "type": "wreck",
+  "lat": "43.4410128",
+  "lon": "-2.9369888",
+  "location": "Bilbao coast reef, Spanje",
+  "firstdate": null,
+  "firstyear": "1679",
+  "firstyearend": null,
+  "lastdate": "1697-02-04",
+  "lastyear": "1697",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-10 10:46:20",
+  "modified_on": "2025-06-09 13:25:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In zware storm geraakt voor Spaanse kust. Schip van haar ankers geslagen en op een kustrif bij Bilbao verbrijzeld. Met man en muis vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: linieschip rate 6<br>Gebouwd: een werf in Amsterdam, 1679<br>Eigenaar: Admiraliteit Amsterdam<br>Dimensies: 132 x 32.5 x 14 vt<br>Laadvermogen 275 last (550 ton)<br>Complement: 190<br>Kapitein: Hooft , Jan, Erasmus Reyning (1697)<br>Armament: 46</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>James C. Bender.,  Dutch Ships 1600-17 00.</em></li><li><em>Schependocumentatie NIMH.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

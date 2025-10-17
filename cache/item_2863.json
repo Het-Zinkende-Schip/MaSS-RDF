@@ -1,0 +1,27 @@
+{
+  "id": "2863",
+  "code": "parkhaven",
+  "name": "Parkhaven",
+  "type": "wreck",
+  "lat": "51.6612176",
+  "lon": "2.6095823",
+  "location": "lichtboei NHR, Nederland",
+  "firstdate": null,
+  "firstyear": "1908",
+  "firstyearend": null,
+  "lastdate": "1917-10-19",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-28 11:19:30",
+  "modified_on": "2025-06-15 11:34:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Parkhaven</strong></em> werd tijdens de WWI gevorderd door de Nederlandse Regering om 100.000 ton steenkool uit Engeland te halen. Op 19-10-1917 werd de Parkhaven door de Duitse onderzeeboot <em><strong>U 53</strong></em> getorpedeerd waarna de bemanning met behulp van 2 sloepen het schip verliet.</p> <p>Omdat de Parkhaven niet gelijk zonk lanceerde de Duitse onderzeeer een tweede torpedo waarna de Parkhaven zonk op 15 mijl van LS Noord-Hinder (lichtboei NHR). De bemanning werd opgepikt door de vislogger RO-27 en in Hoek van Holland afgezet.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Palmers' Shipbuilding &amp; Iron Co. Ltd., Newcastle <br>Eigenaar: Firma Gebr. van Uden,Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>312 voet (95,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>46 voet (14 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>20 &frac34; voet (6,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2635 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>wrecksite.eu.<br /><a href=\"https://www.wrecksite.eu/wreck.aspx?4902\">SS Parkhaven.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

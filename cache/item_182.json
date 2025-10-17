@@ -1,0 +1,27 @@
+{
+  "id": "182",
+  "code": "yamato",
+  "name": "Yamato",
+  "type": "wreck",
+  "lat": "30.7330000",
+  "lon": "130.4000000",
+  "location": "Okinawa, Japan",
+  "firstdate": null,
+  "firstyear": "1937",
+  "firstyearend": null,
+  "lastdate": "1943-12-17",
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": "Japan",
+  "countrycode": "JP",
+  "author": "Will Brouwers",
+  "created_on": "2010-06-29 00:00:00",
+  "modified_on": "2025-05-27 16:06:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Battleship, Yamato class, the largest battleship ever built. <br>Length: 263 metres <br>Beam : 36.9 metres<br>Draft : 11 metres <br>Propulsion : 12 kampon boilers, driving 4 steam turbines.<br>Displacing 72,800tonnes at full load.<br>Armed with nine 46cm (18.1inch) main guns. <br>Yamato's keel was laid down at the Kure naval Arsenal in Hiroshima in 1937.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

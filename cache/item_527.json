@@ -1,0 +1,27 @@
+{
+  "id": "527",
+  "code": "zwemmer",
+  "name": "Zwemmer",
+  "type": "wreck",
+  "lat": "6.8830000",
+  "lon": "79.8370000",
+  "location": "Colombo, Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1669",
+  "firstyearend": null,
+  "lastdate": "1680-01-05",
+  "lastyear": "1680",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2015-05-25 00:00:00",
+  "modified_on": "2025-08-04 16:07:33",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Zwemmer made one succesful voyage to the East Indies and back. On 5 January 1680, the ship ran ashore and was wrecked in Colombo. By then she was in the service of the Chamber of Amsterdam.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001302.jpg\" alt=\"Hoeker\"> <figcaption class=\"img-description\">The Zwemmer was a hoeker, This shiptype can be seen on the above image.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Built: Delftshaven, 1669<br>Chamber: Delft, later Amsterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>25</td></tr><tr><th scope=\"row\">Lengte</th><td>80 Amsterdamse&nbsp;voet (22,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>80 ton (40 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"https://www.vocsite.nl/schepen/detail.html?id=11260\">Gegevens VOC-schip Zwemmer.</a></li><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92379\">DAS 1296.2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

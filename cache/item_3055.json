@@ -1,0 +1,27 @@
+{
+  "id": "3055",
+  "code": "wocana",
+  "name": "Wocana",
+  "type": "wreck",
+  "lat": "52.9000000",
+  "lon": "2.2000000",
+  "location": "Noordzee, Smith's knoll, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1936",
+  "firstyearend": null,
+  "lastdate": "1940-04-21",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-02-11 11:18:25",
+  "modified_on": "2025-06-15 20:54:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het motor vrachtschip <em><strong>Wocana</strong></em> vertrok vanuit Vlissingen naar Goole (VK) in ballast. Op 22 april kwam de Wocana in aanvaring met het Britse fregat <em>HMS Pintail. De Wocana </em>zonk binnen vijf minuten 8 mijl ten oosten van Smith's Knoll gezonken.</p> <p>De vijf bemanningsleden konden zich in de sloep begeven. Later werden zij door het Britse schip overgenomen. De 'Wokana' was met een lading zand op weg van Vlissingen naar Engeland. Het vaartuig is volkomen verloren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. E.J. Smit &amp; Zoon's Scheepswerven (Scheepsbouw en Machinefabriek), Westerbroek<br>Eigenaar: W. Smid, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Tuil, F.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>5</td></tr><tr><th scope=\"row\">Lengte</th><td>121 &frac34; voet (37,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>21 &frac34; voet (6,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>199 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Wocana&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1940-1949%7C1940%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&amp;page=3&amp;sortfield=date&amp;col\">Nieuwe Vlaardingsche courant (24-04-1940).</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=7367\">marhisdata id 7367.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

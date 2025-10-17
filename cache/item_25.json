@@ -1,0 +1,27 @@
+{
+  "id": "25",
+  "code": "nydam-oak-ship",
+  "name": "Nydam boat",
+  "type": "wreck",
+  "lat": "54.9598473",
+  "lon": "9.7277927",
+  "location": "Nydam, Denemarken",
+  "firstdate": null,
+  "firstyear": "300",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "350",
+  "lastyearend": null,
+  "country": "Denemarken",
+  "countrycode": "DK",
+  "author": "Will Brouwers",
+  "created_on": "2010-04-06 00:00:00",
+  "modified_on": "2025-06-18 22:12:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Nydam boot is samen met twee andere schepen gevonden in een moeras in het huidige Denemarken. De schepen zijn oorlogsbuit, samen met grote hoeveelheden wapens en ander oorlogsmateriaal. Het schip was opzettelijk in het zoetwatermeer gezonken nadat het slechts een korte afstand over land was getrokken. Het schip is onlangs via dendrochronologie gedateerd op 310-320 na Chr. en de afzetting zal waarschijnlijk 340-350 na Chr. hebben plaatsgevonden.</p> <p>Door het uitbreken van de oorlog tussen Denemarken en Pruisen in 1864 moesten de opgravingen worden geannuleerd en ging het hout van het Pine schip verloren in de beroering. Met het sluiten van de vrede moest Denemarken afstand doen van de Nydam vondst en werd het Nydam Oak Ship in 1877 van de voormalige Deense stad Flensborg naar Kiel verplaatst. In 1941 werd het schip weer verplaatst en bracht de rest van de Tweede Wereldoorlog door op een schuit op een meer, en werd uiteindelijk verplaatst naar het Arch&auml;ologisches Landesmuseum in Sleeswijck, waar het nog steeds te bezichtigen is.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000073.jpg\" alt=\"foto van zes mannen die op een houten constructie van een schip staan\"> <figcaption class=\"img-description\">(bron: Navis project).</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De Nydam boot is het oudste bekende roeischip uit Noord-Europa en kan worden beschouwd als een voorloper van het Vikingtype longship.</p> <p>Het is een overnaads gebouwd roeibootje van eikenhout, gebouwd op een brede kielplank en bestaat uit vijf planken. De kielplank en de planken hebben uitgesneden klampen voor de bevestiging van de spanten op de kielplank en de eerste vier gangen; twee voor elk frame en slechts &eacute;&eacute;n stevige klamp op de vijfde die tegelijkertijd de bovenkant van het frame en de dwarsligger herbergt. De kielplank is gemaakt uit &eacute;&eacute;n stuk eikenhout van 14,3 m lang en 57 cm breed te midden van schepen die taps toelopen tot ongeveer 20 cm aan de uiteinden.</p> <p>Het aantal roeispanen is met enige zekerheid vastgesteld op 15 paren, waarvan er misschien een was toegevoegd tijdens de levensduur van het schip.</p> <ul> <li>Lengte 22,84 m</li> <li>Breedte 3,26 m</li> </ul> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000072.jpg\" alt=\"Nydam. Magnus Petersens impression of the reconstructed ship.\"> <figcaption class=\"img-description\">Nydam. Magnus Petersen&rsquo;s impressie van het gereconstrueerde schip.</figcaption> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

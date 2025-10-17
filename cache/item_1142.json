@@ -1,0 +1,27 @@
+{
+  "id": "1142",
+  "code": "mentor-1774",
+  "name": "Mentor",
+  "type": "wreck",
+  "lat": "-34.9019363",
+  "lon": "20.0369719",
+  "location": "Agulhas, off cape, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1774",
+  "firstyearend": null,
+  "lastdate": "1780-01-05",
+  "lastyear": "1780",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-18 15:23:43",
+  "modified_on": "2025-07-02 10:33:05",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Mentor</em> (fregat) strandde tijdens een storm voor de kust van de Zuidkaap. De overlevenden werden op 9 januari gevonden door het Franse schip Salomon, vastgeklampt aan een stuk wrakhout. De twee overlevenden Jan Holm van Kopenhagen en Barend van den Vossen van Dordrecht deden hun relaas op 20 januari aan de Kaap. (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/131/file/NL-HaNA_1.11.06.18_131_0010?eadID=1.11.06.18&amp;unitID=131&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 20-1-1780</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1774<br>Tonnage: 575<br>Schipper: Johan de Korte</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Johan de Korte</td></tr><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1150 ton (575 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0121?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 118.</a></li><li> La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives.</a><br />SARHA.</li><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/98865\">DAS 8045.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/131/file/NL-HaNA_1.11.06.18_131_0010?eadID=1.11.06.18&amp;unitID=131&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister 20-1-1780.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

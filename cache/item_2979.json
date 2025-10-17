@@ -1,0 +1,27 @@
+{
+  "id": "2979",
+  "code": "sieka",
+  "name": "Sieka",
+  "type": "wreck",
+  "lat": "57.0266903",
+  "lon": "4.9172629",
+  "location": "Noordzee, Skagerrak",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1916-12-18",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-15 13:22:00",
+  "modified_on": "2022-08-15 13:27:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Sieka</strong></em> vertrok 13.12.1916 met pitprops (mijnhout) van Cristiania naar West Hartlepool. Op 18 december in de Noordzee door de Duits U-boot U 71 tot zinken gebracht. De bemanning werd door de U-boot meegenomen en op 23.12.1916 te Wilhelmshaven aan land gebracht. Daarna reisde men per spoor terug naar Groningen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar H. Mulder</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Schothorst, H</td></tr><tr><th scope=\"row\">Tonnage</th><td>119 ton (60 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5873\">marhisdata ID 5873.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

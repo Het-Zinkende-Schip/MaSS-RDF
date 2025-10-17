@@ -1,0 +1,27 @@
+{
+  "id": "2266",
+  "code": "saba",
+  "name": "Saba",
+  "type": "wreck",
+  "lat": "50.8917739",
+  "lon": "1.0614014",
+  "location": "Dungeness, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1939",
+  "firstyearend": null,
+  "lastdate": "1940-03-15",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-23 14:02:57",
+  "modified_on": "2025-06-11 19:53:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Met een lading ijzererts van Caen vertrokken met bestemming IJmuiden en daarna vermist. 7 bemanningsleden kwamen hierbij om het leven. Op 29 maart is er een reddingsboei gevonden door de bemanning van het bewakingsvaartuig No. 30. Vermoedelijk op 17 maart op een Duitse mijn gelopen, gelegd door de hulp-mijnenlegger SCHIFF 11 bij ingang Straat Dover, nabij Dungeness.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p><br>Bemanning :<br>Willem Aarnout Acda. Kapitein<br>R. Kuyper. Stuurman<br>D. Broekhuyzen. 1e Machinist<br>H. v.d. Zee. 2e Machinist<br>F. v.d. Starre. Matroos<br>Harm Kuiper. Matroos<br>H. Borg. Kok</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Acda, Willem Aarnout</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>7</td></tr><tr><th scope=\"row\">Tonnage</th><td>396 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;identifier=ddd:010474608:mpeg21:a0101\">Krant 29-3-1940.</a><br />Het volksdagblad : dagblad voor Nederland.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

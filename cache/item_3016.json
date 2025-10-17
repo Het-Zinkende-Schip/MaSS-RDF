@@ -1,0 +1,27 @@
+{
+  "id": "3016",
+  "code": "westpolder",
+  "name": "Westpolder",
+  "type": "wreck",
+  "lat": "52.1100000",
+  "lon": "3.2000000",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1917",
+  "firstyearend": null,
+  "lastdate": "1918-01-14",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-10-10 14:02:29",
+  "modified_on": "2025-06-15 17:07:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>&nbsp;<br>De WESTPOLDER werd om 22.30 uur op 14 januari 1918 aan bakboord vooruit getroffen door een hevige explosie. Het schip begon snel te zinken. Van de 18 opvarenden wisten zich 12 man te redden; vijf man werden vermist en &eacute;&eacute;n overleed kort nadat hij in de scheepssloep was opgenomen.</p> <p>De Westerpolder was in ballast op reis van Rotterdam naar Methil (UK) om daar steenkolen voor de Nederlandse regering te laden. Het schip is vermoedelijk door een Duitse onderzeeboot getorpedeerd of op een mijn gelopen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Algemeene Nederlandsche Scheepvaart Maatschappij N.V., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Witte, J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>18</td></tr><tr><th scope=\"row\">Lengte</th><td>180 voet (54,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 &frac14; voet (8,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>12 &frac14; voet (3,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>749 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=7264\">marhisdata id 7264.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

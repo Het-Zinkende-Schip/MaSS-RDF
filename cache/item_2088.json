@@ -1,0 +1,27 @@
+{
+  "id": "2088",
+  "code": "zf24",
+  "name": "ZF24",
+  "type": "wreck",
+  "lat": "52.3326600",
+  "lon": "5.2410700",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1550",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:48:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het wrak is gemeld tijdens de aanleg van het wegennet aan de rand van de wijk Meenten in Almere-Haven op kavel F24 in Zuidelijk Flevoland. Het is onbekend wanneer de melding is gedaan en wanneer de eerste verkenning heeft plaatsgevonden. De herverkenning is in 1995 uitgevoerd door het toenmalige Centrum voor Scheepsarcheologie. Het betreft een zeer compleet en in goede staat verkerend karveel gebouwd scheepswrak. De grootst gemeten lengte van het wrak is 18 meter. Omdat het wrak onder de weg doorloopt, was het tijdens de herverkenning niet mogelijk om de oorspronkelijke lengte van het wrak te bepalen. De achtersteven is compleet aangetroffen. Een deel van het voorschip en vermoedelijk de voorsteven liggen onder het wegdek. Het scheepswrak is volledig vervaardigd uit eikenhout en verkeerde tijdens de herverkenning in zeer goede staat, mede doordat men het wrak na het eerste onderzoek goed heeft toegedekt met een laag grond. Over het wrak is een schelpenbandje aanwezig dat afkomstig is uit 1600. Hieruit kan worden afgeleid dat het schip voor deze schelpenafzetting is afgezonken. Interessante vondsten die in het vaartuig zijn aangetroffen zijn een aantal turfjes en een geglazuurde schaal. Op basis van het grondprofiel en de schaal is het wrak in de eerste helft van de zestiende eeuw gedateerd. Na de verkenning is het scheepswrak opnieuw toegedekt met een laag grond.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een zeer compleet vrachtschip uit de eerste helft van de zestiende eeuw, Almere</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002025.jpg\" alt=\"Fotokaart van een opgegraven houten bakboord\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Bovenaanzicht van het bakboord aan de binnenzijde van het scheepswrak. De huid, spanten en de wegering zijn duidelijk zichtbaar.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002026.jpg\" alt=\"Fotokaart van een opgegraven voorschip\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Detail van de stuurboordzijde van het voorschip. Op deze foto is het berghout duidelijk te zien.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002027.jpg\" alt=\"Fotokaart van een afgezet deel in een graslandschap\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Overzicht van het verkennend onderzoek in 1995.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x3y-gp2r\">Opgravingsdocumentatie scheepswrak ZF24.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

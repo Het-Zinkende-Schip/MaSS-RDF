@@ -1,0 +1,27 @@
+{
+  "id": "1237",
+  "code": "theodora",
+  "name": "Theodora",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indian Ocean",
+  "firstdate": null,
+  "firstyear": "1720",
+  "firstyearend": null,
+  "lastdate": "1726-01-01",
+  "lastyear": "1726",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-21 16:07:51",
+  "modified_on": "2025-02-20 16:14:20",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Theodora</strong></em> vertrok op 20 november 1725 uit Batavia naar Nederland als onderdeel van de retourvloot.</p> <p>De retourvloot bestond uit de schepen Agatha, Amsterdam, Blijdorp, Mijnden, Oostrust, Patmos, Theodora, d' Uno, Valkenisse, Voorburg en Zoetelingskerke. En vertrok 2 -12 uit de straat Sunda voor de eerste etappe naar de Kaap.</p> <p><strong>Storm</strong><br>De vloot kwam op 1 januari 1726 <em>in zwaar weder en storm op de hoogte van't eiland Madagaskar. </em>Op 27-1-1726 kwamen de schepen van het eerste smaldeel van de retourvloot min of meer heelhuids bij de Kaap aan.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/76/file/NL-HaNA_1.11.06.18_76_0025?eadID=1.11.06.18&amp;unitID=76&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">&sup1;</a></p> <p>Drie schepen waren er niet bij. De Agatha, Theodora en de Voorburg zijn tijdens de storm vermist en vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Tonnage: 300 last (600 ton)<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93613\">DAS 2575.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/76/file/NL-HaNA_1.11.06.18_76_0025?eadID=1.11.06.18&amp;unitID=76&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 27-1-1726.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1064",
+  "code": "kasteel-batavia",
+  "name": "Kasteel Batavia",
+  "type": "wreck",
+  "lat": "21.7233720",
+  "lon": "87.7629660",
+  "location": "Ganges Delta, India",
+  "firstdate": null,
+  "firstyear": "1684",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1719",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-16 13:27:48",
+  "modified_on": "2024-09-23 10:10:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het jacht <em>Kasteel Batavia</em> is in de monding van de Ganges verongelukt. Op 9 december 1719 bracht de <em>Den Dam</em> deze tijding uit Bengalen in Batavia.</p> <p><em>Den Dam uyt Bengale sonder brieven dog met mondelinge tijding dat het schip Casteel Batavia voor de mondt van de Ganges was verongelukt</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Op een werf in Suratte, 1684<br><br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>ANRI.<br /><a href=\"https://sejarah-nusantara.anri.go.id/pagebrowser/icaatom-dasa-anri-go-id_339-ead-xml-1-2549/#source=1&amp;page=191&amp;accessor=thumbnails&amp;view=imagePane&amp;size=1568\">Marginalia to the Daily Journals of Batavia Castle (1659-1799).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

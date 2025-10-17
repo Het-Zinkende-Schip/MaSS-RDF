@@ -1,0 +1,27 @@
+{
+  "id": "2717",
+  "code": "polyphemus",
+  "name": "Polyphemus",
+  "type": "wreck",
+  "lat": "38.4587515",
+  "lon": "-64.5556641",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1942-05-26",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-11-29 17:06:32",
+  "modified_on": "2025-06-14 20:49:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het s.s. Polyphemus verliet Sydney op 16 April 1942 met bestemming Liverpool in Engeland via het Panama kanaal. Op 25 mei werd een reddingboot aangetroffen met 14 opvarenden van het Noorse schip <em><strong>Norland</strong></em>, die aan boord werden genomen. Twee dagen later werd de Polyphemus zelf aangevallen door de Duitse onderzee&euml;r U 578. Twee torpedo's troffen doel. Bij die explosie kwamen 15 Chinese bemanningsleden om die in hun kwartieren werden gedood.</p> <p>De rest van de opvarenden konden het schip veilig verlaten. Ongeveer 20 minuten na de explosie zonk de Polyphemus. De reddingboten probeerden bij elkaar te blijven maar raakten gescheiden. Uiteindelijk werden alle opvarenden in de reddingsboten opgepikt en veilig aan land gezet.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Scott&acute;s Shipbuilding &amp; Engineering Co Ltd, Greenock&nbsp;<br>Eigenaar: N.V. Nederlandsche Stoomvaart Maatschappij Oceaan</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Koningstein, C.</td></tr><tr><th scope=\"row\">Snelheid</th><td>14 knopen ~ 26 km/u (16 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>429 &frac34; voet (131 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>55 &frac34; voet (17 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>26 &frac14; voet (8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>6270 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=5218\">POLYPHEMUS - ID 5218.</a></li><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 184.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

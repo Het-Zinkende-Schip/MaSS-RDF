@@ -1,0 +1,27 @@
+{
+  "id": "2355",
+  "code": "eendracht-1769",
+  "name": "Eendracht",
+  "type": "wreck",
+  "lat": "53.1973130",
+  "lon": "4.8271179",
+  "location": "Vlie, Nederland",
+  "firstdate": null,
+  "firstyear": "1769",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1782",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-30 11:40:40",
+  "modified_on": "2025-06-12 12:06:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In het Vlie vergaan.<br>Fregat van 44 stukken naar 20 stukken terug gebracht (geraseerd).</p> <p>Doet o.a. dienst in de Middellandse zee (1777). <br><br>Verovert een Engelse koopvaarder in West Indi&euml; (1781).<br>Juni 1781 terug in Nederland.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type Fregat</p> <p>Gebouwd: 's lands werf te Harlingen, 1769</p> <p>In dienst 9-7-1771</p> <p>Commandant: <br>J. van Goor Hindelopen (1772-1775) <br>F.R.C. van Rechteren (1775 - 15-8-1776)<br>J.C. Idsinga (1779 juni 1781)<br>A. de Rook (1781-82)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Rook, A de.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>150</td></tr><tr><th scope=\"row\">Lengte</th><td>120 voet (36,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>33 &frac14; voet (10,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=1430\">Dutch Sixth Rate frigate 'Eendracht' (1769).</a></li><li>De Jong, J.C.<br /><em>Geschiedenis van het  Nederlandsche Zeewezen IV, 377, 455.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

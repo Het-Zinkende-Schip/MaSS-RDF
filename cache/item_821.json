@@ -1,0 +1,27 @@
+{
+  "id": "821",
+  "code": "willem-van-ewijck-hrms",
+  "name": "Hr.Ms. Willem van Ewijck",
+  "type": "wreck",
+  "lat": "53.4038012",
+  "lon": "5.1955719",
+  "location": "Terschelling, Nederland",
+  "firstdate": null,
+  "firstyear": "1937",
+  "firstyearend": null,
+  "lastdate": "1939-09-08",
+  "lastyear": "1939",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-09-16 10:13:37",
+  "modified_on": "2025-03-11 11:12:57",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 8 september 1939 was de <em>Willem van Ewijck</em> samen met de mijnenvegers Jan van Gelder, Abraham van der Hulst, Pieter Florisz. en de mijnenlegger Nautilus bezig met het leggen van mijnenvelden rond de zeegaten van de Waddeneilanden. Voor de juiste ligging van zo'n veld moest in verband met de stroom hier en daar een mijn worden opgeruimd.</p> <p>Bij het vegen van zo'n mijn, wat gedaan werd met behulp van een mitrailleur, dreef de Willem van Ewijck door een sterke stroom over een andere mijn. Het schip werd midscheeps getroffen, brak in twee&euml;n en zonk. Bij het ongeluk kwamen 29 man om. Er stierven nog 3 man aan hun zware verwondingen ..</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: mijnenveger, Jan van Amstel class <br>Gebouwd: scheepswerf P. Smit, Rotterdam. 1937<br>Afmetingen: 56 x 7,8 x 2 m<br>Tonnage: 525 verp (boven)<br>Propulsion: 2 &times; Stork triple expansion engines, 2 &times; Yarrow 3-drum boilers,dual shaft, 2 screws<br>vermogen: 1600 pk<br>Snelheid: 15 knopen</p> <p>Bewapening: 1 x 3 inch kanon, 4 x 0,50 inch luchtafweergeschut (2x2) 40 zeemijnen.</p> <p>Complement: 51<br>Commandant: Ten Klooster</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.oorlogsslachtofferszeeland.nl/index.php?option=com_bmzviewer&amp;view=bmzviewer&amp;id=50&amp;lang=nl&amp;RecordID=75\">databank oorlogsslachtoffers zeeland.</a></li><li>delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=%28Willem+van+Ewijck%29&amp;cql%5B%5D=%28date+_gte_+%2207-09-1939%22%29&amp;cql%5B%5D=%28date+_lte_+%2220-09-1939%22%29&amp;redirect=true&amp;sortfield=date&amp;identifier=MMKB04:000194053:mpeg21:a0004&amp;resultsidentif\">De Maasbode 09-09-1939.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

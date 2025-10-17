@@ -1,0 +1,27 @@
+{
+  "id": "944",
+  "code": "brug-1718",
+  "name": "Brug",
+  "type": "wreck",
+  "lat": "21.8878545",
+  "lon": "88.0348850",
+  "location": "Ganges river, India",
+  "firstdate": null,
+  "firstyear": "1708",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1718",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-23 14:05:07",
+  "modified_on": "2025-06-30 17:52:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Brug is vastgelopen en vergaan op een zandplaat in de monding van de Houghly rivier. Op de kaart 4.VELH_119A van de monding van de Ganges/ Houghly rivier staan de Brug en Kasteel van Batavia vermeld.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003356.png\" alt=\"De afbeelding toont een historische kaart met vier gemarkeerde locaties en hun respectievelijke jaartallen\"> <div class=\"img-source\">NA 4.VEL 119A</div> </figure> <p>De monding</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: op de VOC-werf in Enkhuizen, 1708</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pieter de Boer</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>150</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93338\">Details of voyage 2290.4 from Texel to Batavia.</a></li><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=400&amp;accessor=search_in_text&amp;source=7&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id\">Generale missiven, Deel 7, 387.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/4.VELH/invnr/119A/file/NL-HaNA_4.VELH_119A?query=119A&amp;start=0&amp;search-type=item_code\">NL-HaNA_4.VELH_119A.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

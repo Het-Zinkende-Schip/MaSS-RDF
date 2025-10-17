@@ -1,0 +1,27 @@
+{
+  "id": "4030",
+  "code": "oe46",
+  "name": "OE46",
+  "type": "wreck",
+  "lat": "52.4261200",
+  "lon": "5.5273020",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1851",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:43:57",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1967 werd melding gedaan van een scheepswrak op kavel E46, nabij het huidige Lelystad. Het schip, met een afmeting van 17,5 bij 4,5 meter, bleek geladen met rode bakstenen. Na een verkenning datzelfde jaar is het wrak toegedekt, waarna het in april 1973 werd opgegraven. Vanwege de hoge ligging van het wrak en de verstoring van het bodemprofiel ter plaatse, gebeurde dat niet volgens de destijds gebruikelijke kwadrantenmethode. Voor de documentatie van het wrak werden onder meer fotogrammetrische opnamen gemaakt met behulp van een legerhelicopter vanuit Soesterberg. Op basis van de verstoring die het wrak in de grond teweeg bracht werd een mogelijke ondergang in het derde kwart van de 19de eeuw vermoed. Van de bovenbouw van het schip was weinig bewaard gebleven en de voorsteven ontbrak, maar de opgraving wees verder uit dat het ging om een vrachtscheepje met een lengte-breedte-verhouding van 1 op 4, dat waarschijnlijk voer op de rivieren of binnenwateren.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z6j-6zfb\">Opgravingsdocumentatie scheepswrak OE46.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

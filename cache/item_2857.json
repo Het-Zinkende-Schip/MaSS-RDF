@@ -1,0 +1,27 @@
+{
+  "id": "2857",
+  "code": "westland-1906",
+  "name": "Westland",
+  "type": "wreck",
+  "lat": "53.3691279",
+  "lon": "1.6651605",
+  "location": "Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1906",
+  "firstyearend": null,
+  "lastdate": "1917-05-25",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-27 13:54:53",
+  "modified_on": "2025-06-15 11:54:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis met een lading steenkolen van Methil naar Rouen is de <em><strong>Westland</strong></em> op 6 mijl ten zuiden van het lichtschip Cromer op een mijn gelopen. De Westland zonk om 03.00 uur in de vroege ochtend van 25 mei 1917.</p> <p>Alle 18 opvarenden konden aan land komen, ofschoon &eacute;&eacute;n man zwaargewond en vijf man lichtgewond waren. De mijn was op 19 mei 1917 gelegd door de Duitse onderzeeboot UC 4.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Werf v/h Rijkee &amp; Co., Rotterdam/Katendrecht<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>16</td></tr><tr><th scope=\"row\">Lengte</th><td>231 voet (70,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 voet (10,4 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>15 voet (4,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1283 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=7255\">marhisdata.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22SS+Westland%22&amp;coll=ddd&amp;sortfield=datedesc&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;identifier=ddd:010882891:mpeg21:a0005&amp;resultsidentifier=ddd:010882891:mpeg21:a0005&amp;rowid=4\">Nieuwsblad van het Noorden  02-06-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3119",
+  "code": "groningen-3",
+  "name": "Groningen",
+  "type": "wreck",
+  "lat": "54.3240204",
+  "lon": "7.0423439",
+  "location": "Noordzee Doggersbank",
+  "firstdate": null,
+  "firstyear": "1692",
+  "firstyearend": null,
+  "lastdate": "1706-10-02",
+  "lastyear": "1706",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-08-07 11:16:51",
+  "modified_on": "2024-11-01 11:59:35",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Groningen</strong></em> was onderdeel van een eskader van zes schepen die in het najaar van 1706 ca. 70 koopvaarders veilig vanuit de Sont naar Nederland moest begeleiden.<br>Op 2 oktober 1706 werden ze door een Frans eskader (escadre du Nord, 5 schepen) aangevallen op de Noordzee bij Doggersbank. De Fransen o.l.v. Claude de Forbin veroverden drie schepen en de Groningen werd tot zinken gebracht.</p> <p>Nederland eskader</p> <table>  <tr> <td colspan=\"2\">&nbsp;</td> <td>&nbsp;</td> <td>&nbsp;</td> </tr> <tr> <td>Hardenbroek</td> <td>50</td> <td>Jan de Meyer</td> <td>&nbsp;veroverd</td> </tr> <tr> <td>Edam</td> <td>44</td> <td>Hendrik Ravens</td> <td>&nbsp;</td> </tr> <tr> <td>Kampen&nbsp;</td> <td>44</td> <td>Martin Corlee</td> <td>&nbsp;</td> </tr> <tr> <td>Groningen&nbsp;</td> <td>44</td> <td> <p>Adriaen Gouwenaar</p> </td> <td>in brand</td> </tr> <tr> <td><a href=\"https://mass.cultureelerfgoed.nl/raaf-1696\">Raaf</a> (adm)</td> <td>44</td> <td> <p>Adriaan Braak</p> </td> <td>ontploft</td> </tr> <tr> <td>Grijpskerk</td> <td>40</td> <td> <p>Thys de Widt</p> </td> <td>&nbsp;</td> </tr>  </table> <p><br>Frans Eskader</p> <table>  <tr> <td>Le Mars</td> <td>54</td> <td>Claude de Forbin</td> <td>&nbsp;</td> </tr> <tr> <td>Le Sorlingues</td> <td>32</td> <td>Nicolas Fran&ccedil;ois d'Hennequin&nbsp;</td> <td>&nbsp;</td> </tr> <tr> <td>Le Blakoual&nbsp;</td> <td>52</td> <td>Jean Alexandre de Tourouvre</td> <td>&nbsp;</td> </tr> <tr> <td>Le Salisbury</td> <td>50</td> <td>Kerlo de l' Isle</td> <td>&nbsp;</td> </tr> <tr> <td>La Dryade&nbsp;</td> <td>46</td> <td>Joris van Crombrugghe</td> <td>&nbsp;</td> </tr>  </table></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gouwenaar, A.</td></tr><tr><th scope=\"row\">Lengte</th><td>125 voet (38,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 voet (10,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>NIMH scheepsdocumentatie nr 1063.</em></li><li>De Jonge, J.C.  (1860).<br /><em>Geschiedenis van Het Nederlandsche Zeewezen, III, 717.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

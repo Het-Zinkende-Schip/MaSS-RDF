@@ -1,0 +1,27 @@
+{
+  "id": "3001",
+  "code": "oostzee",
+  "name": "Oostzee",
+  "type": "wreck",
+  "lat": "51.8501177",
+  "lon": "3.0297440",
+  "location": "Schouwenbank, ten westen van, Nederland",
+  "firstdate": null,
+  "firstyear": "1903",
+  "firstyearend": null,
+  "lastdate": "1917-07-24",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-18 14:22:59",
+  "modified_on": "2025-07-18 16:57:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De stoom sleepboot Oostzee was op weg van Rotterdam naar Londen met de drijvende kraan Montevideo 488, door de Duitse onderzeeer 'UB 18' tot zinken gebracht met explopsieven. De Montevideo 488 zonk ook. De bemanning werd gered door de SCH 126.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003339.jpg\" alt=\"tekst: -De Dinsdag met den bok Monte-video 488&quot; van Rotterdam naar Londen vertrokken sleepboot &quot;Oostzee&quot; is dien middag 4 u. 30 door een Duitsche duik-boot met bommen tot zinken gebracht, 30 mijlen Noordwest van den Water-weg. De bemanningen van sleepboot en bok werden, nadat ze 12 uur in de booten hadden doorgebracht, door den logger SCH 126 opgepikt en later voor den Waterweg door de sleepboot &bdquo;Ro-zenburg overgenomen, die de schipbreu-kelingen naar Maassluis bracht.\"> <div class=\"img-source\">Nieuwe Vlaardingsche courant (26-7-1917)</div> </figure> <ul> <li>De locatie weergegeven op Uboat,.net (U 18) wijkt af van de Nederlandse bronnen. (o.a. M&uuml;nching, L.L. 44)</li> </ul></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: stoom zeesleepboot<br>Gebouwd: Schpw. v. Jan Smit, Czn., Alblasserdam&nbsp;<br>Eigenaar: L. Smit &amp; Co.'s Sleepdienst, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>113 &frac34; voet (34,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>199 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=8474\">marhisdata id 8474.</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/4564.html\">Uboat.net.</a></li><li>Münching, L.L. (1981).<br /><em>De verliezen van de Nederlandse koopvaardij in de Eerste Wereldoorlog 1914-1918 p.44.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

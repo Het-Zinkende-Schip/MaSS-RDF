@@ -1,0 +1,27 @@
+{
+  "id": "2501",
+  "code": "hendrika-1899",
+  "name": "Hendricka",
+  "type": "wreck",
+  "lat": "54.4327780",
+  "lon": "8.4713890",
+  "location": "Süderoogsand, Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1899-09-27",
+  "lastyear": "1899",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-09 17:34:55",
+  "modified_on": "2025-06-14 15:54:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>On 27. September 1899, the steam-tug Hendricka from Emden ran aground on S&uuml;deroogsand. The crew of 6 men was reportedly evacuated to the save-room in the S&uuml;deroogsand beacon.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wrecksite was hitherto situated close to an edge subject to coastal erosion and in 2007 no longer visible at low tide. Thus, the wrecksite appears to have been reclaimed by the sea.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

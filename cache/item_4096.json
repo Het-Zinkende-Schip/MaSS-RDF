@@ -1,0 +1,27 @@
+{
+  "id": "4096",
+  "code": "on42",
+  "name": "ON42",
+  "type": "wreck",
+  "lat": "52.5665810",
+  "lon": "5.7962210",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1850",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 15:42:38",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Het wrak op kavel N42 in Oostelijk Flevoland werd in 1957 verkend. Het wrak was geladen met basalt, vermoedelijk oude straatkeien met vlakke kanten. De stenen zijn op verzoek (maritiem) archeoloog Gerrit (G.D.) van der Heide verwijderd zodat het onderliggende wrak bekeken kon worden. De geborgen stenen wilde men hergebruiken als vloer voor de Romney-hut op kavel N41. De vervolgens vrij liggende delen die van het wrak resteerden bleken echter zwaar beschadigd te zijn en konden daarom volgens Van der Heide ook worden verwijderd. Wel werd een aantal voorwerpen uit het wrak geborgen, waarvan thans enkel een jonge steengoed kruik en een slijpsteen in het Nationaal Scheepsarcheologisch Depot te Lelystad bewaard zijn gebleven. Alles bezien werd de ondergang van de schip in de tweede helft van de 19de eeuw geplaatst.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2a6-xbwg\">Opgravingsdocumentatie scheepswrak ON42.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4093",
+  "code": "nn14-nn15",
+  "name": "NN14/NN15",
+  "type": "wreck",
+  "lat": "52.7420490",
+  "lon": "5.8492110",
+  "location": "Luttelgeest, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1800",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:19:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Aangetroffen op de grens van kavels N14 en N15 in de Noordoostpolder, waarna het werd opgegraven en verwijderd in 1944. Het betrof een vrijwel onbeschadigd binnenvaartuig, 15 meter lang, 65 centimeter diep, zonder zeeg, met platte bodem en rechtopstaande wanden. Om een van de stevens zat een ketting, waarmee het schip gesleept werd. De lading was vermoedelijk turf. De conclusies zoals gerapporteerd door (maritiem) archeoloog Pieter (P.J.R.) Modderman luidden als volgt:</p> <p>\"Het zeventiende tot achttiende-eeuwse wrak is de rest van een platboomd vaartuig, dat gevaren heeft in de Zuiderzee, echter zonder mast of tuigage en dus in zekeren zin de vorm had van een bak, die geboomd moest worden. Het schip zal vermoedelijk voor transport gediend hebben, mogelijk voor het transporteren van turf, daar turfresten in het schip werden gevonden. Het scheepje was licht gebouwd en had oorspronkelijk geen bewegering. Het is nagezonken door de jongere afzettingen tot op en gedeeltelijk zelfs iets in het Diluviale zand. Hoewel geen sporen gevonden zijn, die zouden kunnen wijzen op de aanwezigheid eertijds van een roefje, acht ik dit laatste niet onmogelijk.\"</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-24b-4v29\">Opgravingsdocumentatie scheepswrak NN14/NN15.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3111",
+  "code": "alpherat",
+  "name": "Alpherat",
+  "type": "wreck",
+  "lat": "35.2000000",
+  "lon": "14.4000000",
+  "location": "Middellandse Zee t.z.o. van Malta",
+  "firstdate": null,
+  "firstyear": "1928",
+  "firstyearend": null,
+  "lastdate": "1943-12-21",
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-07-24 17:21:48",
+  "modified_on": "2025-08-20 10:17:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het s.s. <em><strong>Alpherat</strong></em>, vertrok 17 november 1943 van Durban (SA) naar het Verenigd Koninkrijk via het Suez Kanaal.</p> <p>Op 21 December was het konvooi in de Middellandse Zee. Toen ze werden aangevallen door vliegtuigen (16.50) Verschillende schepen openden het vuur op de vliegtuigen. Ook de Alpherat opende het vuur.</p> <p>Om 16.55 uur werd het schip door een bom getroffen. Een ontploffing in ruim II. De waterdichte deuren werden gesloten. Ruim I en II maakten snel water. Er werd gepompt maar het water bleef stijgen.&nbsp;<br><br>De Alpherat bleef haar positie in het konvooi behouden tot het donker werd. Om 17.25 uur werd vaart verminderd en besloten in de reddingboten het schip te verlaten. Er waren 23 passagiers, aan boord.<br>Om 17.30 uur waren alle passagiers en de gehele bemanning op veilige afstand van het schip. Om 19.10 uur brak het schip middendoor en zonk. Alle opvarenden overleefden de ramp.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>423 &frac12; voet (129,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>52 &frac14; voet (15,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>29 &frac12; voet (9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>5659 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip?id=294\">marhisdata id 294.</a></li><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd ,nr. 287.</em><br />Amsterdam, J.F. Duwaer en zonen.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3146",
+  "code": "batak",
+  "name": "Batak",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1932",
+  "firstyearend": null,
+  "lastdate": "1943-09-15",
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-10-26 10:14:42",
+  "modified_on": "2025-06-15 16:48:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Batak</strong></em> was een coaster in dienst van de KPM tot het uitbreken van de Tweede wereldoorlog. Ze werd gevorderd en ingezet door de Koninklijke Marine voor de bewaking van Soerabaja.</p> <p>Op 2 maart 1942 lag de Batak in een drijvend dok te Surabaja. Ze werd daar getroffen tijdens een Japans bombardement. Het schip kapseisde en zonk. Door de bemanning verder vernield om inbeslagname te voorkomen.</p> <p>Op 7 februari 1943 werd het wrak door de Japanners gelicht, gerepareerd en weer in de vaart gebracht als '<em>Batak Go</em>'. <br>In 1943 onder Japanse vlag verloren gegaan ten gevolge van een geallieerde aanval.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Droogdok Maatschappij 'Soerabaja</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>152 &frac12; voet (46,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>27 &frac14; voet (8,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>409 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=828\">marhisdata id 828.</a></li><li><a href=\"https://onzemarinevloot.weebly.com/bewakings-en-onderzoekingsdienst.html\">Onze marine vloot.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

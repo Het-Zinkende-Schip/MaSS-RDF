@@ -1,0 +1,27 @@
+{
+  "id": "1448",
+  "code": "oss-kano-van",
+  "name": "Oss, kano van",
+  "type": "wreck",
+  "lat": "51.7893893",
+  "lon": "5.5303516",
+  "location": "Oss, Nederland",
+  "firstdate": null,
+  "firstyear": "-100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "400",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-24 15:20:04",
+  "modified_on": "2025-07-03 09:58:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Boomstamboot gevonden bij zand en grindwinning in verlande Maasarm.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001860.jpg\" alt=\"Restanten van een oomstamboot, vooral houten planken.\"> <div class=\"img-source\">RCE beeldbank</div> <figcaption class=\"img-description\">.</figcaption> </figure> <p>Boomstamkano in Osse Meer</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De boomstamboot was gemaakt van eikenhout.</p> <p>De lengte wordt geschat op ca. 7 m.</p> <p>Delen van bodem en kim bewaard. De voor en achterplecht ontbreken. Delen aan elkaar bevestigd met houten pennen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Resten zouden bewaard zijn in Oss museum depot.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Heide, G.D. van de (1974).<br /><em>Scheepsarcheologie.</em><br />Strengholt.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

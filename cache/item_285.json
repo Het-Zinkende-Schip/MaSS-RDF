@@ -1,0 +1,27 @@
+{
+  "id": "285",
+  "code": "site-a",
+  "name": "Site A",
+  "type": "wreck",
+  "lat": "6.0349978",
+  "lon": "80.2236448",
+  "location": "Galle Harbour, Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1800",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": null,
+  "country": "Sri Lanka",
+  "countrycode": "LK",
+  "author": "Rasika Muthucumarana",
+  "created_on": "2011-09-09 00:00:00",
+  "modified_on": "2024-08-09 09:21:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Site A&nbsp;is a large iron wreck situated in north central part of the Galle harbour close to the existing channel. It lies in a NE-SW direction (bearing 3200 N) 100 meters from the shore (Galle-Matara Road).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000545.jpg\" alt=\"Site A (SL/S/GH/M/A)\"><figcaption class=\"img-description\">Site map of the wreck.</figcaption></figure> <p>It was discovered during the 1992-1993 season of the Galle harbour project. (Green, J., Devendra, S. 1993). The main explorations and observations were done after 1992. We got more information from the reports done under the Galle harbour project. Later it was identified probably as the Phatti Allum, which struck on rocks west of Gibbet Island and was beached in the Bay between 1870 and 1873. (JPC, 2000, Final report of the urgent development of the port of Galle.) Site A is spread over 80 m in length and 30 m width. It lies in a NE-SW direction (bearing 3200 N) Its true value is the wide variety of artefacts conveyed here may be by currents. So far, artefacts ranging from 13th century Chinese bowls to 19th century clay pipes have been discovered in large quantities.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000543.jpg\" alt=\"Site A (SL/S/GH/M/A)\"><figcaption class=\"img-description\">Coil of rope on the site.</figcaption></figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000544.jpg\" alt=\"Site A (SL/S/GH/M/A)\"><figcaption class=\"img-description\">Parts of the funnels.</figcaption></figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>North central harbor close to the existing channel. It lies in a NE-SW direction (bearing 3200 N) 100 meters from the shore (Galle- Matara Road).</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>JPC, 2000, Final report of the urgent development of the port of Galle.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

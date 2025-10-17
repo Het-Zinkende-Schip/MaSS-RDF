@@ -1,0 +1,27 @@
+{
+  "id": "2107",
+  "code": "zn103",
+  "name": "ZN103",
+  "type": "wreck",
+  "lat": "52.3002900",
+  "lon": "5.3274700",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-01-30 12:44:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1979 is tijdens landbouwwerkzaamheden een wrak aangetroffen op kavel N103 in Zuidelijk Flevoland. In hetzelfde jaar door is het voormalige Centrum voor Scheepsarcheologie een verkenning uitgevoerd. De locatie van de vindplaats is gelegen tussen de Gooimeerdijk-Oost, de Nekkelveldweg en de Eemmeerdijk. Het wrak is een vrachtschip waarvan de overnaads gebouwde huid aan de binnenkant is gesinteld. Het scheepswrak is 16 meter lang en 4 meter breed. Door de hoge ligging van het wrak zijn de hoogste delen flink aangetast door uitdroging. Op basis van het grondprofiel dateert het schip vermoedelijk uit de tweede helft van de zestiende eeuw. Na de documentatie is de vindplaats ingedeeld in de categorie 'terrein met zeer hoge archeologische waarde'.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een overnaads gebouwd vrachtschip uit de tweede helft van de zestiende eeuw, Zeewolde.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zmm-38xa\">Opgravingsdocumentatie scheepswrak ZN103.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

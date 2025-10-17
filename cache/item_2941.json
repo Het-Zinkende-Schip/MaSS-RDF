@@ -1,0 +1,27 @@
+{
+  "id": "2941",
+  "code": "elve-1916",
+  "name": "Elve",
+  "type": "wreck",
+  "lat": "59.8489675",
+  "lon": "-4.1544677",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1917-05-23",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-03 12:50:10",
+  "modified_on": "2025-06-15 14:10:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Elve</strong></em> vertrok op 2 mei 1917 samen met het aan dezelfde rederij toebehoorde zusterschip <em><strong>Bernisse</strong></em> van Rufisque (Senegal) naar Rotterdam.</p> <p>Beide schepen hadden een aan de Nederlandse Overzee Trustmaatschappij geconsigneerde lading grondnoten aan boord. Op 20 mei 1917 werden beide schepen in positie 62&deg;04&rsquo;NB en 15&deg;10&rsquo;WL. aangehouden door een Brits onderzoekingsvaartuig en opgebracht met bestemming Kirkwall voor onderzoek.</p> <p><strong>Onveilig gebied</strong><br>Hierdoor kwamen de beide schepen in onveilig verklaard gebied en op 23 mei 1917 om 14.30 uur werden zij door de Duitse onderzeeboot <em><strong>U 87</strong></em> beschoten en door een torpedo getroffen. De Elve zonk na ongeveer 20 minuten in positie 59&deg;40&rsquo;NB. en 0332&rsquo; WL. en ging verloren. Alle 18 opvarenden van de &lsquo;ELVE&rsquo; gingen in de sloepen en werden gered door te hulp geschoten Britse patrouillevaartuigen. De <em><strong>Bernisse</strong></em> bleef drijven en wist behouden te Kirkwall gesleept binnen te komen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: P.A. van Es &amp; Co., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>223 voet (68 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 voet (10,4 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>13 voet (4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>958 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2017\">marhisdata.</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/7019.html\">Uboat.net U87.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

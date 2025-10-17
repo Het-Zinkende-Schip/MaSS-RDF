@@ -1,0 +1,27 @@
+{
+  "id": "2858",
+  "code": "waalstroom",
+  "name": "Waalstroom",
+  "type": "wreck",
+  "lat": "53.0520555",
+  "lon": "1.5260008",
+  "location": "Winterton ness",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": "1916-06-27",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2022-05-27 14:16:48",
+  "modified_on": "2022-05-27 14:19:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis met een lading steenkolen en stukgoederen van Swansea naar Amsterdam is de WAALSTROOM op 27 juni 1916 om 16.25 uur op de Noordzee, op 5 mijl ten noord-oosten van het lichtschip SHIPWASH, in positie 52&deg;05'05'' NB en 01&deg;52' OL op een mijn gelopen en gezonken. De 21 opvarenden van de WAALSTROOM werden allen gered door twee Britse onderzeebootjagers. De mijn was op 26 juni 1916 gelegd door de Duitse onderzeeboot UC 6.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Vuijk A. &amp; Zonen - A. Vuyk, Capelle Aan Den Ijssel</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>21</td></tr><tr><th scope=\"row\">Snelheid</th><td>9 knopen ~ 17 km/u (10 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>267 voet (81,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>37 voet (11,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>17 &frac12; voet (5,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1441 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>wrecksite.eu.<br /><a href=\"https://www.wrecksite.eu/wreck.aspx?70018\">Waalstroom.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

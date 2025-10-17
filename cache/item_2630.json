@@ -1,0 +1,27 @@
+{
+  "id": "2630",
+  "code": "oranjeboom-1652",
+  "name": "Oranjeboom",
+  "type": "wreck",
+  "lat": "51.2866576",
+  "lon": "2.4032593",
+  "location": "Vlaamse banken, België",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-08-30 11:00:39",
+  "modified_on": "2025-06-14 17:56:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Gekocht in 1652 van particulier Jan Sandersz.</p> <p>Staat van dienst:</p> <p>Slag bij Plymouth 25-8-1652<br>Brander in eskader van De Ruyter om de Nederlandse handelsvloot veilig door het Engels Kanaal te escorteren. Kapitein Leendert de Jager.</p> <p>Zeeslag bij Nieuwpoort (battle at the Gabbard) 12 -13 juni 1653<br>Onder kapitein Dirk Jansz. Stroo. Daar ingezet en verbrand.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Stroo, Dirk</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>23</td></tr><tr><th scope=\"row\">Lengte</th><td>108 voet (32,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>23 voet (7 m)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

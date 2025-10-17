@@ -1,0 +1,27 @@
+{
+  "id": "2813",
+  "code": "amstelland-1900",
+  "name": "Amstelland",
+  "type": "wreck",
+  "lat": "50.7281110",
+  "lon": "-9.1625977",
+  "location": "Galley head, South of , Ierland",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": "1917-07-01",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-03-22 10:09:17",
+  "modified_on": "2025-06-14 22:18:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>stoomschip Amstelland was in eerste instantie o.a. ingericht tot vervoer van 420 runderen. In 1906 bij de ADM ingericht voor het vervoer van 1400 tussendek emigranten.</p> <p>Het schip werd op haar laatste reis met een lading graan van Buenos Aires naar Belfast op 30 juni beschoten door de Duitse onderzeeboot UC31. Op 1 juli 1917 tot zinken gebracht. Alle 37 opvarenden kwamen veilig aan land.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Russell &amp; Co. Ltd, Port Glasgow, UK<br>Eigenaar: Zuid Amerika Lijn, Amsterdam</p> <p>De machines van het Triple-Expansiesysteem zijn vervaardigd door de firma Dunsmuir &amp; Jackson te Govan.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hansen, J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>37</td></tr><tr><th scope=\"row\">Tonnage</th><td>5404 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=379\">Amstelland id 379.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

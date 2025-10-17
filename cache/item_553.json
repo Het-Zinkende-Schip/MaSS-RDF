@@ -1,0 +1,27 @@
+{
+  "id": "553",
+  "code": "utrecht-6",
+  "name": "Utrecht 6",
+  "type": "wreck",
+  "lat": "52.0670000",
+  "lon": "5.1370000",
+  "location": "Catharijnesingel, Utrecht, Nederland",
+  "firstdate": null,
+  "firstyear": "677",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "685",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2015-09-16 00:00:00",
+  "modified_on": "2025-10-16 10:32:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Part of an early medieval river barge was found in February 2013 in the Catharijnesingel in Utrecht. The Utrecht 6 is the oldest medieval barge found in The Netherlands. Only a section is preserved and research at the National Maritime Depot of the Netherlands.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001251.jpg\" alt=\"Utrecht 6\"> <figcaption class=\"img-description\">Utrecht 6 research 2013 (Picture: municipality Utrecht).</figcaption> </figure> <p>The bottom planks were made out of one tree. The two side strakes where made of a second tree. Dendro analyses give a felling date of ca. 677 AD.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001250.jpg\" alt=\"Utrecht 6\"> <figcaption class=\"img-description\">Drawing of the preserved bottom planks.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><div>Type: Flatboat, barge (platbodem vaartuig, aak) <p>Parts of a medieval river barge.</p> <p>Dimensions: ca. 7,15 m x 2,1 m<br>Merovingian period</p> </div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Jansma, E. (2013).<br /><a href=\"http://www.academia.edu/3995546/Jansma_E._2013_Dendrochronologisch_onderzoek_van_het_scheepje_Utrecht_6\">Dendrochronologisch onderzoek van het scheepje ‘Utrecht 6’.</a><br />Digital Collaboratory for Cultural Dendrochronology, Rapportnummer p:2013502.</li><li>Brouwers W, Jansma E. Manders M. (2015).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000086.pdf\">Middeleeuwse scheepsresten in Nederland, de vroege middeleeuwen 500-1050.</a><br />Archeobrief 3.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

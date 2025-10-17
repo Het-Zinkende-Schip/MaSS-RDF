@@ -1,0 +1,27 @@
+{
+  "id": "2315",
+  "code": "dolfijn-1633-2",
+  "name": "Dolfijn",
+  "type": "wreck",
+  "lat": "51.8344201",
+  "lon": "2.5708008",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1633",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1655",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-18 15:16:52",
+  "modified_on": "2020-11-28 18:32:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 30</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kerckhoff Paulus van den</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>116</td></tr><tr><th scope=\"row\">Lengte</th><td>120 voet (36,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>29 &frac34; voet (9,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>390 ton (195 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender.<br /><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=24034\">Dutch Fourth Rate ship 'Dolphijn' (1633).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

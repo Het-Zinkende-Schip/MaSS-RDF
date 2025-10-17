@@ -1,0 +1,27 @@
+{
+  "id": "917",
+  "code": "flora",
+  "name": "Flora",
+  "type": "wreck",
+  "lat": "-33.9087000",
+  "lon": "18.4725000",
+  "location": "Salt River Mouth, Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1730",
+  "firstyearend": null,
+  "lastdate": "1737-05-21",
+  "lastyear": "1737",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-12 08:55:45",
+  "modified_on": "2024-06-20 10:13:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Flora</em> was een hekboot en is op de rede van de Tafelbaai tijdens een zware storm op 21 mei 1737 gezonken.</p> <p>Tijdens de ramp werden ook de schepen <em><strong>Iepenrode, Goudriaan, Flora, Buis</strong></em> en <em><strong>Duinbeek</strong></em> kapot geslagen. De schepen Westerwijk, Rodenrijs en Victoria strandde. Alleen de <em><strong>Papenburg</strong></em> bleef op miraculeuze wijze behouden. 208 opvarenden verloren het leven. (GM)<br>Naar aanleiding van deze ramp werd onderzocht of de Saldahna baai 100 km naar het noorden niet een betere rendez-vous plaats zou zijn voor de VOC. <br>Dit gebeurde uiteindelijk niet.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Hekboot, VOC yard, Oostenburg, Amsterdam, 1730<br>Tonnage: 425 last =850 tons<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gerrit Pik</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>115</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97823\">DAS 6992.3.</a></li><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=29&amp;accessor=search_in_text&amp;source=10&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id\">Generale missiven van gouverneurs-generaal en raden aan heren XVII der Verenigde Oostindische Compagnie.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><em>SAHRA Database.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2582",
+  "code": "horumersiel-2",
+  "name": "Horumersiel 2",
+  "type": "wreck",
+  "lat": "53.6889210",
+  "lon": "8.0388480",
+  "location": "Horumersiel, Duitsland",
+  "firstdate": null,
+  "firstyear": "1850",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-06-01 11:04:54",
+  "modified_on": "2025-06-14 16:51:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Only the sawn frames of the vessel were visible, indicating the dimensions of the vessel. Due to the inconspicuous nature of the wrecksite no further observations were made. The wreck was not scientifically dated, but a date in the later half of the 19th century has been suggested by Heinz-Walter Keweloh of the German Maritime Museum (DSM: <em>Deutsches Schifffahrtsmuseum</em>).</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>52 &frac12; voet (16 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>14 &frac34; voet (4,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>In 2011, the State Agency for Water Management, and Coastal and Environmental Protection of Lower Saxony (NLWKN: <em>Landesbetrieb f&uuml;r Wasserwirtschaft, K&uuml;sten- und Naturschutz</em>) reported the discovery of a wreck, partially projecting into the fairway to Horumersiel.</p> <p>The responsible regional branch in Oldenburg of the Lower Saxony State Office for Monument Preservation (NLD: <em>Nieders&auml;chsisches Landesamt f&uuml;r Denkmalpflege</em>) investigated the site with logistical support from the NLWKN on 29 September 2011. The time window for a photo and total station survey was cut short by the incoming tide. No further investigation has taken place.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Stahn, G. (2012).<br /><em>Nordsee (vor Horumersiel), außerhalb des Ldkr. Friesland, FStNr. 2 Neuzeitliches Wrack.</em><br />Nachrichten des Marschenrates zur Förderung der Forschung im Küstengebiet der Nordsee, vol. 49.<br />pp 19-20.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

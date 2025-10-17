@@ -1,0 +1,27 @@
+{
+  "id": "1379",
+  "code": "pauw",
+  "name": "Pauw",
+  "type": "wreck",
+  "lat": "54.8368465",
+  "lon": "3.2218459",
+  "location": "Doggersbank",
+  "firstdate": null,
+  "firstyear": "1676",
+  "firstyearend": null,
+  "lastdate": "1692-11-16",
+  "lastyear": "1692",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-06 14:37:22",
+  "modified_on": "2025-06-10 16:02:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Pauw was onderdeel van een smaldeel van drie oorlogsschepen (Grijpskerk, Postiljon en Pauw) die zo'n 80 koopvaarders begeleiden van de Sont naar Texel. Het konvooi werd op de Doggersbank aangevallen door de beruchte Duinkerker kapitein Jean Bart op 15 november 1692. De Pauw werd gedurende het twee daagse treffen in brand geschoten en ging verloren. De kapers wisten ongeveer 10 schepen te veroveren voordat Texel bereikt werd.</p> <p>Du Pont sneuvelde evenals commandant Broeder van de Grijpskerk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Fregat, konvooier<br>Bewapening: 18</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gilles Jansz. Du Pon</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jonge (1839).<br /><em>Geschiedenis van het Nederlandse Zeewezen,IV p.394.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

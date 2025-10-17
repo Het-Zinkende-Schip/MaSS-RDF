@@ -1,0 +1,27 @@
+{
+  "id": "698",
+  "code": "amstelland-1750",
+  "name": "Amstelland",
+  "type": "wreck",
+  "lat": "55.0576633",
+  "lon": "8.3995993",
+  "location": "Ostindienfahere huk, Sylt, Duitsland",
+  "firstdate": null,
+  "firstyear": "1750",
+  "firstyearend": null,
+  "lastdate": "1751-09-18",
+  "lastyear": "1751",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-17 12:20:48",
+  "modified_on": "2025-04-18 12:23:30",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Amstelland </em>was een VOC schip van het type fluit, gebouwd voor de Kamer Amsterdam van de VOC. Ze vertrok op 7 september 1751 uit Texel naar Batavia, maar een storm dreef het schip uit koers naar het oosten op 18 september en het schip strandde op het eiland Sylt voor de kust van Duitsland.</p> <p>Het schip was waarschijnlijk onderweg naar <em>K&ouml;nigshafen</em> (letterlijk koningshaven), een ankerplaats nabij List, om te schuilen voor de storm, maar het liep op de noordwestelijke punt van Sylt aan de grond. Deze punt kwam bekend te staan als <em>Ostindienfahrerhuk</em> (letterlijk: Oostindi&euml;vaardershoek), een plaatsnaam die vandaag de dag nog steeds gebruikt wordt. Volgens een lokale kroniekschrijver (Christian Peter Hansen) lag het wrak in de branding en waren de grote spanten in zijn tijd, honderd jaar later, nog steeds zichtbaar. Volgens de kroniekschrijver was het wrak geladen met hout, molenstenen en stalen beslag voor windmolens, maar hij vermeldde niets over de lading zilveren staven, die volgens de VOC archieven aan boord moesten zijn. Gezien de losse omgang met de wet door de eilanders en hun tegenzin om geborgen goederen over te dragen aan de eigenaars, zou het niet verrassend zijn als dit een goed bewaard geheim onder de bergers was, omdat het zilver geen sporen heeft achtergelaten in de geschreven bronnen over het eiland.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00002774.jpg\" alt=\"Hansen 1856, Hansen, Christian Peter: Chronik der friesischen Uthlande\"> <div class=\"img-source\">Bayerische Staatsbibliothek</div> <figcaption class=\"img-description\">Deel van de gepubliceerde kroniek van Hansen waarin hij rapporteert dat het wrak nog steeds zichtbaar was in zijn tijd.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Werf: Amsterdam</p> <p>Tonnage: 850 ton, 425 last</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hendriksz. Hoek, Hilde</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>87</td></tr><tr><th scope=\"row\">Lengte</th><td>136 Amsterdamse&nbsp;voet (38,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Volgens nog niet bevestigde bronnen is de vindplaats herontdekt door amateur wrakduikers.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Hansen, C. P. (1856).<br /><a href=\"https://www.digitale-sammlungen.de/de/view/bsb10457115?page=5\">Chronik der Friesischen Uthlande.</a><br />Altona: Lange.</li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0009?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 7.</a></li><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94592\">Details of voyage 3530.1 from Texel.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "885",
+  "code": "automaat",
+  "name": "Automaat",
+  "type": "wreck",
+  "lat": "53.0068511",
+  "lon": "2.5510254",
+  "location": "Grimsby, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1904",
+  "firstyearend": null,
+  "lastdate": "1914-09-25",
+  "lastyear": "1914",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-11-18 13:43:08",
+  "modified_on": "2025-06-07 21:27:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De spoorwegveerboot ss. 'Automaat' van de Overzeesche Vrachtvaart Maatschappij, op weg van Grimsby naar Rotterdam geladen met steenkool, zinkt tijdens een zware storm op de Noordzee.</p> <p>1 man gered, de bootsman J.F. van Os, door het Engelse stoomschip James Dickson en te Gotenburg geland. 16 personen omgekomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Cargo vessel<br>Gebouwd: J. &amp; K. Smit's Scheepswerven, Kinderdijk, Nederland 1904<br>Eigenaar: N.V. Overzeesche Vrachtvaart Maatschappij, Rotterdam, Zuid-Holland, Netherlands</p> <p>Afmetingen: 226.70 x 33.10 x 15.20 Feet (British)&nbsp;<br>Tonnage: 1107,47</p> <p>&nbsp;Voorstuwing: Steam, Triple Expansion<br>Snelheid: 9</p> <p>Bemanning: 17<br>Kapitein:&nbsp;Wichers, Hillebrand Jacob</p> <p>&nbsp;16 opvarenden komen om</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

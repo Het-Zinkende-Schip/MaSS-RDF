@@ -1,0 +1,27 @@
+{
+  "id": "2960",
+  "code": "sterna-iii-sch-136",
+  "name": "Sterna III (SCH 136",
+  "type": "wreck",
+  "lat": "52.3716261",
+  "lon": "4.1728531",
+  "location": "Noordzee, t.h.v. Zandvoort, Nederland",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1917-07-27",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-12 09:33:08",
+  "modified_on": "2025-06-15 14:22:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 27 juli werd op de Noordzee zo'n 19 mijl uit de kust ter hoogte van Zandvoort 6 visserschepen uit Scheveningen tot zinken gebracht door een Duitse U boot.</p> <p>Het waren: <a href=\"https://mass.cultureelerfgoed.nl/president-commisaris-van-den-berg-sch-134\">President Commisaris van den Berg</a> (SCH 134), Sterna III (SCH 136), <a href=\"https://mass.cultureelerfgoed.nl/dirk\">Dirk</a> (SCH 382), <a href=\"https://mass.cultureelerfgoed.nl/majoor-thomson-sch-23\">Majoor Thomson </a>(SCH 23), <a href=\"https://mass.cultureelerfgoed.nl/jan-sch-170\">Jan</a> (SCH 170) Dirk van Duijne (SCH 254).</p> <p>De bemanning van de Sterna III werd gered door de VL 49.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Gebr Boot te Leidendorp</p> <p>Eigenaar: rederij Sterna</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>zuiderzeecollectie.nl.<br /><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40017796\">Centraal_Visserijregister-40017796.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?facets%5Btype%5D%5B%5D=artikel&amp;cql%5B%5D=%28date+_gte_+%2226-07-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2201-08-1917%22%29&amp;query=%22SCH+382%22&amp;coll=ddd&amp;redirect=true&amp;sortfield=date&amp;identifier=MMKB04:000187004:mpeg21\">De Maasbode (28-07-1917).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

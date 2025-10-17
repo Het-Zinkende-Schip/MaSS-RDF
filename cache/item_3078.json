@@ -1,0 +1,27 @@
+{
+  "id": "3078",
+  "code": "muiden",
+  "name": "Muiden",
+  "type": "wreck",
+  "lat": "52.3302860",
+  "lon": "5.0576245",
+  "location": "Sportpark Bredius, Muiden, Nederland",
+  "firstdate": null,
+  "firstyear": "-700",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "600",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-05-31 18:47:46",
+  "modified_on": "2025-06-15 21:06:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In Muiden zijn resten gevonden van een boomstamkano. Het vaartuig, dat uit de ijzertijd stamt, werd aangetroffen tijdens archeologisch veldonderzoek op het Brediusterrein, in het kader van de voorbereidende werkzaamheden voor de zandophoging voor de voetbalvelden.</p> <p>De overblijfselen van de boot zijn aangetroffen in een groenstrook buiten het ontwikkelgebied van Bredius, naast de toekomstige zandophoging voor de voetbalvelden.</p> <p>De vondst van de kano mag uniek genoemd worden: In heel Nederland zijn er overblijfselen van slechts tien boomstamboten</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>21 &frac14; voet (6,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>2 &frac12; voet (0,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://bezoekerscentrum.rijkswaterstaat.nl/SchipholAmsterdamAlmere/news/vondst-zeldzame-boomstamboot-levert-geen-bouwvertraging-op/\">Vondst zeldzame boomstamboot.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

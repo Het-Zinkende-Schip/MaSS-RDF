@@ -1,0 +1,27 @@
+{
+  "id": "979",
+  "code": "goede-trouw",
+  "name": "Goede Trouw",
+  "type": "wreck",
+  "lat": "15.0000001",
+  "lon": "114.9999999",
+  "location": "South China Sea",
+  "firstdate": null,
+  "firstyear": "1786",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1791",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-30 13:59:01",
+  "modified_on": "2024-06-21 14:09:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1791 is De Goede Trouw op weg naar Japan vergaan. Aan boord was het nieuwe opperhoofd van Deshima, Hendrik Andries Ulps.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type:<br>Built: Middelburg, in 1786 <br>Eigenaar: VOC kamer van Zeeland<br>Lengte: 150 voet<br>Tonnage: 575 last (1150 ton)<br>Complement: 213 <br>Kapitein: Stijne, Arie</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95701\">Details of voyage 4663.2 from Rammekens to Batavia.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

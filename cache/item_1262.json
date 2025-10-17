@@ -1,0 +1,27 @@
+{
+  "id": "1262",
+  "code": "standvastigheid",
+  "name": "Standvastigheid",
+  "type": "wreck",
+  "lat": "-33.9161457",
+  "lon": "18.4639036",
+  "location": "Woodstock Beach, Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1706",
+  "firstyearend": null,
+  "lastdate": "1722-06-17",
+  "lastyear": "1722",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-30 10:56:49",
+  "modified_on": "2024-10-15 10:18:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Standvastigheid</strong></em> verging tijdens de storm van 17 juni 1722. Tien schepen vergingen tijdens een zware noordwestelijke storm in de Tafelbaai, waarvan acht eigendom waren van de Nederlandse autoriteiten. Bij deze gebeurtenis was er sprake van een van de grootste verliezen aan mensenlevens in de geschiedenis van de Kaap in &eacute;&eacute;n enkele gebeurtenis, met 660 slachtoffers. Er ging ruim &pound;250.000 aan goederen verloren, wat in de huidige tijd een enorm bedrag is!</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: spiegelretourschip<br>Gebouwd: Amsterdam, Oosterburg, 1706<br>Eigenaar: VOC kamer Amsterdam, Kamer Rotterdam, (1710-13) Kamer Zeeland (1720-22)<br>Lengte: 145<br>Tonnage: 444 <br>Bemanning: 225 (1722)<br>Kapitein: Jan Kole (1722)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan Kole</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>225</td></tr><tr><th scope=\"row\">Lengte</th><td>145 voet (44,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>444 ton (222 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De Standvastigheid is nog niet gevonden.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93543\">DAS 2495.6.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/72/file/NL-HaNA_1.11.06.18_72_0102?eadID=1.11.06.18&amp;unitID=72&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 17-6-1722.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2976",
+  "code": "proefneming-i",
+  "name": "Proefneming I (VL 134)",
+  "type": "wreck",
+  "lat": "60.5078090",
+  "lon": "-3.5327780",
+  "location": "Shetland, ten westen van",
+  "firstdate": null,
+  "firstyear": "1912",
+  "firstyearend": null,
+  "lastdate": "1917-07-03",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-15 11:21:44",
+  "modified_on": "2025-07-18 16:54:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Proefneming I (VL 134)</strong></em> en de <a href=\"https://mass.cultureelerfgoed.nl/thor-vl-91\"><em><strong>Thor VI</strong></em></a> (VL 91) waren in juli 1917door de Britten opgebracht te Stornoway. Kort nadat ze weer vrij gelaten waren en de haven hadden verlaten werden ze beide tot zinken gebracht door de Duitse onderzee&euml;r U 49. De bemanning werd gered en kwam veilig in Stornoway aan.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003310.jpg?modifiedon=1660555522\" alt=\"Zeilboot aan de kade in Nederland met huizen op e achtergrond.\"> <div class=\"img-source\">scheveningen-haven.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Scheepswerf &ldquo;Nieuwe Maas&rdquo;, Gebr. Van der Meer</p> <p>Eigenaar: Visscherij Maatschappij &ldquo;Proefneming I &rdquo; (W. Brouwer Az), Vlaardingen</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003312.jpg\" alt=\"tekst: Van het ministerie van buiten-landsche zaken is bericht ontvangen dat de logger Thor&quot; VL 91, schipper K. Hoogendijk en Proefneming I&quot; VL 134, schipper F. Stam, welke beide te Stor-noway waren opgebracht en weer vrij-gelaten, kort na het uitvaren vandaar door een Duitsche duikboot waren ge-torpedeerd en gezonken waren. De be manningen waren gered en weer te Stornoway geland.\"> <div class=\"img-source\">Delpher.nl</div> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>112 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>zuiderzeecollectie.nl.<br /><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40025779\">Centraal Visserij register 40025779.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Proefneming&amp;cql%5B%5D=%28date+_gte_+%2204-07-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2227-07-1917%22%29&amp;redirect=true&amp;sortfield=date&amp;page=3&amp;identifier=MMSAVL02:000497110:mpeg21:a00026&amp;resultsidentifie\">Nieuwe Vlaardingsche courant      07-07-1917.</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/4934.html\">uboat.net/ U49.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

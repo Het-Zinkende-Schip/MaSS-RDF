@@ -1,0 +1,27 @@
+{
+  "id": "1149",
+  "code": "weerestein",
+  "name": "Weerestein",
+  "type": "wreck",
+  "lat": "59.8721682",
+  "lon": "-1.4979859",
+  "location": "Shetland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1710",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1711",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-19 16:26:56",
+  "modified_on": "2025-06-09 22:57:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Vertrok 3 november 1711 op haar eerste uitreis vanuit Texel met bestemming Batavia. Men nam de 'route achterom' ten noorden van Schotland en westen van Ierland om Franse kapers te ontlopen.* <br>Al vrij snel na vertrek vergaan bij de Shetland eilanden. <em>Verzeijld op Hitland met man en muis enige dagen na seijn vertrek.</em><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0210?eadID=1.11.01.01&amp;unitID=551&amp;query=551\"><strong>&sup1;</strong></a></p> <p class=\"note\">*) De <a href=\"https://nl.wikipedia.org/wiki/Spaanse_Successieoorlog#:~:text=De%20Spaanse%20Successieoorlog%20(1701%E2%80%931713,door%20Lodewijk%20XIV%20van%20Frankrijk.\">Spaanse successie oorlog</a> (1701-1713) was aan de gang. Frankrijk voerde oorlog tegen Groot Brittanni&euml;. De Republiek vocht mee aan de geallieerde zijde met Groot Brittanni&euml; en Pruisen tegen Frankrijk</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Enkhuizen, 1710<br>Tonnage: 120 last 240 tns<br>Lengte: 110 vt<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Krijnebak, Jan</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93213\">Details of voyage 2153.1 from Texel.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0210?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen , fol 207.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2901",
+  "code": "jt-cremer-ijm-120",
+  "name": "J.T. Cremer (IJM 120)",
+  "type": "wreck",
+  "lat": "52.7702750",
+  "lon": "3.3818371",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1905",
+  "firstyearend": null,
+  "lastdate": "1916-10-07",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-01 11:39:00",
+  "modified_on": "2025-06-15 12:26:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>J.T. Cremer (IJM 120) verliet de haven van Ijmuiden op 7 oktober 1916. Er is daarna niets meer vernomen van schip en bemanning.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Nederlandsche Scheepsbouw Mij. N. V., Amsterdam</p> <p>Eigenaar: Mij. tot exploitatie van den stoomtrawler J.T. Cremer</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>222 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Zuiderzee collectie.<br /><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40031597\">Centraal Visserijregister.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Burgemeester+Vening+Meinesz&amp;coll=ddd&amp;sortfield=date&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1916%7C&amp;page=9&amp;identifier=MMKB19:001095246:mpeg21:a00013&amp;resultsidentifier=MMKB19:001095246:mpeg21:a\">Scheepvaart  23-11-1916.</a></li><li>scheveningen-haven.nl.<br /><a href=\"https://www.scheveningen-haven.nl/info/schepen/index_ijm.php?nummer=120&amp;lijst=75&amp;af=IJM\">IJM 120.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

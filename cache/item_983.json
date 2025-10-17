@@ -1,0 +1,27 @@
+{
+  "id": "983",
+  "code": "drie-handelaars",
+  "name": "Drie Handelaars",
+  "type": "wreck",
+  "lat": "-34.1133422",
+  "lon": "18.4695682",
+  "location": "Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1787",
+  "firstyearend": null,
+  "lastdate": "1789-05-16",
+  "lastyear": "1789",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-31 12:41:08",
+  "modified_on": "2025-06-26 10:09:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Drie Handelaars werd door de VOC gehuurd van Emanuel Fredrik Wirth in Amsterdam.</p> <p>De Drie Handelaars was vanuit Ceylon onderweg naar Nederland. Ze kwam bij de Kaap aan op 15-5-1789. Aan de Kaap woedde een storm waarbij het schip van het anker raakte en strandde bij de Muizenberg.</p> <p>Bronnen zijn het er niet over eens of de schipper Kornelis de Vries of Jan Kleijn was.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type : Galjoot?<br>Gebouwd: Amsterdam?<br>Hired by VOC kamer Amsterdam <br>Tonnage: 502<br>Complement: 33<br>Master: Vries, Kornelis de</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kornelis de Vries</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>33</td></tr><tr><th scope=\"row\">Tonnage</th><td>502 ton (251 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97946\">Details of voyage 8246.1 from Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/140/file/NL-HaNA_1.11.06.18_140_0067?eadID=1.11.06.18&amp;unitID=140&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 19-5-1789.</a></li><li> La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives.</a><br />SAHRA.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

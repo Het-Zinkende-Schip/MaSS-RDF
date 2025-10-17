@@ -1,0 +1,27 @@
+{
+  "id": "486",
+  "code": "galiasse-1627",
+  "name": "Galiasse",
+  "type": "wreck",
+  "lat": "33.3260000",
+  "lon": "129.5350000",
+  "location": "Kawachi, Hirado, Nagasaki, Japan",
+  "firstdate": null,
+  "firstyear": "1627",
+  "firstyearend": null,
+  "lastdate": "1639-09-24",
+  "lastyear": "1639",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Leon Derksen",
+  "created_on": "2015-01-14 00:00:00",
+  "modified_on": "2024-10-30 10:13:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Galiasse</em> was een fluitschip, gebouwd voor de VOC-Kamer van Hoorn in 1627. Tussen 1627 en 1632 maakte ze verschillende reizen tussen Nederland en Oost-Indi&euml;.</p> <p>De Galiasse vertrok 26-12-1634 voor haar derde en laatste uitreis naar de Oost. Na twaalf jaar dienst werd ze uiteindelijk onherstelbaar geacht en daarom op 24 september 1639 in Hirado gesloopt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Hoorn 1627(<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7345/file/NL-HaNA_1.04.02_7345_0575?eadID=1.04.02&amp;unitID=7345&amp;query=7345\">1</a>)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>300 ton (150 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91490\">DAS 0452.4.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

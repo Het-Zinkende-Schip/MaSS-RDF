@@ -1,0 +1,26 @@
+{
+  "id": "2154",
+  "code": "customs-pier",
+  "name": "Customs Pier",
+  "type": "structure",
+  "lat": "17.4826262",
+  "lon": "-62.9879643",
+  "location": "Oranje Bay, Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": "1906",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1932",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Ruud Stelten",
+  "created_on": "2020-09-16 03:29:37",
+  "modified_on": "2025-07-05 11:11:05",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><figure class=\"img-wrapper\"><img src=\"/photos/l/00002140.jpg\" alt=\"A sea bordering a piece of land and a pier that extends into the water from there.\"> <figcaption class=\"img-description\">The pier and Lower Town in 1910 or shortly after. At this time, the stone docks had already been destroyed by the sea. Source: private collection, St. Eustatius resident.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002127.jpg\" alt=\"two people walking on a pier\"> <figcaption class=\"img-description\">The pier around 1915. Source: Tropenmuseum, 60037100, Amsterdam.</figcaption> </figure> <p>The pier made it easier for vessels to load and offload goods as they did not have to go through the swells and onto the beach anymore. The end of the pier, however, was still fairly close to shore in shallow water, so vessels using the pier were often affected by swells too. To tackle this problem, a 23-meter-long extension of the structure was planned, but this project never came to fruition (Grol 1921:161).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002130.jpg\" alt=\"Many people are at a house picking up luggage.\"> <figcaption class=\"img-description\">People picking up newly arrived goods at the customs office (the old weighing house) in 1928. Photo courtesy of June Bolton.</figcaption> </figure> <p>The pier fell into disrepair after 1935, when the export of trass came to an end. The area around the old weighing house remained the focus of the island&rsquo;s import and export until well into the twentieth century. This was the place where people came to pick up imported goods. The pier has remained a unique Statian landmark until the present day.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002126.jpg\" alt=\"A sunken pier\"> <figcaption class=\"img-description\">The pier in 1955. Source: National Archives, The Hague, CCO-2.24.14.02.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002129.jpg\" alt=\"a sea with what is left of the pier beside it\"> <figcaption class=\"img-description\">Split shot of what remains of the pier in 2019. The old weighing house can be seen behind on the left. Source: The St. Eustatius Center for Archaeological Research.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>G.J. van Grol (1921).<br /><em>Economische arbeid op St. Eustatius van gouvernementswege, 1903-1918.</em><br />Nieuwe West-Indische Gids, vol. (2), issue 1.<br />pp 151-162.</li><li>Johan Hartog (1976).<br /><em>History of St. Eustatius.</em><br />De Witt Stores N.V., Aruba, Netherlands Antilles.</li><li>Ruud Stelten (2019).<br /><em>From Golden Rock to Historic Gem: A Historical Archaeological Analysis of the Maritime Cultural Landscape of St. Eustatius Dutch Caribbean.</em><br />Leiden: Sidestone Press.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

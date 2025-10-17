@@ -1,0 +1,27 @@
+{
+  "id": "3183",
+  "code": "petronella-2",
+  "name": "Petronella",
+  "type": "wreck",
+  "lat": "-33.8997808",
+  "lon": "25.6813108",
+  "location": "Algoa Bay, Eastern Cape, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1854",
+  "firstyearend": null,
+  "lastdate": "1878-07-16",
+  "lastyear": "1878",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2024-02-09 14:37:17",
+  "modified_on": "2025-06-16 20:06:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Petronella</strong></em> kwam in de vaart als de <em>Trijntrje Fenna</em> in 1854. Ze is drie maal verkocht. In 1863 verkocht met nieuwe naam Petronella.</p> <p>De Petronella was op reis van Macassar naar Nederland. Volgens een telegram van Port Elizabeth, d.d. 16 juli 1878: met schoon dek en meer andere schade de Algoabaai binnengelopen. hebbende de 19e juni een zware storm doorgestaan.</p> <p>Sedert is het in een hevige bui, zeer ongewoon voor de tijd van het jaar, van zijn ankers geslagen en wrak geworden. Het volk is gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: 3 master bark</p> <p>Gebouwd: Willem &amp; Jan Hoogendijk &amp; Co., Capelle aan den IJssel,</p> <p>lang 36 el 40 duim, wijd 7 el 32 duim, hol 4 el 94 duim, en alzo groot 585 tonnen</p> <p>Eigenaar 1: partenrederij, Rotterdam<br>Eigenaar 2: Partenrederij onder boekhouderschap Arend Kuyper van Harpen en Egberts Sanders Amsterdam (1863-69)<br>Eigenaar 3: R.F.P. Victor, Amsterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>W De Jong</td></tr><tr><th scope=\"row\">Lengte</th><td>119 &frac12; voet (36,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>24 voet (7,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>585 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>SAHRA Database.</em></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=14783\">marhisdata id 14783.</a></li><li>Willem Hendrik Eickelberg.<br /><a href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Willem_Hendrik_Eickelberg_-_Study_of_the_Dutch_Barque.jpg/640px-Willem_Hendrik_Eickelberg_-_Study_of_the_Dutch_Barque.jpg\">Study of the Dutch Barque.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

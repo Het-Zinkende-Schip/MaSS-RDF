@@ -1,0 +1,27 @@
+{
+  "id": "906",
+  "code": "bantam-1616",
+  "name": "Bantam",
+  "type": "wreck",
+  "lat": "-6.0738654",
+  "lon": "106.8024115",
+  "location": "Teluk Jakarta, Indonesië",
+  "firstdate": null,
+  "firstyear": "1614",
+  "firstyearend": null,
+  "lastdate": "1627-03-24",
+  "lastyear": "1627",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-11 14:06:43",
+  "modified_on": "2024-06-10 11:37:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Nieuwe <em><strong>Bantam</strong></em> vertrok op 23 januari 1616 naar Oost Indi&euml;. Ze bleef vervolgens in Azi&euml;.</p> <p>De Bantam was ingedeeld in de <em>vloot van Defensie; e</em>en vlooteenheid met de Engelsen in de strijd tegen Portugezen en Spanjaarden.</p> <p>De Bantam is uiteindelijk op de rede van Batavia op 24 maart 1627 in brand geraakt: t<em>' schip Nieuwe Bantam in brant geraect, ende tot de water toe verbrant, niet sooder merckelyck peryckel van d'ander byleggende schepen. (Heeres 306)</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Tonnage: 400 last</p> <p>Bewapening: 44</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Heeres J.E. (ed.) (1896).<br /><em>Dagregister Batavia 1627.</em><br />Martinus Nijhoff, 's-Gravenhage.</li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0019?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">NL-HaNA_1.04.02_4932_0019.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

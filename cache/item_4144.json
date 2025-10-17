@@ -1,0 +1,26 @@
+{
+  "id": "4144",
+  "code": "ot3",
+  "name": "OT3",
+  "type": "other",
+  "lat": "52.4824270",
+  "lon": "5.6184400",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1929",
+  "lastyearend": "1930",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 16:18:11",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1975 werd op kavel T3 in Oostelijk Flevoland bij het huidige Biddinghuizen een opmerkelijke ontdekking gegaan: het wrak van een T-Ford. Deze auto is waarschijnlijk tijdens de strenge winter van 1929-1930 door het ijs van de Zuiderzee gezakt. Toen de vondst via de krant, de radio en de televisie bekend was geworden, meldden zich verscheidene mensen als vroegere eigenaar. Zij konden het eigendom echter geen van allen bewijzen. De echte eigenaar, voor zover die nog in leven zou zijn, zou zich mogelijk niet bekend hebben willen maken. Vlakbij het autowrak werden namelijk allerlei waardevolle onderdelen van schepen gevonden. Vermoedelijk is men met deze auto over het ijs naar vastgevroren schepen gereden en heeft men daaruit allerlei goederen gestolen. Het autowrak werd jarenlang ge&euml;xposeerd te Lelystad in het gebouw van het toenmalige Informatiecentrum Nieuw Land dat op 1 oktober 1987 door brand in rook opging.</p> <p>Zie hierover een kort interview op de website Flevolands Geheugen waarin deze vondst wordt besproken: https://www.flevolandsgeheugen.nl/page/4697/een-t-ford-duikt-op</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zxc-6993\">Opgravingsdocumentatie scheepswrak OT3.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1376",
+  "code": "scholtenburg",
+  "name": "Scholtenburg",
+  "type": "wreck",
+  "lat": "8.1351138",
+  "lon": "77.5772174",
+  "location": "Cape Comorin, India",
+  "firstdate": null,
+  "firstyear": "1753",
+  "firstyearend": null,
+  "lastdate": "1771-07-07",
+  "lastyear": "1771",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-03 11:59:41",
+  "modified_on": "2025-07-08 13:45:53",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het VOC schip '<em>Scholtenburg'</em> heeft 5 retourreizen gemaakt tussen 1754 en 1769. De laatst uitreis begon op 12 oktober 1769 voor de VOC kamer Amsterdam vanuit Texel. Ze kwam aan in Batavia op 27 mei 1770.<a href=\"https://www.vocsite.nl/schepen/10935/\">&sup1;</a></p> <p>Volgens brief uit Ceylon<em>: op 7 juli op de Madureese custe verongelukt tussen Kaap Commorijn en de VOC factorij bij Mammipaar bij het dorp Insiegene. Waarbij van de equipage 6 Europeanen, 51 mooren, 4 madurezen en 4 lijfeigenen verdronken waren.<a href=\"https://sejarah-nusantara.anri.go.id/pagebrowser/icaatom-dasa-anri-go-id_339-ead-xml-1-2598/#source=1&amp;page=165&amp;accessor=thumbnails&amp;view=imagePane&amp;size=1219\">&sup2;</a></em></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004493.png\" alt=\"De afbeelding toont een fragment van een oud document, waarschijnlijk in het Nederlands, geschreven in een cursief handschrift. \"> <div class=\"img-source\">ANRI-2598_8-11-1771</div> </figure> <p>Volgens missiven van Sumatra aan Batavia. Is schip Scholtenburg 14 januari 1774 vertrokken van de rede van Sumatra naar Batavia.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/8576/file/NL-HaNA_1.04.02_8576_0058\">&sup3;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf Oostenburg, 1753<br>bewapening: 24 ijzeren stukken, 8 metalen draaibassen.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>880 ton (440 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95115\">DAS 4064.55.</a></li><li><a href=\"https://sejarah-nusantara.anri.go.id/pagebrowser/icaatom-dasa-anri-go-id_339-ead-xml-1-2598/#source=1&amp;page=165&amp;accessor=thumbnails&amp;view=imagePane\">ANRI 2598, scan 152.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0181?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen fol. 178.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/5134/file/NL-HaNA_1.04.02_5134_0002?eadID=1.04.02&amp;unitID=5134&amp;query=Scholtenburg\">journaal 1767.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

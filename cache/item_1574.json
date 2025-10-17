@@ -1,0 +1,27 @@
+{
+  "id": "1574",
+  "code": "walcheren-1754",
+  "name": "Walcheren",
+  "type": "wreck",
+  "lat": "21.0300327",
+  "lon": "72.7157593",
+  "location": "Surat, India",
+  "firstdate": null,
+  "firstyear": "1754",
+  "firstyearend": null,
+  "lastdate": "1773-05-01",
+  "lastyear": "1773",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-27 10:34:02",
+  "modified_on": "2025-06-29 15:43:04",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Walcheren maakte 4 retourreizen tussen 1756 en 1770.</p> <p>Haar laatste uitreis begon in Rammekens op 7-5-1770. Ze bleef vervolgens in Azie dienst doen. <br><br>Het schip is gestrand op de bank van de rivier Domus bij de stad Suratte op 1 mei 1773 gestrand en verongelukt.<a href=\"https://dekok.xyz/htrsearch/transcriptie?scan=81683&amp;query=Walcheren&amp;varianten=2&amp;archief=VOC\">&sup1;</a> <br>Schipper tijdens het ongeluk was Lodewijk Thomassin van Amsterdam.<a href=\"https://www.nationaalarchief.nl/onderzoeken/index/nt00444/c5d41e28-c864-11e6-9d8b-00505693001d?searchTerm=walcheren\">&sup2;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1150 ton (575 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95128\">DAS 4077.5.</a></li><li><a href=\"https://dekok.xyz/htrsearch/transcriptie?scan=81683&amp;query=Walcheren&amp;varianten=2&amp;archief=VOC\">NL-HaNA_1.04.02_7582_0197.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

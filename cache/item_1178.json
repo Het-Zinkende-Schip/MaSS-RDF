@@ -1,0 +1,27 @@
+{
+  "id": "1178",
+  "code": "kemphaan-1627",
+  "name": "Kemphaan",
+  "type": "wreck",
+  "lat": "16.1493349",
+  "lon": "108.2121048",
+  "location": "Da Nang, Vietnam",
+  "firstdate": null,
+  "firstyear": "1627",
+  "firstyearend": null,
+  "lastdate": "1633-09-23",
+  "lastyear": "1633",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-27 17:30:14",
+  "modified_on": "2024-12-13 13:56:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Kemphaan </em>verging in 1633. Het was een VOC-jacht (of sloep?) van 100 ton, gebouwd in 1627 onder bevel van Pruyt Tobias, in Vietnam. Het schip vertrok op 17 december 1632 vanuit Gale in Sri Lanka naar Hirado in Japan. <br><br>Tijdens de terugreis via Taiwan strandde het schip op 22 oktober 1633 tijdens een storm voor de kust van 'Cochin China'. De 150 bemanningsleden en de lading werden gered.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0043?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: waarschijnlijk aangekocht<br>Tonnage: 50 last<br>Complement: 150<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kornelis Hendriksz. Denijs</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>150</td></tr><tr><th scope=\"row\">Tonnage</th><td>100 ton (50 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91381\">Details of voyage 0343.1 from Texel to Pulicat.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0043?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">NA_1.04.02 4932 0043.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

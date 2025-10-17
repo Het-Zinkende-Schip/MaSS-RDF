@@ -1,0 +1,27 @@
+{
+  "id": "1070",
+  "code": "steenbergen",
+  "name": "Steenbergen",
+  "type": "wreck",
+  "lat": "38.1255523",
+  "lon": "13.3879566",
+  "location": "Palermo, Sicily, Italië",
+  "firstdate": null,
+  "firstyear": "1664",
+  "firstyearend": null,
+  "lastdate": "1676-06-06",
+  "lastyear": "1676",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-17 17:25:14",
+  "modified_on": "2025-06-09 15:49:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Steenberge</strong></em>n raakte in brand en ging verloren tijdens <em>De zeeslag van Palermo</em> (2 juni 1676) Dit was het derde treffen in 1676 bij Sicili&euml; tijdens de Franco-Nederlandse oorlog. Een Franse vloot werd naar Sicili&euml; gestuurd om een opstand tegen de Spaanse kroon in Sicili&euml; te ondersteunen. De Spanjaarden werden door De Hollandse marine bijgestaan. Het Nederlandse eskader stond onder bevel van Lt. adm. gen, De Ruyter. Deze was al bij eerdere gevechten omgekomen (battle near Cape August april 1676). Bij de zeeslag van Palermo kwam schout bij nacht Pieter van Middelland om die aan boord was van de Steenbergen.</p> <p>De Steenbergen raakte in brand door een aanval met een brander en raakte op drift. Ongelukkigerwijze raakte ze ook de schepen <em><strong>De Vrijheid</strong></em> en <em><strong>De Leiden</strong></em> die op deze manier ook verloren gingen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: linie schip<br>Gebouwd: werf te Amsterdam, 1653<br>Eigenaar: Admiraliteit Amsterdam<br>Dimensies: 150 x 38 x15<br>Complement: 110/ 350 man aan boord<br>Kapitein: schout-bij-nacht, Pieter van Middelandt<br>Armament: 68</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://en.wikipedia.org/wiki/Battle_of_Palermo\">Battle of Palermo.</a></li><li><em>James Bender, 2014, Dutch warships in the age of sail. p. 244.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

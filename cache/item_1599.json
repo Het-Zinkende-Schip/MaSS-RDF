@@ -1,0 +1,27 @@
+{
+  "id": "1599",
+  "code": "hollandia-1623",
+  "name": "Hollandia",
+  "type": "wreck",
+  "lat": "46.3165842",
+  "lon": "-15.0732422",
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1622",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1645",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-06 15:24:11",
+  "modified_on": "2025-07-03 10:31:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Hollandia was het vlaggenschip in de eerste grote WIC vloot o.l.v. admiraal Jacob Willekens en vice admiraal Piet Hein die werd uitgezonden in december 1623. Doel was om Bahia San Salvador in Brazili&euml; op de Portugezen te veroveren. Dat lukte 10 mei 1624.</p> <p>De Hollandia was daar niet bij omdat deze voor de oversteek van Kaap Verdie al gescheiden was geraakt van de rest van de vloot. De Hollandia kwam in Siera Leone terecht en voer vandaar uit naar Brazili&euml;. Als mosterd na de maaltijd liep de Hollandia de Allerheiligenbaai binnen op 11 mei. Met aan boord Jan van Dort de bevelhebber en beoogd gouverneur van het net veroverde San Salvador.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001608.jpg\" alt=\"Getekende kaart van S. Salvador met water vol schepen\"> <figcaption class=\"img-description\">S. Salvador</figcaption> </figure> <p>Van Dort sneuvelde 12 juni bij een uitval tegen de vijand. Hij liep in een hinderlaag werd van zijn paard geschoten en onthoofd.&nbsp;(De Laet boek I,19)</p> <p>San Salvador werd overigens het jaar daarop al weer terugveroverd door de Spanjaarden en Portugezen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Thomas</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Laet, J. (1644).<br /><em>Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, zedert haer begin, tot het eynde van 't jaer sesthien-hondert ses-en-dertich.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

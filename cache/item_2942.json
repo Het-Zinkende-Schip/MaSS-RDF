@@ -1,0 +1,27 @@
+{
+  "id": "2942",
+  "code": "friso-1916",
+  "name": "Friso",
+  "type": "wreck",
+  "lat": "50.1399616",
+  "lon": "-3.5322859",
+  "location": "Start point, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1917-05-16",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-08 12:37:19",
+  "modified_on": "2025-06-15 14:11:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De schoener Friso werd tot zinken gebracht door de Duitse onderzeeer UB 20.</p> <p>NRC 18.05.1917: Het in 1916 in Groningen gebouwde Nederlandse driemastschoenerschip &ldquo;Friso&rdquo; is in het Engelse Kanaal, op reis van Fowey naar Rotterdam, in de grond geboord. De bemanning is gered en te Plymouth geland. De &ldquo;Friso&rdquo; (Rederij H. Van Krieken te Rotterdam) groot 171 bruto register ton had een lading van ongeveer 270 ton pijpaarde aan boord.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: schoener, 3 master met hulpmotor diesel<br>Gebouwd: Scheepswerf J.J. Pattje &amp; Zonen, Waterhuizen, Groningen<br>Eigenaar: Rederij Krieke, N.V. Scheepvaart-Maatschappij Friso, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>105 voet (32 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>23 voet (7 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>9 &frac12; voet (2,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>171 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2339\">marhisdata.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

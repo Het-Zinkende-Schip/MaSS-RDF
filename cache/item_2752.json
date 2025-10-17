@@ -1,0 +1,27 @@
+{
+  "id": "2752",
+  "code": "soekaboemi",
+  "name": "Soekaboemi",
+  "type": "wreck",
+  "lat": "46.1707073",
+  "lon": "-27.4218750",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1923",
+  "firstyearend": null,
+  "lastdate": "1942-12-27",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-08 10:50:31",
+  "modified_on": "2025-06-14 21:20:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip <em><strong>Soekaboemi</strong></em> voer in Konvooi <em>ONS 154</em> van Glasgow naar de Verenigde Staten. Het konvooi werd aangevallen door meerdere Duitse onderzeeboten. De Soekaboemi kreeg twee torpedo's te incasseren. De eersre van de U 356 en de tweede van de U 441' die haar tot zinken bracht.<br>Het schip werd door de bemanning verlaten. De timmerman A. Enklaar die nog hielp bij het te water laten van de bakboordreddingboot werd later bij het gehouden app&egrave;l vermist. De overige 51 bemanningsleden en vier passagiers die zich aan boord bevonden werden gered door het Britse rescue ship <em><strong>Toward</strong></em>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Bonn &amp; Mees, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>H.A. van der Schoor de Boer</td></tr><tr><th scope=\"row\">Lengte</th><td>456 voet (139 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>54 &frac12; voet (16,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>34 voet (10,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>7055 ton</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

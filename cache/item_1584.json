@@ -1,0 +1,27 @@
+{
+  "id": "1584",
+  "code": "vrouwe-petronella-maria",
+  "name": "Vrouwe Petronella Maria",
+  "type": "wreck",
+  "lat": "-34.8471197",
+  "lon": "20.0325836",
+  "location": "L'Agulhas, ter hoogte van, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1755",
+  "firstyearend": null,
+  "lastdate": "1770-03-18",
+  "lastyear": "1770",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-01 09:41:28",
+  "modified_on": "2025-06-04 11:25:41",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Vrouwe Petronella Maria </strong></em>maakte vijf retourreizen naar Azi&euml;. tussen 1756 en 1770.<a href=\"https://www.vocsite.nl/schepen/10827/\">&sup1;</a></p> <p>Haar laatste retourreis begon in Batavia 17-1-1770. De retourvloot uit Batavia bestond uit de schepen: <em>Vredelust, Maria Jacoba, Vrouwe Margaretha Maria en de Vrouwe Petronella Maria</em>. De Margaretha Maria kwam 6-5-1770 aan bij de Kaap met de mededeling dat ze 18 maart bij Kaap Aguilhas tijdens storm van elkaar geraakt waren.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/121/file/NL-HaNA_1.11.06.18_121_0124?eadID=1.11.06.18&amp;unitID=121&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">&sup2;</a> <br>De Vrouwee Petronella Maria is waarschijnlijk vergaan tijdens die storm ter hoogte van Kaap Aguilhas.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Oostenburg VOC werf in Amsterdam, 1755<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Fierman, Thijs</td></tr><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1150 ton (575 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98653\">DAS 78-8.5.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0202?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen , fol 104.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4035",
+  "code": "nf14",
+  "name": "NF14",
+  "type": "wreck",
+  "lat": "52.7995960",
+  "lon": "5.7341650",
+  "location": "Rutten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1790",
+  "lastyearend": "1800",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:48:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gemeld en opgegraven in 1961, waarna het schip verwijderd is. Wel werd uit het wrak een 'bijzonder aardige scheepsinventaris' geborgen', zo werd opgemerkt in de rapportage. Naast scheepswrak OL84 is dit het enige Flevolandse wrak waarin ook een oorijzer, eveneens van zilver, werd gevonden. Dit type sierraad maakte deel uit van de vrouwelijke traditionele klederdracht in, onder meer, Friesland en Groningen. De verdere aanwezigheid van maar liefst drie koperen tabaksdozen (van vermoedelijk de schipper) en speelgoed zoals een tinnen kinder-theepotje maakt het aannemelijk dat er een gezin aan boord heeft geleefd. De opgegraven scheepsrest werd als volgt omschreven: \"Het bleek een vlak van een ongeveer 2.80 m breed, platboomd vaartuig te zijn geweest en vermoedelijk niet zeer oud. Als gevolg van de ondiepe ligging van het pleistocene zand in dit gebied bleek het schip geheel stukgeslagen te zijn, zodat nog slechts het vlak restte\".</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z9j-7d2r\">Opgravingsdocumentatie scheepswrak NF14.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

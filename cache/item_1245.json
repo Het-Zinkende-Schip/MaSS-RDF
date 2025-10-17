@@ -1,0 +1,27 @@
+{
+  "id": "1245",
+  "code": "urk-1656",
+  "name": "Urk",
+  "type": "wreck",
+  "lat": "23.0547462",
+  "lon": "120.0731850",
+  "location": "Taiwan",
+  "firstdate": null,
+  "firstyear": "1656",
+  "firstyearend": null,
+  "lastdate": "1661-08-17",
+  "lastyear": "1661",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-23 11:48:51",
+  "modified_on": "2025-06-30 18:12:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 5-7-1661 is <em>De Urk</em> vertrokken van Batavia als onderdeel van een vloot die het fort Zeelandia op Taiwan moest helpen bevrijden van de belegering door Coxinga. De Urk is op 12-8 aangekomen bij het Zuiderrif voor het Taiwan Kanaal.</p> <p>Wegens de slechte weersomstandigheden aanvankelijk buiten voor anker gebleven, maar op 17 of 18 augustus: <em>\"op een drooghte af en aen de soulangse rivier komen te stranden ende alle t volcq bestaende in 42 coppen in s&rsquo;vijandts handen vervallen.\"</em></p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002998.jpg\" alt=\"Een detail van de kaart westzijden vant Eijlandt Formosa gemaakt in 1666-1668 toegeschreven aan Johannes Vingboons. Vrijwel zeker is de Soulangse Rivier punt H de huidige Zengwung River.\"> <div class=\"img-source\">&Ouml;sterreichische Nationalbibliothe</div> <figcaption class=\"img-description\">Een detail van de kaart westzijden vant Eijlandt Formosa gemaakt in 1666-1668 toegeschreven aan Johannes Vingboons. Vrijwel zeker is de Soulangse Rivier punt H de huidige Zengwung River.</figcaption> </figure> <p>In februari 1662 dwong de Chinese generaal Zheng (Coxinga) gouverneur Frederick Coyett tot de overgave van Fort Zeelandia. Vanaf dat moment noemde hij zich Koning van Taiwan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001567.jpg\" alt=\"schilderij van een zandbank met een dorp erop, in het water liggen boten\"></figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>42</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91974\">DAS 0857.1.</a></li><li>Atlas of mutual heritage.<br /><a href=\"https://www.atlasofmutualheritage.nl/nl/Kaart-westkust-Formosa.7375\">Kaart van de westkust van Formosa.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1235/file/NL-HaNA_1.04.02_1235_0899 \">NA 1.04.02 (VOC) 1235, fol 743.</a></li><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/taiwan/#page=519&amp;accessor=search_in_text&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Ftaiwan%2Fsearch_in_text%2Findex_html%3Fpage%3D0%26source%3D1%26id%3Dsearch_in_text&amp;source=4\">Dagregister Zeelandia Deel IV, 498.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

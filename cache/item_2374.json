@@ -1,0 +1,27 @@
+{
+  "id": "2374",
+  "code": "muiderberg",
+  "name": "Muiderberg",
+  "type": "wreck",
+  "lat": "38.7826183",
+  "lon": "-9.5064354",
+  "location": "Cabo da Roca, Portugal",
+  "firstdate": null,
+  "firstyear": "1693",
+  "firstyearend": null,
+  "lastdate": "1703-05-22",
+  "lastyear": "1703",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-16 17:06:17",
+  "modified_on": "2025-06-12 12:24:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Muiderberg was vlaggenschip van een Nederlands eskader - onder bevel van Roemer Vlacq (1637-1703) - dat 110 Engelse en Nederlandse koopvaarders van Lissabon naar Holland en Engeland begeleidde.</p> <p><strong>De slag bij Cape de la Roque</strong><br>Op 22 mei 1703 kwamen ze bij Cabo da Roca een Frans eskader van vijf zware schepen tegen. Vlack besloot het gevecht aan te gaan in een poging de koopvaarders te laten ontsnappen. Dat lukte maar de prijs was hoog. Het hele Nederlandse flottielje werd vernietigd.<br>De Muiderberg werd aangevallen door de veel zwaarder bewapende linieschepen Le Vainqueur en Le Monarque (elk 90 kanonnen) en reddeloos geschoten. De grote mast was overboord ze lekte hevig en kon geen zeil meer voeren.<br>Vlacq raakte daarbij zwaar gewond. Hij verloor een arm en schouder. De helft van de bemanning sneuvelde. Hij werd samen met anderen gevangengenomen en naar Toulon gebracht, waar hij op 17 juli aan zijn verwondingen overleed.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Linie schip 4th rate<br>Gebouwd: 's Lands werf Amsterdam 1693</p> <p>Bewapening: 50 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Vlacq, Roemer</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>210</td></tr><tr><th scope=\"row\">Lengte</th><td>134 &frac34; voet (41,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>36 &frac12; voet (11,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://military.wikia.org/wiki/Battle_of_Cap_de_la_Roque\">Battle of Cap de la Roque.</a></li><li>De Jonge, J.C.  (1859).<br /><em>Geschiedenis van het  Nederlandsche Zeewezen Deel III. p 616, e.v.</em><br />Keuzeman, Haarlem.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

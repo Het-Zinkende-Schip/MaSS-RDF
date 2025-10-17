@@ -1,0 +1,27 @@
+{
+  "id": "4239",
+  "code": "merkus",
+  "name": "Merkus",
+  "type": "wreck",
+  "lat": "-7.9445918",
+  "lon": "98.7363613",
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1937",
+  "firstyearend": null,
+  "lastdate": "1942-03-04",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-01-29 13:03:16",
+  "modified_on": "2025-06-16 23:01:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Merkus vertrok 5 mei 1937 naar Batavia in het toenmalige Nederlands Oost Indi&euml;.</p> <p>Op reis van Tjilatjap (Java) naar Colombo (Sri Lanka) werd de Merkus op 4 maart 1942 aangehouden door de Japanse onderzee&euml;r '<em>I 7</em>' in de Indische Oceaan 250 zeemijl (460 km) ten noordwesten van de Cocos eilanden (08.40 ZB, 94.30 OL). De bemanning van de Merkus kon het schip verlaten. De Merkus werd vervolgens met geschutvuur tot zinken gebracht. Er waren geen slachtoffers.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: motor schip N.V. Scheepsbouwwerf Gebroeders Pot, Bolnes</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>188 &frac12; voet (57,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>865 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4247\">Marhisdata ID 4247.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1930-1939%7C1937%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bspatial%5D%5B%5D=Nederlands-Indi%C3%AB+%7C+Indonesi%C3%AB&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;query=KNSM+MERKU\">lijst ned. stoom en motorschepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

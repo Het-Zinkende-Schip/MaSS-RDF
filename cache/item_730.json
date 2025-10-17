@@ -1,0 +1,27 @@
+{
+  "id": "730",
+  "code": "brak-1613",
+  "name": "Brak",
+  "type": "wreck",
+  "lat": "-5.7086899",
+  "lon": "119.6982646",
+  "location": "Makassar, ten zuiden van, Sulawesi, Indonesië",
+  "firstdate": null,
+  "firstyear": "1609",
+  "firstyearend": null,
+  "lastdate": "1613-08-07",
+  "lastyear": "1613",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-28 18:59:36",
+  "modified_on": "2024-06-11 11:32:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Brak vertrok op 31 januari 1610 uit Texel naar Azie (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0016?query=\">NA 4932</a>). Het jacht kwam op 28 december 1610 aan in Bantam.</p> <p>De Brak was daarna &eacute;&eacute;n van de vroegste Nederlandse schepen die Japan bezocht en nam na terugkomst in Bantam deel aan een wraakactie tegen Banjermassing op Borneo.</p> <p>Begin 1613 ging De Brak van Bantam naar de Banda eilanden. Daar werd een lading foelie en nootmuskaat in genomen. Kort op of na 11 juli 1613 vertrok ze voor de terugreis naar Bantam. Bij zuid Sulawesi liep ze vast op de ondiepten daar.</p> <p><em>heeft sijn schip opten 7en augusti niet verre van daer wij aen de gront saten op Celebes verloren tegens de strandt. De folie is gesalveert, ende van des conicx volk doen dragen over &rsquo;t geberchte tot in onse logie op Macassar; alle &rsquo;t geschut daerop sijnde heeft den coninck aangeslagen.</em></p> <p>De lading, geschut en opvarenden werden overgebracht naar Makassar waar een VOC loge was.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Enkhuizen 1609<br>Tonnage: 40 last<br>Schipper: IJsbrandsz., Jakob</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>30</td></tr><tr><th scope=\"row\">Lengte</th><td>74 &frac14; voet (22,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>19 voet (5,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>80 ton (40 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91190\">Details of voyage 0136.1 from Texel to Bantam.</a></li><li><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/1056/file/NL-HaNA_1.04.02_1056_0281\">NL-HaNA_1.04.02_1056_0281.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2643",
+  "code": "mukran",
+  "name": "Mukran",
+  "type": "wreck",
+  "lat": "54.4905226",
+  "lon": "13.6023617",
+  "location": "Rügen, Duitsland",
+  "firstdate": null,
+  "firstyear": "1555",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1565",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-09-18 18:56:17",
+  "modified_on": "2025-06-14 18:13:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The wrecksite was discovered in 1985 by navy divers of the former East German Democratic Republic (GDR) who noted a bronze gun, cast in 1551 for the Danish king Christian III. The gun was salvaged and placed into the Rostock Maritime Museum two years later, but the site was not surveyed. It was not until 1994, after the German re-unification, the responsible authority &ndash; the State Archaeology Department of Mecklenburg-Vorpommern (<em>Landesamt f&uuml;r Bodendenkmalpflege Mecklenburg-Vorpommern</em>) &ndash; initiated a campaign for the re-discovery of the site, which was carried out by Maik-Jens Springmann.</p> <p>Due to the wreck&rsquo;s close proximity to the beach, it was inferred that the vessel must have stranded here.</p> <p>Wood samples from the wreck were dendrochronologically analysed by Dr. Karl-Uwe Heussner in 1994. The wood was felled in the lower Elbe River region (further upstream from Hamburg) between 1499 and 1535.</p> <p>Several historical shipwrecks from the mid 16th century have been tentatively associated with this wreck, especially ships that took part in the sea battle of the 21 May 1565 between the Swedish fleet and the allied Danish-L&uuml;beck fleet, of which several vessels escaped to the island of R&uuml;gen when they were pursued by a larger Swedish squadron. Amongst others, the HAMBORGER JEGEREN was suggested, a ship from Hamburg, which took part in the Nordic Seven Year&rsquo;s War on the Danish side, which may explain the Danish armament.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The main focus of previous investigations was on the armament and other associated artefacts. Observations of the hull structure remain rudimentary. The most notable feature is that this wreck is carvel built at a time, when carvel-built ships were still regarded as a novelty in the Baltic Sea and associated with ships built for naval warfare or long-distance trade. Only the bottom section of the hull has survived, with the frames, keelson and ceiling planks partially preserved under the ballast stones.</p> <p>Recent investigations under the lead of Dr. Jens Auer and students of maritime archaeology from the University of Southern Denmark have lead to further insights on the hull construction.</p> <p><iframe src=\"https://sketchfab.com/models/86a7f98951f047ff848510537de4a677/embed\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>65 &frac12; voet (20 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck is protected in situ from marine borers &ndash; like the teredo navalis &ndash; by an artificial cover. It has been subject to a recent re-investigated by Dr. Jens Auer, Dr. Mike Belasus and Konstantinos Alexiou, who presented the results at the 16th International Symposium on Boat and Ship Archaeology.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Förster, T. (1999).<br /><em>Das Mukranwrak — Ein ungewöhnlicher Schiffsfund aus dem 16. Jahrhundert.</em><br />Nachrichtenblatt Arbeitskreis Unterwasserarchäologie 5.<br />pp 12–21.</li><li>Springmann, M.-J. (1998).<br /><em>The Mukran wreck, sunk off the Isle of Rügen, Germany in 1565: a preliminary report.</em><br />The International Journal of Nautical Archaeology 27.2.<br />pp 113-125.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

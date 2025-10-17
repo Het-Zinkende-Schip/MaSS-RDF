@@ -1,0 +1,27 @@
+{
+  "id": "4107",
+  "code": "no79-ii",
+  "name": "NO79-II",
+  "type": "wreck",
+  "lat": "52.6875020",
+  "lon": "5.7886950",
+  "location": "Emmeloord, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 15:54:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Op kavel O79 in de Noordoostpolder zijn de resten van waarschijnlijk twee verschillende wrakken aangetroffen, ter onderscheid aangeduid als NO79-I en NO79-II. Van wrak I is helaas weinig bekend, behalve dat het een 17de-eeuws vrachtschip zou zijn geweest. Er werd van uit gegaan dat dit wrak in de periode dat archeoloog Pieter (P.J.R.) Modderman actief was in het gebied (tot eind 1945) was onderzocht en verwijderd. Toen er opnieuw een wrakvondst werd gemeld op kavel O97 in 1946, ging men er daarom van uit dat dit een ander, tweede scheepswrak moest zijn. Het werd opgegraven in 1948 volgens de kwadrantenmethode, waarbij bleek dat een groot deel van de constructie erg beschadigd was. Het betrof een platboomd vrachtschip, geladen met kleine gele bakstenen, herkend als zogeheten 'Friese geeltjes'. Tenminste &eacute;&eacute;n ervan is opgemeten en was 21,8 bij 10,8 bij 5 centimeter. Het wrak zelf had een lengte van 13,6 meter over de middelste langste plank gemeten, en een grootste breedte van 2,3 meter. De ondergang van het wrak werd op basis van het aangetroffen aardewerk geplaatst aan het einde van de 17de eeuw. Een stuk kanonsloop in het voorschip, verder verzwaard met fragmenten lood, diende waarschijnlijk als contragewicht voor een strijkbare mast. Eveneens in het voorschip bevond zich een met hout omlijste vuurkist met ongeglazuurde tegels, wat suggereert dat daar een woonruimte of roef was gesitueerd. Tot de beperkte hoeveelheid vondsten die uit wrak NO79-II werden geborgen behoren een paar (delen van) kommen en kannen, fragmenten van leren schoenen en enkele plavuizen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zg8-j4ve\">Opgravingsdocumentatie scheepswrak NO79-II.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

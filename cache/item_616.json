@@ -1,0 +1,27 @@
+{
+  "id": "616",
+  "code": "haas",
+  "name": "Haas",
+  "type": "wreck",
+  "lat": "51.1617773",
+  "lon": "-4.6899261",
+  "location": "Lundy island, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1640-11-28",
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-03-29 12:14:40",
+  "modified_on": "2025-05-23 10:55:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Yacht of the WIC fleet under command of admiral Jol in 1640.</p> <p>Drifted into the Bahama strait away from Cuba after a violent storm that occured on 11 September 1640. The fleet was discarded and De Haas tried to get back home. The 28th of November it reached the English shore near Lundey island. There the ship sank. The crew was saved.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: yacht</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>OWIC 1.05.01.01. 55-42.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

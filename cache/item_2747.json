@@ -1,0 +1,27 @@
+{
+  "id": "2747",
+  "code": "bintang",
+  "name": "Bintang",
+  "type": "wreck",
+  "lat": "11.1525348",
+  "lon": "-51.8554687",
+  "location": "Atlantische Oceaan",
+  "firstdate": "1970-01-01",
+  "firstyear": "1970",
+  "firstyearend": null,
+  "lastdate": "1942-11-24",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-06 14:50:22",
+  "modified_on": "2025-06-14 21:13:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op weg van Kaapstad naar de Verenigde Staten, in de vroege ochtend van 21.11.1942 op 650 mijl ten oosten van Trinidad getorpedeerd door de Duitse onderzeeboot <em><strong>U 160</strong></em>.</p> <p>Na 7 dagen werd een vlot opgepikt door een Spaans schip, die de geredden in <br>Rio Grande do Sul (Venezuela) aan waJ zette; na 17 dagen werd de bemanning van 2 andere vlotten gered door een&middot; Engels vaartuig en een Amerikaanse duikbootjager en te Port of Spain (Trinidad) aan wal gebracht. De bemanning van het 4e vlot landde na 22 dagen in Georgetown (Br. Guyana), terwijl het laatste vlot na 30 dagen op de kust van Trinidad aanspoelde.</p> <p>Hierbij komen 22 opvarenden om het leven. (Lijst met namen; Scheepsrampen p 118). De Bintang was het tweede Nederlandse schip dat door de U 160 was getorpedeerd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd:</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Richter, J.T.</td></tr><tr><th scope=\"row\">Lengte</th><td>420 voet (128 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>54 &frac12; voet (16,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>28 voet (8,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>6481 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Uboat.net.<br /><a href=\"https://uboat.net/allies/merchants/ship/2455.html\">Bintang.</a></li><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 235.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

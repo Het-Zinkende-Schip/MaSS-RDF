@@ -1,0 +1,27 @@
+{
+  "id": "2026",
+  "code": "ne25",
+  "name": "NE25",
+  "type": "wreck",
+  "lat": "52.6427000",
+  "lon": "5.6368800",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": "1747",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1760",
+  "lastyearend": null,
+  "country": "Finland",
+  "countrycode": "FI",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 16:51:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het scheepswrak op kavel E25 aan de Zuidermeerweg in de Noordoostpolder, is voor het eerst waargenomen tijdens het leggen van drainagebuizen in 1955, toen is niet veel meer vastgesteld dan dat het ging om een zwaargebouwd schip. In 2002 is een uitgebreid waardestellend onderzoek op de vindplaats uitgevoerd. In de bodem blijkt een zeer zwaar gebouwd schip te liggen, waarvan de stuurboordzijde grotendeels bewaard is gebleven. De bakboordzijde en het vlak aan bakboord ontbreken merendeels. Het vaartuig is karveel gebouwd van - zeer opmerkelijk &ndash; grove den (pinus sylvestris). Het schip vertoont vlaktilling, dat wil zeggen dat het vlak vanaf de kiel oploopt naar de kim. In het achterschip is het schip zeer scherp gebouwd. Zeer zwaar uitgevoerd zijn het zaathout en de inhouten. De geschatte lengte van het schip bedraagt minimaal 23-24 m, de breedte ligt rond 8 meter. Het schip is voorzien van een gesloten buikdenning. Op de buikdenning zijn resten van matten gevonden, mogelijk waren deze bedoeld om verschillende soorten lading van elkaar gescheiden te houden. In het schip zijn resten van steenkool aangetroffen. In de zijkant van de huid bevindt zich, bovenin, een vierkante opening, met aan de onderkant een drempel. In eerste instantie werd gedacht aan een geschutspoort, maar dat lijkt op deze hoogte in het schip niet aannemelijk; mogelijk werd het luik gebruikt bij het laden en lossen, om tijdens de vaart weer waterdicht te worden afgesloten. Jaarringonderzoek van het scheepshout wijst uit dat het vaartuig na 1744 moet zijn gebouwd van hout afkomstig uit Zuid-Finland. De constructie van het schip die buitenlands aandoet in combinatie met de herkomst van het hout, maakt het aannemelijk dat we te maken hebben met een vrachtschip uit Finland.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een zeegaand vrachtschip uit Finland, Nagele</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002080.jpg\" alt=\"fotokaart van een scheepswrak\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xhh-ktkr\">Opgravingsdocumentatie scheepswrak NE25.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

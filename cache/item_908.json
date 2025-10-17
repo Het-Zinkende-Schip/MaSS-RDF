@@ -1,0 +1,27 @@
+{
+  "id": "908",
+  "code": "amsterdam-2",
+  "name": "Amsterdam",
+  "type": "wreck",
+  "lat": "18.9362088",
+  "lon": "72.7138367",
+  "location": "Mumbai, India",
+  "firstdate": null,
+  "firstyear": "1691",
+  "firstyearend": null,
+  "lastdate": "1702-11-22",
+  "lastyear": "1702",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-11 14:21:07",
+  "modified_on": "2025-06-30 11:49:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Amsterdam</em></strong> was een chaloupe (sloep) ook wel jacht genoemd. De boot zou worden ingezet om op de Ganges te worden gebruikt.</p> <p>Ze verging in een zware storm op de rede van Mumbai op 22 november 1702, een dag later dan het Zeeuwse fregat Schellach.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=6&amp;page=274&amp;view=imagePane\">Generale missiven Deel 6, 259.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

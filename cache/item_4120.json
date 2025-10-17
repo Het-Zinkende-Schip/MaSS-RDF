@@ -1,0 +1,27 @@
+{
+  "id": "4120",
+  "code": "nq40",
+  "name": "NQ40",
+  "type": "wreck",
+  "lat": "52.6405310",
+  "lon": "5.8400190",
+  "location": "Ens, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": "2000",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:35:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Dit jonge wrak werd aangetroffen op kavel Q40 in de Noordoostpolder in oktober 1941, waarop archeoloog Pieter (P.J.R.) Modderman kwam kijken. Hij bezocht de vindplaats na een melding nogmaals in mei 1942. Daarbij werd door hem toen een randscherf meegenomen, t.b.v. van datering van het wrak, tevens de enige vondst uit dit wrak die in het Nationaal Scheepsarcheologisch Depot te Lelystad terecht is gekomen (objectnr. Z1942-V1). Naar verluid betrof het waarschijnlijk een vissersschuit. In het wrak werd een metalen bal met beugel met daardoor een ijzeren ring (dun 40 centimeter) aangetroffen. Het wrak zou zeker niet ouder dan de 19de eeuw zijn.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zsn-snma\">Opgravingsdocumentatie scheepswrak NQ40.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

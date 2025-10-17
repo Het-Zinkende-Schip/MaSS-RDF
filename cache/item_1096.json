@@ -1,0 +1,27 @@
+{
+  "id": "1096",
+  "code": "heilbot",
+  "name": "Heilbot",
+  "type": "wreck",
+  "lat": "-5.7816059",
+  "lon": "122.6637268",
+  "location": "Buton , Indonesië",
+  "firstdate": null,
+  "firstyear": "1620",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1621",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-25 13:33:03",
+  "modified_on": "2025-06-24 18:33:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Heilbot</em> bleef na haar eerste uitreis in Indi&euml; en is verloren gegaan ter hoogte van Zuid Celebes op weg van Amboina naar Batavia 24 juni 1621 vertrokken.</p> <p>... den Heylboth is op een droochte by Botton verseylt ende gebleven (<a href=\"https://archive.org/details/janpieterszcoenb01coen/page/650/mode/2up?q=Heylboth\">Colenbrander p. 650</a>)</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003060.jpg\" alt=\"landkaart van het eiland Botton ten zuidoost van Celebes. Duidelijk te zien zijn de vele obstakels voor schepen.\"> <div class=\"img-source\">NL_HaNA_4.VELH_156.1.19</div> </figure> <p>Het eiland Botton ten zuidoost van Celebes. Duidelijk te zien zijn de vele obstakels voor schepen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1620<br>Tonnage: 50 last (100 ton)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91295\">Details of voyage 0257.1 from Texel to Amboina.</a></li><li>Colenbrander H.T. (1919).<br /><a href=\"https://archive.org/details/janpieterszcoenb01coen/page/650/mode/2up?q=Heylboth\">Bescheiden Coen dl 1, 650.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

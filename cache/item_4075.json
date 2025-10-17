@@ -1,0 +1,27 @@
+{
+  "id": "4075",
+  "code": "nl61",
+  "name": "NL61",
+  "type": "wreck",
+  "lat": "52.7833990",
+  "lon": "5.8226420",
+  "location": "Bant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1775",
+  "lastyearend": "1825",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:22:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Op kavel L61 in de Noordoostpolder, nabij het huidige Bant, werden in 1951 een scheepswrak en een anker gevonden, als gevolg van diepploegwerkzaamheden ten behoeve van het inplanten van een bos door de Dienst van het Staatsbosbeheer. Na een eerste verkenning werd besloten tot systematische opgraving over te gaan volgens de kwadrantenmethode. Hoewel het vaartuig sterk gehavend bleek, kwam een omvangrijke scheepsinventaris te voorschijn die het dateren van de ondergang van het schip mogelijk maakte. Van het schip ontbraken de bovenbouw en de voorsteven, maar het had een kiel van zo'n 18 meter lang en de grootste breedte van het vaartuig was ten minste 5 meter. Het betrof vermoedelijk een vrij vroeg gebouwde tjalk. Aangetroffen in het wrak werden onder meer Wedgwood aardewerk, de zilveren beugel van een beugeltasje, een bordje met de spreuk 'In Deze Wereld en Zee is geen rust en vree', een houten pijp met het wapen van Amsterdam en een gegraveerd koperen tabaksdoosje. Ook waren er enkele voorwerpen aan boord die wijzen op de aanwezigheid van een kind, zoals een speelgoedschaaltje, een knikker en een kinderschoen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xdw-gw9g\">Opgravingsdocumentatie scheepswrak NL61.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

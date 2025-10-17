@@ -1,0 +1,27 @@
+{
+  "id": "612",
+  "code": "nlwcw05",
+  "name": "Alkmaar",
+  "type": "wreck",
+  "lat": "23.0372901",
+  "lon": "-82.6436019",
+  "location": "Banes, Cuba",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1640-09-11",
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-03-28 13:54:04",
+  "modified_on": "2025-06-06 22:37:29",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Alkmaar was a merchantmen hired by the WIC to participate in the expedition of admiral Jol to conquer the Spanish silver fleet in 1640.&nbsp;<br>The Alkmaar stranded on the coast west of Habanna during a violent storm on 11th September 1640.</p> <p>Only 22 of the 130 reported survived and managed to make it to the beach. They were imprisoned and taken to Habanna.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Big merchant men hired by the WIC.</p> <p>Tonnage: 200 last,</p> <p>Armament: 32 pieces / 12 bronze</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>130</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Reportedly destroyed in the surf after it stranded.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>Reference: ARCHIVO GENERAL DE INDIAS. AUDIENCIA DE SANTO DOMINGO. Legajo: 101. No.: 143B. Fecha: 11 de septiembre de 1640. I. Wright II, p.63.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1583",
+  "code": "vrouwe-johanna-margaretha",
+  "name": "Vrouwe Johanna Margaretha",
+  "type": "wreck",
+  "lat": "6.5773250",
+  "lon": "79.9513983",
+  "location": "Kalutara, Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1774",
+  "firstyearend": null,
+  "lastdate": "1782-09-16",
+  "lastyear": "1782",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-01 09:31:31",
+  "modified_on": "2025-07-03 10:25:12",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Vrouwe Johanna Margaretha</em> werd gebouwd op de VOC werf te Enkhuizen in 1774.<br>Ze vertrok 28-12-1776 van Texel naar Batavia (aankomst 9-7-1777). Het schip was 5 juni 1778 terug in Nederland.</p> <p>Na haar tweede uitreis vanuit Texel 6-1-1779, aankomst in Batavia 1-7-1779<br>bleef ze in Azi&euml; dienst doen. Haar laatste reis voerde naar Musquette (Mosqat Oman?). Op de terugweg naar Batavia strandde De Vrouwe op de kust van Ceylon bij <em>Caliture</em> op 16 september 1782.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004341.png\" alt=\"landkaart van onder andere Comlombo\"> <div class=\"img-source\">NL-HaNA_4.VEL_23</div> <figcaption class=\"img-description\">De locatie van stranden staat op de kaart links boven</figcaption> </figure> <p><em>De locatie van stranden staat op de kaart links boven</em></p> <p>Het schip <em>De Hoorn</em> met wie <em>De Vrouwe JM</em> samen naar Musquette was gereisd kwam met de onheils boodschap in Batavia op 9 november. het schip Johanna Margaretha, dat bij Caliture, op Ceylon presumtivelijk verongelukt is</p> <p>op 29 december 1782, kwam de <em>Overduin</em>, uit Ceylon, met de bevestiging dat de Johanna Margaretha gestrand was \" <em>&rsquo;twelk geweest is op den 16 september jl. waarvan de equipagie en het geld geborgen is</em>\".</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Schoon, Dirk</td></tr><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95384\">DAS 4333.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/6671/file/NL-HaNA_1.04.02_6671_0001?eadID=1.04.02&amp;unitID=6671&amp;query=Vrouwe%20Johanna%20Margaretha\">Grootboek en journaal 1779.</a></li><li><a href=\"https://dekok.xyz/htrsearch/transcriptie?scan=110308&amp;query=Vrouwe%20Johanna%20Margaretha&amp;varianten=1&amp;archief=VOC\">VOC-archief, inventarisnummer 7642 (scan 122).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

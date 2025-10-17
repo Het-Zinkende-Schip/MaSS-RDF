@@ -1,0 +1,27 @@
+{
+  "id": "1003",
+  "code": "gouda-1722",
+  "name": "Gouda",
+  "type": "wreck",
+  "lat": "-33.9241000",
+  "lon": "18.4343000",
+  "location": "Woodstock Beach, Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1719",
+  "firstyearend": null,
+  "lastdate": "1722-06-17",
+  "lastyear": "1722",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-03 08:10:10",
+  "modified_on": "2025-03-05 10:09:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Gouda</strong></em> maakte deel uit van een eskader van drie schepen, <em>Kaap</em>, <em>Gouda</em> en <em>Zeelandia</em>, die de basis zouden leggen voor de VOC vestiging in Rio de la Goa. Zij zou dienst doen om de verbinding te onderhouden tussen Kaap de Goede Hoop en Rio de la Goa.<br>In de nacht van 16 op 17 juni 1722 stak er een zware storm op. Het water in de Tafelbaai werd hoog opgestuwd waardoor alle aanwezige schepen van hun anker sloegen. In een half uur tijd vergingen zes VOC schepen en drie Engelse schepen. Aanvankelijk leek het dat het schip de storm redelijk goed had doorstaan en alleen maar op het strand was gezet. Maar bij nadere inspectie bleek dat de scheepsromp onherstelbaar gebarsten was.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: hoeker<br>Gebouwd: een werf in Amsterdam, in 1719<br>Eigenaar: VOC kamer Amsterdam<br>Tonnage: 110 last (220 ton)<br>Complement: 27 koppen<br>Kapitein: Cloppenburgh, Juriaan</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>220 ton (110 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/72/file/NL-HaNA_1.11.06.18_72_0102?eadID=1.11.06.18&amp;unitID=72&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 17-6-1722.</a></li><li>Gerrit Groenewegen.<br /><a href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dreimast_Hoeker_Zeylende_voor_de_wind.png/640px-Dreimast_Hoeker_Zeylende_voor_de_wind.png\">Driemast Hoeker Zeylende voor de wind.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

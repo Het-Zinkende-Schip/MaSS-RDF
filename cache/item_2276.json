@@ -1,0 +1,26 @@
+{
+  "id": "2276",
+  "code": "fenehuyse",
+  "name": "Fenehuyse I",
+  "type": "site",
+  "lat": "52.7772449",
+  "lon": "5.8270454",
+  "location": "Kuinre, Kuinderbos, Nederland",
+  "firstdate": null,
+  "firstyear": "1000",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1300",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-02 19:14:13",
+  "modified_on": "2025-06-11 20:05:23",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Popta, van Y. (2020).<br /><em>When the shore becomes the sea.</em><br />Proefschrift.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

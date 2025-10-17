@@ -1,0 +1,27 @@
+{
+  "id": "4007",
+  "code": "nb47",
+  "name": "NB47",
+  "type": "wreck",
+  "lat": "52.7830570",
+  "lon": "5.6592590",
+  "location": "Creil, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1550",
+  "lastyearend": "1575",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:24:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1952 werd als gevolg van drainagewerkzaamheden een scheepsrest aangetroffen op kavel B47 in de Noordoostpolder, met een geschatte lengte van 14 &aacute; 15 meter. Het meldingsbriefje was voorzien van de half-dreigende boodschap \"Bij interesse uwerzijds gaarne spoedig blijk van belangstelling, anders gaan we er doorheen\". Een aantal vondsten uit het wrak werd ook gemeld, namelijk een vingerling, twee stenen netverzwaarders met ijzeren beugel en ring, en een klein jufferblok. Er bleek inderdaad interesse te zijn voor onderzoek naar het wrak en er werd dan ook medegedeeld, dat men het wrak zo mogelijk moest laten liggen, als de werkzaamheden verder hun normale doorgang zouden kunnen vinden. Helaas lijkt men zich hier niet aan te hebben gehouden. Een verkenning van de scheepsrest in het jaar 2000 wees uit, dat er maar liefst twee oude en ook nog twee nieuwe drains door het wrak heen zijn aangelegd. Verder maakte de verkenning duidelijk dat het ging om een karveel gebouwd vrachtscheepje, met wegering op het vlak en de boorden. Tot de vondsten die ditmaal uit het wrak werden geborgen behoren o.a. wederom netverzwaarders, maar ook ballaststenen en diverse houten en aardewerken objecten. De ondergang werd gesteld op het 3de kwart van de 16de eeuw. Na de verkenning is het wrak weer afgedekt voor toekomstig onderzoek.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x9c-jzra\">Opgravingsdocumentatie scheepswrak NB47.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

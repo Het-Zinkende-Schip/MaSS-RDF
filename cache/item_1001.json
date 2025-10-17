@@ -1,0 +1,27 @@
+{
+  "id": "1001",
+  "code": "geen-rust",
+  "name": "Geen Rust",
+  "type": "wreck",
+  "lat": "-33.8917592",
+  "lon": "18.4509544",
+  "location": "Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1716",
+  "firstyearend": null,
+  "lastdate": "1717-10-03",
+  "lastyear": "1717",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-03 07:33:00",
+  "modified_on": "2024-06-20 11:39:27",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Geen Rust</strong></em> was een galjoot in dienst van de Kaapkolonie.</p> <p>Het schip vertrok op 6 oktober 1716 vanuit Texel. De Geen Rust kwam op 8 mei 1717 aan bij de Kaap.</p> <p>Op 3 oktober 1717 is het schip op ongelukkige wijze in brand geraakt en tot op de waterlijn verbrand. (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/67/file/NL-HaNA_1.11.06.18_67_0137?eadID=1.11.06.18&amp;unitID=67&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Tonnage: 75 last (150 ton)<br>Complement: 25 koppen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>65 Amsterdamse&nbsp;voet (18,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93330\">DAS 2282.1.</a></li><li>NL-HaNA_1.11.06.18_67_0137.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/67/file/NL-HaNA_1.11.06.18_67_0137?eadID=1.11.06.18&amp;unitID=67&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 3-10-1717.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "661",
+  "code": "domburg-badstraat",
+  "name": "Domburg badstraat",
+  "type": "wreck",
+  "lat": "51.5650290",
+  "lon": "3.4986327",
+  "location": "Domburg, Nederland",
+  "firstdate": null,
+  "firstyear": "760",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "780",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-08 11:52:07",
+  "modified_on": "2025-01-14 12:12:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens opgravingen die vooraf gingen aan bouwwerkzaamheden in Domburg in Zeeland in 2010, werden drie planken van een scheepshuid gevonden. De gehele opgraving richtte zich op een aantal huizen en erven, en de planken werden op een van de erven gevonden. Later werd duidelijk dat het om delen van een schip ging.</p> <p>De planken waren van eikenhout en maakten deel uit van een overnaads gebouwde romp. Ook al waren ze los van elkaar, was het duidelijk dat ze oorspronkelijk aan elkaar bevestigd waren met houten pennen. Dendrochronologische analyse van het hout leverde een kapdatum op van 769 CE. De herkomst van het hout kon ook vastgesteld worden: de Angelsaxische handelspost Hemwic. Door de uitzonderlijk goede conservering van de vindplaats, werd er zelfs breeuwsel gevonden. Dit bestond uit een specifiek type mos dat gevonden wordt op grote loofbomen, aarden wallen en kalkrotsen.</p> <p>Ook al is er maar een klein deel van het schip gevonden en kan er niet veel gezegd worden over het uiterlijk ervan, verschaft het bewijs een erg specifieke herkomst, waardoor dit een interessante vondst is.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004349.png?modifiedon=1736852630\" alt=\"De plankfragmenten gevonden tijdens de opgravingen b=in de Badstraat in Domburg. Foto B. Silkens\"><div class=\"img-source\">ARC</div><figcaption class=\"img-description\">De planken zoals ze in situ gevonden zijn. Foto B. Silkens.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>A. Ufkes (2011).<br /><a href=\"https://www.academia.edu/1480248/Een_archeologische_opgraving_in_de_vroegmiddeleeuwse_ringwalburg_van_Domburg_gem_Veere\">Een archeologische opgraving in de  vroegmiddeleeuwse ringwalburg van  Domburg, gem. Veere (Z.</a><br />ARC Publicaties.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

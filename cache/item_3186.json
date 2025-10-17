@@ -1,0 +1,27 @@
+{
+  "id": "3186",
+  "code": "vrijheid",
+  "name": "Vrijheid",
+  "type": "wreck",
+  "lat": "-30.9115968",
+  "lon": "30.3626463",
+  "location": "Mbizane river, near Port Shepstone, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1883-04-30",
+  "lastyear": "1883",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-23 15:33:21",
+  "modified_on": "2025-08-14 12:57:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003821.jpg\" alt=\"Een krantenknipsel van een stuk over het vergaan van het schip Vrijheid.\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00003820.jpg?modifiedon=1705654507\" alt=\"Krantenknipsel over het stranden van schip 'Vrijheid'.\"> <div class=\"img-source\">het vaderland</div> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Nadort</td></tr><tr><th scope=\"row\">Tonnage</th><td>232 ton (116 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Jan de Haan.<br /><a href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Brik%2C_Geschiedenis_der_scheepvaart%2C_Jan_de_Haan%2C_1875_-_1903.jpg/640px-Brik%2C_Geschiedenis_der_scheepvaart%2C_Jan_de_Haan%2C_1875_-_1903.jpg\">Brik, Geschiedenis der scheepvaart.</a></li><li> La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives.</a><br />SAHRA.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

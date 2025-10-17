@@ -1,0 +1,27 @@
+{
+  "id": "1100",
+  "code": "heuvel",
+  "name": "Heuvel",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indian Ocean",
+  "firstdate": null,
+  "firstyear": "1740",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1745",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-28 17:02:21",
+  "modified_on": "2025-02-21 11:05:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De fluit <em>Heuvel</em> vertrok voor haar eerste retour reis 21-1-1741 en was terug in Nederland 2-1-1743.</p> <p>De tweede uitreis begon 3-7-1743 in Texel. Ze kwam aan in Batavia 10-5-1744.<br>De Heuvel vertrok 2-3-1745 uit Batavia met bestemming Nederland.</p> <p>De Heuvel is nooit aangekomen aan de Kaap. Ze werd vermist tussen Batavia en de Kaap op de Indische Oceaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1740<br>Lengte: 130 vt<br>Tonnage: 325, (650 ton<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94312\">Details of voyage 3274.2 from Texel to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0082?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">NA-1.11.01.01-551, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

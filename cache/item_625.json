@@ -1,0 +1,27 @@
+{
+  "id": "625",
+  "code": "terschelling-2ng",
+  "name": "Terschelling",
+  "type": "wreck",
+  "lat": "10.6908374",
+  "lon": "80.0167239",
+  "location": "Nagapattinam, India",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1630-04-14",
+  "lastyear": "1630",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-04-08 17:12:29",
+  "modified_on": "2024-10-15 11:33:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Terschelling</strong></em> lag van november 1627 tot 1 juli 1628 op het eiland Maio.<br>Ze werd opgeblazen nabij Negapatnam tijdens een gevecht met de Portugezen op 14 april 1630.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91391\">Details of voyage 0353.1 from Texel to Pulicat.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

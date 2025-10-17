@@ -1,0 +1,27 @@
+{
+  "id": "1367",
+  "code": "tholen",
+  "name": "Tholen",
+  "type": "wreck",
+  "lat": "50.9294614",
+  "lon": "0.7752657",
+  "location": "Rye harbour, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1688",
+  "firstyearend": null,
+  "lastdate": "1690-07-10",
+  "lastyear": "1690",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-29 13:15:34",
+  "modified_on": "2025-06-25 00:08:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Ter Tholen was onderdeel van het Hollandse eskader ingezet in de zeeslag nabij het Zuid-Engelse Beachy Head die op 10 juli 1690 als onderdeel van de Negenjarige Oorlog werd uitgevochten. De zeeslag werd uitgevochten tussen Brits-Nederlandse vloot o.l.v. admiraal Arthur Torrington een admiraal Cornelis Evertsen en de Franse vloot o.l.v. De Tourville. De Franse vloot behaalde een klinkende overwinning. (zie <a href=\"/slag-bij-beachy-head\">slag bij Beachy Head</a>)</p> <p>De Tholen werd door de eigen bemanning verbrand om verovering door de Fransen te voorkomen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001815.jpg\" alt=\"schilderij van meerdere zeilschepen op zee\"> <div class=\"img-source\">Endesor</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: 3e charter (Third rate) linieschip</p> <p>Gebouwd: Middelburg ?, 1688</p> <p>Eigenaar: Admiraliteit Zeeland</p> <p>Bewapening 60</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Cornelis Calis</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>330</td></tr><tr><th scope=\"row\">Lengte</th><td>145 voet (44,2 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J.<br /><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=1033\">Dutch Warships in the Age of Sail 1600 - 1714.</a></li><li><a href=\"https://mass.cultureelerfgoed.nl/slag-bij-beachy-head\">MASS.</a></li><li>Evertsz Cornelis (1690).<br /><em>brief van admiraal Evertsz. van het schip Hollandia 17-7-1690.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

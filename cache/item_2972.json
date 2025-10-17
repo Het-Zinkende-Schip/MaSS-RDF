@@ -1,0 +1,27 @@
+{
+  "id": "2972",
+  "code": "leersum",
+  "name": "Leersum",
+  "type": "wreck",
+  "lat": "54.3320343",
+  "lon": "-0.0816503",
+  "location": "Flamborough, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1898",
+  "firstyearend": null,
+  "lastdate": "1914-12-26",
+  "lastyear": "1914",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-14 12:11:01",
+  "modified_on": "2025-06-15 14:28:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het vrachtschip <em><strong>ss. Leersum </strong></em>was op weg van Rotterdam naar Newcastel on Tyne met een lading stukgoederen.</p> <p>Ter hoogte van Scarborough ho0rde en zag men dat de Britse <em><strong>ss. Linarra</strong></em>, op een mijn was gelopen. Prompt werd er een boot uitgezet om bijstand te verlenen. Kort daarop liep de <strong>Leersum</strong> zelf op een mijn.</p> <p>De mijn ontplofte onder het voorschip van de Leersum dat geheel uit elkaar sloeg. De Leersum zonk in enige minuten.</p> <p><strong>Slachtoffers</strong><br>Een bemanningslid, een tremmer was waarschijnlijk al bij de ontploffing dodelijk getroffen. De andere tremmer, een Belgische jongen van 16 jaar, durfde door paniek ovemand het scjip[ niet te verlaten en v erdween met het schip in de diepte. De overige 17 man bereikten met de beide sloepen veilig Scarborough.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: stoomboot, 2 masten<br>Gebouwd: Sunderland Shipbuilding Co. Ltd., Sunderland,</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>G. Stekelenburg</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>19</td></tr><tr><th scope=\"row\">Lengte</th><td>240 &frac14; voet (73,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>37 voet (11,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>20 voet (6,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1455 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De Leersum ligt in situ. Er zijn verschillende artefacten van de leersum opgedoken.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=3650\">marhisdata id 3650.</a></li><li><a href=\"https://www.wrecksite.eu/wreck.aspx?5041\">Wrecksite.eu.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+_gte_+%2226-12-1914%22%29&amp;cql%5B%5D=%28date+_lte_+%2206-01-1915%22%29&amp;query=%28Leersum%29&amp;coll=ddd&amp;redirect=true&amp;sortfield=datedesc&amp;identifier=MMSAVL02:000481004:mpeg21:a00029&amp;resultsidentifier\">Nieuwe Vlaardingsche courant      06-01-1915.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

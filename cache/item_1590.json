@@ -1,0 +1,27 @@
+{
+  "id": "1590",
+  "code": "zeelandia-2",
+  "name": "Zeelandia",
+  "type": "wreck",
+  "lat": "15.1993860",
+  "lon": "112.9833984",
+  "location": "Zuid Chinese zee",
+  "firstdate": null,
+  "firstyear": "1744",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1749",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-03 14:12:34",
+  "modified_on": "2024-11-19 09:39:19",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Zeelandia maakte twee uitreizen naar Azie. Ze vertrok op 10-1-1746 uit Rammekens voor de VOC kamer Zeeland voor haar eerste retourreis naar Batavia. Ze was 19-7-1747 terug in Nederland.</p> <p>De tweede uitreis ging naar Ceylon (27-5-1748) Daar kwam ze aan 26-3-1749.</p> <p>Op haar laatste reis was de De Zeelandia onderweg van Batavia naar China. Ze is daar nooit aangekomen. Ergens in d Zuid Chinese zee is de Zeelandia verongelukt in 1749. <a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=848&amp;accessor=search_in_text&amp;source=11&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text\">(Gen Missiven 11,837</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94494\">DAS 3421.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0226?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=848&amp;accessor=search_in_text&amp;source=11&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%2\">Generale missiven Deel 11, 837.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

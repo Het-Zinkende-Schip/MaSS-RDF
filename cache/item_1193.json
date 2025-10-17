@@ -1,0 +1,27 @@
+{
+  "id": "1193",
+  "code": "lakenman",
+  "name": "Lakenman",
+  "type": "wreck",
+  "lat": "-33.9241000",
+  "lon": "18.4343000",
+  "location": "Woodstock Beach, Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1718",
+  "firstyearend": null,
+  "lastdate": "1722-06-17",
+  "lastyear": "1722",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-09 14:16:15",
+  "modified_on": "2024-07-10 15:58:57",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Lakenman</strong></em> was een fluitschip in dienst van de VOC vanaf 1718 tot 1722.</p> <p>Ze maakte &eacute;&eacute;n retourreis naar Azi&euml;. Op haar tweede uitreis (vertrek Texel 15-12-1721) verging het schip in de Tafelbaai (Kaapstad). <br>Ze kwam daar aan op 6 juni.&nbsp;In de nacht van 16 op 17 juni 1722 stak er een zware storm op. Het water in de Tafelbaai werd hoog opgestuwd waardoor alle aanwezige schepen van hun anker sloegen. In een half uur tijd vergingen zes VOC schepen (Standvastigheid, Rotterdam, Schotse Lorredraaier, Lakenman, Zoetigheid en de hoeker Gouda) en drie Engelse schepen.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/72/file/NL-HaNA_1.11.06.18_72_0102?eadID=1.11.06.18&amp;unitID=72&amp;query=\">*</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf Enkhuizen, 1718<br><br><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Herman Branus</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>150</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/72/file/NL-HaNA_1.11.06.18_72_0093?eadID=1.11.06.18&amp;unitID=72&amp;query=\">NL-HaNA_1.11.06.18_72_0093 Daggregister Zuid Afrika.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=177&amp;accessor=search_in_text&amp;source=8&amp;view=&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%\">Generale missiven Deel 8, 166.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stories and Archives [Unpublished].</em></li><li><em>SAHRA Database.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

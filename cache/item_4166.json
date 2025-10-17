@@ -1,0 +1,27 @@
+{
+  "id": "4166",
+  "code": "zwanenburg",
+  "name": "Zwanenburg",
+  "type": "wreck",
+  "lat": "52.2246110",
+  "lon": "2.8023460",
+  "location": "New Anchorage, Noorzee",
+  "firstdate": null,
+  "firstyear": "1661",
+  "firstyearend": null,
+  "lastdate": "1665-06-13",
+  "lastyear": "1665",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2024-02-17 18:57:16",
+  "modified_on": "2025-07-25 13:27:50",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Zwanenburg</strong></em> was een fregat gebouwd in Veere door scheepsbouwer Geleyn Keyser.</p> <p>Tijdens de Tweede Nederlands-Engelse oorlog (1665-1667) was de Nederlandse vloot naar Groot Brittanni&euml; overgestoken op zoek naar de Engelse vloot onder admiraal James Stuart. De Zwanenburg kwam pas op 12 juni 1665 bij de vloot aan.&nbsp;Een dag later vond de zeeslag plaats. De Nederlandse vloot was verdeeld in 7 eskaders (<a href=\"https://cultureelerfgoed.info/mass/?file=00000069.jpg\">lijst van schepen</a>).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004100.png\" alt=\"Een zwart-wit tekening van een zeeslag met veel rookwolken die van de schepen afkomen.\"></figure> <p class=\"figcaption\">Detail van <a href=\"https://archive.org/details/gri_33125011133994/page/253/mode/1up?view=theater\">prent (fol: 252)</a> met de verbranding van de Zwanenburg, Ter Goes en de Maarseveen (4) door de Engelse brander (5) uit Leven en bedrijf van Cornelis Tromp.</p> <p>Toen het vlaggenschip de Eendracht ontplofte keerde de krijgskansen en nam de wanorde in de Nederlandse gelederen toe. De Zwanenburg ingedeeld in het 6e eskader onder vice-admiraal Evertsen kwam vast te zitten in de boegspriet van de Maarseveen. Ook de Ter Goes overkwam dit.</p> <p>De drie schepen dreven als <em>verloren schapen</em>. De Britten zagen dit ook en stuurden een brander. De net beteerde Zwanenburg en Ter Goes vatten meteen vlam waardoor ook de Maarsenveen in brand raakte. Alle drie ontploften. (Tromp, 252)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Veere 1661<br>Bewapening: 4 x12, 24 x 6, 2 x3 Ponder</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Cornelis Cuyper</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=1653\">threedecks.org.</a></li><li><a href=\"https://archive.org/details/gri_33125011133994/page/252/mode/2up?view=theater\">Leven en bedrijf van den vermaarde zeeheld Cornelis Tromp, 252.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

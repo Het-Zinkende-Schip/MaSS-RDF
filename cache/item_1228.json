@@ -1,0 +1,27 @@
+{
+  "id": "1228",
+  "code": "schellach-1736",
+  "name": "Schellach",
+  "type": "wreck",
+  "lat": "-5.9067912",
+  "lon": "123.8560753",
+  "location": "Pulau Lentea, ter hoogte van, Indonesië",
+  "firstdate": null,
+  "firstyear": "1736",
+  "firstyearend": null,
+  "lastdate": "1752-06-10",
+  "lastyear": "1752",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-19 11:02:27",
+  "modified_on": "2025-02-22 15:07:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Schellach</em></strong> werd in 1748 tijdens de terugreis van Japan op de Coromandelkust door de Fransen veroverd en naar Pondicherry opgebracht. Inmiddels was de vrede getekend (Vrede van Aken, 17 oktober 1748) en moesten de Fransen het schip teruggeven aan de VOC.</p> <p>Het schip vertrok op 6 juni 1752 uit Banda met een lading specerijen. Op 10 juni liep ze in de nacht op een rif bij het eiland 't Groene woud ten zuidoosten van Bouton.<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=12&amp;page=503&amp;view=&amp;accessor=search_in_text&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D6%26source%3D11%26id%3Dsearch_in_text\">&sup2;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Middelburg, in 1736 <br>Lengte: 145 voet<br>Laadvermogen: 425 last (DAS 3405.5)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94478\">DAS 3405.5.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=12&amp;page=283&amp;view=imagePane&amp;accessor=search_in_text&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D6%\">Generale missiven Deel 12, 272, 492.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

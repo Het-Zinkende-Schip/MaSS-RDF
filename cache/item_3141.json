@@ -1,0 +1,27 @@
+{
+  "id": "3141",
+  "code": "arend-2",
+  "name": "Arend",
+  "type": "wreck",
+  "lat": "51.4363226",
+  "lon": "3.3967148",
+  "location": "Noordzee , Nederland",
+  "firstdate": null,
+  "firstyear": "1670",
+  "firstyearend": null,
+  "lastdate": "1673-06-07",
+  "lastyear": "1673",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2023-10-16 12:00:14",
+  "modified_on": "2025-06-16 19:02:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Arend</em></strong> was een als brander ingericht schip die in de eerste slag bij Schoonveld op 7 juni een Franse brander vernietigde die op haar beurt het Zeeuwse schip Ter Veere in brand probeerde te zetten. Beide branders gingen verloren.</p> <p><em>Marinus Willemszoon, Kommandeur op het Zeeuwsche brandtschip den Arent, heeft het zelve aan een vyandtlyken brander, die in staat en op het punt was om 't schip ter Veere, 't welk gevoert werdt door Kapitein Kiela, aan boordt te klampen, gelukkelyk besteedt, zulks dat beide de branders t'zaamen zyn verbrandt, en Marinus 't loon verdiende dat op 't vernielen der vyandtlyke branders was gestelt.(Brand, XIV, 802)</em></p> <p><strong>Eerste Slag bij Schooneveld<br></strong>De Eerste Slag bij het Schooneveld was een van de twee zeeslagen bij het Schooneveld tijdens de Derde Engels-Nederlandse Oorlog. De eerste slag, die voor de Nederlandse kust gevoerd werd, vond plaats op 7 juni 1673. De Frans-Engelse vloot onder leiding van Ruprecht van de Palts werd in de twee slagen door luitenant-admiraal-generaal Michiel de Ruyter verslagen. Deze overwinningen, samen met de Slag bij Kijkduin, behoedden de Republiek der Zeven Verenigde Nederlanden voor een Engels-Franse invasie.&nbsp;(<a href=\"https://nl.wikipedia.org/wiki/Eerste_Slag_bij_het_Schooneveld\">wikipedia</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Marinus Willemszoon</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0017.php\">Het leven en het bedrijf van den Heere Michiel de Ruyter, XIV, 802.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

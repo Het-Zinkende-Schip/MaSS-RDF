@@ -1,0 +1,27 @@
+{
+  "id": "3076",
+  "code": "molenaarsgraaf",
+  "name": "Molenaarsgraaf",
+  "type": "wreck",
+  "lat": "51.8672488",
+  "lon": "4.8495187",
+  "location": "Molenaarsgraaf, Nederland",
+  "firstdate": null,
+  "firstyear": "-2500",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-2000",
+  "lastyearend": "2000",
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-05-31 19:15:07",
+  "modified_on": "2025-06-15 21:06:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De boomstamboot van Molenaarsgraaf is aangetroffen in een gebied met hogere stroomruggen die er ten tijde van de ondergang aanwezig waren en mogelijk nog steeds deels zichtbaar/aanwezig zijn.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In Molenaarsgraaf is door het Rijksmuseum van Oudheden een fragment van een boomstamboot aangetroffen die dateert uit de periode 2500-2400 voor Christus. Het fragment is 2,35 meter lang en 45 centimeter breed.</p> <p>Het fragment is opgegraven:</p> <p>Louwe Kooijmans, L.P.<br>Titel:&nbsp;Molenaarsgraaf, p. 123<br>Jaar:1966<br>Reeks:Bulletin van de (Koninklijke) Nederlandse Oudheidkundige</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>2 &frac14; voet (0,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>0 &frac34; voet (0,2 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De boot is later verplaatst naar Ketelhaven.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://historiek.net/van-boom-tot-boot-boten-uit-de-prehistorie/128145/\">Van boom tot boot – Boten uit de prehistorie.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

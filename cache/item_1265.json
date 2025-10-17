@@ -1,0 +1,27 @@
+{
+  "id": "1265",
+  "code": "trompenburg",
+  "name": "Trompenburg",
+  "type": "wreck",
+  "lat": "-6.8848287",
+  "lon": "109.8353098",
+  "location": "Java, noordkust , Indonesië",
+  "firstdate": null,
+  "firstyear": "1778",
+  "firstyearend": null,
+  "lastdate": "1788-05-06",
+  "lastyear": "1788",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-30 13:21:12",
+  "modified_on": "2024-11-11 10:47:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Trompenburg&nbsp;</em> vertrok op 23 augustus 1780 naar Batavia (Jakarta) waar ze op 12 mei 1781 aankwam. Het schip bleef dienstdoen in Azi&euml;.</p> <p>In 1788 is het als '<em>afgevaren</em>' gekwalificeerd schip alleen nog te gebruiken om hout te vervoeren. Tijdens een dergelijke reis is het schip verongelukt op de noordkust van Java.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p><br>Gebouwd: Oosterburg, Amsterdam 1778<br>Lengte: 150 vt<br>Tonnage: 575 last (1150 ton)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95431\">DAS 4380.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/3914/file/NL-HaNA_1.04.02_3914_0175?eadID=1.04.02&amp;unitID=3914&amp;query=3914\">NL-HaNA_1.04.02_3914_0175.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

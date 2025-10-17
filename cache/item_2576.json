@@ -1,0 +1,27 @@
+{
+  "id": "2576",
+  "code": "steam-barge-unidentified",
+  "name": "Steam barge (unidentified)",
+  "type": "wreck",
+  "lat": "54.3864355",
+  "lon": "10.1884460",
+  "location": "Kieler Förde, Duitsland",
+  "firstdate": null,
+  "firstyear": "1909",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1945",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-26 20:50:17",
+  "modified_on": "2025-07-11 14:27:22",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>In 2013, the Waterways and Shipping Office (WSA: <em>Wasser - und Schifffahrtsamt</em>) reported to have salvaged a steam generator in Kiel Fjord in an area of high maritime traffic.</p> <p>Scientific divers of the University of Kiel checked the wrecksite at a depth of 12 metres. They encountered only scattered remains of brass conduits partially covered by silty sands. A light depression indicated the former location of the generator.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>A plate with the engraving <em>\"Actien-Gesellschaft Weser 1909\"</em> (literally: stock-corporation Weser 1909) was fixed on the steam generator, indicating the approximate date and origin of the steam barge.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002611.png\" alt=\"The image probably shows the steam generator of a steamboat or steam freighter\"> <div class=\"img-source\">Huber 2014, Unterwasserarch&auml;ologische, nicht-invasive Prospektionsund Dokumentationsverfahren in schwierigen maritimen und limnischen Gew&auml;ssern (Dissertation, Univ. Kiel)</div> </figure> <p>The <em>Actien-Gesellschaft Weser</em> was a shipyard founded in 1872 in Bremen, which built ships for both civil use as well as the Imperial Navy of the German Empire.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The fact that the WSA salvaged the generator as \"scrap\" highlights the problem of authority overreach. In Schleswig-Holstein all wrecksites up to 1945 are automatically protected as historical monuments by the<em> ipsa lege</em> principle, meaning, that they do not have to be known to the competent authority - the State Archaeology Department of Schleswig-Holstein (ALSH) - in order to be protected. The WSA failed to notify the ALSH of the find and the planned salvage in this instance. What may be \"scrap\" to some, is material cultural heritage to others.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Huber, F. (2014).<br /><em>Unterwasserarchäologische, nicht-invasive Prospektions- und Dokumentationsverfahren in schwierigen maritimen und limnischen Gewässern (=Dissertation).</em><br />Christian-Albrechts-Universität zu Kiel.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

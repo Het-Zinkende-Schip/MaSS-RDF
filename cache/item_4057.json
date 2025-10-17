@@ -1,0 +1,27 @@
+{
+  "id": "4057",
+  "code": "oh92",
+  "name": "OH92",
+  "type": "wreck",
+  "lat": "52.5780300",
+  "lon": "5.6989450",
+  "location": "Swifterbant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1890",
+  "lastyearend": "1910",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:04:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Op kavel H92 is in september 1962 bij toeval een scheepswrak gevonden door een medewerker van de Oudheidkundige Afdeling. Het was door een draineermachine aan het licht gekomen, maar het wrak is toen niet formeel gemeld zoals de bedoeling was. Verder bleek dat er daarna door nieuwsgierigen in was gegraven en dat het door een ploeg geraakt was, waardoor de scheepsrest zeer beschadigd geraakt was. Op het maaiveld werden een roer en een voorsteven aangetroffen. Van een landbouwkundig opzichter werd vernomen dat door diens ploegbaas al resten van een scheepszwaard en een lier naar het zanddepot op H93 waren gesleept, alwaar ook een wagen met losgetrokken stukken scheepshout werd aangetroffen. Enkele stukken ijzerwerk werden daarvan meegenomen. Omdat het wrak niet heel oud leek te zijn, en gezien de grote schade, werd het niet aangemerkt voor systematische opgraving, maar wel werd opgedragen de scheepsrest uit te graven ter berging van de vondsten. Ondanks de schade kon uit het resterende deel van het vlak van het schip nog wel worden afgeleid, dat het praamachtige kenmerken vertoonde. &Eacute;&eacute;n scheepszwaard was nog in de bodem aanwezig. Na de uitgraving zijn de resten van het schip verwijderd.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x64-rdp4\">Opgravingsdocumentatie scheepswrak OH92.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

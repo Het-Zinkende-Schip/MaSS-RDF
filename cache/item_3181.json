@@ -1,0 +1,27 @@
+{
+  "id": "3181",
+  "code": "krimpenerwaard",
+  "name": "Krimpenerwaard",
+  "type": "wreck",
+  "lat": "-33.9643965",
+  "lon": "25.6321949",
+  "location": "Near Baakens river mouth, Algoa Bay, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1857",
+  "firstyearend": null,
+  "lastdate": "1867-08-12",
+  "lastyear": "1867",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-23 13:45:09",
+  "modified_on": "2025-06-16 20:05:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het schip KRIMPENERWAARD, kapt. Kluit, van Batavia naar Nederland met schade in de Algoabaai binnengelopen - bevorens gemeld - wordt volgens brief uit Kaap de Goede Hoop, dd. 16 augustus gemeld, dat door arbiters voor hulploon aan het stoomschip CELT was toegestaan GBP 3000. Verder houdt gemelde missive in dat het schip sedert in een zuidooster storm op strand geraakt en totaal weg is. Het wrak met de zich aan boord bevindende lading, 1300 balen koffie, 1000 kranjangs suiker en enig tin, zijn voor GBP 310 verkocht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Jan van Duyvendijk Teuniszoon, Lekkerkerk</p> <p>Eigenaar: firma Slingeland &amp; Lehr, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kluit, Hendrik Pieter</td></tr><tr><th scope=\"row\">Lengte</th><td>132 voet (40,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>24 &frac12; voet (7,5 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 &frac14; voet (5,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>612 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=15321\">marhisdata id 15321.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><em>SAHRA Database.</em></li><li>George Lourens Kiers.<br /><a href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/George_Lourens_Kiers_-_Een_gestrand_barkschip_-_S.4069%28a%29_-_Het_Scheepvaartmuseum.jpg/640px-George_Lourens_Kiers_-_Een_gestrand_barkschip_-_S.4069%28a%29_-_Het_Scheepvaartmuseum.jpg\">Een Gestrand Barkschip.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

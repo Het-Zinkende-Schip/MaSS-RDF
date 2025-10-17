@@ -1,0 +1,26 @@
+{
+  "id": "2550",
+  "code": "eastland",
+  "name": "Eastland",
+  "type": "site",
+  "lat": "41.8872102",
+  "lon": "-87.6320708",
+  "location": "Chicago, Verenigde Staten",
+  "firstdate": null,
+  "firstyear": "1902",
+  "firstyearend": null,
+  "lastdate": "1915-07-24",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Verenigde Staten",
+  "countrycode": "US",
+  "author": "Daniel Zwick",
+  "created_on": "2021-04-27 11:04:44",
+  "modified_on": "2025-06-14 16:30:20",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>SS EASTLAND was a steam passenger ship launched in May 1903 for the Michigan Steamship Company for tours on the Great Lakes. Throughout her career listing incidents were recorded and measures implemented to improve her hydrostatic stability, e.g. by lowering the maximum number of passengers and by removing parts of the superstructure. The vessel changed ownership several times.</p> <p><strong>Eastland disaster<br></strong>Eventually, the vessel's construction error proved fatal, for which the ship is best known for: the Eastland disaster on 24 July 1915, in which the vessel developed a list and capsized shortly thereafter at her moorings in the Chicago River, after she had reached her capacity of 2,572 passengers. Although the ballast tanks were flooded, the number of passengers on the upper decks made the vessel too top-heavy. While the latter could easily escape from the rolled-over vessel, 844 passengers and 4 crew members were trapped inside the hull with no hope of escape and drowned. This incident is known as the largest loss of life from a single shipwreck on the Great Lakes.</p> <p><iframe src=\"https://www.youtube-nocookie.com/embed/S0gkGYaXlKw\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p> <p>After the accident, SS Eastland was raised and recommissioned as USS WILMETTE for the Great Lakes Naval Base and mainly served for reserve training missions until she was decomissioned in 1945 and scrapped in 1946-47.</p></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The accident is commemorated by a plaque at the river bank.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Myers, Q. (WTTW).<br /><a href=\"https://news.wttw.com/2019/07/25/new-documentary-revisits-chicago-s-deadliest-day\">New Documentary Revisits Chicago’s ‘Deadliest Day’.</a></li><li>Bonansinga, J.  (2004).<br /><em>The Sinking of the Eastland: America's Forgotten Tragedy.</em><br />Citadel Press.</li><li>Dial, C. P.Perry (2016).<br /><em>Only the River Remains: History and Memory of the Eastland Disaster in the Great Lakes Region, 1915 – 2015.</em><br />Western Michigan University.</li><li>Hilton, G. (1997).<br /><em>Eastland: Legacy of the Titanic.</em><br />Stanford University Press.</li><li>McCarthy, M. (2014).<br /><em>Ashes Under Water: The SS Eastland and the Shipwreck that Shook America.</em><br />Lyons Press.</li><li>Wachholz, T. (2005).<br /><em>The Eastland Disaster.</em><br />Arcadia Publishing.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

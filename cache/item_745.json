@@ -1,0 +1,27 @@
+{
+  "id": "745",
+  "code": "hoop-2",
+  "name": "Hoop",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Brazilië",
+  "firstdate": null,
+  "firstyear": "1625",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-03 13:53:41",
+  "modified_on": "2025-05-23 10:55:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>On the 30th of August 1638, a sea battle between a part of the Spanish Tierra Firme fleet under the command of Carlos de Ibarra and a WIC fleet under command of Admiral Cornelis Jol was fought near the west coast of Cuba, Organos.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Built: Middelburg</p> <p>WIC Chamber Zeeland</p> <p>Complement: 60</p> <p>Tonnage: 250 last</p> <p>Armament: 4 -16 -8</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Still operational 1639 according to the list of Johan Maurits, but not anymore in 1640.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>De Laet, Kort Verhael.</em></li><li>NA, Den Haag, OWIC, 1.05.01.01, 57.185.<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000263.pdf\">Lijst van schepen en jachten te Brazilië. [1639].</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

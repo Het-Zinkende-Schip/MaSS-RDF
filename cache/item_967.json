@@ -1,0 +1,27 @@
+{
+  "id": "967",
+  "code": "enkhuizen-1742",
+  "name": "Enkhuizen",
+  "type": "wreck",
+  "lat": "51.1411608",
+  "lon": "2.1747437",
+  "location": "Vlaamse bank, België",
+  "firstdate": null,
+  "firstyear": "1735",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1742",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-28 12:31:07",
+  "modified_on": "2025-06-20 10:35:39",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>Het VOC schip 'Enkhuizen' </em>werd gebouwd in 1735 voor de VOC kamer Enkhuizen.<br>Ze maakte twee uitreizen.(<a href=\"https://www.vocsite.nl/schepen/10319/\">VOC site</a>).</p> <p>Ze ging in 1742 rechtstreeks van China via de Kaap (vertrek vandaar 12-6-1742) naar Nederland.&nbsp;Op die reis is ze vergaan ter hoogte van de Vlaamse banken volgens de lijst van alle zodanige schepen.<a href=\"https://cultureelerfgoed.info/mass/?file=00000253.jpg\">*</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf in Enkhuizen in 1735&nbsp;<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>145 Amsterdamse&nbsp;voet (41,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94218\">Details of voyage 3180.2 from Texel to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0051?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 48.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

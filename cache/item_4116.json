@@ -1,0 +1,27 @@
+{
+  "id": "4116",
+  "code": "np83",
+  "name": "NP83",
+  "type": "wreck",
+  "lat": "52.6645070",
+  "lon": "5.7959200",
+  "location": "Ens, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 16:22:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1948 werd de vondst gemeld van een scheepswrak op kavel P83 in de Noordoostpolder. Aan de landbouwkundig opzichter werd door (maritiem) archeoloog Gerrit (G.D.) van der Heide medegedeeld: \"Aan de hand van de zij het sporadische vondsten uit dit scheepje - wij hebben hieruit enkele stukken aardewerk kunnen verzamelen, uit welke resten wij een geglazuurd bordje en een paar deels of geheel geglazuurde testjes kunnen samenstellen - kunnen wij niet tot een scherpe datering komen, maar stellig is het scheepje zeventiende eeuws. Voor de datering van de grondlagen is de opgraving voor ons van betekenis geweest daar zij ons de mogelijkheid geeft een jaartal te plaatsen bij de overgang tussen brak- en zoutwaterafzettingen. Dit was ons tot nu toe niet gelukt. Het bevestigde tevens onze gedachte dat deze overgang snel in haar werk gegaan moet zijn.\"</p> <p>Zelf noteerde Van der Heide in zijn verslag de volgende (voorlopige) conclusies: \"Het scheepswrak, gevonden op P. 83 is een vissersscheepje met bun, dat vergaan moet zijn in de zeventiende eeuw. Een preciese dateringsmogelijkheid heeft het wrak niet opgeleverd doch nadere bestudering van het in net schip gevonden aardewerk wanneer dit gerestaureerd is kan door vergelijking met materiaal uit andere schepen misschien een iets nauwkeuriger datering opleveren. Deze datering toch is van groot belang voor de sedimentatiegeschiedenis. Het wrak bleek te zijn vergaan ten tijde van de overgang van de Zus-fase in de fase der Zu III afzettingen van de Zuiderzee, d.w.z. op het einde van de brakwaterfase of in net begin van de mariene fase. Het scheepje heeft gevist in een vrijwel marien milieu, waarvan de vangst, in de bun in de vorm van skeletten en afdrukken in de ingespoelde grond aanwezig, getuigen. De opgraving geeft tevens aan dat de fase der brakwaterafzettingen (Zus-fase) kort van duur geweest zal zijn - hoewel de duur nog niet juist bepaald kon worden,- en bovendien vormt zij nogmaals een bevestiging - nu ook voor een iets zuidelijker gedeelte van de Noordoostpolder - van de juistheid van de datering van het begin van de Zus-fase.\"</p> <p>De botresten van vis uit de bun bleken overwegend van schol of bot te zijn, met &eacute;&eacute;n skeletrest van een kleine tong. Dat was overigens niet het enige botmateriaal dat bij de opgraving werd gevonden. Naast enkele beenderen van paard en schaap werd ook een scheenbeen van een mens aangetroffen. Geen van deze is echter bewaard gebleven in het Nationaal Scheepsarcheologisch Depot te Lelystad te Lelystad. Verder werden vooral roodbakkend aardewerken voorwerpen gevonden en de resten van een leren schoen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zyq-fae4\">Opgravingsdocumentatie scheepswrak NP83.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

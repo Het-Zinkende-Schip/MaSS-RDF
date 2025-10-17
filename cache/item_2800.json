@@ -1,0 +1,27 @@
+{
+  "id": "2800",
+  "code": "zeepaard-1819",
+  "name": "Zeepaard",
+  "type": "wreck",
+  "lat": "-34.0363000",
+  "lon": "25.4939000",
+  "location": "Holland Reef, Sardinia bay, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1817",
+  "firstyearend": null,
+  "lastdate": "1823-05-07",
+  "lastyear": "1823",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-02-25 15:01:44",
+  "modified_on": "2025-07-17 10:46:57",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Zeepaard was gestationeerd in Nederlands Indi&euml; van 1815.</p> <p>1823 vertrok het schip naar Nederland. Ze leed schipbreuk op de Zuid Afrikaanse kust.</p> <p>29 maart 1823 tijdens dichte mist kwam het Zeepaard te dicht bij de kust en liep op de klippen bij wat nu Sardinia bay is ten zuiden van Gqubhera.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>A. Reynes</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>180</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://thecasualobserver.co.za/port-elizabeth-yore-sinking-zeepaard/\">The Sinking of the Zeepaard.</a></li><li>Theunissen J.B.N. (1824).<br /><a href=\"https://books.google.nl/books?id=UOFaAAAAQAAJ&amp;printsec=frontcover&amp;dq=Aanteekeningen+eener+reis+door+de+binnenland+van+Zuid+Afrika&amp;hl=nl&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=Aanteekeningen%20eener%20reis%20door%20de%20binnenland%20van%20Zuid%20Afrika&amp;f=false\">Aanteekeningen eener reis door de binnenlanden van Zuid Afrika.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Zeepaard&amp;coll=ddd&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C19e_eeuw%7C1820-1829%7C1824%7C&amp;facets%5Bperiode%5D%5B%5D=2%7C19e_eeuw%7C1820-1829%7C1825%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;identifier=ddd:010919786:mp\">Leidse Courant 2-1-1824.</a></li><li><em>SAHRA Database.</em></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><a href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dutch_Corvette_Djambi_%281860-1874%29.jpg/640px-Dutch_Corvette_Djambi_%281860-1874%29.jpg\">Dutch Corvette Djambi.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

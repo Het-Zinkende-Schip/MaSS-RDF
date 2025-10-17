@@ -1,0 +1,27 @@
+{
+  "id": "727",
+  "code": "aap",
+  "name": "Aap",
+  "type": "wreck",
+  "lat": "12.0098596",
+  "lon": "72.2098108",
+  "location": "Lakshadweep ca., India",
+  "firstdate": null,
+  "firstyear": "1664",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1669",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-28 17:45:59",
+  "modified_on": "2024-11-07 07:35:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Aap </em>was een hoeker aangekocht door de VOC kamer Amsterdam in 1664.</p> <p>De hoeker vertrok uit Goeree op 16-2-1665 met bestemming Surat een belangrijke haven stad in het Indiase Mogul rijk. De VOC had daar handelskantoor. De Aap kwam daar aan op 16 september 1665.</p> <p><strong>Laatste reis<br></strong>De Aap vertrok in februari 1669 uit de haven van <em>Cochin</em> (het moderne Kochi, India) met een lading peper bestemd voor Perzi&euml;. In Cochin zetelde namens de VOC een commandeur, die de gehele Malabarkust bestuurde.</p> <p>De Aap kwam echter nooit op z'n bestemming aan In het dagregister 1670 staat te lezen dat men aannam dat het schip vergaan is ter hoogte van de Baixos de Padna. (<a href=\"https://archive.org/details/daghregistergeh00kologoog/page/n133/mode/2up?q=Aep\">Dagregister 24 juli 1670</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92148\">Details of voyage 1031.1 from Maas to Surat.</a></li><li><a href=\"https://archive.org/details/daghregistergeh00kologoog/page/n133/mode/2up?q=Aep\">Dagregister Batavia 24-7-1670.</a></li><li>NA 1.04.01.01. 551, folio 2.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0005?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">Lijst van alle zoodanige Schepen in soorten als bij de Generale Oostindische Compagnie zijn gemaekt oft gekocht als gehuurt alsmede waer oft de zelfde zijn agter gebleven ofte verongelukt als genoomen en verbrand, vermist of afgelegt.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

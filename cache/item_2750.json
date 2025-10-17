@@ -1,0 +1,27 @@
+{
+  "id": "2750",
+  "code": "raaf-1696",
+  "name": "Raaf",
+  "type": "wreck",
+  "lat": "54.8368465",
+  "lon": "3.2218459",
+  "location": "Doggersbank",
+  "firstdate": null,
+  "firstyear": "1696",
+  "firstyearend": null,
+  "lastdate": "1706-10-02",
+  "lastyear": "1706",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-06 16:44:58",
+  "modified_on": "2025-06-14 21:17:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Raaf</strong> </em>was vlaggenschip van 6 konvooiers die 70 koopvaarders begeleiden van de Oostzee en Noorwegen naar Nederland.</p> <p>Het konvooi werd aangevallen door 7 Franse schepen onder commandeur C. Forbin. De Raaf wordt ge&euml;nterd veel Fransen springen over. Tijdens het gevecht sneuvelt kapitein Adriaan Braak.</p> <p><strong>Raaf genomen<br></strong>De Fransen winnen en de vlag werd gestreken. Er was toen al brand uitgebroken. Het vuur bereikte de kruitkamer en de Raaf ontplofte.</p> <p>Alle Franse en Nederlandse opvarenden kwamen om.</p> <p>Een tweede Nederlands schip de Hardenbroek (50 stukken) moest zich overgeven. De <em>Groningen</em>, <em>Kampen</em>, <em>Edam</em> (alle 3; 44 stukken), <em>Grypskerke</em> (40) wisten te ontsnappen na de strijd. De 70 koopvaarders konden door de strijd veilig ontkomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 44 20 x 12 ponders, 20 x 6 ponders, 6x 4 ponders</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Braak, A.</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>NIHM.<br /><em>Raaf.</em></li><li><em>Geschiedenis van Nederland ter zee. Deel III, p. 714.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

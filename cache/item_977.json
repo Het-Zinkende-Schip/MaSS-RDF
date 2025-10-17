@@ -1,0 +1,27 @@
+{
+  "id": "977",
+  "code": "hazelnoot",
+  "name": "Hazelnoot",
+  "type": "wreck",
+  "lat": "44.6478134",
+  "lon": "-7.2685536",
+  "location": "Golf van Biscaje , Spanje",
+  "firstdate": null,
+  "firstyear": "1698",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1706",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-30 13:21:13",
+  "modified_on": "2025-03-24 17:34:01",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <strong><em>Hazelnoot</em></strong> begon haar eerste uitreis op 17 november 1703 van Texel naar Batavia. Ze bleef vervolgens tot 1706 in de Indonesische archipel.<br>Het kleine galjoot vertrok uit Batavia (2 april 1706): <em>door de hooge Indische regering direct na het patria is geprojecteerd.</em> Door een zware storm verloor ze hoofdmast en bezaan rondhout en zeilen tussen kaap Aghuilhas en Baai False.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/56/file/NL-HaNA_1.11.06.18_56_0148?eadID=1.11.06.18&amp;unitID=56&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">&sup1;</a> De Hazelnoot was aldus gedwongen de Kaap aan te doen(6 juni 1706)</p> <p>Na de nodige reparaties vertrok ze op 5 juli 1706 en bereikte Europa maar werd vermist in de Golf van Biskaje (de Spaanse zee).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd op een werf in Amsterdam in 1694&nbsp;<br>Bemanning: 25 koppen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>60 Amsterdamse&nbsp;voet (17 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>130 ton (65 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97038\">DAS 6152.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0075?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 72.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

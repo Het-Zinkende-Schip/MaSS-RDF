@@ -1,0 +1,27 @@
+{
+  "id": "2629",
+  "code": "oranjewoud",
+  "name": "Oranjewoud",
+  "type": "wreck",
+  "lat": "52.9678305",
+  "lon": "5.0798035",
+  "location": "Vlieter, Nederland",
+  "firstdate": null,
+  "firstyear": "1753",
+  "firstyearend": null,
+  "lastdate": "1758-07-08",
+  "lastyear": "1758",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-08-30 10:25:47",
+  "modified_on": "2025-06-14 17:55:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Oranjewoud was een gloednieuw gebouwd fregat onderweg van Enkhuizen naar de rede van Texel voor haar eerste opdracht. Het schip nam bij Wieringen ballast in. Waarop ze in de ochtend van 8 juli 1758 het anker lichte. Om ca. 13:090uur werd geconstateerd dat het voorschip begon te zinken. In allerijl werd ballast overboord gegooid maar dit hielp niet. Het schip verdween in de diepte. Van de 200 man aan boord verdronken 106 opvarenden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd : Enkhuizen, 1753<br>Bewapening 20</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Mijtens, Pieter</td></tr><tr><th scope=\"row\">Lengte</th><td>122 voet (37,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 voet (10,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004229.jpg?modifiedon=1720426535\" alt=\"scheepsdocumentatie NIMH\"> <div class=\"img-source\">NIMH</div> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Hans Eelman.<br /><a href=\"https://onh.nl/verhaal/restanten-van-het-fregat-oranjewoud\">Restanten van het fregat Oranjewoud.</a></li><li>NIMH.<br />NIMH.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

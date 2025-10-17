@@ -1,0 +1,27 @@
+{
+  "id": "1196",
+  "code": "mercuur",
+  "name": "Mercuur",
+  "type": "wreck",
+  "lat": "-5.8967924",
+  "lon": "105.5356581",
+  "location": "Besij Lampong , Indonesië",
+  "firstdate": null,
+  "firstyear": "1770",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1782",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-10 10:48:45",
+  "modified_on": "2025-06-10 11:38:14",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Mercuur is gezonken volgens de Indische navale macht in 1782,. <a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0232?eadID=1.04.02&amp;unitID=4935&amp;query=\">NA VOC 4935</a></p> <p>Brief aan de koning van Bantam, wegens het stranden van <em>De Mercuur en het begen van kanonnnen en andere zaken van het wrak.&nbsp;</em> afgelopen en verbrand bij Lampong Tilok.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Delfshaven , 1770<br>EIgenaar: VOC Kamer Delft, kamer Amsterdam (1775-1782)<br><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95438\">DAS 4387.5.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

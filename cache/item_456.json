@@ -1,0 +1,27 @@
+{
+  "id": "456",
+  "code": "anna-catharina",
+  "name": "Anna Catharina",
+  "type": "wreck",
+  "lat": "51.4346627",
+  "lon": "3.2052612",
+  "location": "18 km off the coast of Flushing/Vlissingen, België",
+  "firstdate": null,
+  "firstyear": "1728",
+  "firstyearend": null,
+  "lastdate": "1735-02-03",
+  "lastyear": "1735",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Annaliese Dempsey",
+  "created_on": "2014-03-13 00:00:00",
+  "modified_on": "2025-06-22 11:57:21",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <strong><em>Anna Catharina</em></strong> begon nog maar net aan haar derde reis naar Azi&euml;, samen met haar zusterschip&nbsp;<em>'t Vliegent Hert</em>, toen het schip op 3 februari 1735 een zandbank raakte op 18 kilometer van de kust van Vlissingen en onmiddellijk zonk. Samen met hun bemanningen vergingen beide schepen op die dag.</p> <h2>Archeologie</h2> <p>Het wrak van <em>'t Vliegent Hert werd</em> in september 1981 ontdekt, na een zoektocht van bijna drie jaar. Naast andere objecten werden er ook 2,000 gouden en 5,000 zilveren munten gevonden op de vindplaats. De twee schepen zonken ongeveer 6 kilometer van elkaar.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001125.jpg?modifiedon=1697110980\" alt=\"Some of the coins recovered from the wreck site of 't Vliegend Hart\"> <div class=\"img-source\">Muzeeum</div> <figcaption class=\"img-description\">Een aantal van de munten uit het wrak van 't Vliegent Hert.</figcaption> </figure> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001822.jpg\" alt=\"Een verbeelding van het vergaan van een ander VOC schip bij Vlissingen: Het kappen van de masten van de Woestduin\"> <div class=\"img-source\">Rijksmuseum Amsterdam</div> <figcaption class=\"img-description\">Een verbeelding van het vergaan van een ander VOC schip bij Vlissingen: Het kappen van de masten van de Woestduin, 1779, Arend Fokke Willems.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Werf: de VOC werf in Middelburg.</p> <p>Er zijn discrepanties in de scheepsgegevens in de bronnen.</p> <p>DAS: 850 ton, 256 bemanningsleden.</p> <p>VOC site: 600 ton (300 last), 100-150 bemanningsleden.</p> <p><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4936/file/NL-HaNA_1.04.02_4936_0116?eadID=1.04.02&amp;unitID=4936&amp;query=uitloopboek\">Uitloopboeken</a>: 100 last en 175 bemanningsleden.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jacob de Prinse</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>175</td></tr><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/94016\">DAS 2978.2.</a></li><li>NA_1.04.02_4936_0116.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4936/file/NL-HaNA_1.04.02_4936_0116?eadID=1.04.02&amp;unitID=4936&amp;query=uitloopboek\">Uitloopboek.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

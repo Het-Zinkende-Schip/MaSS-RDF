@@ -1,0 +1,26 @@
+{
+  "id": "3209",
+  "code": "spaans-lagoen-1000-bc",
+  "name": "Spaans Lagoen (+1000 BC)",
+  "type": "site",
+  "lat": "12.4682292",
+  "lon": "-69.9789005",
+  "location": "Spaans Lagoen, Aruba",
+  "firstdate": null,
+  "firstyear": "1000",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1000",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gendra Lacle",
+  "created_on": "2023-12-23 22:19:52",
+  "modified_on": "2025-06-15 16:53:23",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Al rond 4500 bp werden de ABC-eilanden ge&euml;xploiteerd door vissers en verzamelaars van de Venezolaanse of misschien zelfs Colombiaanse kust, die de eilanden bezochten vanwege hun rijke schelpdier bedden (dwz Lobatus gigas).</p> <p>Al in 1000 voor Christus vestigden zij tijdelijke kamp plaatsen op Aruba's Spaans Lagoen.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Edited by Basil A. Reid (2018).<br /><em>The Archaeology of Caribbean and Circum-Caribbean Farmers (6000 BC – AD 1500).</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

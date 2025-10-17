@@ -1,0 +1,27 @@
+{
+  "id": "2886",
+  "code": "heikina",
+  "name": "Heikina",
+  "type": "wreck",
+  "lat": "56.5400000",
+  "lon": "2.4700000",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1917-04-15",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-14 10:23:52",
+  "modified_on": "2025-06-15 12:09:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De zeillogger varende van London naar Christiana met man en muis vergaan.</p> <p>Ze is waar45schijnlijk tot zinken gebracht door een Duitse onderzeeer5 in een door de Duitsers verklaard spergebiet.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: tweemaster stalen schoener.</p> <p>Gebouwd: Scheepswerf J.J. Pattje &amp; Zonen, Waterhuizen<br>Eigenaar: Kruize &amp; zn. Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Bosselaar, J.</td></tr><tr><th scope=\"row\">Tonnage</th><td>157 ton (79 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Delpher.nl.<br /><a href=\" https://www.delpher.nl/nl/kranten/view?query=Heikina&amp;coll=ddd&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=1%7C20e_eeuw%7C1910-1919%7C&amp;identifier=ddd:010883056:mpeg21:a0020&amp;resultsidentifier=ddd:010883056:mpeg21:a0020&amp;rowid=1\">Nieuwsblad van het Noorden 15-11-1917.</a></li><li>Stichting Maritieme Historische Data.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=2738\">Heikina.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

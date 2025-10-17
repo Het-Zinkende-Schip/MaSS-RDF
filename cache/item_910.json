@@ -1,0 +1,27 @@
+{
+  "id": "910",
+  "code": "erfprins-1758",
+  "name": "Erfprins",
+  "type": "wreck",
+  "lat": "50.9961765",
+  "lon": "1.8910904",
+  "location": "Calais, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1750",
+  "firstyearend": null,
+  "lastdate": "1758-10-16",
+  "lastyear": "1758",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-11 16:49:02",
+  "modified_on": "2024-11-19 11:26:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <strong><em>Erfprins</em></strong> werd gebouwd in Delfshaven voor de VOC kamer Delft.</p> <p>Ze maakte twee succesvolle retourreizen.<a href=\"https://www.vocsite.nl/schepen/10323/\">*</a></p> <p>Haar derde uitreis begon op 4 oktober 1758. Op 16 oktober is De&nbsp;<em>Erfprins</em> bij Calais aan de grond gelopen en vergaan. Goederen en bemanning zijn gered. De schipper Jacob Welgevaren is gedegradeerd tot onderstuurman, de opperstuurman Adriaan Celou tot onderstuurman en de onderstuurman tot derde waak.(<a title=\"E-04_551\" href=\"https://cultureelerfgoed.info/mass/?file=00000254.jpg\" target=\"_blank\" rel=\"noopener\">Lijst</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Welgevaren, Jakob</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94790\">DAS 3739.3.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000254.jpg\">NA 1.04.01.01. 551-49, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

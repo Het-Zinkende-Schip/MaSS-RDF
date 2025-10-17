@@ -1,0 +1,27 @@
+{
+  "id": "1036",
+  "code": "loosduinen",
+  "name": "Loosduinen",
+  "type": "wreck",
+  "lat": "21.4542615",
+  "lon": "88.3388673",
+  "location": "Ganges Delta, India",
+  "firstdate": null,
+  "firstyear": "1659",
+  "firstyearend": null,
+  "lastdate": "1672-09-20",
+  "lastyear": "1672",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-09 10:46:11",
+  "modified_on": "2025-06-30 09:15:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In februari 1660 werden twee fluiten gekocht door de VOC. Dit waren de '<em>Vollenhoven'</em> en '<em>Loosduinen'</em>, bedoeld om ze in Aziatische wateren in te zetten. De romp van de Loosduinen werd voor &fnof; 9.500 aangekocht van een particuliere werf. (Ketting p. 47)<br>Vanaf augustus 1661 was de Loosduinen aanwezig bij het beleg en de verovering van Zeelandia op Taiwan door Chinese Ming leider Koxinga.</p> <p>De Loosduinen is vergaan op de Ganges op 20 september 1672; hierbij ontsnapten negen gevangen Fransen. Het grootste deel van de lading ter waarde van fl. 204,000 is verloren gegaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: particuliere werf in Amsterdam<br>Eigenaar: gekocht door VOC kamer Zeeland<br>Lengte 126&frac12; voet<br>Breedte 26&frac14; voet<br>Laadvermogen 170 last (340 ton)<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Res. kamer Amsterdam 1-4-1660.<br /><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/236/file/NL-HaNA_1.04.02_236_0245\">NL-HaNA_1.04.02_236_0239.</a></li><li>Ketting, H. (2006).<br /><em>Fluitschepen voor de VOC : balanceren tussen oncostelijckheijt en duursaemheijt.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

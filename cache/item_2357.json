@@ -1,0 +1,27 @@
+{
+  "id": "2357",
+  "code": "spanderswoud",
+  "name": "Spanderswoud",
+  "type": "wreck",
+  "lat": "53.0371670",
+  "lon": "4.8851395",
+  "location": "Texel, rede van, Nederland",
+  "firstdate": null,
+  "firstyear": "1744",
+  "firstyearend": null,
+  "lastdate": "1757-12-23",
+  "lastyear": "1757",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-03 11:51:13",
+  "modified_on": "2024-11-12 17:45:18",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Spanderswoud</em> maakte 6 retourreizen tussen 1744 en 1757.</p> <p>&nbsp;De laatste thuis reis begon 28-4-1757 . Ze kwam bij Texel aan op 11-12-1757</p> <p>Twaalf dagen na aankomst op 23 december 1757, brak er brand uit op de Spanderswoud. De meeste lading was van boord maar er was nog salpeter en wat peper waardoor het schip volledig uitbrandde.<a title=\"S-11_551\" href=\"https://cultureelerfgoed.info/mass/?file=00000127.jpg\" target=\"_blank\" rel=\"noopener\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1744<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pietersz., Nikolaas</td></tr><tr><th scope=\"row\">Lengte</th><td>136 Amsterdamse&nbsp;voet (38,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94740\">DAS 7503.6.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000127.jpg\">1.11.01.01.551 Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

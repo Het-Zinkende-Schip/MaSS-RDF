@@ -1,0 +1,27 @@
+{
+  "id": "3148",
+  "code": "bengalen",
+  "name": "Bengalen",
+  "type": "wreck",
+  "lat": "-7.1605629",
+  "lon": "112.6919503",
+  "location": "Westwater, Indonesië",
+  "firstdate": null,
+  "firstyear": "1932",
+  "firstyearend": null,
+  "lastdate": "1942-03-02",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-10-27 18:20:59",
+  "modified_on": "2025-07-25 12:46:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het MS <em><strong>Bengalen</strong></em> Ter voorkoming van in beslag neming door de Japanners werd de <em><strong>Bengalen</strong></em>, die niet voldoende bemanning had om uit te varen, in de avond van 2 maart 1942 in het <em>Wester vaarwater</em> op de westkust van Madoera tegenover Soerabaja, door de resterende bemanningsleden met een bom tot zinken gebracht en ging verloren.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003665.jpg\" alt=\"Zwart-wit foto van een lege haven, met grotere schepen op de achtergrond.\"> <div class=\"img-source\">tropenmuseum</div> <figcaption class=\"img-description\">De haven van Soerabaja, Tandjong Perak rond 1920</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Koninklijke Maatschappij 'De Schelde'. Scheepswerf en Machinefabriek, Vlissingen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>453 voet (138,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>55 voet (16,8 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>28 &frac14; voet (8,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>6924 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=886\">marhisdata id 886.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

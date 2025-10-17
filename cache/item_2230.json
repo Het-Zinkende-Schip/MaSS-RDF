@@ -1,0 +1,27 @@
+{
+  "id": "2230",
+  "code": "witsburg",
+  "name": "Witsburg",
+  "type": "wreck",
+  "lat": "22.7971714",
+  "lon": "88.3559414",
+  "location": "Palta Ghat, India",
+  "firstdate": null,
+  "firstyear": "1746",
+  "firstyearend": null,
+  "lastdate": "1754-10-02",
+  "lastyear": "1754",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-13 10:30:16",
+  "modified_on": "2025-06-11 19:21:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Witsburg</em> maakte twee reizen naar de oost. Een retoureis voor de VOC kamer Enkhuizen (28-7-1748 9-10-1751)</p> <p>Haar tweede (Goeree 24-7-1752) en laatste reis was voor de kamer Rotterdam.<a href=\"https://www.vocsite.nl/schepen/11199/\">&sup1;</a> Tijdens haar thuisreis van Bengalen is de Witsburg in een storm tussen 1 en 2 oktober 1754 op de rede van Cholta (Volta) in de Ganges rivier aan de grond gelopen en vergaan.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0213?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup2;</a></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004376.png\" alt=\"Op de kaart de rede van Volta . Tot hier konden grotere VOC schepen komen op weg naar Hougly in Bengalen\"> <div class=\"img-source\">Leiden Univ. COLLBN 006-14-018</div> <figcaption class=\"img-description\">Op de kaart de rede van Volta . Tot hier konden grotere VOC schepen komen op weg naar Hougly in Bengalen</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0213?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 210.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=624&amp;accessor=search_in_text&amp;source=12&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22\">Generale missiven Deel 12, 553, 613.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2302",
+  "code": "oranje-1667",
+  "name": "Oranje",
+  "type": "wreck",
+  "lat": "45.1758430",
+  "lon": "-25.7519531",
+  "location": "At sea",
+  "firstdate": null,
+  "firstyear": "1677",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1692",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-09 19:56:24",
+  "modified_on": "2025-03-26 14:56:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Gezonken in actie.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: linieschip 3th rate</p> <p>Gebouwd in Rotterdam door Salomon Janszoon van den Tempel, 1666</p> <p>Bewapening in 1667 met 50 kanonnen</p> <p>Vervangen in 1690 <br>14 x 18 ponders<br>40 x 12 <br>8 x 8 <br>4 x 4 <br>4 x 3</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hoeven, Cornelis v.d.</td></tr><tr><th scope=\"row\">Lengte</th><td>136 &frac14; voet (41,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>36 &frac34; voet (11,2 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J. (2014).<br /><em>Dutch warships in the age of sail (1600-1714).</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4132",
+  "code": "nr43",
+  "name": "NR43",
+  "type": "wreck",
+  "lat": "52.7168810",
+  "lon": "5.8684220",
+  "location": "Ens, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:48:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1948 werd een scheepswrak aangetroffen op kavel R43 in de Noordoostpolder. Nog datzelfde jaar werd het opgegraven middels de kwadrantenmethode, hoewel bleek dat het wrak reeds door arbeiders verstoord was en er een drainagesleuf doorheen was aangelegd. Het bleek te gaan om een praamachtig vrachtschip van 16,4 m lang, 3,54 m breed en een 1,1 m hol/diep. In het wrak bevond zich een lading blokken van Bentheimer zandsteen. Na de opgraving werden deze hergebruikt in de sokkels voor het Leeuwenmonument dat in Emmeloord werd geplaatst. In 1964 werden deze echter weer weggehaald, waarna de heer Togtema, pachter van kavel R43, verzocht de blokken terug te krijgen. Zo geschiedde, en de boerderij die de naam 'De 14 blokken' had gekregen (adres: Oosterringweg 4, Marknesse) werd van platen met inscripties voorzien die verhaalden van de herkomst van de blokken uit het scheepswrak gevonden op kavel R43.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xzf-wkka\">Opgravingsdocumentatie scheepswrak NR43.</a></li><li>Flevoland Erfgoed.<br /><a href=\"https://www.flevolanderfgoed.nl/home/erfgoed/noordoostpolder-2/scheepswrakken/scheepswrak-nr43.html\">Praam NR43.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "861",
+  "code": "agatha-1721",
+  "name": "Agatha",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indisch Oceaan",
+  "firstdate": null,
+  "firstyear": "1721",
+  "firstyearend": null,
+  "lastdate": "1726-01-01",
+  "lastyear": "1726",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-23 14:41:39",
+  "modified_on": "2025-02-19 17:49:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Agatha</em> vertrok op 12 juni 1722 vanuit Texel voor haar eerste reis naar Azi&euml;. Ze kwam aan in Batavia op 7 maart 1723.</p> <p><strong>Thuisreis&nbsp;<br></strong>De Agathe vertrok 20-11-1725 weer uit Batavia naar Nederland als onderdeel van de retourvloot. De retourvloot bestond uit de schepen Agatha, Amsterdam, Blijdorp, Mijnden, Oostrust, Patmos, Theodora, d' Uno, Valkenisse, Voorburg en Zoetelingskerke. En vertrok 2 -12 uit de straat Sunda voor de eerste etape naar de Kaap.<br><br><strong>Storm</strong><br>De vloot kwam op 1 januari 1726<em> in zwaar weder en storm op de hoogte van't eiland Madagascar.<br></em>Op 27-1-1726 kwamen 6 schepen van het eerste smaldeel van de retourvloot min of meer heelhuids bij de Kaap aan.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/76/file/NL-HaNA_1.11.06.18_76_0026?eadID=1.11.06.18&amp;unitID=76&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">&sup1;</a></p> <p>&nbsp;De Agatha, Theodora en de Voorburg zijn tijdens de storm vermist en vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: hekboot; kruising tussen een fluit en een pinas<br>Gebouwd: een werf in Enkhuizen, 1721<br>Laadvermogen: 300 last (600 ton)<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97509\">DAS 6644.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/14692/file/NL-HaNA_1.04.02_14692_0001?eadID=1.04.02&amp;unitID=14692&amp;query=\">NL-HaNA_1.04.02_14692_0001.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/76/file/NL-HaNA_1.11.06.18_76_0026?eadID=1.11.06.18&amp;unitID=76&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 27-1-1726.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

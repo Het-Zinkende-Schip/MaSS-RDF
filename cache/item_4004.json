@@ -1,0 +1,27 @@
+{
+  "id": "4004",
+  "code": "na59",
+  "name": "NA59",
+  "type": "wreck",
+  "lat": "52.8186350",
+  "lon": "5.7066660",
+  "location": "Rutten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:18:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1947 werd de vondst gemeld van een scheepswrak op kavel A59 in de Noordoostpolder. Onmiddellijk onderzoek was op dat moment niet mogelijk, dus bleef het wrak onaangeroerd. In 1953 kon een verkennend onderzoek plaatsvinden, waarna het echter van geen wetenschappelijke waarde werd geacht, en het wrak vervolgens is uitgegraven en verwijderd. Tekeningen zijn hierbij niet gemaakt. Wat voor type schip het geweest kan zijn is dan ook niet bekend, maar er werd gesteld dat het waarschijnlijk in de 18de of 19de eeuw is vergaan. Wel is enig vondstmateriaal geborgen, onder meer twee scheepsblokken en de resten van een kinderschoentje, dat naar Schokland is gebracht voor bewaring en thans deel uitmaakt van het Nationaal Scheepsarcheologisch Depot te Lelystad.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zzc-ntyk\">Opgravingsdocumentatie scheepswrak NA59.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

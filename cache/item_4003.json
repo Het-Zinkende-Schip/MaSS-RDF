@@ -1,0 +1,27 @@
+{
+  "id": "4003",
+  "code": "oa55",
+  "name": "OA55",
+  "type": "wreck",
+  "lat": "52.5293590",
+  "lon": "5.5009720",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:14:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Op kavel A55 in Oostelijk Flevoland, op 83,5 m uit hart wegsloot Havenweg en plm. 68 m uit hart sloot, zijn in 1963 de resten gevonden van een 40 meter lang, vrij compleet 17de-eeuws zeegaand vrachtschip. Op basis van het uitzonderlijke grote formaat is geopperd dat het wel om een VOC-schip zou kunnen gaan. Uit de verkenning bleek al dat men te maken had met scheepshout over een groot oppervlak, maar een directe noodzaak om op te graven ontbrak. In 1970 werden een deel van het achterschip en een deel van de stuurboordzijde vrijgegraven. Tot slot is het wrak in 1982 nogmaals onderzocht, waarna de vindplaats is ingekuild om ter plaatse in de grond goede conserveringsomstandigheden voor het wrak te bewerkstelligen. Een incomplete glazen vondst uit het wrak, aanvankelijk aangezien voor een zandloper, bleek een bepaald type ludiek drinkglas met meerdere buisjes te zijn: een zogenoemde kutrolf / guttrolf, ook wel knijpfles of angster genoemd. Sinds de verkenningen zijn er diverse initiatieven geweest om op de vindplaats een opgraving van het wrak voor ogen van publiek te realiseren, maar dit is tot op heden nog niet ten uitvoer gebracht.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x3w-nurp\">Opgravingsdocumentatie scheepswrak OA55.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

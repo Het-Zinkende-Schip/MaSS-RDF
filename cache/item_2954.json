@@ -1,0 +1,27 @@
+{
+  "id": "2954",
+  "code": "dirk",
+  "name": "Dirk (SCH 382)",
+  "type": "wreck",
+  "lat": "52.4148915",
+  "lon": "4.2333986",
+  "location": "Noordzee, t.h.v. Zandvoort, Nederland",
+  "firstdate": null,
+  "firstyear": "1902",
+  "firstyearend": null,
+  "lastdate": "1917-07-27",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2022-08-11 14:26:03",
+  "modified_on": "2025-06-15 14:20:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 27 juli werd op de Noordzee zo'n 19 mijl uit de kust ter hoogte van Zandvoort 6 visserschepen uit Scheveningen tot zinken gebracht door een Duitse U boot.</p> <p>Het waren: President Commisaris van den Berg (SCH 134), Sterna III (SCH 136), Dirk (SCH 382), Majoor Thomson (SCH 23), Jan (SCH 170) Dirk van Duijne (SCH 254).</p> <p>De bemanning van de Dirk werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: houten zeillogger<br>Gebouwd: Werf A. de Jong (Vlaardingen)</p> <p>Eigenaar: J. v/d Toorn Mz.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>81 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40018794\">Centraal_Visserijregister-40018794.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=%22Dirk%22&amp;cql%5B%5D=%28date+_gte_+%2226-07-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2201-08-1917%22%29&amp;redirect=true&amp;sortfield=date&amp;page=1&amp;facets%5Btype%5D%5B%5D=artikel&amp;identifier=MMCODA01:000153852:\">Nieuwe Apeldoornse courant.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?facets%5Btype%5D%5B%5D=artikel&amp;cql%5B%5D=%28date+_gte_+%2226-07-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2201-08-1917%22%29&amp;query=%22SCH+382%22&amp;coll=ddd&amp;redirect=true&amp;sortfield=date&amp;identifier=MMKB04:000187004:mpeg21\">De Maasbode (28-07-1917).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

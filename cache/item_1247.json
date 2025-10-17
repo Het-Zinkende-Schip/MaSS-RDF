@@ -1,0 +1,27 @@
+{
+  "id": "1247",
+  "code": "tonijn",
+  "name": "Tonijn",
+  "type": "wreck",
+  "lat": "-7.0253315",
+  "lon": "114.3100941",
+  "location": "Palua Sapudi, Indonesië",
+  "firstdate": null,
+  "firstyear": "1644",
+  "firstyearend": null,
+  "lastdate": "1646-09-12",
+  "lastyear": "1646",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-23 14:28:04",
+  "modified_on": "2024-12-17 12:47:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Tonijn<strong> </strong></em>deed dienst op de Intra-Aziatisch handelsroutes. Op haar laatste reis was ze onderweg van Solor naar Batavia. Het jacht liep op een rif bij het eilandje Sapudi bij Madura. Volgens het verslag door een navigatie fout. Besloten werd om het wrak te vernietigen en in brand te steken.</p> <p>Verslag:<br><em>'t Jacht de Tonijn is in 't herwaerts comen omtrent Madura aen 't eylant</em><br><em>Poude op een riff den 12 september passato seer achteloos verseylt en door de opperhooffden in brant gesteecken. Den schipper is met het schuiytjen ende 14 coppen hier aengecomen; de resterende 13 persoonen, daeronder den stierman nevens de thien stucqgens ijser canon, sijn met een vlot op Madure gestrant ende naer de stadt Mattarara gevoert.</em> (Gen Mis dl II, p. 288-289 )</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf in Amsterdam in 1644 <br>Tonnage: 25 last</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91761\">DAS 0644.1.</a></li><li>Coolhaas.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=301&amp;accessor=search_in_text&amp;source=2&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26\">Generale missiven van gouverneurs-generaal en raden aan heren XVII der Verenigde Oostindische Compagnie.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

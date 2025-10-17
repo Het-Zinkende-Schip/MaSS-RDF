@@ -1,0 +1,27 @@
+{
+  "id": "3180",
+  "code": "atlas-2",
+  "name": "Atlas",
+  "type": "wreck",
+  "lat": "-34.6304092",
+  "lon": "20.3427464",
+  "location": "Atlas Reef, Arniston, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1856",
+  "firstyearend": null,
+  "lastdate": "1859-01-18",
+  "lastyear": "1859",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-11-23 13:40:25",
+  "modified_on": "2024-02-09 14:20:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Atlas</strong></em> was een bark met thuishaven Amsterdam. Ze was onderweg van Java naar Nederland. Bij de kust van Afrika is zij op 19 januari 1859 op een rif van Lagullas gestrand. Een gedeelte der lading is beschadigd geborgen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Cornelis Smit, Alblasserdam<br>Eigenaar: Partenrederij onder boekhouderschap van Gebr. Hendrichs en Co.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Berend G. Bakker</td></tr><tr><th scope=\"row\">Lengte</th><td>132 voet (40,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>24 &frac12; voet (7,5 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 &frac14; voet (5,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>745 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=15073\">marhisdata id 15073.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><em>SAHRA Database.</em></li><li>George Lourens Kiers.<br /><a href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/George_Lourens_Kiers_-_Een_gestrand_barkschip_-_S.4069%28a%29_-_Het_Scheepvaartmuseum.jpg/640px-George_Lourens_Kiers_-_Een_gestrand_barkschip_-_S.4069%28a%29_-_Het_Scheepvaartmuseum.jpg\">Een Gestrand Barkschip.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

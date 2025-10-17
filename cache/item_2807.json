@@ -1,0 +1,27 @@
+{
+  "id": "2807",
+  "code": "alice-h",
+  "name": "Alice H",
+  "type": "wreck",
+  "lat": "58.9993768",
+  "lon": "21.9617958",
+  "location": "Hiiumaa, NW of, Estland",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": "1912",
+  "lastdate": "1914-08-21",
+  "lastyear": "1914",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-03-09 17:26:22",
+  "modified_on": "2025-07-14 12:48:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Twee Nederlandse vrachtschepen - SS <em><strong>Alice H</strong></em>. &ldquo;<em><strong>SS Houtdijk</strong></em> vertrokken uit St. Petersburg 18 augustus op weg naar Rotterdam in een Russisch konvooi.</p> <p>In de nacht van 20 op 21 augustus 1914, kwam het konvooi in een net door een Duitse mijnenlegger gelegd mijnenveld terecht. Beide schepen liepen daarbij op een mijn. En de Alice zelfs op een tweede mijn. Het schip zonk snel en sleurde door de zuiging de stuurboot-reddingboot die al te water was gelaten mee. Van de inzittenden van deze boot werden slechts twee man gered. Tien personen, waaronder de gezagvoerder en zijn echtgenote, kwamen bij deze ramp om het leven. De overige 13 opvarenden van de Alice H bereikten zeilend met de overige sloep Dag&ouml;.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003276.jpg\" alt=\"Een stukje tekst uit een artikel met de titel &quot;Hollandse schepen gezonken&quot;&quot;\"> <div class=\"img-source\">Delpher.nl</div> </figure> <p>De tot hulpmijnenlegger omgebouwde veerboot &ldquo;Deutschland&rdquo; had daar in de nacht van 17 op 18 augustus 200 mijnen gelegd. &ldquo;Berlijn&rdquo; ontkende dit echter en beweerde dat de mijnen door Rusland waren gelegd. Beide schepen uit het neutrale Nederland vormden het eerste koopvaardijverlies tijdens de eerste oorlogsmaand in 1914.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: N.V. Stoomvaart-Maatschappij 'Sophie H', Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Smit, Jan Renze</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>23</td></tr><tr><th scope=\"row\">Lengte</th><td>325 &frac14; voet (99,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>47 &frac14; voet (14,4 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>15 &frac34; voet (4,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3052 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De wrakken van de Alice H en Houtdijk zijn ontdekt door het duikteam van Badewanne</p> <p>Badewanne diving team is a non-profit organization representing a group of voluntary divers that have been documenting shipwrecks in the Gulf of Finland (known during WW II as &ldquo;Badewanne&rdquo;) for more than 20 years. They are a multitalented team with a broad skill set of underwater video, still photography, drawing &amp; painting, 3D modelling, underwater engineering, marine biology and environmental sciences.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.rdm-archief.nl/new/project/bouwnummer-rdm-029-s-s-alice-h-1912-vrachtschip/\">RDM archief.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=240\">Alice H ID 240.</a></li><li><a href=\"http://badewanne.fi/?page_id=382\">Badewanne Alice H.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Houtdijk&amp;cql%5B%5D=%28date+_gte_+%2220-08-1914%22%29&amp;cql%5B%5D=%28date+_lte_+%2231-08-1914%22%29&amp;redirect=true&amp;sortfield=date&amp;identifier=MMKB08:000102129:mpeg21:a0006&amp;resultsidentifier=MMKB08:0001\">Arnhemsche courant 24-08-1914.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

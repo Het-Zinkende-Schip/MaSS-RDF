@@ -1,0 +1,27 @@
+{
+  "id": "4014",
+  "code": "zc3",
+  "name": "ZC3",
+  "type": "wreck",
+  "lat": "52.4154330",
+  "lon": "5.2535550",
+  "location": "Almere Buiten, Nederland",
+  "firstdate": null,
+  "firstyear": "1550",
+  "firstyearend": "1575",
+  "lastdate": null,
+  "lastyear": "1575",
+  "lastyearend": "1600",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:49:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In maart 1977 werd onderzoek verricht op kavel C3 in Zuidelijk Flevoland na melding van een scheepswrak dat was aangetroffen bij graafwerkzaamheden. Gestegen grondwater maakte onderzoek moeilijk en er is slechts zeer summiere informatie vastgelegd. Na het bepalen van de locatie en het opmeten van het schip, is het schip weer met grond bedekt. In 1982 en 2001 is geprobeerd het wrak opnieuw te lokaliseren, hetgeen niet tot resultaat leidde. In 2012 is het wrak, dat inmiddels de naam &lsquo;de Vliegende Hollander&rsquo; gekregen had, door middel van handmatige sonderingen opgespoord. Het waarschijnlijk 16de-eeuwse schip van 14,80 meter heeft enkele overeenkomsten met de kogge, en met het overnaads gebouwde waterschip. Vervolgens is het opgegraven door ADC Archeoprojecten i.o.v. Gemeente Almere. Overig scheepshout en vondsten (waaronder een eikenhouten vuurkist met loodglazuur bedekte plavuizen) bevinden zich in situ.</p> <p>In 2012 werd de vindplaats onderzocht als onderdeel van een pilot-studie naar de prospectie van scheepswrakken met toepassing van geofysische methoden. Zie voor meer informatie het rapport van RAAP: 'Gezonken, maar weer boven water - Pilot-studie naar prospectie van scheepswrakken met geofysische methoden in provincie Flevoland (grondradar en magnetometer), door G. de Boer, W.B. Verschoof en J.A. Schenk uit 2012.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xrj-twy8\">Opgravingsdocumentatie scheepswrak ZC3.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

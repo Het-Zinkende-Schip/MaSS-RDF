@@ -1,0 +1,27 @@
+{
+  "id": "2812",
+  "code": "borsto-wrak",
+  "name": "Borstö wrak",
+  "type": "wreck",
+  "lat": "59.8747727",
+  "lon": "21.9678497",
+  "location": "Borstö, Finland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1747",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Robert de Hoop",
+  "created_on": "2022-03-15 14:14:51",
+  "modified_on": "2025-06-14 22:18:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1953 bleef een vissersschip met zijn netten achter een wrak hangen. Dit wrak, net voor het eiland Borst&ouml;, op 42 meter diepte liggende werd onderzocht door de marine en na uitvoering archiefonderzoek door historicus Christian Ahlstr&ouml;m uit Helsinki, werd het ge&iuml;dentificeerd als de St. Michael. Dit schip kwam met een lading luxe goederen aan boord in oktober 1747 langs de Sont de Baltische zee in op weg naar eindbestemming St. Petersburg. Volgens de onderzoeker zonk het echter tijdens een vroeg opgekomen winter voor de kust van Finland. De kans op overlevenden was nihil.</p> <p>Lange tijd is aan deze identificatie door de vondst van Meissen porselein en een koets aan boord niet getwijfeld. Echter, de Finse onderzoeker Riikka Alvik heeft voor haar proefschrift opnieuw onderzoek gedaan en gerede twijfel gekregen of het wrak ook wel echt de St. Michael is. De Rijksdienst voor het Cultureel Erfgoed heeft haar hierbij geholpen door Jacob Bart Hak, een Nederlandse historicus, onderzoek te laten doen in de archieven, met als doel gegevens te vinden die de identificatie van de St. Michael ondersteunen of al dan niet ontkrachten. Wanneer dat laatste het geval is, dan is de kans groot dat een andere naam in de Nederlandse archieven opduikt. Dit historisch onderzoek loopt nog.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Carl Poulsen Amiel</td></tr><tr><th scope=\"row\">Lengte</th><td>81 &frac34; voet (24,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>20 &frac14; voet (6,2 m)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

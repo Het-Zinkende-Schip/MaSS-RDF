@@ -1,0 +1,27 @@
+{
+  "id": "4033",
+  "code": "ne81",
+  "name": "NE81",
+  "type": "wreck",
+  "lat": "52.6290600",
+  "lon": "5.6951270",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": "1675",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:21:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gevonden nabij het huidige Nagele. In mei 1948 werd melding gemaakt van de vondst van een scheepswrak op kavel E81 in de Noordoostpolder. Bij de opgraving in de periode 1957-1961 bleek dat het ging om een klein spiegelschip, vergaan in het derde kwart van de 17de eeuw, met een lengte over de stevens van ca. 27 meter en een grootste breedte van ca. 7,2 meter. Het schip was bij de opgraving nog vrij compleet en werd van dusdanig hoge historische en culturele waarde geacht, dat de in die tijd opgerichte commissie \"Historische scheepsresten IJsselmeerpolders\" het advies uitbracht om het schip te bergen en bewaren. Het zou duren tot 1969 dat delen van het wrak gelicht konden worden en vervoerd naar Ketelhaven, waar men een onderkomen had gevonden in een voormalige graanloods (het latere gebouw van het Rijkmuseum voor Scheepsarcheologie). In de aanloop naar deze herplaatsing werd het schip op de vindplaats enige tijd blootgesteld aan de elementen, met als enige bescherming het toelopende grondwater. <br>Na 10 jaar, waarin het wrak was natgehouden in een platic tent, werd in 1979 besloten het schip geconditioneerd te drogen en de relatieve luchtvochtigheid van de omgeving terug te brengen tot 70%. Deze methode van drogen onder gecontroleerde omstandigheden had eerder bij het scheepsfragment van modderschouw OB19 tot goede resultaten geleid. In 1981 was men zo ver dat een begin kon worden gemaakt met het restaureren van het wrak. Het wrak heeft daarna nog jarenlang in het museum te Ketelhaven gestaan, waar het voor de bezoekers een mooi voorbeeld was van de principes van traditionele houten scheepsbouw.</p> <p>Uit archiefstukken blijkt dat het wrak mogelijk de 'Samuel' geweest kan zijn. Hierin wordt namelijk beschreven dat een schipper met de naam Steven Rogier naar Amsterdam onderweg was, vanuit Alicante, Spanje, met een lading sinaasappelen en witte port. Op 8 februari 1662 raakte zijn schip de 'Samuel' tijdens een storm uit koers en liep ten oosten van Urk op de Vormt aan de grond. Het verhaal gaat dat het schip leeggehaald is door Urker vissers. Definitief bewijs dat het om dit schip de Samuel gaat is er echter niet.</p> <p>In de aanloop naar de verhuizing van de Scheepsarcheologische afdeling van de Rijksdienst voor de IJsselmeerpolders naar Lelystad eind jaren '90 is een nieuw onderkomen gezocht voor het wrak. Het werd toen in langdurige bruikleen gegeven aan de voormalige Rijkswerf Willemsoord te Den Helder, waar het uiteindelijk in een voor publiek te bezichtigen vitrine kwam te staan. Door de beperkte ruimte op die locatie moet het scheepswrak enigszins ineengedrukt neergezet worden waardoor de oorspronkelijke lengte van het wrak niet meer goed tot zijn recht komt.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xe2-d98h\">Opgravingsdocumentatie scheepswrak NE81.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

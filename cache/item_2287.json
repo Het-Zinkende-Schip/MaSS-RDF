@@ -1,0 +1,27 @@
+{
+  "id": "2287",
+  "code": "gelderland-1650",
+  "name": "Gelderland",
+  "type": "wreck",
+  "lat": "51.2402761",
+  "lon": "1.7770400",
+  "location": "Strait of Dover",
+  "firstdate": null,
+  "firstyear": "1650",
+  "firstyearend": null,
+  "lastdate": "1653-06-12",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-07 09:57:32",
+  "modified_on": "2025-07-06 19:12:29",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Gelderland</strong></em> was een fregat en zuster schip van De Overijssel. Het schip werd aangekocht in 1651 als onderdeel van een programma ter versterking van 's Lands vloot. 36 schepen werden aangekocht/ gebouwd.</p> <p>De Gelderland deed eerst dienst in de Middellandse Zee. Isaac Sweers was toen de schrijver aan boord en zijn journaal is bewaard gebleven.</p> <p>Tijdens de zeeslag bij Nieuwpoort (12-13 juni 1653, Battle of the Gabbard) is de Gelderland ontploft. slechts 5 man overleefde de ramp.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001701.jpg\" alt=\"Tekening van zeilschepen in een zeeslag\"> <figcaption class=\"img-description\">De slag bij Nieuwpoort(Battle of the Gabbard)</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 26</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Velsen van, Cornelis</td></tr><tr><th scope=\"row\">Lengte</th><td>112 voet (34,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 voet (8,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/aitzema/#page=832&amp;accessor=toc_1&amp;source=3&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Faitzema%2Ftoc_1%2Findex_html%3Fpage%3D234%26source%3D5%26id%3Dtoc_1\">Historien Onses Tyds, Tweede Vervolg Van Saken Van Staat En Oorlog.</a></li><li><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0005.php\">Het leven en het bedrijf van den Heere Michiel de Ruyter, II, 50.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

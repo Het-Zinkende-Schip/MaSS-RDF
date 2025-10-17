@@ -1,0 +1,26 @@
+{
+  "id": "2703",
+  "code": "white-house",
+  "name": "White House",
+  "type": "structure",
+  "lat": "21.3243310",
+  "lon": "-71.2151815",
+  "location": "Salt Cay, Turks- en Caicoseilanden",
+  "firstdate": null,
+  "firstyear": "1825",
+  "firstyearend": "1835",
+  "lastdate": null,
+  "lastyear": "2000",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Ruud Stelten",
+  "created_on": "2021-11-24 20:50:55",
+  "modified_on": "2025-07-12 12:57:42",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The White House is perhaps the most iconic building on Salt Cay. Its construction started in 1825 and went on for 10 years. It was built by Daniel Harriott from Bermuda, who founded the Harriott salt production and export business in 1829. The two-storey building, constructed of Bermuda limestone, features a typical Bermuda kitchen on the seaside and a limestone Bermuda roof. Its ground floor and basement was originally used to store salt, while the first floor served as living quarters. The roof got badly damaged during hurricane Irma in 2017, but restorations are underway.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002893.jpg\" alt=\"Aerial view of the White House and associated marine structures.\"> <figcaption class=\"img-description\">Aerial view of the White House and associated marine structures. Photo by &copy; Joost Morsink.</figcaption> </figure> <p>Situated on a narrow strip of land between the sea and the salt pans, the White House was in an ideal location for the production and export of salt. Bermudians had been raking salt on the island for many years already, and this tradition continued into the nineteenth century.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002892.jpg\" alt=\"The White House on Salt Cay\"> <figcaption class=\"img-description\">Aerial view of the White House with the salt pans in the background. Photo by &copy; Joost Morsink.</figcaption> </figure> <p>The White House was built as the center of a compound of buildings that included a warehouse, offices, home, stables, a mill, cistern, farm and garden. Associated marine structures include a dock and repair facilities for the vessels engaged in the salt trade.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002894.jpg\" alt=\"The White House and associated marine structures at the turn of the twentieth century. Piles of salt can be seen on the right.\"> <figcaption class=\"img-description\">The White House and associated marine structures at the turn of the twentieth century. Piles of salt can be seen on the right.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002895.jpg\" alt=\"Piles of harvested salt next to the White House.\"> <figcaption class=\"img-description\">Piles of harvested salt next to the White House.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002914.jpg\" alt=\"Salt boats docked off the White House.\"> <figcaption class=\"img-description\">Salt boats docked off the White House.</figcaption> </figure></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

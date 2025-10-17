@@ -1,0 +1,27 @@
+{
+  "id": "4085",
+  "code": "nm24",
+  "name": "NM24",
+  "type": "wreck",
+  "lat": "52.7511810",
+  "lon": "5.8100580",
+  "location": "Bant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1904",
+  "lastyearend": "1925",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:55:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1946 werd een proefgraving verricht naar een wrak op kavel M24 in de Noordoostpolder, dat aan het licht was gekomen als gevolg van draineringswerkzaamheden. Het bleek te gaan om een ijzeren scheepsfragment, dat destijds echter als van geen archeologische betekenis werd geacht. Op basis van vondsten kon de ondergang van het wrak op het begin van de 20ste eeuw gedateerd worden. In het verslag uit het archeologisch dossier staat onder meer: \"De vondsten bestonden uit een Nederlandse cent van 1904, enige grammofoonplaatfragmenten en een glazen gedenkasbak van de kroning van Koningin Wilhelmina. Het schip moet dus zijn vergaan na 1904. Al het gevondene is weggedaan.\" Dit lijkt deels te kloppen, maar er zijn blijkbaar toch enkele voorwerpen bewaard gebleven in de maritieme archeologische rijkscollectie, die aan dit wrak worden toegeschreven. Daaronder bevinden zich drie gekleurde porseleinen beeldjes en een exotische sierschelp.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zeh-h7ng\">Opgravingsdocumentatie scheepswrak NM24.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

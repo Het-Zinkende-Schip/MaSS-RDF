@@ -1,0 +1,26 @@
+{
+  "id": "1047",
+  "code": "fort-nassau",
+  "name": "Fort Nassau",
+  "type": "structure",
+  "lat": "5.1311015",
+  "lon": "-1.1989933",
+  "location": "Moree, Ghana",
+  "firstdate": null,
+  "firstyear": "1612",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1868",
+  "lastyearend": null,
+  "country": "Ghana",
+  "countrycode": "GH",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-11 13:43:28",
+  "modified_on": "2025-06-09 13:33:02",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Nederlandse kooplieden waren actief op de Goudkust v.a. 1595. Bij Moree was een factorij die in 1610 door de Portugezen werd verwoest. Als reactie op deze aanval bouwden de Nederlanders o.l.v. generaal Jacob Clantius, in 1612 <em>Fort Nassau</em>.<br>Oorspronkelijk was het een houten burcht. Later werd het herbouwd in 1623-24 en weer in 1633-34. In 1645 hadden de Nederlanders 32 man met een garnizoenscommandant in de vesting gelegerd. Verder waren er een dokter, een kopersmid en 156 slaven in de vesting aanwezig. Tot de verovering van Elmina in 1637 was Nassau het belangrijkste steunpunt aan de Afrikaanse kust.</p> <p>De Engelsen deden meerdere pogingen om het fort te veroveren. In 1800 was het fort verlaten. De slavenhandel was inmiddels verboden.</p> <p>De Goudkust deed v.a. 1818 dienst als rekrutering station voor het KNIL. Vele Ghanezen werden in het KNIL ingezet (Hitam Belanda).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001684.jpg\" alt=\"Goudkust\"> <figcaption class=\"img-description\">Paskaart van de Goudcust in Guinea door Jan Luyken, ca. 1675-1700</figcaption> </figure></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Fort Nassau is a ru&iuml;ne. There are still some walls to be seen.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

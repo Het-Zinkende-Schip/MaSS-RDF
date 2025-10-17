@@ -1,0 +1,27 @@
+{
+  "id": "978",
+  "code": "heemstede",
+  "name": "Heemstede",
+  "type": "wreck",
+  "lat": "21.6191726",
+  "lon": "87.2641248",
+  "location": "Baliapal, India",
+  "firstdate": null,
+  "firstyear": "1640",
+  "firstyearend": null,
+  "lastdate": "1650-10-09",
+  "lastyear": "1650",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-30 13:50:41",
+  "modified_on": "2025-06-30 17:54:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De fluit <em><strong>Heemstede </strong></em>is waarschijnlijk aangekocht in 1640. Staat wel op de equipage lijst maar niet op de lijst van Timmeringen.(<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7346/file/NL-HaNA_1.04.02_7346_0431?eadID=1.04.02&amp;unitID=7346&amp;query=7346\">1</a>)</p> <p>Ze maakte 1 retour reis (Texel 3-5-1640 , Batavia 17-12-1640, Texel 1641). <br>Haar tweede uitreis begon 14-1-1642. Ze bleef vervolgens in Azi&euml; dienst doen.&nbsp;De Heemstede voer o.a. tussen Bengalen en Batavia.</p> <p><strong>Heemstede verbrand</strong><br>De Heemstede was in Pipeley (Baliapal) Bengalen in 1650 -<em>zijnde een afgevaren oud schip</em>- ze werd begin oktober op het droge getrokken om de romp schoon te branden en ontdoen van aangroeiingen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004306.jpg\" alt=\"schilderij van een rokend schip, wat op zijn zij ligt op het water, met een donkere lucht\"> <div class=\"img-source\">Collectie Het Scheepvaartmuseum, Amsterdam</div> </figure> <p>Door onvoorzichtigheid sloegen de vlammen daarbij via het patrijsgat van de constapel kamer (achterschip) in het schip. De Heemstede brandde volledig uit. Twee man kwamen hierbij om.</p> <p>Later overleed schipper Barend Jansen: \"<em>op de herwaerts reyso in de Straet Sunda deser werelt&nbsp;overleden apparent u y t quellinge ende hartzeer..\"</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>400 ton (200 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91696\">Details of voyage 0579.2 from Texel to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7346/file/NL-HaNA_1.04.02_7346_0431?eadID=1.04.02&amp;unitID=7346&amp;query=7346\">NL-HaNA_1.04.02_7346_0431 equipage lijst.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=459&amp;accessor=search_in_text&amp;source=2&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26\">Generale missiven Deel 2, 447.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

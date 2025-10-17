@@ -1,0 +1,27 @@
+{
+  "id": "3153",
+  "code": "padang",
+  "name": "Padang",
+  "type": "wreck",
+  "lat": "-34.1106000",
+  "lon": "18.4850000",
+  "location": "Muizenberg, False Bay, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1821",
+  "firstyearend": null,
+  "lastdate": "1828-06-29",
+  "lastyear": "1828",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-16 00:47:38",
+  "modified_on": "2024-02-09 14:06:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The <strong><em>Padang</em></strong> was carrying a cargo of coffee, rattans and spices when it wrecked on Muizenberg Beach at 10 p.m. Sadly, an infant drowned when the ship was wrecked.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>George Ogg</td></tr><tr><th scope=\"row\">Tonnage</th><td>450 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck was subject to a permit, but it seems that very little work was undertaken on the wreck except to establish the location and state of preservation.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li> La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives.</a><br />SAHRA.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

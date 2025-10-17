@@ -1,0 +1,27 @@
+{
+  "id": "2914",
+  "code": "geziena",
+  "name": "Geziena",
+  "type": "wreck",
+  "lat": "54.9338836",
+  "lon": "-1.3410689",
+  "location": "Beacon rocks, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1892",
+  "firstyearend": null,
+  "lastdate": "1915-12-06",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-06 09:50:58",
+  "modified_on": "2025-06-15 12:35:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De motor schoener <em><strong>Geziena</strong></em> was op weg van Noorwegen naar Hartlepool met een lading stuthout voor de mijnbouw. Het schip is gestrand in de monding van de haven van Sunderland. Het zat vast en toen het vervolgens ging stormen is het schip stuk geslagen.</p> <p>De bemanning is gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: 2 mast gaffelschoener</p> <p>Eigenaar: J.P. van Dijk, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Klugkist, J.P.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>4</td></tr><tr><th scope=\"row\">Tonnage</th><td>129 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Geziena&amp;cql%5B%5D=%28date+_gte_+%2206-12-1915%22%29&amp;cql%5B%5D=%28date+_lte_+%2223-02-1916%22%29&amp;redirect=true&amp;sortfield=datedesc&amp;page=2&amp;identifier=ddd:010296230:mpeg21:a0150&amp;resultsidentifier=ddd:\">Rotterdamsch nieuwsblad  04-02-1916.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

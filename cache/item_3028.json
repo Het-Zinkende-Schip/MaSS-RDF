@@ -1,0 +1,27 @@
+{
+  "id": "3028",
+  "code": "ruyven-2",
+  "name": "Ruyven",
+  "type": "wreck",
+  "lat": "53.1238626",
+  "lon": "4.5513322",
+  "location": "Texel, Nederland",
+  "firstdate": null,
+  "firstyear": "1701",
+  "firstyearend": null,
+  "lastdate": "1709-12-02",
+  "lastyear": "1709",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-12-07 17:39:38",
+  "modified_on": "2025-06-15 17:19:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het fregat <em>Ruyven</em> raakte tijdens de Frans Nederlandse oorlog in een gevecht met twee Duinkerker kapers (56 en 54 stukken).De kapers voerden de Franse vlag en kruisten bij Texel op Nederlandse schepen.</p> <p>De Ruven was het derde schip op[ rij dat werd aangevallen. Op 2 december 1709. Een aantal dagen eerder hadden de kapers het Nederlandse fregat Hardenberg (commandant Hartley) en de hoeker Blikkenburg veroverd.</p> <p>Nu werd de Ruyven aangevallen. Het schip ontplofte tijdens het gevecht. De kruitkamer ontplofte en alle 150 opvarenden kwamen om.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 22 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Lodesteyn W.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>150</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jonge,  J.C.<br /><em>Geschiedenis van Het Nederlandsche Zeewezen, IV, 82.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

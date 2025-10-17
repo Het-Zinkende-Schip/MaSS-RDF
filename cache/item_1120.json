@@ -1,0 +1,27 @@
+{
+  "id": "1120",
+  "code": "luchtenburg-1750",
+  "name": "Luchtenburg",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1750",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1756",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-07 11:50:02",
+  "modified_on": "2024-12-17 15:32:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Luchtenburg vertrok 14 januari 1756 van Batavia naar de Kaap kolonie. Ze kwam daar nooit aan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1750<br>Lengte: 140<br>Tonnage: 440 last, 880 tons<br><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Lieragh, Hans</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/99227\">DAS 7470.2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2265",
+  "code": "eulota",
+  "name": "Eulota",
+  "type": "wreck",
+  "lat": "48.8631101",
+  "lon": "-6.4550782",
+  "location": "120 mijl t.w.v. Ouessant, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1936",
+  "firstyearend": null,
+  "lastdate": "1940-03-11",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-23 13:15:09",
+  "modified_on": "2025-07-06 19:06:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Onderweg van Rotterdam naar Cura&ccedil;ao. Getorpedeerd door U 28 (Ltz. 1e klasse Kuhnke).</p> <p>De bemanning werd na pogingen het schip nog te kunnen redden aan boord genomen door het Britse HMS 'Wild Swan' en de volgende dag in Plymouth aan wal gezet. Een bemanningslid overleed later in het ziekenhuis. <br><br>Het voorschip van de EULOTA, dat nog drijvende was, werd door de torpedobootjagers BROKE en WILD SWAN tot zinken gebracht in positie 48.36 NB en 08.49 WL.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type Motor tanker<br>Gebouwd: Dok- en Werf Maatschappij Wilton-Feijenoord N.V., Schiedam, 1936<br>Eigenaar: N.V. Petroleum Maatschappij 'La Corona', The Hague, ZH, NL</p> <p>Length 1: 130.47 Meters Registered<br>Beam: 16.57 Meters Registered<br>Depth: 9.37 Meters Registered<br>Draught: 7.80 Meters Registered<br>Motor: Motor, Oil, 4-stroke single-acting</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Elzinga, B.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>42</td></tr><tr><th scope=\"row\">Snelheid</th><td>12 knopen ~ 22 km/u (14 mijl per uur)</td></tr><tr><th scope=\"row\">Tonnage</th><td>6236 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=2115\">EULOTA - ID 2115.</a></li><li>Bezemer, K.W.L. (1986).<br /><em>Geschiedenis van de Nederlandse Koopvaardij in de Tweede Wereldoorlog.</em><br />Elsevier, Amsterdam/Brussel.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

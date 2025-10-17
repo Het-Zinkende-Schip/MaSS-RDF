@@ -1,0 +1,27 @@
+{
+  "id": "86",
+  "code": "voetboog",
+  "name": "Voetboog",
+  "type": "wreck",
+  "lat": "-8.1330000",
+  "lon": "-34.4000000",
+  "location": "Recife, Brazilië",
+  "firstdate": null,
+  "firstyear": "1687",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2010-02-01 00:00:00",
+  "modified_on": "2025-07-03 09:39:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Voetboog</em> verliet Batavia op 21 januari 1700 voor haar thuisreis naar Nederland. Het schip zou normaliter een tussenstop maken bij de Kaap Kolonie in Zuid Afrika.</p> <p>De Voetboog werd waarschijnlijk uit haar koers geblazen en verging op 29 mei 1700 nabij Recife, Brazili&euml;.</p> <p><strong>Ontdekking</strong><br>Een team van de Hongaarse Octopus vereniging voor Mariene Archeologie beweerde de wrak locatie van de Voetboog vlak voor de kust van Recife te hebben gevonden.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000098.jpg\" alt=\"anchor in situ\"></figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000099.jpg\" alt=\"cannonin situ\"></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam 1687.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/96920\">DAS 6034.3.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0196?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/30/file/NL-HaNA_1.04.02_30_0084?eadID=1.04.02&amp;unitID=30&amp;query=75\">timmering 1687.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

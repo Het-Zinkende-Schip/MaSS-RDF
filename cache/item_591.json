@@ -1,0 +1,27 @@
+{
+  "id": "591",
+  "code": "rijksdorp",
+  "name": "Rijksdorp",
+  "type": "wreck",
+  "lat": "-6.2580000",
+  "lon": "122.7500000",
+  "location": "Gulf of Boni, Indonesië",
+  "firstdate": null,
+  "firstyear": "1713",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1734",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2018-01-16 00:00:00",
+  "modified_on": "2025-06-06 22:15:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Rijksdorp</strong></em> was een retourschip, gemaakt door de Verenigde Oost-Indische Handelsmaatschappij in 1713. Ze ging verloren op een rif in de Golf van Bone in 1734. Op haar laatste reis werd ze vergezeld door een ander schip genaamd de Stad Leiden. Ze droegen allebei kruidnagel met een totaalgewicht van 184,627 kg. In totaal ging 179.008 pond kruidnagel verloren toen de Rijksdorp zonk. Alle bemanningsleden werden gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Kamer: Amsterdam.</p> <p>Werf: Amsterdam.</p> <p>Lengte: 145 voet.</p> <p>Bemanning: 175-280.</p> <p>Tonnage: 792.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

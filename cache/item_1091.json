@@ -1,0 +1,27 @@
+{
+  "id": "1091",
+  "code": "harp",
+  "name": "Harp",
+  "type": "wreck",
+  "lat": "24.4717338",
+  "lon": "122.8859254",
+  "location": "Yaeyama, Japan",
+  "firstdate": "1658-04-01",
+  "firstyear": "1658",
+  "firstyearend": null,
+  "lastdate": "1660-06-25",
+  "lastyear": "1660",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-23 17:28:07",
+  "modified_on": "2024-11-19 16:21:51",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Harp</em> vertrok van de Wielingen (Zeeland) op 31 mei 1658. Ze kwam in Batavia aan op 24 februari 1659. Daarna voer ze via Taiwan naar Japan en terug van Japan over Siam naar Batavia.</p> <p>Op 29 mei 1660 vertrok de Harp opnieuw van Batavia naar Japan. Het was in die jaren erg onrustig in het gebied tussen het vasteland van China en de westkust van Taiwan als gevolg van aanvallen door vaartuigen van Coxinga. De Harp kreeg de opdracht de route langs de oostzijde van Taiwan te verkennen en zo rechtstreeks naar Japan te varen. Men kreeg de waarschuwing mee dat deze route door de VOC nog niet in kaart was gebracht. [N<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/884/file/NL-HaNA_1.04.02_884_0175?eadID=1.04.02&amp;unitID=884&amp;query=884\">A 1.04.02 (VOC) 884, p. 164</a>]&nbsp;<br>De lading bestond voornamelijk uit Bengaalse zijde.</p> <p>Tijdens deze reis is de Harp op 25 juni 1660 aan de grond gelopen op &eacute;&eacute;n van de zuidelijkste eilanden van de Japanse Ryukyu eilanden. De opvarenden en de lading werden geborgen. Er was goede kans op berging van het geschut en touwwerk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: De Harp werd aangekocht door de VOC 1 April 1658: <em>raport gedaen vande incoop van een fluitschip voor de compagnie het selve voor 17 dyysent 250 gulden.</em></p> <p>Schipper: Job Willemsz.(<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1233/file/NL-HaNA_1.04.02_1233_2007?eadID=1.04.02&amp;unitID=1233&amp;query=1233\">1</a>)<br>Bewapening : 12 stucken , 6 x 4 ponders en 6 x 6 ponders</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>79</td></tr><tr><th scope=\"row\">Lengte</th><td>126 Amsterdamse&nbsp;voet (35,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>400 ton (200 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92009\">Details of voyage 0892.1 from Wielingen to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1233/file/NL-HaNA_1.04.02_1233_2007?eadID=1.04.02&amp;unitID=1233&amp;query=1233\">NA 1.04.02 (VOC) 1233, fol A159 (scan 2007).</a></li><li>Dam, Pieter van.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=489&amp;accessor=searchText&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=3&amp;size=1219&amp;vie\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel II 466.</a><br />Huygens ING.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

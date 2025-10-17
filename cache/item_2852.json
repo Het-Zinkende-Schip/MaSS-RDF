@@ -1,0 +1,27 @@
+{
+  "id": "2852",
+  "code": "la-campine",
+  "name": "La Campine",
+  "type": "wreck",
+  "lat": "56.0000000",
+  "lon": "4.5700000",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1890",
+  "firstyearend": null,
+  "lastdate": "1917-03-13",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-19 07:32:52",
+  "modified_on": "2025-06-14 21:23:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Oorspronkelijk een Belgische zeil-stoomschip olietanker.</p> <p>Op reis in ballast van Rotterdam naar New York werd de La Campine op 13 maart 1917 des morgens te 8.45 uur op de Noordzee in positie 56˚00&rsquo;NB en 04˚57&rsquo;OL door de Duitse onderzeeboot UC 50 aangehouden. Men moest het schip verlaten omdat men zogenaamd in het blokkadegebied voer, hetgeen niet waar was.</p> <p>De 32 opvarenden van de LA CAMPINE gingen in de boten en de Duitse onderzeeboot begon het schip te beschieten. De LA CAMPINE zonk ten gevolge van dit geschutvuur om 13.45 uur. De 32 opvarenden werden later door een Britse onderzeeboot opgemerkt, die de sloepen op sleeptouw nam tot men hen kon overgeven aan het Noorse stoomschip Norden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Palmer's Shipbuilding &amp; Iron Co. Ltd.,&nbsp;Newcastle-Upon-Tyne<br>Eigenaar 1: Speth F. &amp; Co., Antwerpen<br>Eigenaar 2: American Petroleum Co. Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Claude, Gustav</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>32</td></tr><tr><th scope=\"row\">Lengte</th><td>309 &frac34; voet (94,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>39 voet (11,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>26 &frac14; voet (8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2557 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritieme Historische Data.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=3561\">Campine.</a></li><li>Nieuwsblad van het Noorden 17-3-1917.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22La+Campine%22&amp;coll=ddd&amp;sortfield=date&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;page=24&amp;identifier=ddd:010883721:mpeg21:a0008&amp;resultsidentifier=ddd:0108\">relaas bemanning.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

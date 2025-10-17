@@ -1,0 +1,27 @@
+{
+  "id": "4280",
+  "code": "vrouwe-margaretha-maria",
+  "name": "Vrouwe Margaretha Maria",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1765",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1773",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2025-06-04 11:28:22",
+  "modified_on": "2025-06-04 12:36:36",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De<strong><em> Vrouwe Margaretha Maria</em></strong> gebouwd voor de VOC kamer Enkhuizen maakte tussen 1766 en 1772 twee succesvolle retourreizen naar Oost indie.<a href=\"https://www.vocsite.nl/schepen/10649/\">&sup1;</a></p> <p>Na haar derde uitreis (Texel 25-6-1771) bleef ze in Azi&euml; dienst doen.</p> <p>Op een reis van Batavia (14-7-1773 naar Bengalen gedepecheerd) naar Bengalen verongelukt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0213?eadID=1.04.02&amp;unitID=4935&amp;query=\">1.04.02 4935 Lijsten van voor de VOC uitgevaren schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

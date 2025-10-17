@@ -1,0 +1,26 @@
+{
+  "id": "2548",
+  "code": "hamburg-altstadt-173",
+  "name": "Hamburg Altstadt-173",
+  "type": "other",
+  "lat": "53.5473762",
+  "lon": "9.9995756",
+  "location": "Hamburg-Altstadt, Duitsland",
+  "firstdate": null,
+  "firstyear": "1148",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1226",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-04-26 13:36:40",
+  "modified_on": "2025-07-11 14:02:49",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>During the \"Altstadt 173\" excavation carried out by the AMH (the Archaeology Museum of Hamburg) in the historic city centre of Hamburg in 2019-2020, several caulking clamps and ship-timbers in secondary use were discovered on the <em>Reichenstra&szlig;eninsel</em>, originally an island in the flood-meadows of the Elbe river, which was made habitable around 1200 by land aggradation.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002552.jpg\" alt=\"map of the city of Hamburg-Altstadt\"> <div class=\"img-source\">AMH (Archaeology Museum of Hamburg)</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Several timbers have features that may be linked to watercraft, like treenails, iron nails and caulking clamps (<em>sintels</em>) and residues of moss-caulking material. Generally, the timbers were in a poor and fragmentary condition, so that only very general observations could be made. The dimensions of the planks indicate that they were tangentially extracted from the tree trunk. The oak planks that could be analysed were cut around/after 1148, 1211, and 1226, and the provenance for one indicates Stendal located further up the Elbe river.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002551.jpg\" alt=\"an oak plank\"> <div class=\"img-source\">AMH (Archaeology Museum of Hamburg)</div> </figure></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The timbers remain unpublished and were discarded after being photographed and sampled for dendrochronological analysis. The timbers tentatively associated with watercraft include the features Nr. 956, 1221, 1222, 1551, 1570 and are archived in the AMH's internal documentation. This summary is based on photos and descriptions sent by the site director Judith Kirchhofer to this author.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Judith Kirchhofer, AMH (Archaeology Museum of Hamburg).<br /><a href=\"https://blog.amh.de/feuchte-fuesse-damals-und-heute/\">Excavation &quot;Altstadt 173&quot;.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

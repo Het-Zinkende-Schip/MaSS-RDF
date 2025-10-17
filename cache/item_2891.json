@@ -1,0 +1,27 @@
+{
+  "id": "2891",
+  "code": "merak",
+  "name": "Merak",
+  "type": "wreck",
+  "lat": "35.1929634",
+  "lon": "-75.2782254",
+  "location": "Cape Hatteras",
+  "firstdate": null,
+  "firstyear": "1910",
+  "firstyearend": null,
+  "lastdate": "1918-08-06",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-15 15:48:21",
+  "modified_on": "2025-06-15 12:12:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Merak</strong></em> is op 21 maart 1918 te New York door de Amerikaanse regering in beslag genomen ingevolge het Droit D&rsquo;Angerie en onder U.S.A. vlag gebracht.</p> <p>&nbsp;Op reis met een lading steenkolen (ca. 5.600 ton) van New York naar het Caribische gebied en alleenvarend, werd <em><strong>de Merak</strong></em> op 6 augustus 1918 door de Duitse onderzeeboot <em><strong>U 140</strong></em> bij Cape Hatteras, nabij het lichtschip Diamond Shoal, in positie 34˚57&rsquo;NB en 75˚40&rsquo;, met geschutvuur tot stoppen gedwongen, en vervolgens met springstof tot zinken gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: De Rotterdamsche Droogdok Maatschappij N.V., Rotterdam,</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>325 &frac14; voet (99,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>47 voet (14,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>21 &frac34; voet (6,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3024 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Martiem-Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=4223\">Merak 4223.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4026",
+  "code": "ne164",
+  "name": "NE164",
+  "type": "wreck",
+  "lat": "52.6317020",
+  "lon": "5.7693240",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1890",
+  "lastyearend": "1910",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:37:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1949 werd een jonge scheepsrest aan een proefgraving onderworpen. Deze had de bedoeling om in kaart te brengen wat de kosten zijn voor het verrichten van de werkzaamheden van het ontgraven, slopen en verwijderen van een vergelijkbaar scheepswrak, om zo tot een algemene kostenberekening voor dergelijke klussen te kunnen komen. Na afloop is het houten tjalkschip, waarvan de datering enkel als 'jong' wordt gegeven, verwijderd.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2ah-fhv4\">Opgravingsdocumentatie scheepswrak NE164.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

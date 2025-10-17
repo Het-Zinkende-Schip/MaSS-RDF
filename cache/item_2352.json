@@ -1,0 +1,27 @@
+{
+  "id": "2352",
+  "code": "echo-1789",
+  "name": "Echo",
+  "type": "wreck",
+  "lat": "53.5042618",
+  "lon": "6.1750031",
+  "location": "Schiermonnikoog, Nederland",
+  "firstdate": null,
+  "firstyear": "1789",
+  "firstyearend": null,
+  "lastdate": "1796-05-12",
+  "lastyear": "1796",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-30 09:58:27",
+  "modified_on": "2025-06-12 12:02:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Echo deed dienst in de zeemacht van de Bataafse Republiek het eskader van J de Winter in de Noordzee met als missie kruisen voor Skagerrak en Noorwegen.</p> <p>19-8-1795 4 Engelse koopvaardij brikken genomen en opgebracht.</p> <p>23-1-1795 over gegeven aan de Fransen.</p> <p>12-5-1796 Bij Texel aangevallen door Engels eskader. De Echo kon in eerste instantie het gevecht vermijden kwam bij Schiermonnikoog door Engels fregat genaderd en beschoten. Luitenant Keil besloot het schip op een zandbank te zetten waar de Engelse niet konden komen. Het Engelse eskader liet het schip liggen. <br>15-5-1796 door storm verbrijzeld. Casco verkocht voor 205,-</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: 's landswerf Amsterdam 1789</p> <p>Bewapening: 16</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Keil, M.C.</td></tr><tr><th scope=\"row\">Lengte</th><td>100 voet (30,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 &frac34; voet (9,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jonge,  J.C (1858).<br /><em>Geshiedenis van het Nederlandsche zeewezen V 235.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

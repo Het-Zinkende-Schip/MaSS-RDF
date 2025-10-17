@@ -1,0 +1,27 @@
+{
+  "id": "3155",
+  "code": "juno-2",
+  "name": "Juno",
+  "type": "wreck",
+  "lat": "-34.8339000",
+  "lon": "20.0124000",
+  "location": "Cape Agulhas, Western Cape, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1842",
+  "firstyearend": null,
+  "lastdate": "1852-03-02",
+  "lastyear": "1852",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-16 09:58:24",
+  "modified_on": "2025-06-16 19:13:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Juno</strong></em> is gebouwd in 1842 te Dordrecht (353 last).</p> <p>Op 6 oktober 1843 (MRD 1181) wordt Willem Jacob Chevalier kapitein op de bark &ldquo;Juno&rdquo;, en vertrok op 2 november 1843 uit Hellevoetsluis met 30 opvarenden naar Batavia. Hij keerde terug in Holland op 15 september 1844. Met dit schip maakte hij 7 reizen.</p> <p>Tijdens de 7e reis verging de Juno onderweg van Banyuwangi (Oost Java) naar Dordrecht terwijl ze een lading koffie, suiker, tin en rotan aan boord had. Ze voer in dichte mist direct onder de punt van Kaap Agulhas toen ze verging. Vijf opvarenden kwamen om tijdens de ramp.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Sandberg &amp; Co te Dordrecht</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>W J Chevalier</td></tr><tr><th scope=\"row\">Tonnage</th><td>700 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li>Vleggeert Nico.<br /><a href=\"https://www.wrecksite.eu/wreck.aspx?233260\">SV Juno (+1852).</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=13593\">marhisdata id 13593.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

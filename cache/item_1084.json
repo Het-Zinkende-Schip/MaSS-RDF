@@ -1,0 +1,27 @@
+{
+  "id": "1084",
+  "code": "prins-frederik-hendrik",
+  "name": "SS Prins Frederik Hendrik",
+  "type": "wreck",
+  "lat": "52.0907014",
+  "lon": "-5.5662231",
+  "location": "Irish Sea",
+  "firstdate": null,
+  "firstyear": "1936",
+  "firstyearend": null,
+  "lastdate": "1941-03-08",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-22 12:38:42",
+  "modified_on": "2025-06-09 16:02:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het s.s. <em><strong>Prins Frederik Hendrik</strong></em> op weg van Cardiff naar Bathurst werd op 8 maart 1941 aangevallen door Duitse vliegtuigen.Een bom had het achterschip getroffen en veroorzaakte brand. De hoofdmachine werd direct gestopt. Pogingen om de brand te blussen faalden. Toen het vuur zich meer en meer verspreide, besloot men het schip te verlaten. De schipbreukelingen werden door de Noorse tanker <em><strong>Polartank</strong></em> opgepikt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Naam: Gebouwd als Taborfjell hernoemd 1937 Prins Frederik Hendrik</p> <p>Type: vracht<br>Gebouwd: Frederiksstad Mekaniske Verksted A/S, Frederikstad, Norway, 1936<br>Eigenaar: Maatschappij Zeetransport, Rotterdam, NL<br>Dimensies: 76.58 (Loa) x 12.86 4.27 m<br>Tonnage: 1288<br>Voortstuwing: Steam, Double Compound, Power: 1400<br>Snelheid: 12<br>Bemanning: 8 bemanningsleden kwamen om<br>Kapitein: P. Ruig</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Bij app&egrave;l bleken de volgende leden der bemanning te worden vermist: <br><br>E. Bellinga, bootsman<br>G. Guyt matroos<br>G. Watts matroos (UK)<br>T. Piket matroos (UK?)<br>L van Dijk olieman<br>H. Reinhart, stgoker<br>M. Spaans, stoker<br>Ch. Me. Lean, tremmer (UK)</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 77.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5284\">Maritiem Historische Data ID 5284.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

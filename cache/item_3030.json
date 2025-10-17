@@ -1,0 +1,27 @@
+{
+  "id": "3030",
+  "code": "rotterdam",
+  "name": "Rotterdam",
+  "type": "wreck",
+  "lat": "51.6723660",
+  "lon": "3.6209012",
+  "location": "Westgat , Nederland",
+  "firstdate": null,
+  "firstyear": "1678",
+  "firstyearend": null,
+  "lastdate": "1694-07-10",
+  "lastyear": "1694",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-12-09 16:33:19",
+  "modified_on": "2025-07-18 17:07:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Rotterdam</strong></em> begeleidde - samen met <a href=\"https://mass.cultureelerfgoed.nl/dolfijn-1690\">De Dolfijn</a> - een konvooi van 20 koopvaarders en de pakket-boot van Londen naar de Maasmonding. Aan boord van de twee konvooiers bevond zich het soldij voor de Engelse troepen in Vlaanderen.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003409.jpg\" alt=\"schilderij van het water met zeilschepen erin met de Nederlandse vlag, vooraan op het land staan mensen\"> <div class=\"img-source\">Rijksmuseum Amsterdam SK-C-91</div> </figure> <p class=\"figcaption\"><br>Op de afdbeelding het fregat de Ploeg (Ludo Backhuysen ca. 1690)</p> <p>Het konvooi stuitte op een Frans eskader van 5 schepen o.l.v. van Jean Bart.* De Fransen vielen als eerst de pakketboot aan. De Rotterdam schoot te hulp en koerste op de Franse schepen aan. Bij die actie kwam de wind plotseling opzetten. Toen kapseisde de Rotterdam plots. De oorzaak was een onverwachte windvlaag die het schip deed overhellen. Het geschut stond niet goed vast gesjord en ging rollen zodat het schip kapseisde en zonk. 300 opvarenden waaronder 150 passagiers en de commandant kwamen om. 15 man werden ger4ed door de Duinkerker schepen van Bart. De Dolfijn verging het niet veel beter ze liep vast op de zandplaat <em>Springer</em> in de monding van de Grevelingen. Het lijk van kapitein De La Cave spoelde enige dagen later aan op het strand bij Zandvoort.</p> <p class=\"note\">* Jean Bart was een zeer bekwame kapitein in Franse dienst. Hij had het vak in Nederlandse dienst geleerd o.a. op de Zeven Provinci&euml;n van Admiraal Michiel de Ruiter.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Rotterdam, Salomon Jansz. Tempel, 1678<a title=\"Glavimans schepenlijst Rotterdam\" href=\"https://cultureelerfgoed.info/mass/?file=00000007.pdf\" target=\"_blank\" rel=\"noopener\">**</a></p> <p>Bewapening: 40 (1678) 44 (1694)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>170</td></tr><tr><th scope=\"row\">Lengte</th><td>120 voet (36,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>32 &frac14; voet (9,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.dbnl.org/tekst/aa__001biog04_01/aa__001biog04_01_0368.php\">Mathias de la Cave.</a></li><li><em>NIMH schependocumentatie nr. 817.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

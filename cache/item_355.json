@@ -1,0 +1,27 @@
+{
+  "id": "355",
+  "code": "buitenzorg",
+  "name": "Buitenzorg",
+  "type": "wreck",
+  "lat": "53.0000000",
+  "lon": "4.8670000",
+  "location": "Javaruggen, Nederland",
+  "firstdate": null,
+  "firstyear": "1753",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1770",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Charlotte de Hoogd",
+  "created_on": "2012-12-14 00:00:00",
+  "modified_on": "2025-06-21 19:59:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De <em>Buytensorg</em> was een Nederlands Oost-Indi&euml;vaarder (spiegelretourschip) gebouwd in Amsterdam. Zij behoorde toe aan de Amsterdamse Kamer van de VOC. Ze had een bemanning van 181-268.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000835.jpg\" alt=\"Gerrit Groenewegen, VOC ship, 18th century\"></figure> <p class=\"figcaption\"><em>Gerrit Groenewegen, VOC schip, </em><em>18e eeuw</em><em>.</em></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Coenraad Dirk Wolk</td></tr><tr><th scope=\"row\">Lengte</th><td>140 voet (42,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>880 ton (440 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Aangezien het schip op zijn bestemming was aangekomen, was de lading reeds v&oacute;&oacute;r het verlies van het schip gehaald. Daarom werd na het verlies van het schip geen bergingspoging ondernomen. Momenteel zijn er vier periodes van onderzoek geweest: 1958, 1964, 1985 en 1986.</p> <p>Het wrak werd in 1958 ontdekt door A.C. Slooten na enig archiefonderzoek aan een wrak dat bij de Javaruggen bij Texel lag. Een deel van de kiel van de <em>Buytensorg</em> werd van de wrakplek gelicht en is te bezichtigen in Lelystad.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>A. den Braven, S. Broekman, M. Huisman, W. Kemme, M. Mostert &amp; R. van 't Veer (2003).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000009.pdf\">De Buytensorgh. Onderzoek, restauratie en presentatie van een 18e eeuws VOC-schip.</a><br />Universiteit van Amsterdam/NISA.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

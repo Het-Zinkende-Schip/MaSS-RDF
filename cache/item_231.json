@@ -1,0 +1,27 @@
+{
+  "id": "231",
+  "code": "hoornsche-hop-1",
+  "name": "Hoornsche Hop 1",
+  "type": "wreck",
+  "lat": "52.6250000",
+  "lon": "5.1040000",
+  "location": "Hoornse Hop, Nederland",
+  "firstdate": null,
+  "firstyear": "1400",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1450",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Seger van den Brenk",
+  "created_on": "2010-11-02 00:00:00",
+  "modified_on": "2022-04-26 12:55:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

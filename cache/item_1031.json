@@ -1,0 +1,27 @@
+{
+  "id": "1031",
+  "code": "schiedam-2",
+  "name": "Schiedam",
+  "type": "wreck",
+  "lat": "50.9479012",
+  "lon": "1.0445252",
+  "location": "Cape Dungeness, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1652-12-10",
+  "lastyear": "1652",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-08 17:04:58",
+  "modified_on": "2025-06-09 13:17:22",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Ontploft tijdens de slag bij de Singels (ook bekend als de Slag bij Dungeness, 10 dec 1652). Aan Nederlandse kant raakte op de middag van de slag de Schiedam*, in brand en ontplofte uiteindelijk, waarbij een deel van de bemanning omkwam door verdrinking; kapitein Dirk Juinbol stierf op 11 december aan zijn verwondingen.<br>De achtervolging van de Engelse hoofdmacht ging niet al te snel want de wind was naar het oosten gedraaid. Diezelfde wind stelde Blake in staat vaart te zetten om de monding van de Theems binnen te lopen. Op 13 december kwam ook Tromp op die positie en hield een krijgsraad waarin hij voorstelde door te zetten en de Medway op te varen om de daar bij Chatham ankerende Engelse vloot te vernietigen.</p> <p>In de hele Nederlandse vloot viel echter, ondanks een uitgeloofd loon van vijftig Vlaamse pond, geen loods te vinden die de gevaarlijke ondiepten van die stroom voldoende kende zodat van het plan moest worden afgezien. Veertien jaar later, tijdens de Tweede Engels-Nederlandse oorlog, zou onder commando van De Ruyter dat waagstuk alsnog met succes voltooid worden (Tocht naar Chatham van 1667) (bron: wikipedia)</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001672.jpg\" alt=\"Eerste Engelse zeeoorlog\"></figure> <p>* Ook de Gelderland genoemd omdat de Staten van Gelderland het schip gefinancierd hadden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Fregat<br>Eigenaar: Adm. Rotterdam, Maze<br>Complement: ca 85<br>Kapitein: Marinus Juynbol<br>Armament: 26 stukken</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

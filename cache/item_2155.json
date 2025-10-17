@@ -1,0 +1,26 @@
+{
+  "id": "2155",
+  "code": "unfinished-breakwater",
+  "name": "Unfinished Breakwater",
+  "type": "structure",
+  "lat": "17.4812005",
+  "lon": "-62.9874105",
+  "location": "Oranje Bay, Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": "1829",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1834",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Ruud Stelten",
+  "created_on": "2020-09-16 03:45:10",
+  "modified_on": "2025-07-05 11:13:10",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><figure class=\"img-wrapper\"><img src=\"/photos/l/00002139.jpg?modifiedon=1600222092\" alt=\"Plan of the proposed breakwater by Samuel Fahlberg\"> <figcaption class=\"img-description\">Plan of the proposed breakwater by Samuel Fahlberg in 1828. Source: National Archives, The Hague, 4.MIKO 3.A.2.5.2-336.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002146.jpg\" alt=\"Drawing of a beach with cottages and behind it a higher area where there are also houses.\"> <figcaption class=\"img-description\">Watercolor of Lower Town made by Samuel Fahlberg in 1829 from a boat about 500 meters from shore. The building behind the canoes is the weighing-house. In the bottom right-hand corner construction on the breakwater can be seen. Source: Rotterdam Maritime Museum, inv. nr. P2192.</figcaption> </figure> <p>According to Marten Douwes Teenstra, a visitor to the island in 1834, the breakwater was never finished due to cutbacks.During his visit, the structure was in a very dilapidated state and had largely washed away (Teenstra 1837:325).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002145.jpg\" alt=\"Underwater photo of rocks\"> <figcaption class=\"img-description\">Underwater image of the unfished breakwater, facing east towards Lower Town. Source: The St. Eustatius Center for Archaeological Research, 2019.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Marten Douwes Teenstra (1837).<br /><em>De Nederlandsche West-Indische eilanden in derzelver tegenwoordigen toestand.</em><br />Amsterdam, C.G. Sulpke.</li><li>Ruud Stelten (2019).<br /><em>From Golden Rock to Historic Gem: A Historical Archaeological Analysis of the Maritime Cultural Landscape of St. Eustatius Dutch Caribbean.</em><br />Leiden: Sidestone Press.</li><li>Ruud Stelten, Alexandre Hinton (2020).<br /><em>The SE-504 Shipwreck Site, St. Eustatius Report on the 2018, 2019, and 2020 archaeological research campaigns.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

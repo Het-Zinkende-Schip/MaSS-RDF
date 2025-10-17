@@ -1,0 +1,27 @@
+{
+  "id": "4089",
+  "code": "om8",
+  "name": "OM8",
+  "type": "wreck",
+  "lat": "52.4768670",
+  "lon": "5.6855430",
+  "location": "Biddinghuizen, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": "1750",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 13:00:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Tijdens een open dag bij de opgraving van scheepswrak M11OFL / OM11 in 1992 werd de vondst gemeld van scheepshout op een ander kavel, M 8, eveneens in Oostelijk Flevoland. Ook liet men weten dat er daar vlak na de inpoldering bij het bouwrijp maken van de kavel al twee zijwzwaarden in de kavelsloot waren aangetroffen. Deze zijn destijds echter niet gemeld en moeten als verloren worden beschouwd. Men voerde een verkenning uit van het scheepswrak, die uitwees dat het een karveel gebouwd, praamachtig schip betreft van 14 bij 4,5 meter. Beide boorden waren gebroken op de kim en enkel het stuurboord was nog aanwezig. In de proefsleuf bij het achterschip werd een haardplaat aangetroffen, welke echter niet is geborgen. Bij het voorschip werd een aantal turfjes aangetroffen, maar die die zouden als brandstof aan boord geweest kunnen zijn in plaats van als lading. Op basis van het aardewerk en de haardplaat is de ondergang voorlopig gedateerd op de eerste helft van de 18de eeuw. Na afloop zijn de drie proefsleuven weer dicht gegooid. De kwaliteit van het scheepshout werd tijdens de verkenning beoordeeld als matig tot zeer slecht, met name van het stuurboord en de wegering, Daarom werd geadviseerd tot spoedige opgraving, hetgeen tot op heden echter nog niet heeft plaatsgevonden.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-24z-yauq\">Opgravingsdocumentatie scheepswrak OM8.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

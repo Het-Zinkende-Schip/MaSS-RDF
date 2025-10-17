@@ -1,0 +1,27 @@
+{
+  "id": "1129",
+  "code": "koning-salomo",
+  "name": "Koning Salomo",
+  "type": "wreck",
+  "lat": "36.5857971",
+  "lon": "-6.3849792",
+  "location": "Cadiz, Spanje",
+  "firstdate": null,
+  "firstyear": "1660",
+  "firstyearend": null,
+  "lastdate": "1664-12-09",
+  "lastyear": "1664",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-12 16:05:13",
+  "modified_on": "2025-06-10 11:28:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Fluit onderdeel van de Smyrna vloot van 30 koopvaarders die uit de Middellandse zee begeleid door drie oorlogsschepen o.l.v. Pieter Van Brakel aangevallen werden door een Engelse vloot o.l.v. commodore Allin 9 december 1664.</p> <p>De schipper van de Koning Salomo, Jan Reilofszoon weerde zich geducht. Toen het schip redeloos geschoten en niet meer kon varen werd het schip ge&euml;nterd en overmeesterd. Ettelijke geschutpoorten konden niet dicht en het schip zonk. Meer dan 100 Engelsen meenemende in de diepte. Het schip zonk daarop met veel vijanden aan boord. Jan Roelofsz. kon zich redden in de sloep. Hij raakte in Engelse gevangenschap. (Brandt p 376)</p> <p>De Engelsen kregen slechts drie koopvaarders te pakken. Konvooi commandeur Pieter van Brakel sneuvelde in het gevecht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: fluit, straatvaerder<br>Master: Jan Roelofsz. van Hoorn<br>thuishaven: Hoorn</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan Reilofszoon</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Leven en bedryf van den heere Michiel de Ruiter VII p 376.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2734",
+  "code": "spar",
+  "name": "Spar",
+  "type": "wreck",
+  "lat": "56.4430670",
+  "lon": "-40.7812500",
+  "location": "North Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1924",
+  "firstyearend": null,
+  "lastdate": "1942-08-05",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-03 12:20:08",
+  "modified_on": "2025-06-14 21:01:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Spar voer in konvooi SC 94 van Sydney ( Canada) naar Londen. Door zware mist raakte de \"Spar\" met nog vijf schepen op 3 Augustus het konvooi kwijt. De 5e Augustus klaarde het weer op en werden de afgedwaalde schepen door twee corvetten weer naar het konvooi gebracht.</p> <p>Diezelfde dag werd de Spar door een torpedo getroffen van de Duitse onderzee&euml;r U 593. Stookplaat, machinekamer en ruim II liepen direct vol water; de SB. reddingboot was vernield en het schip begon snel te zinken. De bemanning redde zich in de BB. reddingboot en de kleine SB. boot. Er werd nog geruime tijd gezocht naar eventuele drenkelingen.</p> <p>Drie man werden vermist:</p> <p>J. Luytze 2e machinist <br>D. Postma stoker <br>J. P. v. Ewijck stoker</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Stoomschip, van der Giessen &amp; Zonen Scheepswerven, Krimpen aan den IJssel.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>39</td></tr><tr><th scope=\"row\">Lengte</th><td>361 voet (110 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>49 &frac34; voet (15,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3616 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritieme Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=6069\">Spar - ID 6069.</a></li><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 207.</em></li><li>Uboat.net.<br /><a href=\"https://uboat.net/allies/merchants/ship/2003.html\">Spar.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

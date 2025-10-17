@@ -1,0 +1,27 @@
+{
+  "id": "1043",
+  "code": "amsterdam-1688",
+  "name": "Amsterdam",
+  "type": "wreck",
+  "lat": "52.3730960",
+  "lon": "4.9160664",
+  "location": "Kattenburg, Amsterdam, Nederland",
+  "firstdate": null,
+  "firstyear": "1688",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1712",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-10 12:34:22",
+  "modified_on": "2025-06-09 13:27:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Amsterdam vertrok in 1689 onder Philips van Almonde naar de Middellandse Zee en nam in 1692 deel aan de slag bij La Hougue onder leiding van kapitein Graaf Lodewijk van Nassau. Het schip is afgevoerd in 1712.</p> <p><strong>Zeeslag Barfleur La Hougue</strong><br>De eerste slag vond op 29 mei 1692 (gregoriaanse kalender) plaats in de buurt van Barfleur (); meer gevechten volgden op 4 juni 1692 bij Cherbourg en Saint-Vaast-la-Hougue nabij het Normandische schiereiland Cotentin. Het was de beslissende zeeslag in de Negenjarige Oorlog. De overwinning ging naar de Engelsen en de Nederlanders.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: ship of the line <br>Built: Oostenburg yard in Amsterdam, 1688<br>Owner: DEIC chamber of Amsterdam<br>Dimensions:<br>Tonnage: last<br>Complement: 121<br>Master: <br>Armament: 64-68</p> <p><br>Type: linieschip<br>Gebouwd: OostenburgVOC werf in Amsterdam, 1780<br>Eigenaar: VOC kamer Amsterdam</p> <p>Dimensies:<br>Tonnage: 300 last (x 2 = ton)<br>Bemanning:<br>Kapitein:<br>Bewapening: 64-68</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

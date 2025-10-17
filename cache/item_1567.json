@@ -1,0 +1,27 @@
+{
+  "id": "1567",
+  "code": "herder-1693",
+  "name": "Herder",
+  "type": "wreck",
+  "lat": "48.6569538",
+  "lon": "-2.0444870",
+  "location": "Saint Malo, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1693",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1695",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-25 18:13:33",
+  "modified_on": "2020-08-25 18:15:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1695 verbrand bij de aanval op St. Malo, stak houten fort in brand.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Herder NIMH.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

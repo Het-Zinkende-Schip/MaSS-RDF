@@ -1,0 +1,27 @@
+{
+  "id": "4060",
+  "code": "nj7",
+  "name": "NJ7",
+  "type": "wreck",
+  "lat": "52.6723110",
+  "lon": "5.6824940",
+  "location": "Tollebeek, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": "1650",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:09:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1951 werd de aanwezigheid van een schip gemeld op kavel J7 in de Noordoostpolder. De vindplaats werd kort daarop bezocht en van belang geacht voor nader onderzoek, wat op korte termijn echter niet mogelijk was. In 1955 werd het wrak opnieuw ontdekt bij het woelen op de kavel, als gevolg waarvan er een proefgreppel over het wrak is gegraven. Hieruit werd opgemaakt dat het ging om een boordfragment met vijf puttingijzers en een jufferblok van een vrij groot schip, en met een vermoedelijke datering van omstreeks 1650 op basis van de positie in het bodemprofiel. Het wrak is hierna echter opgegeven met de mededeling dat het verwijderd kon worden. Als enige vondst is een paarsblauw geglazuurde pijpenkop geborgen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xws-q5cv\">Opgravingsdocumentatie scheepswrak NJ7.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

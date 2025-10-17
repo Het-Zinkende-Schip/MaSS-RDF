@@ -1,0 +1,27 @@
+{
+  "id": "2911",
+  "code": "arie",
+  "name": "Arie (MA 146)",
+  "type": "wreck",
+  "lat": "52.5335907",
+  "lon": "4.1994117",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1917-04-20",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-05 16:24:35",
+  "modified_on": "2025-06-15 12:31:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Arie</strong> </em>werd beschoten door de Duitse onderzee&euml;r UB 16 en daarna met twee bommen tot zinken gebracht . De bemanning wist zich te redden in twee boten.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Logger-sloep</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>13</td></tr><tr><th scope=\"row\">Tonnage</th><td>107 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=%22Arie%22&amp;cql%5B%5D=%28date+_gte_+%2220-04-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2231-12-1917%22%29&amp;redirect=true&amp;sortfield=date&amp;identifier=MMKB08:000142597:mpeg21:a0002&amp;resultsidentifier=MMKB08:00\">Delftsche courant  21-04-1917.</a></li><li>Zuiderzee collectie.<br /><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40014308\">Centraal_Visserijregister.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

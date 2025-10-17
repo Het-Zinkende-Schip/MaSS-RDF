@@ -1,0 +1,27 @@
+{
+  "id": "2236",
+  "code": "zeeduin",
+  "name": "Zeeduin",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1771",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1785",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-13 13:59:05",
+  "modified_on": "2024-11-19 10:01:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Zeeduin vertrekt 8-2-1773 voor haar eerste retourreis naar Batavia (Oost-Indi&euml;). Ze is terug in Zeeland 9-6-1779. Dan wordt het schip 4 jaar opgelegd door de vierde Engels-Nederlandse oorlog.<br>Ze vertrekt voor haar tweede uitreis naar Batavia 28-9-1783.</p> <p>De terugreis naar Nederland begint 29-11-1784.&nbsp;Op deze reis raakt het schip vermist 1785 tussen de Kaap en Batavia.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Lengte: 150 vt</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>1150 ton (575 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/bgb/voyage/1100\">Boekhouder-Generaal Batavia 1100.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

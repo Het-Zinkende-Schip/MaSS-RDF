@@ -1,0 +1,27 @@
+{
+  "id": "2128",
+  "code": "nq65-i",
+  "name": "NQ65-I",
+  "type": "wreck",
+  "lat": "52.6629400",
+  "lon": "5.8387900",
+  "location": "Noordoostpolder, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:39:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit schip is gevonden op kavel Q65 aan de Zwijnsweg in de Noordoostpolder tijdens drainagewerkzaamheden. In 1944 is het wrak opgegraven. Het scheepswrak was ernstig beschadigd. Er kon echter worden vastgesteld dat het ging om een karveel gebouwd vissersschip van het type waterschip. Waterschepen waren de grootste en belangrijkste vissersschepen van de Zuiderzee gedurende de 16de en 17de eeuw. Ze zijn voorzien van een bun gevuld met water, waar de gevangen vis levend in vervoerd kan worden. De vroegste types waterschepen werden overnaads gebouwd, maar vanaf het tweede kwart van de zestiende eeuw werden deze schepen karveel gebouwd, dat wil zeggen gladboordig. Vanwege de ernstige beschadiging van het schip en het gebrek aan documentatie over deze opgraving zijn de afmetingen niet bekend. Ook is het schip niet gedateerd. Op basis van de karveelbouw kan worden aangenomen dat dit waterschip na 1530 is gebouwd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een karveel gebouwd waterschip, Noordoostpolder</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002081.jpg\" alt=\"foto van twee schalen, overblijfselen uit een wrak\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x39-wvqh\">Opgravingsdocumentatie scheepswrak NQ65-I.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

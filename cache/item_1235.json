@@ -1,0 +1,27 @@
+{
+  "id": "1235",
+  "code": "spiering",
+  "name": "Spiering",
+  "type": "wreck",
+  "lat": "-5.7770462",
+  "lon": "134.7873838",
+  "location": "Pulau Wokam , Indonesië",
+  "firstdate": null,
+  "firstyear": "1714",
+  "firstyearend": null,
+  "lastdate": "1740-03-10",
+  "lastyear": "1740",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-21 12:40:24",
+  "modified_on": "2024-11-12 17:51:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Spiering </em>was een retourschip gebouwd voor de VOC kamer Delft. Ze maakte diverse retourreizen tussen 1715 en 1734. Alvorens haar laatste uitreis in november 1734 vanuit Texel begon.</p> <p>Het oude schip bleef vervolgens dienst doen in de Indische Archipel. Haar laatste reis was in 1740. Op 5 maart kwam <em>De Spiering</em> ter hoogte van Banda. Door zwaar weer werd ze daar voorbij gedreven. Op 10 maart was ze geankerd bij het eilandje Watjoe in de Rau archipel ten oosten van Ceram. Ze spilde van haar ankers en strandde aldaar. De meeste goederen en de bemanning konden gered worden Het schip werd ter plaatse gesloopt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Delfshaven, 1714<br>Lengte: 145 vt<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7999/file/NL-HaNA_1.04.02_7999_0019?eadID=1.04.02&amp;unitID=7999&amp;query=7999\">NL-HaNA_1.04.02 7999 scan 0019 en scan 1054.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000124.jpg\">Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

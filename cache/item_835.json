@@ -1,0 +1,27 @@
+{
+  "id": "835",
+  "code": "blijdorp-1",
+  "name": "Blijdorp",
+  "type": "wreck",
+  "lat": "14.9570265",
+  "lon": "-17.1171612",
+  "location": "Cabo Verde, Senegal",
+  "firstdate": null,
+  "firstyear": "1723",
+  "firstyearend": null,
+  "lastdate": "1733-08-08",
+  "lastyear": "1733",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-09-30 14:11:40",
+  "modified_on": "2024-12-07 14:06:08",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Blijdorp maakte drie retourreizen. Voor haar vierde uitreis vertrok het schip op 7 juli 1733 uit Texel, samen met <em>De Haafte</em> en <em>De Alsem</em>.</p> <p>Iets ten noorden van Kaap Verde (Senegal) is De Blijdorp gestrand en verongelukt: 5 ma 6 mijlen ten noorden van Cabo Verde.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4122/file/NL-HaNA_1.04.02_4122_0274?eadID=1.04.02&amp;unitID=4122&amp;query=4122\">&sup1;</a></p> <p>De schipper van De Haafte meldde dit aan de Kaap. Ze konden geen hulp bieden of dichtbij komen om volk en geld te redden 90 opvarenden kwamen hierbij om. De rest na vele suckelingen op FRance kantoor te Chienmegal aangekomen.<a href=\"https://cultureelerfgoed.info/mass/?file=00000174.jpg\">&sup2;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf, Rotterdam 1723 voor de VOC Kamer Rotterdam</p> <p>Genoemd naar de polder Blijdorp bij Overschie (Rotterdam).</p> <p>Lengte: 144 vt</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Haje Blauwhuis</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>225</td></tr><tr><th scope=\"row\">Tonnage</th><td>900 ton (450 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Er is een zeer gedetailleerd model gemaakt van de twee identieke schepen Blijdorp en Padmos rond 1723. Het wordt nu bewaard in het Maritiem Museum Rotterdam.<a href=\"https://maritiemmuseum.nl/verhalen/topstukken/zeldzaam-scheepsmodel-padmos-en-blijdorp\">***</a></p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93960\">DAS 2922.4.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000174.jpg\">NA 1.04.01.01. 551-14, Lijst van alle zoodanige Schepen.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/83/file/NL-HaNA_1.11.06.18_83_0133?eadID=1.11.06.18&amp;unitID=83&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 14-12-1733.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

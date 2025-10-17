@@ -1,0 +1,27 @@
+{
+  "id": "1013",
+  "code": "hoorn-1631",
+  "name": "Hoorn",
+  "type": "wreck",
+  "lat": "51.7496740",
+  "lon": "3.8812981",
+  "location": "Brouwershaven, Nederland",
+  "firstdate": null,
+  "firstyear": "1631",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1637",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-05 15:48:47",
+  "modified_on": "2024-07-02 15:21:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het retourschip <strong>De (nieuwe) Hoorn</strong> was het eerste en enige retourschip dat tot dan toe voor de Kamer Hoorn werd gebouwd. De Hoorn maakte twee succesvolle retourreizen naar Indi&euml; tussen 11 januari 1632 en 31 juli 1636.</p> <p>Haar derde uitreis begon op 18 december 1636 met het vertrek uit Texel. Door zware ijsgang en tegenwind werd ze gedwongen om in Zeeland weer binnen te lopen.&nbsp;<br>Een tweede poging om uit te lopen verliep niet beter. In februari of maart 1637 verloor&nbsp;<em>De Hoorn</em> in het Engelse<strong><em>&nbsp;</em></strong>Kanaal haar grote mast en moest terugkeren. Vervolgens liep ze op de zandbanken ter hoogte van Brouwershaven aan de grond en ging verloren:<br><em> ... het Schip nieuw Hoorn twelck zijn grooten&nbsp;mast int Canael verlooren hebbende int wederkeren na&nbsp;dese Landen omtrent Brouwershaven door quade toesicht&nbsp;en debauche van eenige Opperhoofden aende gront&nbsp;geraect en aen stucken is gestooten niet anders van importantie als 't gelt gebercht sijnde.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/316/file/NL-HaNA_1.04.02_316_0296?eadID=1.04.02&amp;unitID=316&amp;query=316\">*</a></em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Hoorn, 1631<br>Tonnage: De Hoorn staat in de egalisaties van de timmering en de equipage van 14 november 1631 voor 275 last.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7345/file/NL-HaNA_1.04.02_7345_0693?eadID=1.04.02&amp;unitID=7345&amp;query=7345\">**</a></p> <p><br><br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91524\">DAS 0486.3.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7345/file/NL-HaNA_1.04.02_7345_0693?eadID=1.04.02&amp;unitID=7345&amp;query=7345\">NL-HaNA_1.04.02_7345_0693.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/316/file/NL-HaNA_1.04.02_316_0296?eadID=1.04.02&amp;unitID=316&amp;query=316\">NL-HaNA_1.04.02_316_0296.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

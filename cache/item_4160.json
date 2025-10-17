@@ -1,0 +1,27 @@
+{
+  "id": "4160",
+  "code": "genota",
+  "name": "Genota (Ose)",
+  "type": "wreck",
+  "lat": "7.3150689",
+  "lon": "134.4524659",
+  "location": "Palau, Palau",
+  "firstdate": null,
+  "firstyear": "1934",
+  "firstyearend": "1935",
+  "lastdate": "1944-03-30",
+  "lastyear": "1944",
+  "lastyearend": null,
+  "country": "Japan",
+  "countrycode": "JP",
+  "author": "Will Brouwers",
+  "created_on": "2024-02-08 11:49:06",
+  "modified_on": "2025-06-16 20:41:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <strong><em>Genota</em></strong> vertrok (30-4-1942) uit Geraldton (West-Australi&euml;) naar Abadan (Perz. Golf) in ballast. Op 9 mei werd de tanker door de Japanse marine-hulpkruisers 'Aikoku Maru' en 'Hokoku Maru' in de Indische Oceaan in beslag genomen.&nbsp;Ze werd onder de naam Ose als tanker onder Japanse vlag gebracht.</p> <p>Op 30 maart 1944 aangevallen en tot zinken gebracht door Amerikaanse vliegtuigen Task Force 58 van een US vliegdekschip.</p> <p>De oorspronkelijke bemanning werd naar een interneringskamp in Taiwan overgebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: N.V. Petroleum Maatschappij 'La Corona'</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>483 voet (147,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>59 &frac12; voet (18,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>7987 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2441\">marhisdata id 2441.</a></li><li><a href=\"https://marshall.csu.edu.au/Marshalls/html/SCRU/micro1.pdf\">Micronesia, submerged cultural resources, 323.</a></li><li><a href=\"https://www.helderline.com/tanker/genota-1\">Helderline.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

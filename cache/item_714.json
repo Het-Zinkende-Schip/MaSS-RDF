@@ -1,0 +1,27 @@
+{
+  "id": "714",
+  "code": "dolfijn-1623",
+  "name": "Dolfijn",
+  "type": "wreck",
+  "lat": "19.6843043",
+  "lon": "-79.8532333",
+  "location": "Cayman brac island, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1621",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1630",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-21 19:18:13",
+  "modified_on": "2025-06-07 14:07:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Dolfijn</strong></em> voort het eerst genoemd in 1623. Maakte onderdeel uit van een eskader van 4 schepen dat naar Africa werd gezonden.</p> <table>  <tr> <td><strong>naam (kamer)</strong></td> <td><strong>type</strong></td> <td><strong>lasten</strong></td> <td><strong>complement</strong></td> <td><strong>stukken</strong></td> </tr> <tr> <td>Dolphijn (Amst)</td> <td>&nbsp;schip (ad)</td> <td>180</td> <td>Thomas Sickesz. 83</td> <td>0, 24, 6</td> </tr> <tr> <td>De Bruynvisch (Amst)</td> <td>jacht</td> <td>&nbsp;</td> <td>Cornelis Haringh, 27</td> <td>0, 8, 0</td> </tr> <tr> <td>Thonijn (Amst)</td> <td>jacht</td> <td>&nbsp;</td> <td>Bruyn Volkersz. 32</td> <td>0, 8, 0</td> </tr> <tr> <td>Swarte Leeuw</td> <td>handel (v-a)</td> <td>&nbsp;</td> <td>Philips van Zuylen</td> <td>&nbsp;</td> </tr>  </table> <p>(De Laet I,8)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>De Laet II.35, VII.214.</em></li><li><em>De Laet, Verhaal van West-Indien.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1405",
+  "code": "woerden-2",
+  "name": "Woerden 2",
+  "type": "wreck",
+  "lat": "52.0841477",
+  "lon": "4.8822212",
+  "location": "Woerden, Nederland",
+  "firstdate": null,
+  "firstyear": "180",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "200",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-22 13:20:51",
+  "modified_on": "2025-06-10 16:18:22",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Woerden 2 werd ontdekt bij saneringswerkzaamheden op het terrein van de voormalige gasfabriek in Woerden. De aard van de bodemverontreiniging heeft deugdelijke documenteren en opgraven belet.</p> <p>Er is ca. 12 m. van het schip waargenomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brouwers,W.,  Jansma, E. ,  Manders, M. (2013).<br /><em>Romeinse scheepsresten in Nederland.</em><br />Archeobrief 4.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

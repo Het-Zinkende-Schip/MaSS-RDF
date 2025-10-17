@@ -1,0 +1,27 @@
+{
+  "id": "2039",
+  "code": "ob55-ii",
+  "name": "OB55-II",
+  "type": "wreck",
+  "lat": "52.5201300",
+  "lon": "5.4809100",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": "1730",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1731",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 16:58:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het scheepswrak is gevonden in maart 1976 op kavel B55 in Oostelijk Flevoland, ten zuiden van de houtribdreef in het Bastion te Lelystad. In november/december 1976 is het schip opgegraven. Het betreft een vrij compleet aangetroffen middelgroot vrachtschip, dat behoort tot de groep van tjalkachtigen. Het heeft een plat vlak met ronde kimmen en rechtop staande boorden. De lengte over de stevens bedraagt 19,5 meter bij een breedte van 4 meter en een holte van 1,4 meter. Het jaar waarop het schip in de vaart kwam, blijft een gissing, omdat geen jaarringmonsters zijn genomen. Aan de hand van de dateerbare objecten van de inventaris kan wel het moment van vergaan worden vastgesteld. Met name het zogenaamde vuur- en bakengeld dat is gevonden geeft daarvoor een goede indicatie. Deze loden penningen werden als kwitantie aan schippers uitgereikt als bewijs voor de betaling van vuur- en bakengeld voor het onderhoud van vuren en de bebakening rond en op de Zuiderzee. Het jongste loodje dateert uit 1731 n. Chr. Het schip is dus vergaan in of kort na dat jaar. Uit de verschillende loodjes is tevens af te leiden dat het schip behalve op de Zuiderzee ook in gebruik is geweest op het binnenwater (Maas) en op zee (route via Harlingen naar de Wadden- en Noordzee). Het schip bestond uit drie ruimtes: het vooronder, het laadruim en het achteronder. Opvallend is de aanwezigheid van een stookplaats in zowel het voor- als achterschip. Het merendeel van de vondsten is in het achterschip gedaan, de ruimte die als kombuis fungeerde. Behalve het schip, zijn ook de uitrusting en inventaris (relatief) compleet bewaard gebleven. Van de lading daarentegen is niets aangetroffen. Mogelijk vervoerde het schip een lichte lading (bijvoorbeeld turf) die uit het schip is gespoeld.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een tjalkachtig vrachtschip uit de achttiende eeuw, Lelystad</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001951.jpg\" alt=\"Opgraving van een 18e eeuws vrachtschip op kavel B55 in Oostelijk Flevoland, nabij het huidige Lelycentre in Lelystad.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Opgraving van een 18e eeuws vrachtschip op kavel B55 in Oostelijk Flevoland, nabij het huidige Lelycentre in Lelystad.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x4c-rh3y\">Opgravingsdocumentatie scheepswrak OB55-II.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

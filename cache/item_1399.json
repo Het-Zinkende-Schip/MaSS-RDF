@@ -1,0 +1,27 @@
+{
+  "id": "1399",
+  "code": "sint-laurens",
+  "name": "Sint Laurens",
+  "type": "wreck",
+  "lat": "51.1547148",
+  "lon": "1.4337158",
+  "location": "Goodwin Sands, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1650",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-21 12:33:28",
+  "modified_on": "2025-06-10 16:15:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Gehuurd in maart door directie Middelburg.</p> <p>De Sint Laurens werd ingezet in slag bij Dover 29 mei 1652.</p> <p>Ze werd veroverd door de Engelsen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar:gehuur directie Middelburg</p> <p>Bewapening: 30?</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Tuynemans, Bastiaan</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>105</td></tr><tr><th scope=\"row\">Lengte</th><td>137 &frac14; voet (41,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 &frac34; voet (8,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J.A.<br /><a href=\"http://anglo-dutch-wars.blogspot.com/\">Anglo Dutch wars.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

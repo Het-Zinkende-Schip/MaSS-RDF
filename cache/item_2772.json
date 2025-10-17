@@ -1,0 +1,27 @@
+{
+  "id": "2772",
+  "code": "magdala",
+  "name": "Magdala",
+  "type": "wreck",
+  "lat": "61.3630397",
+  "lon": "-10.9204102",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1931",
+  "firstyearend": null,
+  "lastdate": "1945-01-15",
+  "lastyear": "1945",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-14 17:20:15",
+  "modified_on": "2025-06-14 21:43:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Magdala was onderweg van Reykjavik naar Belfast in konvooi 150. Op 16 januari werd het schip vermist. Het lot van de Magdala is onbekend</p> <p>Het is mogelijk dat het schip in hevige storm is vergaan. Maar het is ook mogelijk dat het schip werd getorpedeerd ter hoogte van de Faroer Eilanden. De 35 opvarenden worden vermist en zijn waarschijnlijk allen omgekomen.</p> <p>(Lijst bemanning; Scheepsrampen pp. 156-157)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: N.V. Petroleum Maatschappij La Corona</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>467 &frac14; voet (142,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>62 voet (18,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>34 voet (10,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>8248 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem-Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=3912\">Magdala ID 3912.</a></li><li><em>Scheepsrampen in  oorlogstijd, nr. 302.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

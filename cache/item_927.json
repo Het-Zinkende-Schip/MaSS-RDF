@@ -1,0 +1,27 @@
+{
+  "id": "927",
+  "code": "polanen-1670",
+  "name": "Polanen",
+  "type": "wreck",
+  "lat": "8.8038688",
+  "lon": "78.1834488",
+  "location": "Thoothukudi, India",
+  "firstdate": null,
+  "firstyear": "1668",
+  "firstyearend": null,
+  "lastdate": "1670-04-29",
+  "lastyear": "1670",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-14 09:45:27",
+  "modified_on": "2025-06-24 11:27:45",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Polanen is gebouwd op de VOC werf in Amsterdam en vertrok 21 april 1669 uit Texel naar Ceylon (aankomst 28-12-1669).&nbsp;<br>Het schip is op 29 april 1670 door storm verongelukt op de rede van Tutucoryn. Dagregister 4-7-1670. (<a href=\"https://archive.org/details/daghregistergeh00kologoog/page/n123/mode/2up?q=Polanen&amp;view=theater\">Dagh register</a>)<br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Amsterdam, 1668<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/152/file/NL-HaNA_1.04.02_152_0128?eadID=1.04.02&amp;unitID=152&amp;query=152\">&sup1;</a><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>33 Amsterdamse&nbsp;voet (9,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>670 ton (335 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/152/file/NL-HaNA_1.04.02_152_0128?eadID=1.04.02&amp;unitID=152&amp;query=152\">NL-HaNA_1.04.02_152_0128.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0126?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">NL-HaNA_1.04.02_4932 uitloopboek.</a></li><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/92215\">DAS 1132.1.</a></li><li><a href=\"https://archive.org/details/daghregistergeh00kologoog/page/n123/mode/2up?q=Polanen&amp;view=theater\">Dagregister Batavia 1670, p. 124.</a></li><li>Dam, Pieter van.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=520&amp;accessor=searchText&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=1&amp;view=\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.1.1  481.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

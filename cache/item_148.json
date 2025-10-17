@@ -1,0 +1,27 @@
+{
+  "id": "148",
+  "code": "pontian",
+  "name": "Pontian",
+  "type": "wreck",
+  "lat": "14.1330000",
+  "lon": "93.4670000",
+  "location": "South China Sea, south of the state of Pahang",
+  "firstdate": null,
+  "firstyear": "200",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "400",
+  "lastyearend": null,
+  "country": "Maleisië",
+  "countrycode": "MY",
+  "author": "Martijn Manders",
+  "created_on": "2010-04-07 00:00:00",
+  "modified_on": "2020-06-15 10:17:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Oldest example in Malaysia is the Pontian boat, discovered in Pahang by Arthur Evans in 1926 and dated to the 3rd-5th century.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Gibson-Hill, C.A. (1952).<br /><em>Further Notes on the Old Boat found at Pontian, in Southern Pahang.</em><br />Journal of the Malayan Branch of the Royal Asiatic Society, Vol. 25, No. 1 (158) (August, 1952).<br />pp 111-133.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

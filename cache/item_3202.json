@@ -1,0 +1,27 @@
+{
+  "id": "3202",
+  "code": "le-maire",
+  "name": "Le Maire",
+  "type": "wreck",
+  "lat": "-14.6114301",
+  "lon": "111.4990757",
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1908",
+  "firstyearend": null,
+  "lastdate": "1942-03-04",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-12-20 17:18:09",
+  "modified_on": "2025-06-16 20:18:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Le Maire</em></strong> vertrok op 27 februari 1942 van Cilacap (Tjilatjap Java) naar Bunbury (West Australi&euml;) en is sindsdien vermist. Het schip was onderdeel van een grote evacuatie om burgers en militairen van het Java weg te halen. Op 1 maart 1942 werd het schip getorpedeerd door een Japanse vloot. Alle opvarenden en het schip zijn daarna spoorloos verdwenen.</p> <p>Alle opvarenden kwamen om het leven bij de ramp.</p> <p>Het schip is misschien op 1 of 4 maart 1942 door de Japanse onderzeeboot I-7 tot zinken gebracht, volgens sommigen op 600 mijl ten zuiden van Cilacap volgens Japanse bronnen (die geen scheepsnaam noemen) op 250 mijl noord noord west van de cocos eilanden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Maatschappij voor Scheeps- en Werktuigbouw Fijenoord N.V., Rotterdam</p> <p>Jan De Nooy uit Loosduinen was 4de stuurman aan boord van de ss. Le Maire.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=3634\">marhisdata id 3634.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

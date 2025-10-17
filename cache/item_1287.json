@@ -1,0 +1,27 @@
+{
+  "id": "1287",
+  "code": "nieuw-walcheren",
+  "name": "Nieuw Walcheren",
+  "type": "wreck",
+  "lat": "21.6536190",
+  "lon": "72.7774901",
+  "location": "Bharuch, India",
+  "firstdate": null,
+  "firstyear": "1731",
+  "firstyearend": null,
+  "lastdate": "1748-05-24",
+  "lastyear": "1748",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-07 14:54:43",
+  "modified_on": "2025-06-29 14:56:42",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het VOC schip '<em>Nieuw Walcheren'</em> lag klaar op de rede van <em>Brotchia</em> (Baruch) voor de reis naar Batavia. Ze was o.a. geladen met 520 pakken en cassen textiel.*<br>21 mei van haar ankers geslagen en de volgende dag op een bank gedreven en lek gestoten. Het schip werd vervolgens verlaten door de bemanning . Maar bleef nog langer tijd rechtop de kiel liggen 3 mijl van open zee in de rivier de Brotchia. De lading en het schip gingen verloren.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004344.png\" alt=\"tekening van de stad Brotchia aan de gelijknamige rivier.\"> <div class=\"img-source\">Vingboons-atlas</div> <figcaption class=\"img-description\">De stad Brotchia aan de gelijknamige rivier.</figcaption> </figure> <p class=\"note\">*) Brotchia was beroemd door haar textiel industrie (Bafta Brootscha). De VOC had er een kantoor.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Middelburg , 1731<br>Tonnage: 425 last<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>145 Amsterdamse&nbsp;voet (41,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Huygens ING.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94449\">DAS 3376.6.</a></li><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=717&amp;accessor=search_in_text&amp;source=11&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26i\">Generale Missiven 31 dec 1749.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

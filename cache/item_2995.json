@@ -1,0 +1,27 @@
+{
+  "id": "2995",
+  "code": "velox",
+  "name": "Velox",
+  "type": "wreck",
+  "lat": "47.6239696",
+  "lon": "-9.8115747",
+  "location": "Atlantische Oceaan?",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-15 13:12:25",
+  "modified_on": "2025-06-15 14:44:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Men meldt ons uit Groningen, dat De Nederlandse 2 mast schoener &ldquo;Velox&rdquo; niet ter bestemming Oporto is aangekomen en vermoedelijk is vergaan. De ijzeren gaffelschoener &ldquo;Velox&rdquo;, gezagvoerder B.G. Mulder, met een bemanning van vijf koppen, 30 januari van Swansea met steenkool naar Oporto vertrokken, groot bruto 150 en netto 131 register ton, in 1900 gebouwd, behoorde te Groningen thuis.</p> <p>De Raad voor de Scheepvaart behandelde deze scheepsramp op 3 juli 1915. Haar conclusie luidde: Het is niet onwaarschijnlijk dat het schip gebleven is in een der stormen, welke in begin Februari 1915 buiten het Engelsch Kanaal hebben gewoed, doch bij gebrek aan alle gegevens is de juiste oorzaak niet met zekerheid vast te stellen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: tweemaster gaffelschoener</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Mulder, B.G.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>6</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6957\">marhisdata id 6957.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Velox&amp;cql%5B%5D=%28date+_gte_+%2203-07-1915%22%29&amp;redirect=true&amp;sortfield=date&amp;identifier=ddd:010034245:mpeg21:a0167&amp;resultsidentifier=ddd:010034245:mpeg21:a0167&amp;rowid=1\">Nieuwe Rotterdamsche Couran  4-7-1915.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Velox&amp;cql%5B%5D=%28date+_gte_+%2201-05-1915%22%29&amp;redirect=true&amp;sortfield=date&amp;identifier=ddd:010034129:mpeg21:a0166&amp;resultsidentifier=ddd:010034129:mpeg21:a0166&amp;rowid=6\">NRC 1-5-1915.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

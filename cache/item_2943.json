@@ -1,0 +1,27 @@
+{
+  "id": "2943",
+  "code": "frederika-1902",
+  "name": "Frederika",
+  "type": "wreck",
+  "lat": "52.5955824",
+  "lon": "4.2598370",
+  "location": " Nieuwe Waterweg 21 mijl WNW",
+  "firstdate": null,
+  "firstyear": "1902",
+  "firstyearend": null,
+  "lastdate": "1918-07-08",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-08 12:56:35",
+  "modified_on": "2024-07-08 09:52:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Hedenavond heeft de schokker \"SCH 114\" de bemanning van de Nederlandse koftjalk &ldquo;Frederika&rdquo; in de Scheveningsche haven binnengebracht. De tjalk, bestemd naar Havre via Yarmouth, is 9 Juli W.N.W. van de Waterweg door een Duitsche duikboot in brand geschoten. De bemanning bestaat uit kapitein J. Londema, van Rotterdam, stuurman D. Londema, kok J. Burgerhoudt en matroos A. Van der Zwaan, allen zijn ongedeerd aangekomen.<br>(opm: uit J.H. Hoogendijk: met een lading glas en visschubben van Rotterdam naar Havre op 8 juli 1918 op ca. 21 mijl W.N.W. van de Nieuwe Waterweg door een Duitse onderzeeboot aangehouden en met bommen tot zinken gebracht. De opvarenden van de onderzeeboot, die de bommen aan boord plaatsten, namen alles van boord mee, wat van hun gading was, zelfs de kleren der opvarenden en het horloge van de stuurman.)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Londema,J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>4</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>marhisdata.nl.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=2301\">schip id 2301.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "569",
+  "code": "vleuten-2",
+  "name": "Vleuten 2",
+  "type": "wreck",
+  "lat": "52.1320000",
+  "lon": "5.1130000",
+  "location": "Leidsche Rijn, Nederland",
+  "firstdate": null,
+  "firstyear": "956",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1000",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Leon Derksen",
+  "created_on": "2017-12-06 00:00:00",
+  "modified_on": "2025-06-06 16:05:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

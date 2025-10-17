@@ -1,0 +1,27 @@
+{
+  "id": "3137",
+  "code": "bantam",
+  "name": "Bantam",
+  "type": "wreck",
+  "lat": "-33.8698439",
+  "lon": "151.2082848",
+  "location": "Sydney, Australië",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1946-09-24",
+  "lastyear": "1946",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-10-05 17:46:21",
+  "modified_on": "2023-10-10 08:46:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Bantam Onder kapitein J.A. Bolhuis in de Oro baai door een Japanse luchtaanval beschadigd en aan de grond gezet. Hierbij vielen geen slachtoffers. Het schip werd in november 1943 gelicht en kwam op 12 november 1943 te Sydney aan. Op 28 mei 1945 werd het wrak geabandonneerd en op 24 september 1946, geladen met overtollige munitie (4000 ton mosterdgas en phosgeengas) door de Australische marine bij The Heads (21 mijl uit de kust bij) Sydney tot zinken gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=798\">marhisdata id 798.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2975",
+  "code": "primavera",
+  "name": "Primavera (IJM 47)",
+  "type": "wreck",
+  "lat": "53.1946842",
+  "lon": "3.7579238",
+  "location": "Noordzee, Haaks",
+  "firstdate": null,
+  "firstyear": "1896",
+  "firstyearend": null,
+  "lastdate": "1916-04-14",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-15 10:47:41",
+  "modified_on": "2025-06-15 14:30:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Primavera</strong></em> verliet Ijmuiden op 2-4-1916 om te gaan vissen op de Noordzee.Er werd daarna niets meer van het schip of bemanning vernomen. Ze is waarschijnlijk op een mijn gelopen en gezonken. Opvarenden van een andere Ijmuidense trawler <em><strong>Paris</strong></em> hadde ter hoogte van het lichtschip Haaks wrakhout zien drijven afkomstig van een trawler.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Duthie J. - John Duthie, Sons &amp; Co. - Torry Shipbuilding Co. Ltd., Aberdeen</p> <p>Euigenaar 2: Bakker &amp; Dijksen - Reederei Halve Maan - Maatschappij Pesca, Ijmuiden (1913-1916)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>121 voet (36,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>19 &frac34; voet (6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>155 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Primavera&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1916%7C&amp;identifier=ddd:010547813:mpeg21:a0158&amp;resultsidentifier=ddd:010547813:mpeg21:a0158&amp;rowid=1\">De Tĳd : godsdienstig-staatkundig dagblad 19-04-1916.</a></li><li><a href=\"https://www.scheveningen-haven.nl/info/schepen/index_ijm.php?nummer=47&amp;lijst=0&amp;af=IJM\">scheveningen-haven.nl.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

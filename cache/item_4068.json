@@ -1,0 +1,27 @@
+{
+  "id": "4068",
+  "code": "ok64",
+  "name": "OK64",
+  "type": "wreck",
+  "lat": "52.5366270",
+  "lon": "5.6806410",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": "1825",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:16:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In oktober 1962 is een scheepswrak verkend op kavel K64 in Oostelijk Flevoland. Hierbij trof men de tamelijk complete romp aan van een karveel gebouwd houten vrachtschip van merkwaardige vorm. In het wrak trof men een lading rode aarde aan, zogeheten 'Brusselse aarde', een oud reinigings- of schuurmiddel. Het schip was zo'n 16 meter lang en 4 meter breed. De compleetheid van het wrak en de opmerkelijke lading maakten dat het in het daarop volgende jaar systematisch werd opgegraven. Er werd duidelijk dat het ging om een schip uit de tweede helft van de 19de eeuw. Vele vondsten werden geborgen, zoals scheepsuitrusting en -inventaris, een rapier, een Gelderse duit uit 1760, een zilveren kettinkje en delen van een leren kinderschoenen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xku-c4x2\">Opgravingsdocumentatie scheepswrak OK64.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

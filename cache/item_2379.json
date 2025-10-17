@@ -1,0 +1,27 @@
+{
+  "id": "2379",
+  "code": "van-rees",
+  "name": "Van Rees",
+  "type": "wreck",
+  "lat": "-7.9863415",
+  "lon": "108.2043457",
+  "location": "Batu Karas, Indonesië",
+  "firstdate": null,
+  "firstyear": "1914",
+  "firstyearend": null,
+  "lastdate": "1942-01-08",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-18 16:41:01",
+  "modified_on": "2025-06-12 12:28:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Vertrok 25 -1-1941 van Makassar naar Tjilatjap. Vandaar vertrok ze op 7 januari 1942. De volgende dag werd De Van Rees in de Indische Oceaan, op 80 mijl ten westen van Tjilatjap, in positie 07-53 ZB en 106-11 OL, door de Japanse onderzeeboot I 56 getorpedeerd.<br>De aanval vond 's morgens om 6.00 uur op 8 januari 1942 plaats. Het schip zonk snel en ging verloren. Zes leden van de bemanning verloren het leven. De overige opvarenden bereikten veilig de kust van Java bij Batu Karas.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Stoomschip Passenger-/cargo vessel<br>Gebouwd: N.V. Werf v/h Rijkee &amp; Co., Rotterdam/Katendrecht<br>Eigenaar: N.V. Koninklijke Paketvaart-Maatschappij</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kooper, J.J.</td></tr><tr><th scope=\"row\">Vermogen</th><td>1600 pk</td></tr><tr><th scope=\"row\">Lengte</th><td>325 &frac34; voet (99,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>44 voet (13,4 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>22 &frac34; voet (6,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3000 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6902\">Van Rees ID 6902.</a></li><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 125.</em><br />Amsterdam 1947.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

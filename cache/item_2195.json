@@ -1,0 +1,27 @@
+{
+  "id": "2195",
+  "code": "juno",
+  "name": "Juno",
+  "type": "wreck",
+  "lat": "50.6611924",
+  "lon": "-1.5999527",
+  "location": "Wight, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1782",
+  "firstyearend": null,
+  "lastdate": "1786-12-11",
+  "lastyear": "1786",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-06 11:44:37",
+  "modified_on": "2024-12-04 11:54:57",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Juno </em>is <em>o</em>p de terugreis uit Oost-Indi&euml; bij het eiland Wight vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

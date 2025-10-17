@@ -1,0 +1,27 @@
+{
+  "id": "2143",
+  "code": "zo69",
+  "name": "ZO69",
+  "type": "wreck",
+  "lat": "52.3198800",
+  "lon": "5.4691900",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1675",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:46:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit schip is gevonden op kavel O69 in Zuidelijk Flevoland nabij de Flediteweg, in de gemeente Zeewolde. Het wrak is in 1975/1976 opgegraven. Het scheepswrak is een karveel gebouwd vissersschip van het type waterschip. Waterschepen waren de grootste en belangrijkste vissersschepen van de Zuiderzee gedurende de zestiende en zeventiende eeuw. Ze zijn voorzien van een bun gevuld met water, waar de gevangen vis levend in vervoerd kan worden. De vroegste types waterschepen werden overnaads gebouwd, maar vanaf het tweede kwart van de zestiende eeuw werden deze schepen karveel gebouwd, dat wil zeggen gladboordig. De huid van het schip was zowel aan bakboord als aan stuurboord goed bewaard gebleven. Ook werd een deel van de dekconstructie aan getroffen. Het schip is gebouwd op een kielbalk en is voorzien van een vrij rechte voorsteven. Op het voor- en achterdek zijn resten van luiken aangetroffen en op de bundeken is tevens de trog gevonden. Uit de inventaris is gebleken dat het schip rond het midden van de zeventiende eeuw is vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een karveel gebouwd waterschip uit de zeventiende eeuw, Zeewolde</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002075.jpg\" alt=\"Overzichtstekening van scheepswrak ZO69, waarop de vondstnummers van de gevonden objecten zijn ingetekend.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Overzichtstekening van scheepswrak ZO69, waarop de vondstnummers van de gevonden objecten zijn ingetekend.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zkj-dw45\">Opgravingsdocumentatie scheepswrak ZO69.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

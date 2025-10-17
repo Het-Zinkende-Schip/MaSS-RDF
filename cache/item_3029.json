@@ -1,0 +1,27 @@
+{
+  "id": "3029",
+  "code": "sandenburg",
+  "name": "Sandenburg",
+  "type": "wreck",
+  "lat": "51.4497510",
+  "lon": "3.6747085",
+  "location": "Rammekens, Nederland",
+  "firstdate": null,
+  "firstyear": "1722",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1724",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-12-08 17:15:35",
+  "modified_on": "2025-06-15 17:20:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Sandenburg maakt deel uit van eskader uitgezonden naar de Middellandse zee (vertrek 6-10-1723). Aan boord van de Sandenburg bevind zich sbn. Carel Godin.</p> <p>Godin voert vredesonderhandelingen in Algiers met de Bey (4-5-1724). De onderhandelingen mislukken.</p> <p>12-6-1724 is de Sandenburg bij het Spaanse C&aacute;diz. Ze vertrekt vandaar als begeleider van een konvooi koopvaarders naar Nederland.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003392.jpg\" alt=\"kaart van Walcheren met Vlissingen en Fort Rammekens en een aantal zandplaten in de Westerschelde rond 1700 De locatie van de Sandenburg.\"> <div class=\"img-source\">RP-P-AO-15-7B</div> <figcaption class=\"img-description\">Walcheren met Vlissingen en Fort Rammekens en een aantal zandplaten in de Westerschelde rond 1700 De locatie van de Sandenburg. (klik op de kaart om te vergroten)</figcaption> </figure> <p><br><strong>Stranding <br></strong>De Sandenburg was 3 december 1724 terug in Vlissingen. Ze lag geankerd bij kasteel Rammekens. De volgende dag van haar anker geraakt en door opkomend stormweer op de zandplaat <em>De Cassoot</em> gestoten, lek geraakt en gezonken. De equipage werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Vlissingen, 1722 tot een bekwaam roeifregat opgetimmerd.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Grindet, Herman</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>250</td></tr><tr><th scope=\"row\">Lengte</th><td>140 voet (42,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jonge,  J.C.<br /><em>Geschiedenis van Het Nederlandsche Zeewezen, IV, 124.</em></li><li><a href=\"https://www.zeeuwsarchief.nl/onderzoek-het-zelf/archief/?mivast=239&amp;miadt=239&amp;mizig=210&amp;miview=inv2&amp;milang=nl&amp;micols=1&amp;micode=508&amp;mizk_alle=36470&amp;mip2=36470&amp;mibj=1709&amp;miej=1725#inv3t3\">508 Rekenkamer van Zeeland, ‘Rekenkamer C’, (1573) 1597-1805 (1808) Inv. nr. 36470.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

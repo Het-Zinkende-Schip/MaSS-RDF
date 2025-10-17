@@ -1,0 +1,27 @@
+{
+  "id": "4229",
+  "code": "oude-zijpe-2",
+  "name": "Oude Zijpe",
+  "type": "wreck",
+  "lat": "52.3692935",
+  "lon": "4.5170082",
+  "location": "Zandvoort, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1742-09-22",
+  "lastyear": "1742",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2024-12-02 17:34:19",
+  "modified_on": "2025-08-12 17:50:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het VOC schip De Oude Zijpe vertrok 29 juni 1740 van Texel voor haar eerste reis naar Batavia, Oost Indi&euml; (aankomst 28 mei 1741). De retourreis van Batavia naar Texel begon 15 december 1741. Het schip had een lading peper en nootmuskaat aan boord, bestemd voor de VOC-kamer Enkhuizen.</p> <p>In de nacht van 21 op 22 september 1742 sloeg het noodlot echter toe. Iets ten noorden van Zandvoort kwam het schip in een zware storm terecht. Alle ankers werden verspeeld. De opvarenden overleefden de schipbreuk. Een groot deel van de lading werd geborgen.<a href=\"https://resources.huygens.knaw.nl/bgb/voyage/10868\">&sup1;</a></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004330.jpg\" alt=\"tekst: van Wismar, en Poppe Bakker van Hamburg. Het O. 1. C. fchip Horftendael heeft 7 voet water şin gekreegen, en word ontladen. Tuffchen den 21 en as dezer 's nagts ten i nur, 15 het Oottindifch Retourſchip de Oude Zype, voor de kamers Hoorn en Enkhuyzen van Batavia komende, by Zantvoort geitrand, hebbende zyn ankers vealooren, het volk (beftaende in omtrent 80 man) zyn geborgen.\"> <div class=\"img-source\">delpher-22-9-1742</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?cql%5B%5D=%28date+%3D+%2225-09-1742%22%29&amp;coll=ddd&amp;redirect=true&amp;resultscoll=dddtitel&amp;identifier=ddd:010713929:mpeg21:p002&amp;rowid=2\">Amsterdamse Courant 25-9-1742.</a></li><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/98029\">DAS 7136.1.</a></li><li>Lemmers, G.L.<br /><a href=\"https://studenttheses.universiteitleiden.nl/access/item%3A2606611/view\">thesis, Responsabiliteit van het Redden, p 45 e.v. Leiden  2017.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

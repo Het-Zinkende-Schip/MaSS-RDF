@@ -1,0 +1,27 @@
+{
+  "id": "849",
+  "code": "pia",
+  "name": "Pia",
+  "type": "wreck",
+  "lat": "51.0429481",
+  "lon": "2.1106110",
+  "location": "Gravelines, Frankrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1940-05-18",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-17 14:35:07",
+  "modified_on": "2025-06-07 20:56:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De kustvaarder <em><strong>Pia</strong></em> lag op 12 mei 1940 in Antwerpen. De oorlog kwam steeds dichterbij en de Pia vertrok naar een veiliger haven in Frankrijk. Ze nam een jacht de Albatros III op sleeptouw en was onderweg naar Boulogne. In de buurt van Gravelines liep ze echter op een mijn.</p> <p>Zes van de zeven opvarenden stierven. Alsmede vier opvarenden van de Albatros III die tijdelijk waren overgestapt op de Pia.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://en.wikipedia.org/wiki/List_of_shipwrecks_in_May_1940#cite_ref-NH054034_67-41\">Wiki list of shipwrecks May 1940.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

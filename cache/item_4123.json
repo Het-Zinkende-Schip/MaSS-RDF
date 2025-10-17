@@ -1,0 +1,27 @@
+{
+  "id": "4123",
+  "code": "nq65-ii",
+  "name": "NQ65-II",
+  "type": "wreck",
+  "lat": "52.6631950",
+  "lon": "5.8379170",
+  "location": "Ens, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": "1825",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:37:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Betreft de vondst van een vissersscheepje met bun, op dezelfde kavel waar eerder vissersschip NQ65-I werd aangetroffen. Van het tweede wrak werd een schets van een doorsnede gemaakt ter hoogte van de bun, maar verder is er door Pieter (P.J.R.) Modderman zeer weinig van opgetekend. Van de geborgen vondsten zijn thans enkel 4 tegeltjes/plavuizen nog in het Nationaal Scheepsarcheologisch Depot te Lelystad aanwezig.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x39-wvqh\">Opgravingsdocumentatie scheepswrak NQ65-II.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

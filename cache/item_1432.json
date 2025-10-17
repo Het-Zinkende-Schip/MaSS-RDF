@@ -1,0 +1,27 @@
+{
+  "id": "1432",
+  "code": "alblasserdam-2",
+  "name": "Alblasserdam",
+  "type": "wreck",
+  "lat": "51.8609742",
+  "lon": "4.6554279",
+  "location": "Alblasserdam, Nederland",
+  "firstdate": null,
+  "firstyear": "-12",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "100",
+  "lastyearend": "200",
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-24 12:59:06",
+  "modified_on": "2025-06-10 16:30:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In Alblasserdam is tijdens opgravingen in 1973 een fragment van een boomstamboot aangetroffen. Er is een fragment van 3 meter bewaard gebleven. In de huid van de boot is een aantal houten pennetjes van gelijke lengte aangetroffen, die gebruikt zijn om de dikte van de huid gelijk te maken. Op grond van nederzettings sporen uit de Romeinse tijd is het scheepsfragment grofweg in de Romeinse tijd gedateerd.</p> <p>(<a href=\"https://archis.cultureelerfgoed.nl/zoekenenvinden//4FGN-CRZG-BCHQ-Z2YX#/cho/search/(cho:(fields:('*':boomstamboot),page:2))\">Archis 1035301</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brouwers,W.,  Jansma, E.,  Manders, M. (2013).<br /><a href=\"https://docplayer.nl/14735693-Romeinse-scheepsresten-in-nederland.html\">Romeinse scheepsresten in Nederland.</a><br />Archeobrief 4 2013.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

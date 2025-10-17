@@ -1,0 +1,27 @@
+{
+  "id": "2968",
+  "code": "katwijk-1903",
+  "name": "Katwijk",
+  "type": "wreck",
+  "lat": "51.6731861",
+  "lon": "2.7181755",
+  "location": "Noord Hinder",
+  "firstdate": null,
+  "firstyear": "1903",
+  "firstyearend": null,
+  "lastdate": "1915-04-14",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-13 11:02:43",
+  "modified_on": "2025-06-15 14:27:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Katwijk</strong></em> was op reis van Baltimore naar Rotterdam met een lading graan. In opdracht van de Nederlandse Regering aangekocht. Op 14 april 1915 lag het schip voor anker op 6 mijl ten westen van het lichtschip &lsquo;Noord Hinder&rsquo; te wachten op een loods. Om 20.00 uur 's avonds werd ze zonder enige waarschuwing getorpedeerd door de Duitse onderzeeboot &lsquo;UB 10&rsquo;.</p> <p>De Katwijk zonk binnen een kwartier. De bemanning van 23 personen kon zich in de sloepen redden en kwam na een tocht van zes uur in het donker aan op het lichtschip.</p> <p>Reeds op 30 mei 1915 bood de Duitse regering verontschuldigingen en schadevergoeding voor het schip en lading aan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Scheepswerf v/h. Jan Smit Czn., Alblasserdam</p> <p>Eigenaar: N.V. Mij. Stoomschip Katwijk (Erhardt &amp; Dekkers), Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>23</td></tr><tr><th scope=\"row\">Lengte</th><td>291 voet (88,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>41 voet (12,5 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>22 &frac34; voet (6,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2040 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=3400\">marhisdata id 3400.</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/3276.html\">uboat.net UB 10.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

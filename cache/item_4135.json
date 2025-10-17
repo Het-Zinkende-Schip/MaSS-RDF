@@ -1,0 +1,27 @@
+{
+  "id": "4135",
+  "code": "nr62-nr63",
+  "name": "NR62/NR63",
+  "type": "wreck",
+  "lat": "52.7107590",
+  "lon": "5.8755170",
+  "location": "Marknesse, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": "1600",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:54:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gemeld in 1942 en het volgende jaar opgegraven. Het zou gaan om een weinig beschadigd schip met een lengte van 18 m, een breedte van 3,17 m en een diepte van 1,15 m, maar verder is er helaas weinig van het wrak opgetekend. Opmerkelijk was met name de vondst van een gestileerde, uit hout gesneden vogel. De ondergangsdatering werd op basis van de gedane vondsten gesteld op de 16de eeuw.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zwk-tqzd\">Opgravingsdocumentatie scheepswrak NR62/NR63.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

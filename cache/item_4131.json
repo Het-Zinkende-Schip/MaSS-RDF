@@ -1,0 +1,27 @@
+{
+  "id": "4131",
+  "code": "nr3",
+  "name": "NR3",
+  "type": "wreck",
+  "lat": "52.7694720",
+  "lon": "5.8457960",
+  "location": "Kuinre, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1775",
+  "lastyearend": "1825",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:46:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Verkend in 1942 in de Noordoostpolder, maar bleek helaas afgebroken te zijn buiten medeweten van de archeologen. Het betrof een vrachtschip met een lading puin. De ondergangsdatering werd gesteld op ca. 1775-1825, n.a.v. het jaartal 1775 dat op een gevonden leren messchede is aangebracht (objectnr. Z1942-V17)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xum-n9e3\">Opgravingsdocumentatie scheepswrak NR3.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

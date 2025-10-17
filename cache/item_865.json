@@ -1,0 +1,27 @@
+{
+  "id": "865",
+  "code": "bronstee-1685",
+  "name": "Bronstee",
+  "type": "wreck",
+  "lat": "-6.9196105",
+  "lon": "110.3457184",
+  "location": "Semarang, Indonesië",
+  "firstdate": null,
+  "firstyear": "1685",
+  "firstyearend": null,
+  "lastdate": "1697-08-21",
+  "lastyear": "1697",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2019-10-24 10:48:35",
+  "modified_on": "2025-07-18 05:15:44",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Volgens Dagregister Batavia 1686, 1688 en 1690 en volgens de \"Lijst\" een fluit.<br>De Bronstee is op de rede van Semarang op 21 augustus 1697 gezonken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: kat of fluyt</p> <p>Gebouwd: 1685<br>Tonnage 253, 126 last</p> <p>Bemanning: 50</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>100 Amsterdamse&nbsp;voet (28,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>23 &frac12; Amsterdamse&nbsp;voet (6,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Pieter van Dam's Beschrijvinge van de Oostindische Compagnie 1639-1701. p 482.</em></li><li><em>Dagregister Batavia 1686, 1688 en 1690.</em></li><li>Pieter van Dam.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/vandam/#page=803\">Pieter van Dam’s Beschryvinge van de Oostindische Compagnie 1639-1701.</a><br />Huygens ING.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

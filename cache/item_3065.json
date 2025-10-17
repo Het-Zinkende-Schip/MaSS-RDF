@@ -1,0 +1,27 @@
+{
+  "id": "3065",
+  "code": "bergschenhoek",
+  "name": "Bergschenhoek",
+  "type": "wreck",
+  "lat": "51.9893400",
+  "lon": "4.5016775",
+  "location": "Bergschenhoek, Nederland",
+  "firstdate": null,
+  "firstyear": "-3455",
+  "firstyearend": "-3430",
+  "lastdate": null,
+  "lastyear": "-3400",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-04-14 17:50:04",
+  "modified_on": "2025-06-15 21:01:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De boomstamboot van Bergschenhoek is in delen bewaard gebleven. Houtonderzoek heeft aangetoond dat het gemaakt is van elzenhout en C14-onderzoek dateert de fragmenten uit 5380&plusmn;25 BP. Deze periode komt overeen met de midden-Swifterbant periode.</p> <p>Waldus &amp; Overmeer, 2014: 28.</p> <p>WALDUS, W.B. &amp; A.B.M. Overmeer, (2014). Scheepsarcheologie in de praktijk in Nederland.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>2 &frac12; voet (0,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Een fragment van ca. 2,5 me is bewaard in maritiem museum Rotterdam</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

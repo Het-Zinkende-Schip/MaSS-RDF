@@ -1,0 +1,27 @@
+{
+  "id": "1132",
+  "code": "maastricht",
+  "name": "Maastricht",
+  "type": "wreck",
+  "lat": "2.5787193",
+  "lon": "94.9108887",
+  "location": "Sumatra, ten westen van , Indonesië",
+  "firstdate": null,
+  "firstyear": "1634",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1651",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-17 15:38:19",
+  "modified_on": "2025-06-24 23:36:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Maastricht</strong></em> bleef in augustus 1642 na aankomst van haar vierde uitreis in Indische wateren. Een spiegelretourschip werd soms, na een aantal retour reizen van Nederland naar Indi&euml; en terug, qua constructie niet meer sterk genoeg bevonden en kreeg een tweede leven op minder belastende routes in het intra Aziatische VOC netwerk.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003037.jpg\" alt=\"landkaart van de westkust van India in twee gedeelten. Het noorden is links.\"> <div class=\"img-source\">HaNA_4.VELH_107</div> </figure> <p class=\"figcaption\"><br>De westkust van India in twee gedeelten. Het noorden is links.</p> <p><strong>Storm</strong><br>De Maastricht was vanaf de westkust van India via Gale (Ceylon, vertrek van daar op 10 mei 1651) onderweg naar Batavia. De vaart op die route was, indien in de juiste mousson-periode ondernomen, meestal probleemloos. De Maastricht kwam echter in een zware storm voor de westkust van Sumatra. Ze zonk op 1 &frac14; graad benoorden de linie. Het volk werd gered door de <em>Snoek</em> die met de Maastricht samen voer. Ook een kleine hoeveelheid goud kon worden overgenomen, maar de peperlading ging verloren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Rotterdam, 1634<br>Tonnage: 300 last<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=494&amp;accessor=search_in_text&amp;source=2&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id\">Generale Missiven dl II, p. 481 en p. 507.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/875/file/NL-HaNA_1.04.02_875_0249?eadID=1.04.02&amp;unitID=875&amp;query=875\">NA 1.04.02 (VOC) 875, 233 (scan 249).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

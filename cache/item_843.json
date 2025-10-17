@@ -1,0 +1,27 @@
+{
+  "id": "843",
+  "code": "vrouw-elisabeth-dorothea",
+  "name": "Vrouw Elisabeth Dorothea",
+  "type": "wreck",
+  "lat": "52.8210332",
+  "lon": "4.6810770",
+  "location": "Petten t.h.v., Nederland",
+  "firstdate": null,
+  "firstyear": "1757",
+  "firstyearend": null,
+  "lastdate": "1767-11-28",
+  "lastyear": "1767",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-08 14:00:07",
+  "modified_on": "2025-06-30 13:11:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Vrouw Elisabeth Dorothea</strong></em> was een VOC retourschip. Ze vertrok 15 -11- 1765 ui Texel voor haar tweede uitreis naar Azi&euml;. Op 16 mei 1667 vertrok ze uit Batavia terug naar Nederland.</p> <p>In de nacht van 28 november 1767 kwam ze in een zware storm voor de kop van Noord Holland in moeilijkheden. Ze strandde op de kust bij Petten. Slechts 6 man overleefde de ramp. In de Leeuwarder courant stond een lijst van omgekomen officieren.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003648.jpg\" alt=\"De afbeelding toont een lijst van officieren die zijn omgekomen op het Oost-Indische Compagnies Retour- en Naschip &quot;De Vrouw Elisabeth Dorothea&quot;.\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf&nbsp;Amsterdam, 1757<br>Tonnage: 600 (300 last)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=&amp;cql%5B%5D=%28date+_gte_+%2201-11-1767%22%29&amp;cql%5B%5D=%28date+_lte_+%2231-12-1767%22%29&amp;cql%5B%5D=ppn+any+%28852115210+OR+832989185+OR+424119862%29&amp;facets%5Btype%5D%5B%5D=artikel&amp;redirect=true&amp;so\">Leeuwarder courant (30-12-1767).</a></li><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/98583\">DAS 7738.2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

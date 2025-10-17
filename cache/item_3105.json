@@ -1,0 +1,27 @@
+{
+  "id": "3105",
+  "code": "achilles-2",
+  "name": "Achilles",
+  "type": "wreck",
+  "lat": "9.0500000",
+  "lon": "-59.4800000",
+  "location": "Orinoco, t.h.v.",
+  "firstdate": null,
+  "firstyear": "1906",
+  "firstyearend": null,
+  "lastdate": "1942-10-01",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-07-10 10:16:04",
+  "modified_on": "2025-06-15 21:22:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Achilles </strong></em>was op 1 oktober 1942 onderweg van Georgetown (Guyana) naar Port of Spain (Trinidad) met een lading suiker en stukgoederen. Ter hoogte van de Orinoco rivier werd ze door de Duitse onderzeeboot U 202 aangevallen en geraakt door een torpedo. De Achilles was bewapend met 2 kanonnen en 4 machine geweren bediend door 6 Britse militairen. Door de torpedo inslag ontplofte munitie aan boord en sloeg de achtersteven weg. De Britse kanonnier A Hamilton verloor daarbij het leven.</p> <p>De Achilles werd uiteindelijk door een tweede torpedo van de U 202 tot zinken gebracht. De rest van de bemanning kon zich redden in een motorsloep en een reddingsboot. Ze kwamen op eigen kracht de volgende avond aan in Moruga Trinidad.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Nederlandsche Scheepsbouw Mij NV, Amsterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jong de, Klaas</td></tr><tr><th scope=\"row\">Lengte</th><td>295 &frac12; voet (90,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 &frac14; voet (12,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 &frac34; voet (5,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1815 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=36\">marhisdata id 36.</a></li><li><a href=\"https://www.uboat.net/allies/merchants/ship/2229.html\">uboat.net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

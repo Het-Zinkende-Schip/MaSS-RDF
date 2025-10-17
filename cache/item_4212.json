@@ -1,0 +1,27 @@
+{
+  "id": "4212",
+  "code": "ss-portugal",
+  "name": "SS Portugal",
+  "type": "wreck",
+  "lat": "37.7290000",
+  "lon": "24.1210500",
+  "location": "Τρυπητή, Μακρόνησος, Griekenland",
+  "firstdate": null,
+  "firstyear": "1946",
+  "firstyearend": null,
+  "lastdate": "1957-10-04",
+  "lastyear": "1957",
+  "lastyearend": null,
+  "country": "België",
+  "countrycode": "BE",
+  "author": "Kimon Papadimitriou",
+  "created_on": "2024-09-05 20:12:28",
+  "modified_on": "2024-10-04 16:38:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The shipwreck was designated as a monument in 2024, according to the Law 4858/2021 (<a href=\"https://diavgeia.gov.gr/doc/65%CE%A4%CE%9946%CE%9D%CE%9A%CE%9F%CE%A4-5%CE%A8%CE%A0?inline=true\">https://diavgeia.gov.gr/doc/65%CE%A4%CE%9946%CE%9D%CE%9A%CE%9F%CE%A4-5%CE%A8%CE%A0?inline=true</a>).</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2776",
+  "code": "breda-1921",
+  "name": "Breda",
+  "type": "wreck",
+  "lat": "56.2378553",
+  "lon": "-5.8145142",
+  "location": "Oban, Verenigd Koninkrijk",
+  "firstdate": "1921-12-10",
+  "firstyear": "1921",
+  "firstyearend": null,
+  "lastdate": "1940-12-23",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Jandaan Berkhout",
+  "created_on": "2021-12-24 14:13:10",
+  "modified_on": "2025-06-14 21:50:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op weg van Londen naar de Verenigde Staten in de baai van Oban (Schotland) als gevolg van een luchtaanval door enkele Duitse Heinkel bommenwerpers tot zinken gebracht.</p> <p>De bemanning en 12 passagiers weten zich te redden. 10 racepaarden (waarschijnlijk bestemd voor de Aga Khan), die in boxen aan dek stonden kunnen nog worden losgelaten en weten de Schotse kust zwemmend te bereiken. In 1951 werd het wrak deels gelicht en gesloopt.</p> <p>Op dit moment ligt er nog genoeg van de Breda op de zeebodem om voor duikers 'interessant' te zijn als wrak.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Fooy</td></tr><tr><th scope=\"row\">Snelheid</th><td>15 knopen ~ 28 km/u (17 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>402 voet (122,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>58 voet (17,7 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>24 voet (7,3 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>58 voet (17,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>6941 ton</td></tr><tr><th scope=\"row\">Deplacement</th><td>14024 ton</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

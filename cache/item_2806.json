@@ -1,0 +1,27 @@
+{
+  "id": "2806",
+  "code": "albert-cornelis",
+  "name": "Albert Cornelis (IJM 272)",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1917-07-05",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-03-09 15:35:05",
+  "modified_on": "2025-06-14 22:10:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De stoom trawler Albert Cornelis voer uit op 28 juni om te gaan vissen in de Noordzee. Op 5 juli werd het schip nog gezien om de Noord. Daarna niet meer. Later werden enkele dekgoederen opgevist die herkend werden als afkomstig van de Albert Cornelis. Het schip is waarschijnlijk op een zeemijn gelopen. Alle opvarenden kwamen om.</p> <p>Leenderd Bal 26 jaar<br>Gerrit den Heijer 44 <br>Gerrit den Heijer 16 <br>Cornelis de Niet 43<br>Michiel Schaap 36 <br>Jacob Westerduijn, 20 jaar</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Zeevisscherij-Maatschappij &lsquo;De Elf Provinci&euml;n'</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gerrit den Heijer</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>6</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://www.vissersnamenmonumentscheveningen.nl/detail/1917-398-albert-cornelis-ijm-272-oorzaak-onbekend\">Monument Scheveningen.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22IJM+272%22&amp;coll=ddd&amp;sortfield=date&amp;identifier=MMKB04:000186943:mpeg21:a0015&amp;resultsidentifier=MMKB04:000186943:mpeg21:a0015&amp;rowid=3\">Maasbode 11-7-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

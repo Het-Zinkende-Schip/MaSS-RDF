@@ -1,0 +1,27 @@
+{
+  "id": "4136",
+  "code": "ns101",
+  "name": "NS101",
+  "type": "wreck",
+  "lat": "52.7169410",
+  "lon": "5.9414430",
+  "location": "Marknesse, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": "1925",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:54:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1943 werd de vondst van een wrak gemeld op kavel S101 in de Noordoostpolder, dat in hetzelfde jaar werd opgegraven. Het bleek te gaan om een sterk verslagen schip van relatief recente ondergangsdatum. Uit de lading kon worden opgemaakt dat het een vuilnisschuit of plat vrachtschip betrof met lading een vuilnis, waaronder scherven van Regout-aardewerk en (Goudse?) kleipijpen. Als zodanig werd het destijds helaas als van geen archeologisch belang opgegeven en werden er schijnbaar geen vondsten geborgen. Buiten het bovenstaande zijn er vrijwel geen gegevens over het wrak opgetekend.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z5s-gzfz\">Opgravingsdocumentatie scheepswrak NS101.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

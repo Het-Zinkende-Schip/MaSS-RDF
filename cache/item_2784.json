@@ -1,0 +1,27 @@
+{
+  "id": "2784",
+  "code": "sint-vincent",
+  "name": "Sint Vincent",
+  "type": "wreck",
+  "lat": "52.7873163",
+  "lon": "4.6540833",
+  "location": "Petten, Nederland",
+  "firstdate": null,
+  "firstyear": "1651",
+  "firstyearend": null,
+  "lastdate": "1653-11-10",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-31 12:00:09",
+  "modified_on": "2025-06-14 20:54:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Sint Vincent was deel van de vloot o.l.v. Witte de With die na de zeeslag bij Ter Heijde naar Denemarken en Noorwegen werd gestuurd om de vele Oostzee koopvaarders en VOC retourschepen veilig thuis te brengen. Door de De Eerste Engels-Nederlandse oorlog was de VOC retourvloot uit Batavia uitgeweken naar Noorwegen en konden vele Oostzee vaarders niet naar huis.</p> <p>Witte de With wist de vele koopvaarders veilig binnen het Vlie te begeleiden. Met de oorlogsvloot kwam hij vervolgens voor de kust van Noord Holland om voorraden in te nemen. Op 9 november brak een zware storm uit die dagen aanhield. Veel schepen raakten beschadigd en ca 8 schepen gingen verloren.</p> <p>De Sint Vincent werd op 10 november bij Petten op het strand geworpen. De meeste bemanningsleden bleven aan boord. Ze meenden daar veilig te zijn. De volgende dag was het schip verdwenen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>bewapening: 28 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kleijntje, Adriaan Heeres</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender J.A. (2014).<br /><em>Dutch Warships in the Age of Sail 1600 - 1714 p. 231.</em></li><li>Walter Breeman van der Hagen, hertaling  Doedens, A.<br /><em>Het leven en de daden van Witte Cornelisz. de With p 205.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

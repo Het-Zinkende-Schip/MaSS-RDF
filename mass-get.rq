@@ -1,0 +1,73 @@
+PREFIX fx:  <http://sparql.xyz/facade-x/ns/>
+PREFIX sdo: <https://sdo.org/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX sem: <http://semanticweb.cs.vu.nl/2009/11/sem/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+CONSTRUCT {
+
+	?ship a sdo:Vehicle ;
+		sdo:name ?name ;
+		sdo:url ?url ;
+		sdo:description ?body_html ;
+		sdo:creator ?author ;
+		dct:created ?created_on ;
+		dct:modified ?modified_on ;
+		sdo:license ?license ;
+		sdo:location ?location_node .
+
+	?location_nod a sdo:Place ;
+		sdo:name ?location ;
+		sdo:geo ?geo ;
+		sdo:location ?location ;
+		sdo:additionalType <https://vocab.getty.edu/aat/300193015> ;
+		sdo:containedInPlace ?country .
+
+	?geo a sdo:GeoCoordinates ;
+		sdo:latitude ?lat ;
+		sdo:longitude ?lon .
+
+	?license a sdo:CreativeWork ;
+		sdo:name ?license_title ;
+		sdo:url ?license_href .
+} WHERE {
+  SERVICE <x-sparql-anything:media-type=application/json> {
+    fx:properties fx:location ?_location .
+
+    ?root xyz:id ?id .
+    
+    BIND(IRI(CONCAT("https://mass.cultureelerfgoed.nl/id/", ?id)) AS ?ship)
+
+    OPTIONAL { ?root xyz:code ?code . }
+    OPTIONAL { ?root xyz:name ?name . }
+#   OPTIONAL { ?root xyz:type ?type . }
+    OPTIONAL { ?root xyz:lat ?lat_str . BIND(xsd:double(?lat_str) AS ?lat) }
+    OPTIONAL { ?root xyz:lon ?lon_str . BIND(xsd:double(?lon_str) AS ?lon) }
+    OPTIONAL { ?root xyz:location ?location . }
+    OPTIONAL { ?root xyz:country ?country . }
+    OPTIONAL { ?root xyz:author ?author . }
+    OPTIONAL { ?root xyz:created_on ?created_str . BIND(STRDT(REPLACE(?created_str, " ", "T"), xsd:dateTime) AS ?created_on)}
+    OPTIONAL { ?root xyz:modified_on ?modified_str . BIND(STRDT(REPLACE(?modified_str, " ", "T"), xsd:dateTime) AS ?modified_on) }
+    OPTIONAL { ?root xyz:body ?body_str . BIND(STRDT(?body_str, rdf:HTML) AS ?body_html) }
+
+	OPTIONAL { ?root xyz:firstyear ?firstyear }
+	OPTIONAL { ?root xyz:lastyear  ?lastyear }
+	#  "firstdate": null,
+	#  "firstyearend": null,
+	#  "lastyear": "-7510",
+	#  "lastyearend": null,
+
+    OPTIONAL {
+      ?root xyz:license ?licnode .
+      ?licnode xyz:title ?license_title .
+      ?licnode xyz:href ?license_href .
+      BIND(IRI(CONCAT("https://mass.cultureelerfgoed.nl/id/", ?id, "/license")) AS ?license)
+    }
+
+    BIND(IRI(CONCAT("https://mass.cultureelerfgoed.nl/id/", ?id, "/geo")) AS ?geo)
+    BIND(IRI(CONCAT("https://mass.cultureelerfgoed.nl/", ?code)) AS ?url)
+  }
+}
+

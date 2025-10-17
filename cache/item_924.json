@@ -1,0 +1,27 @@
+{
+  "id": "924",
+  "code": "boot-1738",
+  "name": "Boot",
+  "type": "wreck",
+  "lat": "50.2002994",
+  "lon": "-3.7221165",
+  "location": "Prawle Point, Devon, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1733",
+  "firstyearend": null,
+  "lastdate": "1738-11-08",
+  "lastyear": "1738",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-13 18:00:19",
+  "modified_on": "2024-06-11 10:57:40",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Boot</strong></em> was een hekboot, gebouwd voor de VOC kamer Rotterdam. Ze vertrok voor haar eerste retourreis op 24 maart 1734.</p> <p>Ze vertrok op 2 januari 1736 voor haar tweede reis naar Ceylon voor de kamer Zeeland. Op de terugreis, op 8 november 1738, verging het schip bij Prawle Point, het meest zuidelijke punt van Engeland. Driekwart van de bemanning werd gered maar de lading is geheel verloren gegaan.</p> <p><a title=\"B-07_551\" href=\"https://cultureelerfgoed.info/mass/?file=00000175.jpg\" target=\"_blank\" rel=\"noopener\">NA 1.11.01.01.551 f.19</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf in Rotterdam, 1733<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jakob van Duinen</td></tr><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>650 ton (325 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97871\">Details of voyage 7040.2 from Batavia.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

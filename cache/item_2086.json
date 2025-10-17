@@ -1,0 +1,27 @@
+{
+  "id": "2086",
+  "code": "zk45-46",
+  "name": "ZK45-46",
+  "type": "wreck",
+  "lat": "52.3249600",
+  "lon": "5.3303500",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:45:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens landbouwwerkzaamheden is op kavel K46 in Zuidelijk Flevoland in 1977 een scheepswrak aangetroffen. In hetzelfde jaar is een verkenning uitgevoerd door het toenmalige Centrum voor Scheepsarcheologie. In 1980 is het schip opnieuw verkend. Het betreft een vrachtschip voor de binnenvaart dat rond het midden van de zeventiende eeuw is vergaan. Het wrak is een tjalk of praamachtig vrachtschip met een bakachtige vorm en afgeronde hoeken. Omdat het scheepswrak lange tijd relatief dicht aan het maaiveld heeft gelegen, is de bovenkant van het wrak behoorlijk beschadigd door landbouwwerkzaamheden. Het vrachtschip heeft een lengte van 18,8 meter en een breedte van 4,30 meter. De laagste delen van het wrak bevinden zich op 1,5 meter beneden maaiveld. Het wrak is met lichte slagzij over stuurboord afgezonken, waardoor de stuurboordhuid tot en met het berghout behouden is gebleven. Het ruim is voorzien van een dichte wegering. De voorsteven is vermoedelijk afwezig. Het achterschip is vrij compleet met steven en vermoedelijk zelfs met een roer. Door de hoge ligging van het scheepswrak is het na de herverkenning ingekuild om verdere uitdroging en beschadiging te voorkomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een vrachtschip uit het midden van de zeventiende eeuw, Almere</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002041.jpg\" alt=\"Opgegraven ruim van een schip onder de grond\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Een blik in het ruim van een vrachtschip uit de 17e eeuw.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002043.jpg\" alt=\"Opgegraven voorschip, nog onder de grond\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het voorschip zoals deze zichtbaar was tijdens de verkenning.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-233-hm4p\">Opgravingsdocumentatie scheepswrak ZK45-46.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1571",
+  "code": "atlas",
+  "name": "Atlas",
+  "type": "wreck",
+  "lat": "53.0791775",
+  "lon": "4.9114037",
+  "location": "Oostend, Nederland",
+  "firstdate": null,
+  "firstyear": "1797",
+  "firstyearend": null,
+  "lastdate": "1799-07-11",
+  "lastyear": "1799",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-26 17:49:55",
+  "modified_on": "2025-06-10 19:19:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Atlas had 'Telegraphen en metalen veldslangen' aan boord voor het bouwen van kusttelegrafen. Het vaartuig had een geheim geboord gat waardoor het tot zinken gebracht kon worden voordat het in handen van de vijand zou vallen.</p> <p>De Engelsen probeerden de Atlas mee te nemen, maar toen begon hij te zinken en staken ze het in brand.</p> <p>Volgens een krantenbericht is het 'geheel door de vlammen verteerd' (Oprechte Bataafsche Courant, 19 juli 1799). Volgens dagboekschrijver Cornelis Pieter Sorgdrager lag het vaartuig 'bij het Oostend'. Tijdens actie tegen de Engelsen verloren gegaan</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Lemmer Friesland, <br>Eigenaar: gehuurd door marine departement Amsterdam, 1797<br>(bron: NIMH)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2396",
+  "code": "fortuin-1653",
+  "name": "Fortuin",
+  "type": "wreck",
+  "lat": "52.0433691",
+  "lon": "4.1287994",
+  "location": "Ter Heide, Nederland",
+  "firstdate": null,
+  "firstyear": "1653",
+  "firstyearend": null,
+  "lastdate": "1653-08-09",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-29 12:41:46",
+  "modified_on": "2025-07-06 20:22:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Fortuin neemt deel aan verschillende slagen in de de Eerste Engels-Nederlandse Oorlog. In de slag bij Ter Heijde valt De Fortuin het linieschip (2nd rate) The Andrew (52 stukken) aan. Het schip vat vlam en alleen de romp blijft over.</p> <p>Commandant van het Andrew was Thomas Graves hij sneuvelde samen met veel van de 350 opvarenden. De Andrew blijft drijven en wordt later opgeknapt.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001726.jpg\" alt=\"Schilderij van een grote zeeslag\"> <div class=\"img-source\">Rijksmuseum Amsterdam SK</div> <figcaption class=\"img-description\">Slag bij Ter Heide (Jan Abraham van Beerstraten Rijksmuseum Amsterdam)</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 14 x 4 ponders</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Cornelis van Schoonenveld</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>55</td></tr><tr><th scope=\"row\">Lengte</th><td>90 voet (27,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>22 voet (6,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>NIMH.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

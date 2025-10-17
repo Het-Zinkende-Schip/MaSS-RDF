@@ -1,0 +1,27 @@
+{
+  "id": "2740",
+  "code": "stad-amsterdam",
+  "name": "Stad Amsterdam",
+  "type": "wreck",
+  "lat": "16.4171190",
+  "lon": "-73.3886719",
+  "location": "Haïti",
+  "firstdate": null,
+  "firstyear": "1920",
+  "firstyearend": null,
+  "lastdate": "1942-08-25",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-04 14:01:39",
+  "modified_on": "2025-06-14 21:09:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip <em><strong>Stad Amsterdam</strong></em> voer in konvooi TAW 15 van New York naar Trinidad. Op 19 Augustus 1942 kreeg het schip te kampen met een lekke stuurboord ketel, waardoor ze het konvooi niet meer kon bijhouden. Twee dagen later was de ketel gerepareerd en begon de Stad Amsterdam weer in te lopen op het konvooi. Helaas werd ze ter hoogte van Ha&iuml;ti op 25 augustus door de Duitse onderzeeboot 'U 164' getorpedeerd en tot zinken gebracht.</p> <p>De 1e stuurman J. v.d. Houwen, de 3e machinist P. v.d. Plas en de matroos A. Mulder werden vermist.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Halcyon Lijn N.V., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Boog, D.J.</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 216.</em></li><li>Uboat.net.<br /><a href=\"https://uboat.net/allies/merchants/ship/2084.html\">Stad Amsterdam.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

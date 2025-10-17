@@ -1,0 +1,27 @@
+{
+  "id": "1369",
+  "code": "s-graveland",
+  "name": "'s Graveland",
+  "type": "wreck",
+  "lat": "19.2240283",
+  "lon": "116.0375977",
+  "location": "Zuid Chines Zee",
+  "firstdate": null,
+  "firstyear": "1659",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1663",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-01 09:32:27",
+  "modified_on": "2025-06-25 00:10:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>'s Gravenland</strong></em> werd samen met de Hector en twee kleinere schepen in 1661 naar Fort Zeelandia (Taiwan) gezonden. <br>In april 1661 deed Zheng Chenggong (Koxinga) een inval op het door de VOC beheerste Taiwan. In februari 1662 dwong hij gouverneur Frederick Coyett tot de overgave van Fort Zeelandia. Vanaf dat moment noemde hij zich Koning van Taiwan. Taiwan werd pas in 1683 onderdeel van China.</p> <p>De Hector werd aangevallen en opgeblazen. De 's-Graveland kon, hoewel getroffen, het vuur doven en het strijdtoneel ontvluchten.</p> <p>Uiteindelijk is de 's Graveland in 1663 op terugreis van Nagasaki naar Batavia vergaan.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001635.jpg\" alt=\"De afbeelding toont een tekening van Fort Zeelandia op Formosa (het huidige Taiwan)\"> <div class=\"img-source\">NL-HaNA_4.VELH_619.118</div> <figcaption class=\"img-description\">Fort Zeelandia, Taiwan</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: De 's Gravenland komt niet voor op lijst van timmering wel op de lijst van uitgeruste schepen. Ge&euml;quipeerd door Amsterdam tot 20 aug. 1659. (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/150/file/NL-HaNA_1.04.02_150_1466?eadID=1.04.02&amp;unitID=150&amp;query=150\">1</a>)&nbsp;<br>Bewapening: 20</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Andries Pietersz.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>207</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92029\">DAS 0912.1.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=480&amp;accessor=search_in_text&amp;source=3&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26\">Generale missiven Deel 3, 467.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "863",
+  "code": "midloo",
+  "name": "Midloo",
+  "type": "wreck",
+  "lat": "53.3295012",
+  "lon": "5.0655529",
+  "location": "Vlieland, west end, Nederland",
+  "firstdate": null,
+  "firstyear": "1720",
+  "firstyearend": null,
+  "lastdate": "1732-09-28",
+  "lastyear": "1732",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-23 15:32:41",
+  "modified_on": "2025-04-13 12:25:29",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 21 november 1720 maakte het schip <em><strong>Midloo</strong></em> zijn eerste reis van Texel via Kaap de Goede Hoop naar Batavia. Daarna volgden van 1723 tot 1728 nog twee reizen naar Ceylon.</p> <p>Het schip vertrok op 1 januari 1732 uit Batavia met bestemming Nederland. Vlak bij huis verging de Midloo op 28 september 1732 : <em>west end van Vlieland </em>waarbij slechts 17 bemanningsleden werden gered.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0118?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf Amsterdam, 1719<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97668\">Details of voyage 6837.3 from Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0118?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol 115.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1279",
+  "code": "vrede-1650",
+  "name": "Vrede",
+  "type": "wreck",
+  "lat": "51.5858268",
+  "lon": "3.0571940",
+  "location": "North Sea",
+  "firstdate": null,
+  "firstyear": "1650",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1667",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-01 15:33:22",
+  "modified_on": "2025-06-10 12:43:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: linie schip<br>Gebouwd/Built: Amsterdam<br>Eigenaar/Owner: Admiraliteit Amsterdam<br>Lengte: 131,5<br>Breedte: 32,5*<br>Tonnage:<br>Complement:&nbsp;<br>Armament: 44</p> <p>*Elias p. 64</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Elias, J.E. (1933).<br /><em>De vlootbouw in Nederland 1596-1655.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

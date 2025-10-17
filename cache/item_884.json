@@ -1,0 +1,27 @@
+{
+  "id": "884",
+  "code": "den-haag",
+  "name": "MV Den Haag",
+  "type": "wreck",
+  "lat": "48.6677470",
+  "lon": "-10.5292926",
+  "location": "Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1925",
+  "firstyearend": null,
+  "lastdate": "1940-02-15",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-11-12 11:11:40",
+  "modified_on": "2025-06-07 21:26:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De M.S.&nbsp;Den Haag was op weg van New York naar Rotterdam volgeladen met olie. Op de Atlantische Oceaan circa 150 mijl ten noorden van Quessant, werd de tanker zonder waarschuwing door de Duitse onderzeeboot 'U 48' getorpedeerd.</p> <p>Het schip zonk snel en bij goed weer verlieten alle 39 opvarenden <em>de Den Haag</em> in drie sloepen. Tegen de avond verloren de sloepen het onderling contact.</p> <p>Na twee dagen werd een sloep met 13 bemanningsleden door het Brits schip Glen Orchy gered.</p> <p>De 26 opvarenden van de beide overige sloepen kwamen om het leven.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001601.jpg\" alt=\"Den haag 1925\"></figure> <p>De te waterlating van de Den Haag op de werf in Kiel</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: tanker<br>Gebouwd: Friedr. Krupp A.G., 'Germaniawerft', Kiel, (D), 1925<br>Eigenaar: Petroleum Industrie Maatschappij (PIM), Den Haag (v.a. 1937)<br>Lengte: 143.2<br>Tonnage: 8971<br>Voortstuwing: 2x Krupp Germania motoren van 1400 p.k</p> <p>Bemanning: 39<br>Kapitein :&nbsp;C. Wijker<br><br>26 slachtoffers</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>26</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001602.jpg\" alt=\"U48 Schussmeldung \"></figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=1658\">Maritiem Historische Data ID 1658.</a></li><li><em>L.L. von Münching: 'De Nederlandse koopvaardij in WO II' (1978).</em></li><li><a href=\"http://www.aukevisser.nl/esso/id38.htm\">Dutch Esso tankers album.</a></li><li><em>Het volksdagblad : dagblad voor Nederland 28-3-1940.</em><br />Het volksdagblad : dagblad voor Nederland.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

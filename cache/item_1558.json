@@ -1,0 +1,27 @@
+{
+  "id": "1558",
+  "code": "nijmegen-1645",
+  "name": "Nijmegen",
+  "type": "wreck",
+  "lat": "51.0033857",
+  "lon": "1.6067505",
+  "location": "Nauw van Calais, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1645",
+  "firstyearend": null,
+  "lastdate": "1652-06-10",
+  "lastyear": "1652",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-23 12:03:03",
+  "modified_on": "2025-06-10 19:07:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <strong><em>Nijmegen</em></strong> was oorspronkelijk een Duinkerker kaper genaamd <em><strong>Het Kasteel van Medemblik</strong></em>. In 1645 veroverd buiten Duinkerken door het Rotterdamse vlaggenschip <strong>Aemilia</strong>. Ze werd herdoopt in 'De Nijmegen'</p> <p>In 1652 was De Nijmegen het eerste schip dat tot zinken werd gebracht in de Eerste Engels oorlog.<br><br>'Als eerste slachtoffer van deze onzalige politiek viel de met 6 koopvaarders<br>uit de Cara&iuml;ben komende kapitein Van den Kerckhoff,<br>wiens schip de Nijmegen 1o Juni nabij Dover en Calais door 3 Engelsche<br>oorlogsschepen onverhoeds aangevallen en in den grond geboord<br>werd, den Britten in handen.'</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>&nbsp;Type: Fregat, 5e charter<br>Gebouwd: Oorspronkelijk Kasteel van Medemblik' (1639) veroverd 1645.<br>Eigenaar: Admiraliteit van Rotterdam (Maze)</p> <p>Dimensies: 105 x 24,8 x 9,8 Rotterdamse voett</p> <p>Bewapeningt: 24<br>2 x 24 ponders (brons)<br>10 x 12&nbsp;<br>3 x 8<br>7 x 6<br>2 x 4<br>Complement: 95 zeelieden, 25 soldaten</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kerckhoff, Paulus van den</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>120</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Elias, J.E. (1923).<br /><em>Schetsen uit de geschiedenis van ons zeewezen.</em><br />Martinus Nijhof.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

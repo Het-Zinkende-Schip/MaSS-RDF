@@ -1,0 +1,27 @@
+{
+  "id": "2499",
+  "code": "westerheversand",
+  "name": "Westerheversand",
+  "type": "wreck",
+  "lat": "54.3819970",
+  "lon": "8.6189461",
+  "location": "Westerheversand, Duitsland",
+  "firstdate": null,
+  "firstyear": "1687",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-08 18:20:57",
+  "modified_on": "2025-06-14 15:53:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>A slab of articulated planking was discovered in early 2013, which was recovered by the State Archaeology Department of Schleswig-Holstein (ALSH). It was handed over to Alexander Cattrysse (a postgraduate student at the Maritime Archaeology Programme at the University of Southern Denmark) for further analysis. The dendrochronological analysis was carried out by Dr. Aoife Daly.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The small oak wreck-fragment of 4x2m is modest in size, but reveals interesting characteristics, as it features both lapstrake planking in the lower portion of the hull, and planking fastened in an alternating manner in the upper part of the hull.</p> <p>The felling date for the oak timber was around/after 1687 and the highest provenance correlation was Schleswig-Holstein, thus seemingly a local construction. Comparable wrecks with this constructional particularity are only known from Denmark and Sweden so far.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Cattrysse, A. (2013).<br /><em>Deviations in Northern-European Carvel Ship-building.</em><br />Esbjerg: Syddansk Universitet.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

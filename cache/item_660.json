@@ -1,0 +1,27 @@
+{
+  "id": "660",
+  "code": "dorestad-shipfragment",
+  "name": "Dorestad ship fragment",
+  "type": "wreck",
+  "lat": "51.9739261",
+  "lon": "5.3484364",
+  "location": "Wijk bij Duurstede, Dorestad haven, Nederland",
+  "firstdate": null,
+  "firstyear": "730",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "740",
+  "lastyearend": null,
+  "country": "Denemarken",
+  "countrycode": "DK",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-08 11:41:20",
+  "modified_on": "2025-10-16 10:25:38",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tussen 1967 en 1977 heeft de Rijksdienst voor Oudheidkundig Bodemonderzoek (ROB) onderzoek verricht in Wijk bij Duurstede. In 1973 en 1974 werden de resten van een overnachtingsschip gevonden in de noordelijke haven van Dorestad (Hoogstraat ii), waar het schip blijkt te zijn gezonken. De vindplaats beslaat een oppervlakte van ongeveer 30 meter, wat ongeveer overeenkomt met de omtrek van een scheepswrak. Er zijn fragmenten van een scheepsromp en een wrak gevonden. Ook werden klinknagels gevonden. Dendrochronologisch onderzoek heeft een kapdatum van na circa 739 opgeleverd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Het rompfragment, 120 bij 70 centimeter groot, bestaat uit vier gangboorden die met Noordse klinknagels zijn verbonden. De gangboorden zijn relatief smal, zo'n 24 tot 27 centimeter. Een ander plankfragment heeft zeven diagonaal geboorde pengaten voor de bevestiging van de spanten. Een van de eiken pennen is gedeeltelijk nog aanwezig. De pen heeft een afgeronde kop van het Scandinavische type.</p> <p>Het V-vormige spant was aan de randen bevestigd met houten pennen, behalve bij de kiel en de eerste twee doorgangen. Deze losse constructie, waarbij de wrangen/spanten losjes op de kiel rusten, is eerder waargenomen op Scandinavische schepen, zoals het Nydam-schip, het Oseberg-schip en Skudelev II.</p> <p>Het gevonden breeuwwerk lijkt schapenwol te zijn. Alle constructiedetails van het in Dorestad gevonden wrak wijzen op een schip gebouwd volgens Scandinavische traditie. Het was waarschijnlijk een Scandinavische sloep, vermoedelijk van het type knarr.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brouwers, Jansma, Manders (2015).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000086.pdf\">Middeleeuwse scheepsresten in Nederland, de vroege middeleeuwen 500-1050.</a><br />Archeo, 2015 (3).</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

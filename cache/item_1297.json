@@ -1,0 +1,26 @@
+{
+  "id": "1297",
+  "code": "wieringen-2",
+  "name": "Wieringen",
+  "type": "site",
+  "lat": "52.8938687",
+  "lon": "4.9093437",
+  "location": "Westerland, Wieringen, Nederland",
+  "firstdate": null,
+  "firstyear": "1776",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1972",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-20 14:42:48",
+  "modified_on": "2025-06-10 12:57:49",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In de 18e eeuw was Wieringen de plek waar schepen ankerden bij ziektes aan boord. De schepen lagen daar in quarantaine tot men zeker wist dat er geen besmettelijke ziektes aan boord waren.</p> <p>Op de uiterste westpunt van het toenmalige eiland Wieringen werd in 1806 (t.t.v. de Bataafse republiek) een kampement opgetrokken om zieke en besmette schepelingen op te vangen. Op deze wijze wilden de autoriteiten voorkomen dat binnenkomende schepelingen allerlei besmettelijke ziekten het land in zouden brengen.</p> <p>Op het terrein stonden, behalve de barakken voor de zieken, woningen voor de geneesheer, de intendant en de pakhuismeester en de overige verzorgende staf.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001774.jpg\" alt=\"rijkspeilhuis-wieringen\"> <figcaption class=\"img-description\">Rijkspeil schaal huisje (1919) aan de Quarantaine weg op Wieringen. Op de plek is niets meer over van het voormalige kamp</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Jan Maarten Pekelharing.<br /><a href=\"https://onh.nl/verhaal/schepelingen-in-quarantaine-op-wieringen\">Schepelingen in quarantaine op Wieringen, 26-3-2020.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

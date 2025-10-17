@@ -1,0 +1,27 @@
+{
+  "id": "2257",
+  "code": "zonnestein",
+  "name": "Zonnestein",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indian Ocean",
+  "firstdate": null,
+  "firstyear": "1765",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1768",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-20 21:19:47",
+  "modified_on": "2024-11-18 17:50:26",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Zonnestein</em> vertrok 29-12-1765 uit Texel naar Batavia (aankomst 12-7-1766)</p> <p>Ze deed dienst tussen De Kaap en Batavia o.a. om rijst.</p> <p>In januari 1768 vertrok ze vanuit de Kaap kolonie naar Batavia. De Zonnestein kwam daar nooit aan. Vermist op de Indische Oceaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1150 ton (575 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/95000\">DAS 2949.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/6457/file/NL-HaNA_1.04.02_6457_0009?eadID=1.04.02&amp;unitID=6457&amp;query=Zonnestein\">grootboek en journaal.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

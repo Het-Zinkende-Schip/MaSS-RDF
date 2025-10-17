@@ -1,0 +1,27 @@
+{
+  "id": "2013",
+  "code": "oc52",
+  "name": "OC52",
+  "type": "wreck",
+  "lat": "52.4791700",
+  "lon": "5.4666200",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": "1850",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1875",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 16:42:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In juni 1970 is dit scheepswrak opgegraven, dat op kavel C52 lag in Oostelijk Flevoland. De vindplaats lag ongeveer halverwege tussen de Torenvalkweg en de Lage Vaart. Van het schip resteerde het vlak met de leggers (spanten) en de achtersteven. De breedte van het vlak was 3,6 meter op de kim en 3,9 meter tot aan de bovenzijde van de krommers. De oorspronkelijke lengte kon niet meer worden vastgesteld. De lading bestond uit een dikke laag grof materiaal met aardewerkscherven, pijpenkoppen, visresten, botten, eierschalen, knopen en textiel- en leerresten, kortom typisch stadsvuil. Tussen de lading werden ook nog eens vier munten gevonden, o.a. twee centen met Willem II en de jaartallen 1821 en 1837, een Belgisch 2-cent stuk met het jaartal 1835 en een rijksdaalder met de beeltenis van Willem II en het jaartal 1846. Het schip zal dus niet eerder dan 1846 zijn gezonken. De inventaris van het schip bestond onder meer uit lepels, messen, een zoutpot en een oliekan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een vrachtschip geladen met vuilnis, Lelystad</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001960.jpg\" alt=\"Inventaris uit een scheepswrak op kavel C52 in Oostelijk Flevoland. Verzilverde lepel.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Inventaris uit een scheepswrak op kavel C52 in Oostelijk Flevoland. Verzilverde lepel.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Gijsbers, W., L. Koehler &amp; J.-M.A.W. Morel (2010).<br /><em>Licht aan boord: Verlichtingsobjecten uit het Nationaal Scheepsarcheologisch Depot in Lelystad.</em><br />Lelystad: Nationaal Scheepsarcheologisch Depot &amp; Rijksdienst voor het Cultureel Erfgoed.</li><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-24c-myt4\">Opgravingsdocumentatie scheepswrak OC52.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

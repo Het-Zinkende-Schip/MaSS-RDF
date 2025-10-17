@@ -1,0 +1,27 @@
+{
+  "id": "880",
+  "code": "prinses-juliana-1929",
+  "name": "Prinses Juliana",
+  "type": "wreck",
+  "lat": "50.6740528",
+  "lon": "-1.9332848",
+  "location": "Poole, Dorset, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1920",
+  "firstyearend": null,
+  "lastdate": "1940-06-12",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-11-06 17:32:30",
+  "modified_on": "2025-06-07 21:23:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het m.s. <em>'Prinses Juliana</em>' verliet 12 Juni 1940 de haven van Poole, met bestemming Plymouth. Nauwelijks was het schip buiten de haven of het liep op een mijn. De prinses Juliana zonk onmiddellijk.</p> <p>De kapitein en enige bemanningsleden werden door het loodsbootje opgepikt.</p> <p>Geruime tijd werd nog naar drenkelingen gezocht. Kapitein J. Blom bezweek in het hospitaal van Poole aan zijn verwondingen. Stuurman T. Hoogenraad werd bij de ramp vermist.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: vrachtschip, kustvaarder<br>Gebouwd: Scheepsbouw- &amp; Reparatiewerf J. Vos &amp; Zoon, Groningen, 1929<br>Eigenaar: P. Balk, Groningen<br>Afmetingen: 32,31 x 6,1 x 2,44 m<br>Tonnage: 198 grt<br><br>Motor: Motor, Oil, 4-stroke single-acting<br>vermogen: 120 pk<br>snelheid: 8 knopen</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://en.wikipedia.org/wiki/List_of_shipwrecks_in_June_1940\">List of shipwrecks June 1940.</a></li><li><a href=\"https://wrecksite.eu/wreck.aspx?30594\">Wrecksite.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5338\">Maritiem Historische Data ID 5338.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

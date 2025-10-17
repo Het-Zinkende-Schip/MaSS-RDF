@@ -1,0 +1,27 @@
+{
+  "id": "2802",
+  "code": "agda",
+  "name": "Agda",
+  "type": "wreck",
+  "lat": "38.8705072",
+  "lon": "-9.7050476",
+  "location": "Cabo Roca, Portugal",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": "1914-09-28",
+  "lastyear": "1914",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-03-07 11:44:36",
+  "modified_on": "2025-03-12 14:21:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Agda was onderweg van Cadiz naar Lorient in Frankrijk. Ze stiet op een onder water drijvend voorwerp en zonk op 15 mijl noordwest van Cabo Roca in Portugal. De bemanning werd gered.</p> <p>Het schip had waarschijnlijk behouden kunnen blijven mits er adequaat was gehandeld. De pompen moesten worden bediend om het inkomende water te verwijderen. Dat was waarschijnlijk mogelijk maar werd nagelaten door een samenloop van omstandigheden.</p> <p>Kapitein Bosselaar zou deze nalatigheid zwaar zijn aangerekend ware het niet dat hij ten gevolge van ernstige brandwonden niet in staat was geweest het commando over het schip te voeren. De eerst opvolgende verantwoordelijke was de eerste stuurman. Deze wachtte bevelen van de gezagvoerder af. <br>De motordrijver niet wist dat een reserve-riem aan boord was en niet in staat op andere wijze in dit gebrek te voorzien.<br>De bemanning schijnt zich voorts vrij zelfstandig te hebben gedragen, immers zij begaf zich bij voorbaat in de boten en sommeerde de kapitein tot tweemaal toe het schip te verlaten.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: motorschip, schoener met drie masten. De twee voorste masten zijn dwarsgetuigd en dat is niet kenmerkend voor een schoener maar eerder voor een bark.<br>Gebouwd: J. van Aller &amp; Zoon, Hasselt<br>Eigenaar: Harm Bosselaar, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Bosselaar, H</td></tr><tr><th scope=\"row\">Lengte</th><td>136 &frac14; voet (41,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>24 voet (7,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>11 &frac14; voet (3,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>272 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=111\">Agda ID 111.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

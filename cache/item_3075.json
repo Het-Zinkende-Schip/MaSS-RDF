@@ -1,0 +1,27 @@
+{
+  "id": "3075",
+  "code": "grou",
+  "name": "Grou",
+  "type": "wreck",
+  "lat": "53.0968509",
+  "lon": "5.8396449",
+  "location": "Halbersma's plein, Grou, Nederland",
+  "firstdate": null,
+  "firstyear": "700",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "800",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-05-14 21:18:50",
+  "modified_on": "2025-06-15 21:05:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Bij de archeologische begeleiding van de herinrichting van It Grien en het Halbertsma's Plein is het graf van een vrouw gevonden. Ze was begraven in een kist van hergebruikt scheepshout. De vrouw is in het derde kwart van de 8e eeuw overleden en begraven.</p> <p>De vrouw heeft een dieet zoetwatervis gehad. Mogelijk was dit noodzakelijk vanwege haar slechte gebit. Onderzoek naar de skelet van de vrouw heeft verder uitgewezen dat had de vrouw in haar pubertijd vermoedelijk een been heeft overbelast/ een fractuur heeft opgelopen waardoor een been korter was.</p> <p>De tevens in haar graf aangetroffen stok kan mogelijk door haar gebruikt zijn bij het lopen. Deze stok was vermoedelijk oorspronkelijk de steel van een peddel. Op grond van andere skeletkenmerken is duidelijk dat haar linkerarm sterk beperkt was, en ze met name haar rechterarm kon gebruiken. De vrouw had verder een kam bij zich en droeg leren schoenen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Krol-Karsten, T.N. (MUG Ingenieursbureau).<br /><a href=\"https://www.narcis.nl/dataset/RecordID/oai%3Aeasy.dans.knaw.nl%3Aeasy-dataset%3A185224\">Archeologische opgraving, variant begeleiding, herinrichting It Grien en Halbertsma's Plein te Grou, gemeente Leeuwarden (FR).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

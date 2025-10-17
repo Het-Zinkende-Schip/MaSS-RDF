@@ -1,0 +1,27 @@
+{
+  "id": "4137",
+  "code": "os19",
+  "name": "OS19",
+  "type": "wreck",
+  "lat": "52.5082150",
+  "lon": "5.5974970",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1625",
+  "lastyearend": "1650",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:54:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In november 1964 en juni 1966 is een scheepswrak verkend op kavel S19 in Oostelijk Flevoland, aan de Dronterweg. Het scheepswrak is een zwaar gebouwd schip van 17,6 bij 5,4 meter dat waarschijnlijk karveel is gebouwd. Het wrak is vrij compleet aanwezig. De lading bestaat uit zaden, vermoedelijk zaaigoed. Het scheepswrak is na de verkenningen weer met grond toegedekt. Het wrak ligt dermate dicht onder het maaiveld dat het wenselijk was dat er beschermingsmaatregelen getroffen zouden worden, maar het dossier vermeld dat dat niet is uitgevoerd. Datering vond aanvankelijk plaats op basis van de constatering dat in de verspoeling zoude Zuiderzeeschelpen werden aangetroffen (Mya arenaria), hetgeen het vergaan van het schip in de Zu-fase en daarmee na 1625 plaatste. Na 1966 werd dit op basis van het bodemprofiel bijgesteld naar het 1ste kwart van de 18de eeuw.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zyh-b4ad\">Opgravingsdocumentatie scheepswrak OS19.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2586",
+  "code": "heinrich-horn-1900-1917",
+  "name": "Heinrich Horn (1900-1917)",
+  "type": "wreck",
+  "lat": "53.7594287",
+  "lon": "7.6382446",
+  "location": "Langeoog, Duitsland",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": "1917-12-08",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-06-01 16:20:08",
+  "modified_on": "2025-06-14 16:55:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>HEINRICH HORN was a steamship built on the shipyard of Henry Koch in L&uuml;beck and commissioned into service by the \"H. C. Horn &amp; Genossen\" company in November 1900, named after Heinrich Christian Horn from Schleswig. In May 1903, the ship came into the ownership his younger brother's (Franz Horn) newly founded steamship company \"Horn\".</p> <p>On 2nd December 1917, HEINRICH HORN got into a storm on the way to Delfzijl with a cargo of timber from Sweden. The ship foundered in the Otzumer Balje off the island of Langeoog. The stormy weather prevented the rescue lifeboat crew to put out to sea immediately. Two days later, they finally reached the wreck, but the crew had gone without a trace.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The vessel was fitted with a 3-cylinder triple expansion steam engine.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>18</td></tr><tr><th scope=\"row\">Vermogen</th><td>113 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>9 knopen ~ 17 km/u (10 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>23 voet (7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>36 voet (11 m)</td></tr><tr><th scope=\"row\">Deplacement</th><td>1531 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck has been largely broken up and scrapped in May 1918. Nonetheless, remains of the wreck can still be seen to this day.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Haaker, H. (1994).<br /><em>Die «Schiffswert von Henry Koch AG» – Ein Kapitel Lübecker Schiffsbau- und Industriegeschichte.</em><br />Deutsches Schifffahrtsmuseum.</li><li>wrecksite.eu.<br /><a href=\"https://www.wrecksite.eu/wreck.aspx?147621\">SS Heinrich Horn.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2069",
+  "code": "zp49-ii",
+  "name": "ZP49-II",
+  "type": "wreck",
+  "lat": "52.3167400",
+  "lon": "5.5428200",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "900",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:12:22",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1989 werd tijdens bouwactiviteiten voor een nieuwe woonwijk te Zeewolde, een bijzondere scheepsvondst gemeld op kavel P49 in Zuidelijk Flevoland aan de huidige Eikenlaan, die in hetzelfde jaar is verkend. De vondst is bijzonder, omdat gaat om de restanten van een boomstamboot. Boomstamboten worden in de provincie Flevoland slechts sporadisch aangetroffen. De afmetingen van het vaartuig zijn 5,50 meter lang en 75 cm breed. Alleen de bodem is bewaard gebleven, zonder dat een duidelijke voor- of achterkant te onderscheiden is. Aan de binnenkant zijn disselsporen aangetroffen. Op een paar plaatsen bevinden zich pengaten voor de bevestiging van spanten. Waarschijnlijk waren de boorden van het bootje opgeboeid met &eacute;&eacute;n of meerdere gangen. Dit kan worden afgeleid uit de nogal platte vorm van de bodem, die mogelijk is uitgebogen. Het schip lijkt niet te zijn vergaan op open water in het Almere, maar in een (veen)geul, gezien de ligging nabij de kust. In en om het vaartuig zijn zwerfstenen aangetroffen, die waarschijnlijk afkomstig zijn van de Veluwe. De boomstamboot heeft een C14-datering van 1250 &plusmn; 50 BP wat neerkomt op ongeveer 900 n. Chr. Het vaartuig is vergelijkbaar met boomstamboten, gevonden te Utrecht (van Hoornekade, Waterstraat en Lange Lauwerstraat). De vondst uit Zeewolde en andere vondsten van vergelijkbare (opgeboeide) boomstamboten te Utrecht en de Dreumelse Waard tonen aan dat dit type vaartuig tussen het einde van de negende en het midden van de twaalfde eeuw of het begin van de dertiende eeuw in gebruik is geweest. Opmerkelijk is dat de ruimtelijke verspreiding van de verschillende vondsten een duidelijke relatie met Utrecht aangeeft: in de stad zelf of op destijds vanaf Utrecht over water goed bereikbare plaatsen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een boomstamboot in de polder, Zeewolde</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002074.jpg\" alt=\"Overzicht van de opgraving van het kano-fragment.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Overzicht van de opgraving van het kano-fragment.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-znh-6suu\">Opgravingsdocumentatie scheepswrak ZP49-II.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

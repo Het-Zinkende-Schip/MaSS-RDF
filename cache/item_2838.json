@@ -1,0 +1,27 @@
+{
+  "id": "2838",
+  "code": "charlois",
+  "name": "Charlois, SS",
+  "type": "wreck",
+  "lat": "57.3059546",
+  "lon": "4.8453363",
+  "location": "Noordzee, Noorwegen",
+  "firstdate": null,
+  "firstyear": "1888",
+  "firstyearend": null,
+  "lastdate": "1917-03-19",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-19 09:52:31",
+  "modified_on": "2025-07-14 14:00:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De stoomtanker <em><strong>Charlois</strong></em> was met ongeveer 3000 ton petroleum op weg van New York naar Rotterdam. Na een tussenstop in Halifax vertrok ze daar op 1 maart 1917. Daarna is niets meer van de Charlois vernomen. Na onderzoek kon later worden vastgesteld, dat de 'Charlois' onder de Noorse kust op 57. 30' N / 04. 30' O op 19 maart 1917 door de Duitse onderzeeboot 'U 59' moet zijn getorpedeerd en de voltallige bemanning (33 opvarenden) daarbij is omgekomen. Later spoelden wrakstukken van de reddingsboten aan op de Noorse kust.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003150.jpg\" alt=\"Een stukje getypte tekst uit een krant met de titel &quot;ss, Charlois&quot;\"> <div class=\"img-source\">Delpher</div> <figcaption class=\"img-description\">Nieuwe Courant 14-4-1917</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Russell &amp; Co. Ltd, Greenock, UK<br>Eigenaar: N.V. American Petroleum Company, Rotterdam, NL</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>33</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=1356\">Charlois ID 1356.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

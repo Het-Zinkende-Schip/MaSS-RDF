@@ -1,0 +1,27 @@
+{
+  "id": "2250",
+  "code": "zutphen",
+  "name": "Zutphen",
+  "type": "wreck",
+  "lat": "51.4317291",
+  "lon": "3.2690431",
+  "location": "Vlaamse banken, België",
+  "firstdate": null,
+  "firstyear": "1632",
+  "firstyearend": null,
+  "lastdate": "1651-05-06",
+  "lastyear": "1651",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-20 08:54:42",
+  "modified_on": "2025-07-06 19:02:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Zutphen</strong></em> maakte haar eerste uitreis in april 1632. Aan boord was Hendrik Brouwer, net benoemd als nieuwe Gouverneur-Generaal.</p> <p>Vlak na vertrek voor haar derde terugreis van Batavia naar Nederland strandde de Zutphen op een van de Varckens eilanden (3-1-1637) bij Sumatra. De bemanning verliet het schip maar werd aangevallen door vijandige Javanen die met prauwen en boten ter plekke waren aangekomen. Schipper Verbeeck en 5 anderen werden gedood. De Zutphen raakte weer los en kon later de tocht naar Nederland hervatten. De Prins Willem was ook gestrand op hetzelfde eiland maar kon ni9et gered worden.</p> <p>Op haar 8e retour reis van Batavia naar Nederland in de vloot van commandeur Wollebrand Geleynssen de Jongh. De vloot bestond uit 10 spiegelschepen; Zutphen, Tijger, Rotterdam, Walvis, Vrede, Orangie, Enckhuysen, Westvrieslant, Delft en de Henriette Louise en 2 fluiten; de Coninck van Polen en Noortmunster.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003010.jpg\" alt=\"Een aantal grote nederlandse zeilschepen bij elkaar op zee\"> <div class=\"img-source\">Stedelijk Museum Alkmaar</div> <figcaption class=\"img-description\">De Zutphen in 1648 geflankeerd door de fluiten Koning van Polen en Noordmunster</figcaption> </figure> <p>Op haar tiende uitreis vertrok de Zutphen vanuit Texel op 5 mei 1651. De volgende dag is ze ter hoogte van de Belgische kust op de 'Vlaamse Banken' vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>550 ton (275 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/96206\">DAS 5378.9.</a></li><li><a href=\"https://babel.hathitrust.org/cgi/pt?id=mdp.39015020145713&amp;view=1up&amp;seq=36&amp;q1=Zutphen\">Dagregister Batavia 1637, p. 24.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

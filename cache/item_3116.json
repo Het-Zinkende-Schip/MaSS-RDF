@@ -1,0 +1,27 @@
+{
+  "id": "3116",
+  "code": "aludra",
+  "name": "Aludra",
+  "type": "wreck",
+  "lat": "53.3238262",
+  "lon": "4.2977697",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1922",
+  "firstyearend": null,
+  "lastdate": "1943-04-29",
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Will Brouwers",
+  "created_on": "2023-07-31 11:38:16",
+  "modified_on": "2025-06-16 18:38:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Aludra lag in de meidagen van 1940 in Rotterdam. werd daar op 5 augustus 1940 door de Duitsers gevorderd om als transportschip dienst te doen voor de operatie &lsquo;Seel&ouml;we&rsquo;. Zij had aanvankelijk als kenteken 'R.5' en vanaf 1941 'R.O.5' van de Duitse Kriegsmarine. In 1941 werd de Aludra vrijgegeven voor civiel gebruik onder Duitse vlag.</p> <p><strong>Gebombardeerd</strong><br>Op reis in konvooi van Rotterdam naar de monding van de Elbe, door Britse vliegtuigen (Beaufighters van het 236 en 254-Squadron van het Coastal Command) bij Vlieland, aangevallen en tot zinken gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>416 voet (126,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>54 &frac12; voet (16,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>30 &frac14; voet (9,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>4930 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip?id=304\">marhisdata id 304.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

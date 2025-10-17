@@ -1,0 +1,27 @@
+{
+  "id": "1010",
+  "code": "boekelo",
+  "name": "SS Boekelo",
+  "type": "wreck",
+  "lat": "57.0674176",
+  "lon": "-10.8413081",
+  "location": "200 miles west of Ireland, Ierland",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1940-10-18",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-05 14:46:21",
+  "modified_on": "2025-06-09 12:49:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het vrachtschip ss. 'BOEKELO' (1930) van Stoomvaart Maatschappij 'Noordzee', op weg van Sydney naar Londen, varende in konvooi SC 7, onder kapitein J. de Groot, wordt getorpedeerd door de Duitse onderzeeboot 'U 123' op 200 zeemijl ten westen van Noord-Ierland en tot zinken gebracht op positie 56.14&deg; N / 10.38&deg; W. Een dag eerder werd het schip reeds door de 'U 100' getorpedeerd en beschadigd. Het is de eerste oorlogspatrouille van de 'U 123' op de Noord-Atlantische Oceaan. Gedurende deze tocht werden zes Geallieerde schepen tot zinken gebracht, waaronder vier van het konvooi SC 7.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: stoom, vrachtschip<br>Gebouwd: A. Vuijk &amp; Zonen, Capelle aan dr Ijssel , 1930<br>Eigenaar: N.V. Stoomvaart Mij. Noordzee<br>Dimensies: 281.20 x 42.70 x 19.00 Feet (British) Registered<br>Tonnage: 2118<br>Voortstuwing:<br>Snelheid:<br>Bemanning:<br>Kapitein:</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 37.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

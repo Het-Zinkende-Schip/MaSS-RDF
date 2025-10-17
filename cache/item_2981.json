@@ -1,0 +1,27 @@
+{
+  "id": "2981",
+  "code": "neptunus-i-sch-479",
+  "name": "Neptunus I (SCH 479)",
+  "type": "wreck",
+  "lat": "52.4848106",
+  "lon": "4.2795639",
+  "location": "Buiten Ijmuiden, Nederland",
+  "firstdate": null,
+  "firstyear": "1902",
+  "firstyearend": null,
+  "lastdate": "1917-07-28",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-15 14:08:53",
+  "modified_on": "2025-06-15 14:34:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>ca. 18 mijl buiten Ijmuiden aan het vissen werd de <em><strong>Neptunus I</strong></em> door de <a href=\"https://uboat.net/wwi/boats/successes/uc16.html\"><em><strong>UC 16</strong></em></a> aangehouden en met kanonvuur tot zinken gebracht. Een dag eerder werden 6 Scheveningse loggers tot zinken gebracht in hetzelfde gebied en door dezelfe U boot.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: N.V. Rederij Neptunus, (F. Vrolijk, Scheveningen)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Klaas Klein</td></tr><tr><th scope=\"row\">Tonnage</th><td>80 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22SCH+479%22&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;page=4&amp;sortfield=date&amp;coll=ddd&amp;identifier=MMSAVL02:000444057:mpeg21:a00002&amp;resultsidentifier=MMSAVL02:000444057:mpeg21:a00002&amp;rowi\">Vlaardingsche courant  01-08-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

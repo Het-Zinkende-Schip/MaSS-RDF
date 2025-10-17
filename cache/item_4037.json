@@ -1,0 +1,27 @@
+{
+  "id": "4037",
+  "code": "nf36",
+  "name": "NF36",
+  "type": "wreck",
+  "lat": "52.8001730",
+  "lon": "5.7396110",
+  "location": "Rutten, Nederland",
+  "firstdate": null,
+  "firstyear": "1800",
+  "firstyearend": "1825",
+  "lastdate": null,
+  "lastyear": "1825",
+  "lastyearend": "1850",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:49:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1957 werd de vondst gemeld van een, naar later bleek, omgekeerd in de bodem liggend scheepswrak op kavel F36 in de Noordoostpolder. Hoewel deels sterk beschadigd werd besloten tot een proefopgraving, in de vorm van &eacute;&eacute;n sleuf overdwars. Hieruit bleek dat het ging om een tjalkachtig schip. Helaas kon er geen datering uit het bodemprofiel worden opgemaakt. De paar vondsten die werden aangetroffen, waaronder een stuk aardewerk jonger dan 1800, wezen er echter op dat het een betrekkelijk jong wrak moest zijn. Tjalkachtige scheepjes van een dergelijke datering had men ook toen al vaker aangetroffen, waardoor werd besloten dat deze wrakvondst weinig nieuws te bieden had en men afzag van verdere opgraving. Het schip is na het onderzoek in de bodem blijven zitten. In 1998 werd gemeld dat er opnieuw scheepshout was aangeploegd op de kavel en vond er een herverkenning plaats. De exacte plaats van het wrak kon toen niet meer worden vastgesteld. Wel werden twee spanten en enkele andere kleinere fragmenten, die men een jaar eerder al uit de grond had gehaald, meegenomen voor nadere documentatie. Het is aannemelijk dat het ging om scheepshout van hetzelfde wrak, dat al eerder in 1957 was onderzocht.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z35-f69e\">Opgravingsdocumentatie scheepswrak NF36.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

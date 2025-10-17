@@ -1,0 +1,27 @@
+{
+  "id": "907",
+  "code": "azie-1671",
+  "name": "Azië",
+  "type": "wreck",
+  "lat": "17.8203086",
+  "lon": "-23.0531669",
+  "location": "North of Cape Verde, Ivoorkust",
+  "firstdate": null,
+  "firstyear": "1671",
+  "firstyearend": null,
+  "lastdate": "1683-08-29",
+  "lastyear": "1683",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-11 14:13:55",
+  "modified_on": "2025-05-20 12:36:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het VOC schip '<em><strong>De Azi&euml;'</strong></em> kwam met de retourvloot op 6 juni 1683 bij de Kaap. Het schip was lek en moest ter plekke gerepareerd worden om verder naar Nederland te kunnen varen. Het schip bleef drijvend maar de kostbare lading, met uitzondering van de ballastlading (salpeter?), werd overgeladen.</p> <p>De retourvloot met De Azi&euml; vertrok op 6 juli 1683 van de Kaap naar Nederland.&nbsp;Op 29 augustus kwam de vloot in een storm terecht en de zwakke Azi&euml; overleefde het niet. Het sloeg lek omdat de pompen niet goed werkten en het schip moest verlaten worden. De bemanning ging over op '<em>De Schiebroek</em>'.</p> <p><em>op den 29 Augusti tusschen 17 en 18 graden noorder breete in ruym zee is gesoncken,</em> en&nbsp;dat door een steert van een Orcaen die de vloot daeghs te vooren hadde belopen waer door &rsquo;t schip soodanigh ontstelt en specialijcken achter in de pieck alwaer de vaste plancken nae het seggen van de pieck waren affgeweecken dat met de pomp niet langer gaende wetende te houden, nae dat het ongeveer tien voeten water in had door &rsquo;t volck is verlaeten en &rsquo;t selve in Schiebroeck overgegaen, sonder datter iets in &rsquo;t minste daer uijt is gesalveert. D&rsquo;andere schepen die mede geen cleyn peryckel [123] hebben gelopen heeft godt almachtigh door sijn oneijndige genade noch gesalveert</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Schipper: Jacob Jaarsma <br>Opvarenden: 119 zeevarenden, 19 militairen en 8 inpotenten. In totaal 140&nbsp;<br>Tonnage: 350 last<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0149?query=\">*</a></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/321/file/NL-HaNA_1.04.02_321_0250?eadID=1.04.02&amp;unitID=321&amp;query=321\">NA 1.04.02 (VOC) 321 missive H XVII van 25-11-1683 naar Batavia.</a></li><li><a href=\"https://sejarah-nusantara.anri.go.id/pagebrowser/icaatom-dasa-anri-go-id_339-ead-xml-1-2496/#source=1&amp;page=808&amp;accessor=thumbnails&amp;view=homePane\">Archive of the Governor-General and Councillors of the Indies, file 2496, folio 717.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

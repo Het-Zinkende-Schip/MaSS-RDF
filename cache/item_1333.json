@@ -1,0 +1,27 @@
+{
+  "id": "1333",
+  "code": "raadhuis-van-middelburg",
+  "name": "Raadhuis van Middelburg",
+  "type": "wreck",
+  "lat": "-36.2747988",
+  "lon": "31.1303006",
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1708",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1722",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-05 12:06:07",
+  "modified_on": "2024-12-23 17:55:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Raadhuis van Middelburg was onderdeel van de retourvloot 1722. De vloot kwam in een zware storm ten zuid oosten van de Kaap.</p> <p><em>sware storm omtrent hel zuydoosten van de Caab, daardoor de scheepen Am-</em><br><em>stelveen en Samson in volle zee waren weggesoncken. Blijenb.'*, 't Raadh.* van Middelburg,&nbsp;'t Huys te Foreest med Rijnestein vermist, mitsgaders daarenboven 't schip de Geertruyd&nbsp;van 2 masten beroofd, niet sonder veel pende, want dien bodem had al niet weynig water&nbsp;in het groot ruym gehad, daardoor groole quanliieyten zalpeier en zuyker gesmolten, een</em><br><em>groot deel peper bedurven, een deel specerijen, zijde, lijwalen en diergelijke nat geworden&nbsp;waaren.&nbsp;</em><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=644&amp;accessor=search_in_text&amp;source=7&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1120\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Middelburg, 1708<br>Lengte: 145<br>Tonnage: 445<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97375\">DAS 6510.4.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

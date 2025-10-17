@@ -1,0 +1,27 @@
+{
+  "id": "2856",
+  "code": "stirum-van",
+  "name": "Stirum, Van",
+  "type": "wreck",
+  "lat": "51.9258630",
+  "lon": "-6.8444827",
+  "location": "Waterford, Ierland",
+  "firstdate": "1915-01-01",
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1915-12-25",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2022-05-27 13:46:05",
+  "modified_on": "2025-06-15 11:54:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Van Stirum kwam in januari 1915 gereed, maar een uitvoervergunning werd door de Britse regering geweigerd. Het schip bleef daardoor werkeloos in Londonderry liggen tot zij in april 1915 door de Britse Admiraliteit in beslag werd genomen en onder Britse vlag werd gebracht. In 1917 betaalde de Britse regering schadevergoeding aan de Algemeene Stoomvaart Maatschappij, Rotterdam.</p> <p><br>Op reis van Rouen naar Liverpool is de VAN STIRUM op 25 december 1915 in het St. George's Kanaal, 8 mijl ZZW van Smalls Light, in positie 51-55 NB en 06-16 WL, door de Duitse onderzeeboot U 24 getorpedeerd, tot zinken gebracht en verloren gegaan, waarbij twee opvarenden om het leven kwamen. (bij Waterford, voor de kust van Ierland).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: North of Ireland Shipbuilding Co. Ltd., Londonderry, Great Britain</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=8714\">Stichting Maritieme Historische Data.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

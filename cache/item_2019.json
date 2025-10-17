@@ -1,0 +1,27 @@
+{
+  "id": "2019",
+  "code": "ob13",
+  "name": "OB13",
+  "type": "wreck",
+  "lat": "52.5147500",
+  "lon": "5.4504100",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": "1590",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1625",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 16:46:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1977 is bij het leggen van drains een scheepswrak gevonden op kavel B13 in Oostelijk Flevoland, in de wijk de Punter in Lelystad. Nog datzelfde jaar is het scheepswrak opgegraven. Het betreft een platboomd vaartuig met een lengte over de stevens van 9,3 m, een breedte van 2,5 meter en een diepte van 0,5 meter. De zijden van het schip maken een haakse hoek met het vlak en bestaan uit &eacute;&eacute;n gang met aan de binnenzijde een slijtplank en aan de buitenzijde een dubbeling. Het ruim is afgesloten door twee schotten.</p> <p><strong>Functie<br></strong>Het vaartuig geeft de indruk van een kleine, stevig gebouwde werkschuit. Het moet zijn voortbewogen door het te bomen of te slepen, omdat ieder spoor van een mastgat ontbreekt. De onderverdeling, de slijtplanken in het ruim &ndash; zowel op het vlak als tegen de zijden &ndash; en de resten van lading wijzen er op dat het vaartuig is gebruikt voor het vervoer van (stads)vuil.</p> <p><strong>Vondsten</strong><br>De grond direct op het vlak rook namelijk minder prettig, terwijl op het vlak verder aardewerk scherven, glas, vuursteen, knikkers, pijpekoppen, een duit uit 1620 en een speelgoedkanonnetje zijn aangetroffen. Van de schuit zijn geen jaarringmonsters genomen voor de datering van de bouw.</p> <p><strong>Datering</strong><br>Op grond van de duit staat wel vast dat het schip na 1620 is vergaan. De verstoring van het bodemprofiel, veroorzaakt door het vergaan van het schip, ondersteunt deze datering. Het bodemprofiel wijst er namelijk op dat de schuit in de eerste helft van de zeventiende eeuw is vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een vuilnisschuit uit de eerste helft van de zeventiende eeuw, Lelystad</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001946.jpg\" alt=\"Opgraving van een vuilnisschuit in wijk de Punter in Lelystad.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Opgraving van een vuilnisschuit in wijk de Punter in Lelystad.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xmk-vvfh\">Opgravingsdocumentatie scheepswrak OB13.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

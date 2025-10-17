@@ -1,0 +1,27 @@
+{
+  "id": "2927",
+  "code": "schieland",
+  "name": "Schieland",
+  "type": "wreck",
+  "lat": "53.3328659",
+  "lon": "0.6334357",
+  "location": "Outer Dowsing, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1941-06-20",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-31 11:23:51",
+  "modified_on": "2025-06-15 14:03:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Schieland</strong></em> vertrok op 19 juni in konvooi van Blyth met een lading steenkolen met bestemming Londen. De volgende dag werd het konvooi door Duitse vliegtuigen aangevallen ter hoogte van het lichtschip <strong><em>Outer Dowsing</em></strong> igetroffen, mogelijk door een luchttorpedo. De Schieland ging verloren. Van de opvarenden verloren 16 personen het leven.</p> <p>In 1915 was de voorganger van de Schieland (<a href=\"/schieland-1909\">Schieland 1</a>) ongeveer op de zelfde locatie verongelukt. Ook ten gevolge van oorlogshandelingen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>272 voet (82,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 &frac14; voet (12,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2249 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5776\">marhisdata.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2138",
+  "code": "ou41",
+  "name": "OU41",
+  "type": "wreck",
+  "lat": "52.4392000",
+  "lon": "5.6315500",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": "1575",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:44:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit schip is gevonden op kavel U41 in Oostelijk Flevoland, aan de hoekwantweg in de gemeente Dronten. Het wrak is in 1965 verkend en in 1989 vond een herverkenning plaats. Het scheepswrak is een karveel gebouwd vissersschip van het type waterschip. Waterschepen waren de grootste en belangrijkste vissersschepen van de Zuiderzee gedurende de zestiende en zeventiende eeuw. Ze zijn voorzien van een bun gevuld met water, waar de gevangen vis levend in vervoerd kan worden. De vroegste types waterschepen werden overnaads gebouwd, maar vanaf het tweede kwart van de zestiende eeuw werden deze schepen karveel gebouwd, dat wil zeggen gladboordig. Uit de inventaris is gebleken dat het schip na 1600 is vergaan. Vermoedelijk is het schip tegen het einde van de zestiende eeuw of vroeg in de zeventiende eeuw gebouwd. De lengte van dit waterschip was ca. 20 meter en de breedte ca. 5,5 meter.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een karveel gebouwd waterschip uit de zeventiende eeuw, Dronten</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002085.jpg\" alt=\"opgegraven scheepswrak\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zzm-tcgj\">Opgravingsdocumentatie scheepswrak OU41.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

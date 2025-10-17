@@ -1,0 +1,27 @@
+{
+  "id": "1242",
+  "code": "sloterdijk-1754",
+  "name": "Sloterdijk",
+  "type": "wreck",
+  "lat": "-17.0959948",
+  "lon": "60.6796789",
+  "location": "Indian Ocean",
+  "firstdate": null,
+  "firstyear": "1754",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1764",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-22 12:28:15",
+  "modified_on": "2025-06-10 12:16:50",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Sloterdijk</em> vertrok 10 mei 1761 voor haar tweede uitreis vanuit Texel. Ze is vergaan op de thuisreis tussen Batavia en de Kaap.</p> <p>Het schip is gebouwd in Amsterdam aanvankelijk onder de naam <em>Vrouwe Rebecca Jacoba</em>.<br><br></p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001431.jpg\" alt=\"schilderij van de masten van een zeilschip, met de Nederlandse vlag\"> <div class=\"img-source\">Gerrit Groenwegen</div> <figcaption class=\"img-description\">Een vergelijkbaar schip rond 1770</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1754<br>Lengte: 150 vt<br>Tonnage: 575 last<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0201?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 fol 198.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

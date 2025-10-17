@@ -1,0 +1,26 @@
+{
+  "id": "605",
+  "code": "lithse-ham",
+  "name": "Lithse Ham",
+  "type": "site",
+  "lat": "51.8142927",
+  "lon": "5.4014969",
+  "location": "Maren, Kessel, Nederland",
+  "firstdate": null,
+  "firstyear": "-200",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "400",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-02-12 15:39:01",
+  "modified_on": "2025-06-06 22:28:39",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Lithse Ham between the villages of Maren-Kessel and Lith is a recreational lake on the Brabant side of the Maas.</p> <p>in the exploitation of a gravel hole from the end of the sixties, an enormous amount of archaeological material has been brought to the surface. The finds cover a time frame from the ice age to the Iron Age, from the Romans to the Second World War. The finds pallet is very diverse; pottery, household goods, tools, weapons, jewelery, building material and lots of animal bones such as mammoths, woolly rhinoceros and even people.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001384.png\" alt=\"Lithse Ham artefacts\"> <figcaption class=\"img-description\">Artefacts found at Lithse Ham.</figcaption> </figure></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><figure class=\"img-wrapper\"><img src=\"/photos/l/00001386.png\" alt=\"zuilfragment\"></figure></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

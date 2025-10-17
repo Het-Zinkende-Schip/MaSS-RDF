@@ -1,0 +1,27 @@
+{
+  "id": "2307",
+  "code": "lammertje-queek",
+  "name": "Lammertje Queek",
+  "type": "wreck",
+  "lat": "51.2784116",
+  "lon": "1.8621826",
+  "location": "North Foreland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1660",
+  "firstyearend": null,
+  "lastdate": "1666-08-04",
+  "lastyear": "1666",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-10 17:19:45",
+  "modified_on": "2025-06-12 11:34:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens Tweedaagse Zeeslag als brander verbruikt.</p> <p>Tweedaagse Zeeslag was een gevecht op 4 en 5 augustus 1666 tussen de oorlogsvloten van de Republiek der Zeven Verenigde Nederlanden en Engeland tijdens de Tweede Engels-Nederlandse Oorlog. De slag was voor de Republiek een tactische nederlaag maar een strategische overwinning. In het Engels wordt de slag aangeduid als St. James's Day Fight.</p> <p>Tijdens het 5e gevecht tegen de Royal Charles verloren gegaan verlaten.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: De Lammertje Queek was een ex koopvaarder uitgerust tot brander.</p> <p>Bewapening: 2</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Brakel, J. van</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Wikiwand.<br /><a href=\"https://www.wikiwand.com/nl/Tweedaagse_Zeeslag_(op_de_Noordzee)#/overview\">Tweedaagse zeeslag.</a></li><li>Schependocumentatie NIMH.<br /><em>Lammertje Queek.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

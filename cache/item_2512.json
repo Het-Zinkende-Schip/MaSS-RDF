@@ -1,0 +1,27 @@
+{
+  "id": "2512",
+  "code": "sms-ariadne-1914",
+  "name": "SMS Ariadne",
+  "type": "wreck",
+  "lat": "54.1000000",
+  "lon": "7.3333330",
+  "location": "North Sea (EEZ), Duitsland",
+  "firstdate": "1901-05-18",
+  "firstyear": "1901",
+  "firstyearend": null,
+  "lastdate": "1914-08-28",
+  "lastyear": "1914",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-15 16:58:41",
+  "modified_on": "2025-06-14 16:00:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>SMS Ariadne was launched as one of ten Gazelle-class light cruisers on 10th August 1900 at the AG Weser shipyard in Bremen. It served both as colonial cruiser and to serve the main German fleet.</p> <p>She saw little active service and took part on international ceremonial visits e.g. to Denmark and the United Kingdom before she was decommissioned in 1906 to lay in reserve. She was reactivated at the outbreak of World War I and reinforced the torpedo boat flotilla patrolling the island of Heligoland.</p> <p>In the Battle of Heligoland Bight on 28 August 1914 Ariadne was fatally damaged by British battlecruisers at close range, but lost Ariadne - now ablaze - in the thick fog. Ariadne's wreck was still afloat and the light cruisers SMS Danzig and SMS Stralsund attempted to tow her, which however failed and the ship sunk at around 16:00. 64 sailors were killed in action, while 229 could be rescued by the two light cruisers.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hans Seebohm</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>243</td></tr><tr><th scope=\"row\">Vermogen</th><td>7900 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>22 knopen ~ 41 km/u (25 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>344 &frac34; voet (105,1 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>40 voet (12,2 m)</td></tr><tr><th scope=\"row\">Deplacement</th><td>2659 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wrecksite is situated in the German Exclusive Economic Zone (EEZ). Due to the sovereignty of federal states in cultural politics (<em>\"Kulturhoheit der L&auml;nder\"</em>), the remit of the state agencies responsible for heritage protection extends only into territorial waters (12 nautical mile zone), while heritage protection is not regulated in the German EEZ. However, naval shipwrecks are granted sovereign immunity under international law and remain the property of their state of orgin, and as such the German Federal Republic is the inheritor of war-wrecks of the Imperial German Navy.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Hildebrand, H. H., Röhr, A., Steinmetz, H.-O. (1993).<br /><em>Die Deutschen Kriegsschiffe: Biographien: ein Spiegel der Marinegeschichte von 1815 bis zur Gegenwart (Band 1).</em><br />Ratingen: Mundus Verlag.</li><li>Nottelmann, D. (2020).<br /><em>The Development of the Small Cruiser in the Imperial German Navy.</em><br />Warship 2020.<br />pp 102-118.</li><li>Wikipedia.<br /><a href=\"https://en.wikipedia.org/wiki/SMS_Ariadne\">SMS Ariadne.</a></li><li>&quot;Das Seegefecht bei Helgoland&quot; (Historical-Archaeological Research Project).<br /><a href=\"http://www.seegefecht-helgoland.de/\">www.seegefecht-helgoland.de.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

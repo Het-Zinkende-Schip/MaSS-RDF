@@ -1,0 +1,27 @@
+{
+  "id": "22",
+  "code": "gokstad-ship",
+  "name": "Gokstad ship",
+  "type": "wreck",
+  "lat": "60.3670000",
+  "lon": "10.9000000",
+  "location": "Oslo, Noorwegen",
+  "firstdate": null,
+  "firstyear": "900",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "950",
+  "lastyearend": null,
+  "country": "Noorwegen",
+  "countrycode": "NO",
+  "author": "Peter Lunshof",
+  "created_on": "2010-02-01 00:00:00",
+  "modified_on": "2025-06-18 22:11:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p><iframe src=\"https://www.youtube-nocookie.com/embed/29mOXuVoE3o\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Rolf Fabricius Warming (2023).<br /><a href=\"https://www.tandfonline.com/doi/full/10.1080/17416124.2023.2187199\">The Viking Age shields from the ship burial at Gokstad.</a><br />Arms &amp; Armour, 2023 (1).</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

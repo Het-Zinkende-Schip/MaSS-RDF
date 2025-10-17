@@ -1,0 +1,27 @@
+{
+  "id": "1349",
+  "code": "radermacher",
+  "name": "Radermacher",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Vermist tussen Batavia en de Kaap",
+  "firstdate": null,
+  "firstyear": "1752",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1764",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-12 12:07:51",
+  "modified_on": "2025-04-05 16:19:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Radermacher vertrok 25-1-1764 vanuit Batavia naar Nederland samen met de Sloterdijk. Beide schepen kwamen nooit bij de kaap aan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Zeeland, 1752<br>Lengte: 140<br>Tonnage: 575</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98508\">DAS 7663.3.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=191&amp;accessor=search_in_text&amp;source=14_2&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D\">Generale missiven Deel 14, 718.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

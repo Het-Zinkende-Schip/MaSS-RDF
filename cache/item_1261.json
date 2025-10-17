@@ -1,0 +1,27 @@
+{
+  "id": "1261",
+  "code": "stadwijk-1753",
+  "name": "Stadwijk",
+  "type": "wreck",
+  "lat": "16.3007206",
+  "lon": "113.6552125",
+  "location": "Ilha de Prata 16, 30'",
+  "firstdate": null,
+  "firstyear": "1753",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1758",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-30 09:55:10",
+  "modified_on": "2024-11-12 17:53:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Stadwijk</strong></em> was samen met de <em>Leimuiden</em> onderweg was van Batavia naar Deshima. De Leimuiden kwam behouden aan, de Stadwijk niet:</p> <p><em>\"En vermist Stadwijk na Japan gedestineert aldaar niet teregt is gekomen, is men bedugt dat het in zee sal weesen gesmoort in de swaare orcaan die zijn macker het schip Leymuyden op de hoogte van Ilha de Prata in de heenreys heeft belopen gehad\". (GM, Deel 13 , p. 334)</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd/Built: VOC werf Amsterdam, 1753<br>Lengte: 150<br>Tonnage: 575<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94754\">DAS 3692.2.</a></li><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=260&amp;accessor=search_in_text&amp;source=13&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%2\">Generale Missiven, Deel 13, pp. 250,334.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

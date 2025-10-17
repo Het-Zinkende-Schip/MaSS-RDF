@@ -1,0 +1,27 @@
+{
+  "id": "1371",
+  "code": "morgenster-1653",
+  "name": "Morgenster",
+  "type": "wreck",
+  "lat": "55.5946693",
+  "lon": "12.7530670",
+  "location": "Ween, Denemarken",
+  "firstdate": null,
+  "firstyear": "1653",
+  "firstyearend": null,
+  "lastdate": "1658-11-08",
+  "lastyear": "1658",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-01 10:49:28",
+  "modified_on": "2025-06-30 11:09:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Morgenster was een gehuurd schip.<br>Gemeld als verloren tijdens de slag in de Sont 8-11-1658.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>125 voet (38,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 voet (8,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Colenbrander, H.T. (1919).<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/zeeoorlogen/#page=146&amp;accessor=toc&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fzeeoorlogen%2Ftoc%2Findex_html%3Fpage%3D0%26source%3D1%26id%3Dtoc&amp;source=1&amp;view=\">Bescheiden uit vreemde archieven Nederlandse oorlogen op zee 1652-1676, p 105.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

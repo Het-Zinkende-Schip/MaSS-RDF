@@ -1,0 +1,26 @@
+{
+  "id": "932",
+  "code": "torpedonetten",
+  "name": "Torpedonetten",
+  "type": "site",
+  "lat": "12.0689429",
+  "lon": "-68.8671944",
+  "location": "Willemstad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Cimberly Symister",
+  "created_on": "2019-12-16 15:09:36",
+  "modified_on": "2025-06-08 21:43:34",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Deze ketting is mogelijk resten van de stalen net die tijdens de Tweede Wereldoorlog werd gebruik ter bescherming van de olie-installatie bij Caracasbaai. Dit stalen net is beter bekend als een torpedonet om torpedo&rsquo;s af te weren. Hoewel grotendeels van het torpedonet door de Koninklijke Marine werd opgeruimd, zijn er op een aantal locaties binnen Caracasbaai resten van deze netten overgebleven.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

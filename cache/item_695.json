@@ -1,0 +1,27 @@
+{
+  "id": "695",
+  "code": "adam-en-eva-1629",
+  "name": "Adam en Eva",
+  "type": "wreck",
+  "lat": "-8.0724188",
+  "lon": "-34.8612327",
+  "location": "Recife, Brazilië",
+  "firstdate": null,
+  "firstyear": "1621",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1629",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-16 17:19:34",
+  "modified_on": "2025-05-23 10:51:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Deployed as.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Armament: 12 iron cannon</p> <p>Complement: crew and soldiers 134</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>De Laet, II, 112.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

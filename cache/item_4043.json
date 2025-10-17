@@ -1,0 +1,27 @@
+{
+  "id": "4043",
+  "code": "ng30",
+  "name": "NG30",
+  "type": "wreck",
+  "lat": "52.7571600",
+  "lon": "5.7582700",
+  "location": "Bant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 16:35:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1947 werd melding gedaan van de vondst van scheepshout op kavel G30 in de Noordoostpolder, geraakt bij het graven van een draineersleuf. Onderzoek volgde, waaruit bleek dat het enkel de eikenhouten zijwand (het boord) van een schip betrof, vermoedelijk uit de 17de eeuw. Het werd toch opgegraven, omdat het mogelijk werd geacht dat de rest van het schip in de omgeving nog in de grond aanwezig zou zijn. Derhalve is de vondst gedocumenteerd, maar daarna wel verwijderd. Mogelijk was het een schip waarmee vee over de Zuiderzee werd vervoerd. In de woorden van (maritiem) archeoloog Gerrit (G.D.) van der Heide in diens aantekeningen:</p> <p>\"Op de binnenbetimmering bevonden zich op onderlinge afstanden van ongeveer 90 cm. kleine blokjes hout met ijzeren pennen bevestigd op de binnenboorddeelen, in het midden aan de bovenzijde van deze rechthoekige, vrij ruw gemaakte blokjes was een uitholling. Deze blokjes hebben stellig gediend om er palen of latten in te leggen. De blokjes bevonden zich halverwege de onderste boordplank en de gangboordbatting. Ik veronderstel - mede gezien de onderlinge afstand,- dat hierop inderdaad latten of palen gelegen hebben van boord tot boord of eventueel correspondeerend op in het middengedeelte van het schip aangebrachte palen, waardoor de laadruimte van het schip verdeeld werd in een aantal afgepaalde ruimten in de geest van boksen, zoodat daartusschen vee kon worden vastgezet. In dat geval zoo dit juist is, zou het een houten schip voor veevervoer - dat in vroegere tijden zeer veel over de Zuiderzee moet hebben plaats gehad - geweest moeten of kunnen zijn.\"</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zgw-fthj\">Opgravingsdocumentatie scheepswrak NG30.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

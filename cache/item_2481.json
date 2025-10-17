@@ -1,0 +1,27 @@
+{
+  "id": "2481",
+  "code": "hedwigenkoog-1690",
+  "name": "Hedwigenkoog",
+  "type": "wreck",
+  "lat": "54.1752565",
+  "lon": "8.8082886",
+  "location": "Hedwigenkoog, Duitsland",
+  "firstdate": null,
+  "firstyear": "1690",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1723",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-03 13:48:24",
+  "modified_on": "2025-07-08 17:44:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>In summer 1969 during land consolidation excavations, a shipwreck was discovered in the dyke of Hedwigenkoog. It was situated in a former crevasse, which was arguably caused by the Christmas Flood of 1717. The vessel must have come to a rest here before 1723, when the rebuilding of the dyke was completed.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002442.png\" alt=\"black and white photo of a wooden shipwreck in a pit\"> <div class=\"img-source\">Englert, A. (1997). Das neuzeitliche Wrack aus dem Hedwigenkoog, Kr. Dithmarschen. Bonn.</div> </figure> <p>Only few personal belongings like pottery and shoes remained on board. This suggests that the vessel has been cleared and purposely abandoned here to clog the crevasse in order to stop the flooding of the <em>Koog</em> (polder) and the surrounding marshland after the Christmas Flood of 1717. A contemporary copper engraving by Johann Baptist Homann shows the extent of the devastation caused by the flood (shown as green areas below).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002443.jpg\" alt=\"The image shows a historical map\"> <div class=\"img-source\">Johann Baptist Homann</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>According to the dendrochronological analysis, the vessel was built around/after 1690 of oak originating from Holstein or Lower Saxony. The way of construction shows the influence of the 'Dutch flush' method, as the vessel was built as shell-first carvel construction with massive planks, and frames that were later inserted and which components were not interconnected. Thus, the vessel might have been built in the Netherlands with imported timber from Germany, or alternatively, it might have been built locally. The German part of the Wadden Sea was a heavily Dutch influenced area and sailors used the same type of flat-bottomed vessels as their Dutch counterparts.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Snelheid</th><td>6 knopen ~ 11 km/u (7 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>47 &frac12; voet (14,5 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>14 &frac34; voet (4,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>38 ton (19 last)</td></tr><tr><th scope=\"row\">Deplacement</th><td>16 ton (8 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The entire site was excavated in 1969 and only individual finds, samples and a Baroque window frame were retrieved. Although the wreck was relatively well documented <em>in situ</em>, the wreck remained unpublished for decades. On the basis of the documentation, the wreck was re-examined by Dr. Anton Englert and published in 1997.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Englert, A. (1997).<br /><em>Das neuzeitliche Wrack aus dem Hedwigenkoog, Kr. Dithmarschen.</em><br />Bonn.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

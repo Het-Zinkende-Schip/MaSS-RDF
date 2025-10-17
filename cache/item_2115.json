@@ -1,0 +1,27 @@
+{
+  "id": "2115",
+  "code": "zh7",
+  "name": "ZH7",
+  "type": "wreck",
+  "lat": "52.3937100",
+  "lon": "5.3533900",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1979",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:34:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1979 is op kavel H7 in Zuidelijk Flevoland, op de kruising van de Ibisweg en de Dodaarstocht, een scheepswrak aangetroffen. Na de melding is er een verkennend onderzoek uitgevoerd door het voormalige Centrum voor Scheepsarcheologie. Tijdens het proefsleuvenonderzoek is geconstateerd dat er vrij weinig resteerde van het scheepswrak.</p> <p>Er werd besloten het schip geheel op te graven. Het scheepswrak is een kleine roeiboot van circa 4,5 meter lang, de breedte is niet vastgesteld. Het bootje heeft een ellipsvormig plat vlak met voor en achter een oplopende heve (type Hollandse boot). Het vlak bestaat uit twee brede rechte en twee smalle planken, waarin de ronding is uitgezaagd. Van de zijden is alleen de onderste plank intact gebleven. De rest van de onderdelen lag aan het oppervlak van de kavel. Het scheepswrak is van eikenhout gemaakt. De gehele boot is met blik en viltpapier beslagen. In het schip zijn een aantal stukken van een ijzeren ketting en twee ijzeren netverzwaarders aangetroffen.</p> <p>De datering van het schip is onbekend. Na het onderzoek en documentatie zijn de resten van het wrak afgevoerd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een kleine roeiboot, datering onbekend, Zeewolde.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z6r-qgzu\">Opgravingsdocumentatie scheepswrak ZH7.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4254",
+  "code": "juno-3",
+  "name": "Juno",
+  "type": "wreck",
+  "lat": "-0.8150200",
+  "lon": "104.3714898",
+  "location": "Selat Berhala, Indonesië",
+  "firstdate": null,
+  "firstyear": "1912",
+  "firstyearend": null,
+  "lastdate": "1945-05-30",
+  "lastyear": "1945",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-03-12 10:39:43",
+  "modified_on": "2025-03-12 11:02:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Juno</em> was een tanker in dienst van de NIT. Bij uitbreken van WW II werd ze als hulptanker TAN 2 toegevoegd aan de Koninklijke Marine (augustus 1939).</p> <p>Op 30 januari 1942 liep het schip ernstige schade op in de monding van de Moesi Rivier als gevolg van een Japanse luchtaanval. Voor herstel werkzaamheden lag ze daarna in de haven van Surabaja. Daar werd het schip op 2 maart 1942 ter voorkoming van inbeslagname door de Japanners, tot zinken gebracht. Op 10 oktober 1942 werd ze door de Japanners gelicht, hersteld en als&nbsp;<em>Yuno Maru</em> in de vaart gebracht.</p> <p>De Yuno Maru is op 30 april 1945 op een mijn gelopen, gezonken en verloren gegaan in Selat Berhala bij de Lingga-Archipel.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>257 &frac12; voet (78,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>43 voet (13,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2345 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>marhisdata.nl.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=3327\">ID 3327.</a></li><li>helderline.com.<br /><a href=\"https://www.helderline.com/tanker/juno\">Juno.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

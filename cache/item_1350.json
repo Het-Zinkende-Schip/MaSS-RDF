@@ -1,0 +1,27 @@
+{
+  "id": "1350",
+  "code": "prins-willem-hendrik",
+  "name": "Prins Willem Hendrik",
+  "type": "wreck",
+  "lat": "-1.3417342",
+  "lon": "105.4392657",
+  "location": "Bangka Belitung, Indonesië",
+  "firstdate": null,
+  "firstyear": "1669",
+  "firstyearend": null,
+  "lastdate": "1686-09-18",
+  "lastyear": "1686",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-12 12:25:16",
+  "modified_on": "2025-05-22 12:58:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Vergaan op een klip benoorden Banka op weg van Batavia naar Siam.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Middelburg, 1668<br>Lengte: 160 x 38 x holte:18 vt<br>Tonnage: 550 last<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/96690\">DAS 5781.5.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=58&amp;accessor=search_in_text&amp;source=5&amp;view=&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3\">Generale missiven, deel 5, 43.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

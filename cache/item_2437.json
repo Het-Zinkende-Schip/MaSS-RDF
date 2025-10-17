@@ -1,0 +1,27 @@
+{
+  "id": "2437",
+  "code": "welsingen",
+  "name": "Welsingen",
+  "type": "wreck",
+  "lat": "-6.0479492",
+  "lon": "106.7924087",
+  "location": "Teluk Jakarta, Indonesië",
+  "firstdate": null,
+  "firstyear": "1638",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1638",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-02-10 11:28:30",
+  "modified_on": "2025-01-10 14:40:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het jacht bleef in Indi&euml; en is volgens de lijst van schepen <em>met al zijn ladinge verongeluckt in 1638</em>.</p> <p>Volgens DAS afgelegd in 1649 in Batavia..</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Roeleman, Kornelis</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>40</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\" http://resources.huygens.knaw.nl/das/detailVoyage/91622\">DAS 0505.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4934/file/NL-HaNA_1.04.02_4934_0093?query=\">4934 lijst VOC schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

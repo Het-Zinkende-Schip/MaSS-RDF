@@ -1,0 +1,26 @@
+{
+  "id": "1587",
+  "code": "spelonk-lighthouse",
+  "name": "Spelonk lighthouse",
+  "type": "structure",
+  "lat": "12.2122183",
+  "lon": "-68.1966555",
+  "location": "Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": "1906",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "2000",
+  "lastyearend": null,
+  "country": "Bonaire, Sint Eustatius en Saba",
+  "countrycode": "BQ",
+  "author": "Ruud Stelten",
+  "created_on": "2020-09-02 18:10:31",
+  "modified_on": "2025-07-03 10:26:11",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Throughout the colonial period, dozens of ships wrecked on Bonaire's treacherous shores. As a result, several&nbsp;lighthouses were built around the island in the nineteenth and twentieth centuries. The tallest one of these was the lighthouse on the eastern tip of the island, called Spelonk.&nbsp;A lighthouse at this location was badly needed. The documentary record contains several accounts of ships wrecking in this part of the island. The wrecking of the Brigantine G.B. Lockhart on May 29, 1906 prompted the construction of the Spelonk lighthouse&nbsp;(Amigoe di Cura&ccedil;ao 17-9-1910;).&nbsp;It is an impressive 30 meters tall. Leading to the lighthouse is a stone walkway. The two-story keeper's house is located 30 meters to the south.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001902.jpg\" alt=\"Dry plain with a stone old house and a red-white lighthouse\"> <figcaption class=\"img-description\">The Spelonk lighthouse and keeper's house</figcaption> </figure> <p>In 1906, Bonaire's Governor Arend E.J. van den Brandhof set out to find a suitable location for a lighthouse in this part of the island. One year later he visited the chosen location. The construction of the lighthouse must have commenced soon after, as it was inspected in January 1909 (Hartog 1957:234).&nbsp;In the 1950s, radio communications between several lighthouses (including Spelonk) on Bonaire was established, thereby greatly improving their efficiency (Verslag Nederlandse Antillen 1955). Nevertheless, the presence of a lighthouse did not prevent shipwrecks entirely (Amigoe di Cura&ccedil;ao 31-1-1944). In recent years, several sailing ships have also foundered at Spelonk.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Jan Hartog (1957).<br /><em>Geschiedenis van de Nederlandse Antillen. Bonaire: van Indianen tot Toeristen.</em><br />Gebroeders De Wit, Aruba.</li><li>Nederlands Departement van Zaken Overzee (1955).<br /><em>Verslag Nederlandse Antillen.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

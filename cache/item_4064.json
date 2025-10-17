@@ -1,0 +1,27 @@
+{
+  "id": "4064",
+  "code": "nk47-i",
+  "name": "NK47-I",
+  "type": "wreck",
+  "lat": "52.8104390",
+  "lon": "5.7679320",
+  "location": "Rutten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1250",
+  "lastyearend": "1900",
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:42:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1952 werd gemeld dat bij het draineren op kavel K47 in de Noordoostpolder een scheepswrak was aangetroffen. Na een bezoek aan de vindplaats werd het wrak aangemerkt voor verder onderzoek.</p> <p>Men stelde het op prijs als het wrak onaangeroerd kon blijven, en als dat niet mogelijk zou zijn, er alleen een sleuf door het wrak zou worden gehakt. Men noteerde dat er aan de bovenkant veel ijzer zat en dat er wat steenkoolresten gevonden waren.</p> <p>Het wrak was mogelijk met koehaar gebreeuwd, waarvan een monster werd genomen. In 1955 bleek echter dat het wrak door de pachter sterk vergraven was en er hout van afgebroken was, waardoor het schip helaas geen waarde meer had voor archeologisch onderzoek. Hierdoor is er verder weinig bekend over deze wrakvondst.</p> <p>Volgens mededeling Dick Velthuizen (Provinciaal Archeologisch Depot Flevoland) is in 2009 op dit kavel hout aangeprikt en is er in 2016 zwaar scheepshout opgeploegd. Het bleek hier te gaan om een vermoedelijk tweede wrak op dezelfde kavel. Dit werd uiteindelijk opgegraven in de zomer van 2018 en kreeg de aanduiding NK47-II (en de aanvankelijke bijnaam 'Queen Anne'), de eerder aangetroffen scheepsresten werd daarmee NK47-I.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2za-p8y3\">Opgravingsdocumentatie scheepswrak NK47-I.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

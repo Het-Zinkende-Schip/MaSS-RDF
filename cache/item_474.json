@@ -1,0 +1,27 @@
+{
+  "id": "474",
+  "code": "popkensburg",
+  "name": "Popkensburg",
+  "type": "wreck",
+  "lat": "9.8942341",
+  "lon": "80.2537232",
+  "location": "Point Pedro , Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1646",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1656",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Annaliese Dempsey",
+  "created_on": "2014-10-22 00:00:00",
+  "modified_on": "2024-07-26 15:46:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>'t Huys Popkensburg</strong></em> werd in 1646 gebouwd in Middelburg. Ze is vernoemd naar het gelijknamige kasteel ten noorden van Middelburg.</p> <p>Door slijtage ging het schip verloren tussen Coromandel en het toenmalige Ceylon, 13 mijl ten noorden van Point Pedro aan de noordkust van het huidige Sri Lanka.</p> <p>De lading bestond o.a. uit 50 last rijst. De bemanning werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Werf te MiddelburgBewapening: 22 ijzeren kanonnen</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.vocsite.nl/schepen/detail.html?id=11823\">Gegevens VOC-schip Popkensburg.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1215/file/NL-HaNA_1.04.02_1215_0977\">NL-HaNa, VOC, 1.04.02, inv. nr. 1215, fol. 931.</a></li><li><em>NL-HaNa, VOC, 1.04.02, inv. nr. 1217,section Ceylon, fol. 56.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

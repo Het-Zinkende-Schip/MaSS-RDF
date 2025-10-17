@@ -1,0 +1,27 @@
+{
+  "id": "2935",
+  "code": "de-een-ijm-7",
+  "name": "De Een (IJM 7)",
+  "type": "wreck",
+  "lat": "52.7054763",
+  "lon": "3.9439026",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1917-07-30",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-01 11:02:56",
+  "modified_on": "2025-07-18 16:51:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Uitgevaren 30 juli vanuigt Ijmuiden. Daarna vermist. Vermoedelijk op een mijn gelopen.. Met man en muis vergaan.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003273.jpg?modifiedon=1659344990\" alt=\"tekst: De bemanning van de Een, IJM 7, bestond uit D. C. Zwemmer, schipper, van IJmuiden, A. Dijkhuizen, stuurman, C. Taal, G. Dijkhuizen, B. Korving, matrozen, allen van Scheveningen, J. Smit, matroos, van IJmuiden en P. van Duin, kok, te Noordwijk, W. A. P. van Nas, machinist, J. A. Kool, stoker, beiden van Amsterdam en P. Zwaan, stoker, van Beverwijk.\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Zwemmer, C.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>10</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40033220\">Centraal Visserijregister.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22IJM+7%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;identifier=MMSAVL02:000497130:mpeg21:a00027&amp;resultsidentifier=MMSAVL02:000497130:mpeg21:a00027&amp;rowid=\">Nieuwe Vlaardingsche courant  (15-08-1917).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

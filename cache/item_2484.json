@@ -1,0 +1,27 @@
+{
+  "id": "2484",
+  "code": "japsand-1756",
+  "name": "Japsand",
+  "type": "wreck",
+  "lat": "54.5822799",
+  "lon": "8.4733772",
+  "location": "Japsand, Duitsland",
+  "firstdate": null,
+  "firstyear": "1756",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1760",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-04 19:57:29",
+  "modified_on": "2025-07-08 17:46:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>A larger wreck-fragment has been exposed by coastal erosion in the north-western corner of the Japsand. It was discovered in December 1991 by hikers who crossed the mudflats at low tide. It was immediately reported to the State Archaeology Department of Schleswig-Holstein.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The wreck comprised a sternpost fragment, which has survived up to 4 metres in length, as well as deadwood fillers and hood-ends (planks rebated into the post). The vessel was a carvel construction. A few gudgeons from the stern-rudder have survived, as well as some plates of the copper sheathing, which protected the underwater hull from marine borers. According to the draught marks, the vessel had a draught of 2 metres when unladen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002445.jpg\" alt=\"The image shows a technical diagram, possibly related to shipbuilding or archaeology\"> <div class=\"img-source\">K&uuml;hn, H.-J. (1999). Gestrandet bei Uelvesb&uuml;ll - Wrackarch&auml;ologie in Nordfriesland. Husum.</div> </figure> <p>The dendrochronological analysis was carried out by Sigrid Wrobel (University of Hamburg) and revealed that the timber was cut around/after 1756 in southern Germany.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck fragment was partially degraded by <em>teredo navalis</em>. It was also perceived as obstacle by shrimp fishermen and was therefore relocated to a flooded pit near Dageb&uuml;ll for temporary waterlogged storage.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Kühn, H.-J. (1999).<br /><em>Gestrandet bei Uelvesbüll - Wrackarchäologie in Nordfriesland.</em><br />Husum.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "636",
+  "code": "abbekerk-1779",
+  "name": "Abbekerk",
+  "type": "wreck",
+  "lat": "49.5879235",
+  "lon": "-8.2177734",
+  "location": "Near Scilly Islands, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1772",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1779",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-04-10 13:01:15",
+  "modified_on": "2022-12-31 12:03:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>After arrival of the second trip at Batavia, the Abbekerk sailed on to Canton in China. She arrives here in 1778. On her home bound voyage she arrives 26-5-1779 at Cape town. She leaves for Holland 26-6-1779 never to be seen again.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Built: Yard: Hoorn, 1772</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>116</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Supposedly found near Scilly isles in the UK.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Grootboek Abbekerk 1777/78.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/14503/file/NL-HaNA_1.04.02_14503_0001?eadID=1.04.02&amp;unitID=14503&amp;query=\">NL-HaNA_1.04.02_14503.</a></li><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98032\">DAS 7139.2.</a></li><li>Open Archives.<br /><a href=\"https://www.openarch.nl/ghn:40a7c56c-270d-4136-ae8a-c6a858692b68/en\">Albert Darlagen, on October 22, 1777 in the service of the Dutch East India Company.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

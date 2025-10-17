@@ -1,0 +1,27 @@
+{
+  "id": "912",
+  "code": "emmeloord",
+  "name": "Emmeloord",
+  "type": "wreck",
+  "lat": "-7.0891450",
+  "lon": "128.6524733",
+  "location": "Bebar, Pulau Damar, Indonesië",
+  "firstdate": null,
+  "firstyear": "1656",
+  "firstyearend": null,
+  "lastdate": "1663-07-10",
+  "lastyear": "1663",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-11 17:03:04",
+  "modified_on": "2025-06-30 13:15:38",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Emmeloord</em> staat niet op de egalisatie van de timmering en is dus waarschijnlijk gekocht door de VOC in 1656.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001619.jpg\" alt=\"illustratie van een zeilschip op zee\"> <figcaption class=\"img-description\">Galjoot ca. 1650</figcaption> </figure> <p><strong>Expeditie Zuidland</strong><br>De Emmeloord is samen met de Wakende Boei op 1 januari 1658 van Batavia naar het Zuidland gestuurd om te zoeken naar het volk en het wrak van de verongelukte Vergulde Draak.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003460.png\" alt=\"getekende kaart van een fort aan een rivier met boten\"> <div class=\"img-source\">NA 4VELH 565</div> <figcaption class=\"img-description\">getekende kaart van een fort aan een rivier met boten</figcaption> </figure> <p><strong>Vergaan<br></strong>De Emmeloord werd naar het eiland Damme (pulau Damar) in de Banda zee gezonden om zwavel te laden. De ankerplaats, de Wilhelmus baai, was niet ongevaarlijk:<br><em>\"Dat is een gewenste saecke alsoo seer periculeus leggen is voor Damme op die plaets daer&rsquo;t fort wilhelmus gelegen heeft ende daer altijt de rhede voor onse bodems geweest is\"</em></p> <p>Door slecht weer brak het ankertouw en strandde De Emmeloord. Op de klippen werd het gajoot stuk geslagen. Opvarenden en wat aan boord was kon worden gered.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1243/file/NL-HaNA_1.04.02_1243_1528?eadID=1.04.02&amp;unitID=1243&amp;query=1243\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Tonnage: 45 last.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Chijs, van der, J.A. (1891).<br /><a href=\"https://books.google.nl/books?id=SErVAAAAMAAJ&amp;printsec=frontcover&amp;hl=nl&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false\">Dagregister Batavia 1663 p 479.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1243/file/NL-HaNA_1.04.02_1243_1528?eadID=1.04.02&amp;unitID=1243&amp;query=1243\">NL-HaNA_1.04.02_1243 scan 1528.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

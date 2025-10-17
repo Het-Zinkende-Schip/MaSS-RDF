@@ -1,0 +1,27 @@
+{
+  "id": "4077",
+  "code": "ol85",
+  "name": "OL85",
+  "type": "wreck",
+  "lat": "52.5481000",
+  "lon": "5.7561120",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": "1810",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:38:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1959 werd de vondst van scheepshout gemeld op kavel L85 in Oostelijk Flevoland. Bij het verkennen van het wrak werden een ronde koperen plaat met gaatjes, een glazen deklicht en een stuk van een houten dekknie geborgen. De conclusie was dat het in aanmerking kwam voor systematisch onderzoek. Een herverkenning is verricht in oktober 1994. Hieruit werd duidelijk dat het gaat om een vrij compleet, overnaads karveel gebouwd scheepje met een bun. Het is dus een vissersschip geweest, vermoedelijk van het type jol. De afmetingen bedragen 9 bij 2,5 meter. Op basis van een gevonden kommetje en nog een deklicht, ditmaal voorzien van het opschrift 'patent', wordt de ondergang van het wrak geplaatst aan het begin van de 19de eeuw. De houtkwaliteit was ten tijde van de herverkenning echter zeer slecht (o.a. witte schimmel), waardoor werd geadviseerd tot opgraving.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x98-um66\">Opgravingsdocumentatie scheepswrak OL85.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

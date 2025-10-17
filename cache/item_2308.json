@@ -1,0 +1,27 @@
+{
+  "id": "2308",
+  "code": "landman-2",
+  "name": "Landman",
+  "type": "wreck",
+  "lat": "50.9293535",
+  "lon": "1.4062500",
+  "location": "Nauw van Calais Noordzee",
+  "firstdate": null,
+  "firstyear": "1653",
+  "firstyearend": null,
+  "lastdate": "1666-06-14",
+  "lastyear": "1666",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-10 17:59:40",
+  "modified_on": "2025-07-08 14:13:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Landman</strong></em> ging verloren in de Tweede Engels-Nederlandse oorlog Tijdens Vierdaagse zeeslag verbrandde het schip op 14 juni 1666..</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001685.jpg\" alt=\"schilderij van een zeeslag met rokende schepen\"> <figcaption class=\"img-description\">Vierdaagse zeeslag</figcaption> </figure> <p><strong>Specs</strong></p> <ul> <li>Expeditie naar Danzig 1656, om de Zweedse blokkade te breken. Kapitein was Abraham Verhulst. Eskader o.l.v. Jacob van Obdam Wassenaar.</li> <li>Slag in de Sont (8-11-1658) om Denemarken te helpen tegen Zweden o.l.v. Jacob van Obdam Wassenaar.. De Landman veroverde het Zweedse schip <em>Rosen</em>. Kapitein was Evert Anthonissen Marre Abraham Verhulst.&nbsp;De <a href=\"https://mass.cultureelerfgoed.nl/brederode-1644\">Brederode</a> ging verloren en viceadmiraal Witte de With sneuvelde.</li> <li>Slag bij Lowestoft (13-6-1665), o.l.v. Jacob van Obdam Wassenaar. Kapitein Hugo van Nieuhof. Het vlaggeschip <a href=\"https://mass.cultureelerfgoed.nl/eendragt\">De Eendracht</a> ontplofte, Obdam sneuvelde.&nbsp;</li> </ul> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001817.jpg\" alt=\"schilderij van een zeeslag met rokende schepen\"> <div class=\"img-source\">Rijksmuseum Amsterdam</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd, Amsterdam, Bicker 1653<br>Bewapening: 42-48</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Nieuhof H. van</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>200</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>32 &frac14; voet (9,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender J.A. (2014).<br /><em>Dutch Warships in the Age of Sail 1600 - 1714 p. 198.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2102",
+  "code": "zm8",
+  "name": "ZM8",
+  "type": "wreck",
+  "lat": "52.3607900",
+  "lon": "5.4694200",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1670",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:55:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Na een melding in 1976 is een jaar later een verkennend onderzoek uitgevoerd door het toenmalige Centrum voor Scheepsarcheologie. In 1982 is een herverkenning uitgevoerd. Het scheepswrak ligt in Zuidelijk Flevoland op kavel M8, dat op de kruising van de Schollevaarweg en de Roerdompweg gelegen is. Het betreft een scheepsfragment van een voor- of achterschip. Een deel van het vlak met enkele liggers, een deel van de scheepshuid met kromhouten en oplangers met wegering. Het vlak is 1,5 meter bij 2 meter. De huid is 1,5 bij 1,5 meter groot. Tijdens de herverkenning is het fragment vrijgegraven, schoongemaakt en gefotografeerd. Na de documentatie zijn de stukken gedemonteerd en uit de grond gehaald. Opvallend is dat elke huidgang van het fragment in het midden is voorzien van een versieringsgroef. De spijkers die in het schip zijn gebruikt, hebben een opvallende massieve kleine kop. Deze bijzondere details zijn ook aangetroffen bij het schip dat op kavel K45 (zie OK45) is opgegraven. Het schip dat daar is onderzocht was een bewapende tjalk uit circa 1670. Het gehele achterschip ontbrak; het gevolg van een explosie. Het scheepsdeel van kavel M8 is vermoedelijk het ontbrekende achterschip van deze tjalk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een scheepsfragment van een bewapende tjalk uit circa 1670, Zeewolde.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001993.jpg\" alt=\"Een lange houten opgegraven boot, bevat veel houten planken\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Een overzichtsfoto van de tjalk die op kavel K45 in Oostelijk Flevoland is opgegraven. Bovenin de foto is de beschadiging van het achterschip zichtbaar.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002055.jpg\" alt=\"Een bepaald scheepsfragment\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het scheepsfragment dat op kavel M8 in Zuidelijk Flevoland is aangetroffen. De opmerkelijke versiering is duidelijk zichtbaar.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002054.jpg\" alt=\"Opgegraven gekromde houten planken\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Een fragment van de achtersteven met een deel van een zandstrook.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xpc-3mqv\">Opgravingsdocumentatie scheepswrak ZM8.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

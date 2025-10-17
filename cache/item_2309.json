@@ -1,0 +1,27 @@
+{
+  "id": "2309",
+  "code": "admiraal-tromp",
+  "name": "Admiraal Tromp",
+  "type": "wreck",
+  "lat": "51.4777052",
+  "lon": "0.7566833",
+  "location": "Thames monding, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1665",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1667",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-11 12:43:20",
+  "modified_on": "2025-06-12 11:35:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1667 vergaan,</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak zou in 1931 ontdekt zijn. Bericht dat het zou worden opgeblazen.</p> <p>(bron: schependocumentatie NIMH)</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

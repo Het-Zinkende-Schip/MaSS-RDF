@@ -1,0 +1,27 @@
+{
+  "id": "399",
+  "code": "sms-lutzow",
+  "name": "SMS Lützow",
+  "type": "wreck",
+  "lat": "56.5500000",
+  "lon": "6.1170000",
+  "location": "North Sea",
+  "firstdate": null,
+  "firstyear": "1914",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Remko van de Peppel",
+  "created_on": "2013-04-09 00:00:00",
+  "modified_on": "2024-03-07 11:53:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Dienst en ondergang</h2> <p>De Duitse slagkruiser SMS L&uuml;tzow werd in 1916 in dienst genomen en diende als vervanger van de oude kruiser Kaiserin Augusta en ging deel uitmaken van de I. Verkenningsgroep (<em>I. Aufkl&auml;rungsgruppe</em>). Ondanks de reputatie van deze groep als een actieve Duitse macht tijdens de Eerste Wereldoorlog zag de L&uuml;tzow weinig actie in de eerste maanden ervan, tot dat het op de proef werd gesteld tijdens de Zeeslag bij Jutland op 31 mei en 1 juni 1916, toen het diende als het vlaggenschip van de beroemde Duitse admiraal Franz von Hipper.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000935.jpg?modifiedon=1705654342\" alt=\"Photograph of the SMS L&uuml;tzow, c. 1916.\"><div class=\"img-source\">Wikimedia Commons</div><figcaption class=\"img-description\">Foto van de SMS L&uuml;tzow, ca. 1916.</figcaption></figure> <p>Het schip bewees zijn waarde door het tot zinken brengen van de Britse <a title=\"HMS Invincible\" href=\"https://mass.cultureelerfgoed.nl/hms-invincible\"><em>HMS Invincible</em></a> en wellicht ook de <em>HMS Defence</em>. Het schip was echter niet in staat om de reis terug te maken nadat het geraakt was door een geschatte 24 granaten van zwaar kaliber en werd uiteindelijk opzettelijk door een Duitse onderzee&euml;r tot zinken gebracht nadat de overgebleven bemanning van boord gehaald was.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000936.jpg\" alt=\"The SMS Derfflinger, to which the L&uuml;tzow was a sister ship, was also heavily damaged during the Battle of Jutland, yet managed to return to port for repairs. Source: German Federal Archive.\"><div class=\"img-source\">Bundesarchiv</div></figure><p class=\"figcaption\">De <em>SMS Derfflinger</em>, een zusterschip van de <em>SMS L&uuml;tzow</em>, werd ook zwaar beschadigd tijdens de Zeeslag bij Jutland, maar deze wist voor reparatie terug naar de haven te komen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Klasse: <em>Derfflinger</em> klasse slagkruiser.</p> <p>Voortstuwing: stoomturbines.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004123.png\" alt=\"Line drawing of the Derfflinger class battlecruiser. Source: Jane's Fighting ships 1916\"><div class=\"img-source\">Wikimedia Commons</div></figure><p>Lijntekening van de <em>Derfflinger</em> klasse kruiser. Bron: Jane's fighting ships 1919.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Franz von Hipper</td></tr><tr><th scope=\"row\">Lengte</th><td>690 &frac14; voet (210,4 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>30 &frac14; voet (9,2 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>95 &frac14; voet (29 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak van de SMS L&uuml;tzow werd door een commercieel bedrijf geborgen in 1960. Bewijs van deze berging werd gevonden door maritiem archeoloog Innes McCartney, die het wrak in 2000-2001 terugvond en concludeerde dat het zich in slechte staat bevond, op de kop op de zeebodem liggend. Als een oorlogsgraf is het schip, samen met de andere Jutland graven, beschermd onder de <em>Protection of Military Remains Act</em> uit 1986.</p> <p>In 2015 werd het gezien door onderzoeksschip <em>HMS Echo</em> tijdens reguliere werkzaamheden in het gebied, ongeveer 8 mijl van haar laatst bekende positie.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000937.jpg\" alt=\"A cagelamp, lying at the site of the SMS L&uuml;tzow. Source: Periscope Publishing.\"><div class=\"img-source\">Periscope Publishing</div><figcaption class=\"img-description\">Een kooilamp op de vindplaats van de SMS L&uuml;tzow.</figcaption></figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000938.jpg\" alt=\"The mount of one of L&uuml;tzow's 5.9 inch guns. Photograph: Innes McCartney.\"><div class=\"img-source\">Innes McCartney</div><figcaption class=\"img-description\">Het onderstel van een van 15 cm kanonnen van de SMS L&uuml;tzow.</figcaption></figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://en.wikipedia.org/wiki/SMS_Lützow\">SMS Lützow - Wikipedia.</a><br />Wikipedia.</li><li><a href=\"http://www.periscopepublishing.com/\">HOME.</a></li><li>McCartney, I. (2017).<br /><a href=\"http://eprints.bournemouth.ac.uk/29306/3/Battle%20of%20Jutland%20Heritage%20Under%20Threat.pdf\">1 The Battle of Jutland’s Heritage under Threat: The extent of commercial salvage on the shipwrecks as observed 2000-2016.</a><br />Mariner's Mirror, vol. 103.</li><li><em>Jane's Fighting Ships.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

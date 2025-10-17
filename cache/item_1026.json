@@ -1,0 +1,27 @@
+{
+  "id": "1026",
+  "code": "nederlands-vrijheid",
+  "name": "Nederlands Vrijheid",
+  "type": "wreck",
+  "lat": "51.3319073",
+  "lon": "1.4484885",
+  "location": "Goodwin Sands, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1784",
+  "firstyearend": null,
+  "lastdate": "1784-12-13",
+  "lastyear": "1784",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-07 15:16:41",
+  "modified_on": "2025-06-02 17:30:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De ' <strong>Neerlands Vrijheid' </strong></em>werd ingehuurd door de VOC kamer Amsterdam. Bestemming was Batavia en China. Helaas&nbsp;liep ze een dag na vertrek uit Texel (13-12-1784) voor de kust van Engeland aan de grond en verging.</p> <p>Dit gebeurde op de beruchte goodwin sand banken. 3 man verdronken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: gehuurd door VOC kamer Amsterdam<br>Tonnage: 283 last&nbsp;<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Floor, Frederik</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/95527\">DAS 4476.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0236?eadID=1.04.02&amp;unitID=4935&amp;query=\">1.04.02 4935 Lijsten van voor de VOC uitgevaren schepen.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Floor&amp;coll=ddd&amp;sortfield=date&amp;page=2&amp;facets%5Bperiode%5D%5B%5D=2%7C18e_eeuw%7C1780-1789%7C1785%7C&amp;facets%5Bperiode%5D%5B%5D=2%7C18e_eeuw%7C1780-1789%7C1784%7C&amp;identifier=ddd:010802301:mpeg21:p002&amp;resultsid\">Oprechte Haerlemsche courant 23-12-1784.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

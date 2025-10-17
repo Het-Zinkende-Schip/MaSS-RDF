@@ -1,0 +1,27 @@
+{
+  "id": "4248",
+  "code": "enggano",
+  "name": "Enggano",
+  "type": "wreck",
+  "lat": "-10.9017543",
+  "lon": "108.3649228",
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1920",
+  "firstyearend": null,
+  "lastdate": "1942-03-02",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-02-06 15:05:00",
+  "modified_on": "2025-02-06 17:00:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het vrachtschip <em>Enggano</em> was 29 september 1941 vertrokken uit Engeland met bestemming Singapore. Op 27 februari 1942 lag het schip in de haven van Tjilatjap (Cilacap, Java). Ze moest wegens de invasie van Japan en wachtend op orders, wordt in de Indische Oceaan 270 mijl ten zuiden van Cilacap in brand gebombardeerd door een boordvliegtuig van de Japanse kruiser <em>Takao</em>. Vervolgens wordt het schip een dag later door de Japanse kruiser 'Chikuma' en de torpedobootjager 'Urakaze' tot zinken gebracht.</p> <p>Alle 65 opvarenden kunnen op 2 maart worden gered door de 'Tawali' van de SMN en in Cilacap weer aan land worden gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Sunderland Shipbuilding Co. Ltd., Sunderland</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>65</td></tr><tr><th scope=\"row\">Lengte</th><td>425 voet (129,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>55 voet (16,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>5412 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2063\">marhisdata id 2063.</a></li><li><a href=\"https://www.tracesofwar.nl/articles/6286/Japanse-Zware-kruiser-Takao-1930---%E9%AB%98%E9%9B%84.htm#:~:text=De%20Takao%20was%20een%20Japanse,ingezet%20langs%20de%20Chinese%20kust.\">tracesofwar.nl.</a></li><li><a href=\"https://www.oorlogsbronnen.nl/thema/Scheepsramp%20Enggano\">oorlogsbronnen.nl.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

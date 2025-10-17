@@ -1,0 +1,27 @@
+{
+  "id": "1556",
+  "code": "odm-iv",
+  "name": "ODM IV",
+  "type": "wreck",
+  "lat": "51.8126478",
+  "lon": "5.4505920",
+  "location": "Dreumel, Nederland",
+  "firstdate": null,
+  "firstyear": "100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-23 11:53:25",
+  "modified_on": "2025-06-10 19:06:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Groot houten schip. Eventueel zeevarend.</p> <p>Periode is onbekend.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://www.expeditie-overdemaas.nl/\">Expeditie over de Maas.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

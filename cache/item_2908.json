@@ -1,0 +1,27 @@
+{
+  "id": "2908",
+  "code": "clara-sch-69",
+  "name": "Clara (SCH 69)",
+  "type": "wreck",
+  "lat": "53.5818488",
+  "lon": "2.9196282",
+  "location": "Noordzee (vermist)",
+  "firstdate": null,
+  "firstyear": "1903",
+  "firstyearend": null,
+  "lastdate": "1918-07-01",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-02 10:50:45",
+  "modified_on": "2025-07-18 16:45:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Clara</strong></em> vergaan, waarschijnlijk op mijn gelopen. 8 bemanningsleden omgekomen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003236.jpg\" alt=\"De afbeelding toont een zeilschip op het water\"> <div class=\"img-source\">scheveningen haven.nl</div> </figure> <p>Slachtoffers: A.W. Knoester Schipper D.Z. Jol Stuurman D. Knoester Matroos A.S. Spaans Matroos K.Kleijn Matroos A. Kleijn Oudste A. Keus Oudste A. Spaans Jongste</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: zeillogger vissersvaartuig<br>Gebouwd: Figee, Vlaardingen<br>Eigenaar: A. van den Toorn</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>A.W. Knoester</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>8</td></tr><tr><th scope=\"row\">Tonnage</th><td>254 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1918%7C&amp;query=%22Clara+SCH+69%22&amp;coll=ddd&amp;sortfield=date&amp;identifier=MMSAVL02:000502136:mpeg21:a00027&amp;resultsidentifier=MMSAVL02:000502136:mpeg21:a00027&amp;rowid=\">Nieuwe Vlaardingsche courant  16-10-1918.</a></li><li>visserijschepen van Scheveningen.<br /><a href=\"https://www.scheveningen-haven.nl/info/schepen/index.php?nummer=69&amp;lijst=0&amp;af=SCH\">Clara SCH 69.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

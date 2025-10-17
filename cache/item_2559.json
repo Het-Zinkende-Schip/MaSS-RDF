@@ -1,0 +1,27 @@
+{
+  "id": "2559",
+  "code": "seehausener-groden",
+  "name": "Seehausener Groden",
+  "type": "wreck",
+  "lat": "53.1137806",
+  "lon": "8.7258911",
+  "location": "Bremen, Duitsland",
+  "firstdate": null,
+  "firstyear": "1200",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1240",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-11 18:55:38",
+  "modified_on": "2025-06-14 16:34:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>During dredging works in the River Weser a small wooden wreck was discovered at low tide in April 1963. It was reported to Dr. Siegfried Fliedner and Dr. Rosemarie Pohl-Weber of the Focke Museum (Bremen's municipal history and art museum) who investigated the wreck.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002580.png\" alt=\"photo of the excavation of a tree trunk\"> <div class=\"img-source\">Pohl-Weber 1969</div> </figure> <p>It was decided to salvage the wreck, which was manually moved onto the embankment, after the sand masses were removed by a dredger. This was a rescue operation, as the site was subject to dredging within the framework of a port development scheme. The wreck was made shortly after the spectacular discovery and salvage of the \"Bremen Cog\" a year before and thus never received the same level of attention, although all involved specialists were already sensitised to wreck-discoveries in the context of dredging operations.</p> <p>In 1972 a further wreck fragment was discovered not far from this site, which is associated with the same wreck.</p> <p>The excavators identified the river craft as a type known locally as <em>\"eke\"</em>, which was mentioned frequently in Bremen's toll register of the 14th century. <em>Ekes</em> were distinguished to logboats (<em>enbomene schepe</em>), although (if the identification is indeed correct) an <em>eke</em> would classify as logboat-like vessel.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The hull was assembled by two halved hollowed out tree-trunks (ca. 5 cm in thickness), which formed the sides, as well as a bottom-plank. The vessel was reinforced with frames. The boat was joined together with treenails, while no residues of iron fasteners were observed.</p> <p>The C14 analysis indicate a date between 1070 and 1240, while a dendrochronogical analysis yielded a date of around 1200.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>29 &frac12; voet (9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>5 voet (1,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Bishop, D. (2011).<br /><em>Archäologische Schiffsfunde im Land Bremen.</em><br />Stuttgart: Theiss Verlag.</li><li>Pohl-Weber, R. (1969).<br /><a href=\"https://brema.suub.uni-bremen.de/periodical/pageview/45329\">Die Bremer Eke - Fund eines mittelalterlichen Binnenschiffs.</a><br />Bremisches Jahrbuch 51, 1969, IX.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

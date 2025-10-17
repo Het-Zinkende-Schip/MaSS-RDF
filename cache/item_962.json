@@ -1,0 +1,27 @@
+{
+  "id": "962",
+  "code": "tela",
+  "name": "Tela",
+  "type": "wreck",
+  "lat": "5.3068476",
+  "lon": "-29.6367145",
+  "location": "500 mile from Brazil, Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1940-07-17",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-26 16:16:31",
+  "modified_on": "2025-06-09 12:06:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 5 juli 1940 vertrok <em><strong>De Tela</strong></em> van Rosario met een lading tarwe, ma&iuml;s en gierst naar Freetown. Op 17 juli 1940 werd het schip op ongeveer 550 mijl uit de kust van Brazili&euml;, in positie 24-08-ZB en 35-05-WL, door de Duitse hulpkruiser THOR (Schiff 10) aangehouden en met explosieven tot zinken gebracht.</p> <p>De gehele bemanning werd overgenomen en vervolgens door het Duitse MS Rio Grande naar Bordeaux gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: vrachtschip<br>Gebouwd: Wm. Gray &amp; Co. Ltd., West Hartlepool, UK<br>Eigenaar: N.V. Maatschappij Vrachtvaart, Rotterdam, Zuid-Holland, Netherlands v.a. 1929</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6433\">marhisdata id 6433.</a></li><li><a href=\"https://en.wikipedia.org/wiki/German_auxiliary_cruiser_Thor\">German auxiliary cruiser Thor.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

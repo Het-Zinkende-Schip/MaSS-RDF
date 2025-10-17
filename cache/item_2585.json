@@ -1,0 +1,27 @@
+{
+  "id": "2585",
+  "code": "langwarden-1",
+  "name": "Langwarden 1",
+  "type": "wreck",
+  "lat": "53.6291060",
+  "lon": "8.2631850",
+  "location": "Langwarden, Duitsland",
+  "firstdate": null,
+  "firstyear": "1875",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1925",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-06-01 15:49:11",
+  "modified_on": "2025-06-14 16:55:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The wreck is preserved to a length of 16,3 metres and a width of 3,7 metres, representing the bottom part of a hull. The outer flush-laid planking, floor-timbers, top-timbers, ceiling planks, the keelson and the sternpost were observed, as well as a fragment of the anchor chain. In the first third a mast-step was documented.</p> <p>The hull shape indicates a flat-bottomed vessel typical for the Wadden Sea area, almost entirely built of oak. The wood selection indicates an emphasis on cost reduction, as the oak quality is low and no compass timber was used for the frames. Iron bolts were used instead of treenails. Several indications for repairs were observed.</p> <p>A dendrochonological analysis carried out at the University of Copenhagen revealed a building time in the third quarter of the 20th century with a local provenance. Tableware fragments of the early 21st century indicate that the vessel was operated for several decades after its construction.</p> <p>In the midship section some parts of the cargo was still in place: brick-stones of the Oldenburg format stacked together upright, as initially stowed away.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>59 voet (18 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>14 &frac34; voet (4,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck was reported by the Waterways and Shipping Office (WSA: <em>Wasserstra&szlig;en- und Schifffahrtsamt</em>) of Jade-Weser in Bremerhaven, noting that it was exposed by erosion with the possibility to collapse into a side arm of the Kaiserbalje. As this was a fairway, the wreck needed to be removed before becoming a hazard for navigation.</p> <p>The regional branch in Oldenburg of the Lower Saxony State Office for Monument Preservation (NLD: <em>Nieders&auml;chsisches Landesamt f&uuml;r Denkmalpflege</em>) carried out a survey in June 2019 with logistical support of the WSA. The ship-timbers were further analysed ex-situ.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Wesemann, M., Belasus, M. (2021).<br /><em>.</em><br />Fundchronik Niedersachsen 2019. NNU-Beiheft 24, 204f.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

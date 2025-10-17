@@ -1,0 +1,27 @@
+{
+  "id": "2851",
+  "code": "duiveland",
+  "name": "Duiveland",
+  "type": "wreck",
+  "lat": "51.5639245",
+  "lon": "1.3136900",
+  "location": "Noordzee, Kentish knock , Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1909",
+  "firstyearend": null,
+  "lastdate": "1916-03-25",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-19 07:16:41",
+  "modified_on": "2022-05-19 07:34:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Duiveland was onderweg van Londen naar Sunderland. Ze liep op de Noordzee 6 mijl zuid van Kentisck Knock lichtschip op een mijn. Ze zonk binnen 7 minuten gezonken. De gehele bemanning werd gered door de Britse torpedoboot Nr. 19 en te Grimsby aan land gezet. De mijn was gelegd door de Duitse onderzeeboot UC 1.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Werf v/h Rijkee &amp; Co., Rotterdam/Katendrecht, NL.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Duit, D.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>17</td></tr><tr><th scope=\"row\">Lengte</th><td>245 voet (74,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 &frac12; voet (10,5 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>14 &frac34; voet (4,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1297 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22SS+Duiveland%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1916%7C&amp;identifier=MMNHA03:179017145:mpeg21:a00007&amp;resultsidentifier=MM\">Nieuwe Haarlemsche courant   28-03-1916.</a></li><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=1816\">ID 1816.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

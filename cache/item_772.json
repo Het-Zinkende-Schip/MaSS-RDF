@@ -1,0 +1,27 @@
+{
+  "id": "772",
+  "code": "beemster-welvaren",
+  "name": "Beemster Welvaren",
+  "type": "wreck",
+  "lat": "-6.3204510",
+  "lon": "108.3812698",
+  "location": "Indramayu, Java, Indonesië",
+  "firstdate": null,
+  "firstyear": "1770",
+  "firstyearend": null,
+  "lastdate": "1778-05-09",
+  "lastyear": "1778",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-18 17:10:21",
+  "modified_on": "2024-06-11 10:13:53",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Beemster Welvaren</strong></em> maakte twee reizen naar Azi&euml;.</p> <p>De tweede reis begon op 27 juni 1776 vanuit Texel voor de VOC kamer Amsterdam. Ze kwam aan in Batavia op 10 april 1777.</p> <p>De Beemster Welvaren was beladen met koffie en kruit en lag bij Indramayu (Cheribon) Op 9 mei lichtte het schip het anker (1 uur 's nachts) om naar Batavia te vertrekken. Door een onverwachte windvlaag sloeg het schip om. Het schip richtte zich weer maar was niet meer te redden. Ze zonk met volle lading <a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/808/file/NL-HaNA_1.04.02_808_0748?eadID=1.04.02&amp;unitID=808&amp;query=Dagelijks%20Journaal\">Dag, Journaal</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Enkhuizen, 1770<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Peter Decker</td></tr><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/808/file/NL-HaNA_1.04.02_808_0748?eadID=1.04.02&amp;unitID=808&amp;query=Dagelijks%20Journaal\">NL-HaNA_1.04.02_808_0748.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0027?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 24.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

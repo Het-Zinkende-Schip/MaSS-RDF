@@ -1,0 +1,27 @@
+{
+  "id": "755",
+  "code": "nautilus",
+  "name": "Hr.Ms. Nautilus",
+  "type": "wreck",
+  "lat": "53.4749700",
+  "lon": "0.3087158",
+  "location": "Saltfleet, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-13 12:51:18",
+  "modified_on": "2025-06-07 14:45:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Nautilus werd naast mijnenlegger ook als politie toezicht gebruikt voor controle op zeevisserij. Tijdens de Spaanse burgeroorlog escorteerde de Nautilus Nederlandse koopvaardijschepen door de Straat Gibraltar.</p> <p>Op 14 mei 1940 werd naar Engeland uitgeweken. Op 22 mei 1941 kwam het schip bij Saltfleet in aanvaring met het Britse s.s. Murrayfield en ging verloren. De gehele bemanning werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: mijnveger</p> <p>Werf: Rotterdamse Droogdok Mij. Rotterdam, 1929<br>In dienst gesteld : 2 mei 1930</p> <p>Afmetingen : 58,46 x 9,50 x 4,15 m</p> <p>Waterverplaatsing: 951 ton<br>machinevermogen: 1.350 pk<br>Snelheid : 14 knopen</p> <p>Bemanning: 57</p> <p>Bewapening : 2 kanons van 7,5 cm, 2 dubbelmitrailleurs van 12,7 mm</p> <p>40 mijnen</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://onzemarinevloot.weebly.com/hrms-nautilus.html\">Onze vloot.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

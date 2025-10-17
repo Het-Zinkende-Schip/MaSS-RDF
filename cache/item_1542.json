@@ -1,0 +1,27 @@
+{
+  "id": "1542",
+  "code": "oud-terbregge",
+  "name": "Oud Terbregge",
+  "type": "wreck",
+  "lat": "51.9494919",
+  "lon": "4.5388985",
+  "location": "Terbregge, Nederland",
+  "firstdate": null,
+  "firstyear": "-700",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-600",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-18 09:30:55",
+  "modified_on": "2025-01-09 14:55:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Boomstamboot<br>Lengte: 9 m<br>breedte 76 cm<br>Holte: 23,5 cm</p> <p>Gekapt uit &eacute;&eacute;n eikenboom. Het scheepje is gelicht. Maar de poging om het te behouden door het te behandelen met een mengsel van vernis en terpentijn mislukte.<br><br>Er zijn slechts een paar resten over die in 1991 zijn gedateerd middels C14.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De boomstamboot werd ontdekt in de toenmalige Prins Alexander polder Oud-Terbregge (Rotterdam). In het voorjaar van 1920 werd de kano opgegraven door A.E. van Giffen.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Maarleveld T. (2008).<br /><em>Boten zonder geschiedenis, of wie is er bang voor een boomstamboot?.</em><br />Glavimans nr. 10.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

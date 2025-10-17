@@ -1,0 +1,27 @@
+{
+  "id": "1209",
+  "code": "london-1656",
+  "name": "London",
+  "type": "wreck",
+  "lat": "51.5228148",
+  "lon": "0.7201537",
+  "location": "Southend on Sea, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1655",
+  "firstyearend": null,
+  "lastdate": "1665-03-07",
+  "lastyear": "1665",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-13 10:39:13",
+  "modified_on": "2025-06-10 11:47:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001744.jpg\" alt=\"Vertrek Karel II uit Scheveningen\"></figure> <p class=\"figcaption\">Vertrek van Karel II uit Scheveningen 2 juni 1660. Op zee De London en Royal Charles <br>(Cornelis Beelt, Rijksmuseum, ID SK-A-2692)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

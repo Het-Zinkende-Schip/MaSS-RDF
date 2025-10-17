@@ -1,0 +1,26 @@
+{
+  "id": "2262",
+  "code": "vickers-wellington-mk-x-he729",
+  "name": "Vickers Wellington MK X HE729",
+  "type": "plane",
+  "lat": "52.4882635",
+  "lon": "4.1728210",
+  "location": "Noordzee?, Nederland",
+  "firstdate": null,
+  "firstyear": "1942",
+  "firstyearend": null,
+  "lastdate": "1943-06-12",
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-23 10:44:51",
+  "modified_on": "2025-07-06 19:05:15",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>On mision to D&uuml;sseldorf intercepted and shot down by a Luftwaffe Bf 110, there are three possibilities:<br>- shot down by Unteroffizier Karl-Georg Pfeiffer of the 10./NJG 1, flying a Bf 110 G-4 from Bergen or Leeuwarden airfield. Claim location: North Sea 30 km west of IJmuiden, Noord-Holland, with claim time 02:49.<br>- shot down by Oberleutnant Werner Husemann of the Stab/NJG 1, flying a Bf 110 G-4 from Deelen airfield. Claim location: IJsselmeer west of Kampen, with claim time 02:55.<br>- shot down by Major Kurt Holler of the Stab III./NJG 4 (detached to 1./NJG 1), flying a Bf 110 from Gilze-Rijen airfield. Claim location: IJsselmeer west of Urk, with claim time 02:55.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002231.jpg\" alt=\"A row of airplanes under construction\"> <figcaption class=\"img-description\">.</figcaption> </figure> <p>The Wellington was never recovered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type : Vickers Wellington medium sized bomber<br>Owner: 432 (Leaside) Sqn RCAF</p> <p>crew:<br>Pilot: F/Lt. Laurie A. Bourgeois <br>F/O George A. McClintock <br>F/Sgt. Daniel S. McRae <br>WO/AG<br>P/O Harry D. Warner <br>&nbsp;Navigator: Sgt. James A.M. Philpott</p></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>It is very uncommon that aircraft crash in the shallow Lake IJsselmeer (Old Zuyder Sea) without leaving any trace of aircraft and/or its five men crew.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"http://www.aircrewremembered.com/AlliedLossesIncidents/?q=HE729\">Allied Air Forces Losses and Incidents Database.</a></li><li>Aviation Safety Net.<br /><a href=\"https://aviation-safety.net/wikibase/wiki.php?id=140852\">HE729.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4061",
+  "code": "ok23",
+  "name": "OK23",
+  "type": "wreck",
+  "lat": "52.5514680",
+  "lon": "5.6645370",
+  "location": "Swifterbant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": "1600",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 16:28:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bij een scheepsopgraving in 1962 werd op kavel K23 een groot, karveel gebouwd huidfragment van de stuurboordkant van het achterschip geborgen. (Maritiem) archeoloog Gerrit (G.D.) van der Heide schreef er het volgende over in het 'Diemaandelijksch bericht betreffende de Zuiderzeewerken' van dat jaar:</p> <p>\"Op kavel K23 is een achtergedeelte van een stuurboord gevonden van een stoer, vrij hoog opgebouwd schip, met vier berghouten. Het boord was afgeknapt, zodat het tot aan de bovenkant compleet te zien was. Vanwege de interessante constructie werd het ter conservering naar de werkplaats te Ketelhaven overgebracht.\"</p> <p>Uiteindelijk is het stuk in 1980 gerestaureerd en op een verrijdbaar frame geplaatst.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zpa-yn6t\">Opgravingsdocumentatie scheepswrak OK23.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

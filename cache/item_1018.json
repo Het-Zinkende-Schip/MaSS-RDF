@@ -1,0 +1,27 @@
+{
+  "id": "1018",
+  "code": "kaneelboom",
+  "name": "Kaneelboom",
+  "type": "wreck",
+  "lat": "13.4289382",
+  "lon": "80.6174012",
+  "location": "Pulicat, India",
+  "firstdate": null,
+  "firstyear": "1661",
+  "firstyearend": null,
+  "lastdate": "1670-11-06",
+  "lastyear": "1670",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-06 12:56:23",
+  "modified_on": "2025-06-25 11:15:58",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>&sup1;De Kaneelboom</strong></em> vertrok op 20 november 1662 naar Azi&euml;. Het schip kwam op 6 juli 1663 in Batavia aan. Ze bleef vervolgens dienst doen in Azi&euml; o.a. op de route Batavia - China en later Bengalen.</p> <p>Op 1 februari 1671 meldt het Dagregister van Batavia dat de <em>Kaneelboom</em> en <em>Witte Leeuw</em> (nog) niet in Batavia verschenen zijn.</p> <p><strong>Storm<br></strong>Op de kust van Coromandel had op 3 november een harde storm gewoed die twee etmalen had geduurd. Enkele dagen later vonden vissers onder Palliacatta een mast en een stuk van het hakkebord waar een tak van een boom en een schuit, nog heel, in uitgehouwen was. Er werd aan de hand van de afbeelding op het hakkebord* verondersteld dat de Kaneelboom verongelukt zou kunnen zijn.</p> <p>In de Generale Missiven van 2 september 1671 wordt gemeld: \"De Witte Leeuw en de Kaneelboom, 6 nov. uit Bengalen naar Batavia vertrokken met cargasoen van f. 376458, vnl. zijde, zijn vermoedelijk vergaan; in Paleacatte zijn wrakstukken aangedreven\".</p> <p class=\"note\">* bovenkant van de spiegel of achtersteven van een schip, die in willekeurige vorm was uitgehakt en waaraan men bevriende schepen al van verre herkende.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Middelburg, in 1661.<br>dimensies en bouw (<a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=524&amp;accessor=searchText&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=1\">Van Dam, I 485</a>)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>116 Amsterdamse&nbsp;voet (32,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>26 Amsterdamse&nbsp;voet (7,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>300 ton (150 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92096\">DAS 0979.1.</a></li><li>Coolhaas (1960).<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=757&amp;accessor=search_in_text&amp;source=3&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26\">Generale Missiven van Gouverneurs-Generaal en Raden aan Heren XVII der Verenigde Oostindische Compagnie.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/151/file/NL-HaNA_1.04.02_151_0141?eadID=1.04.02&amp;unitID=151&amp;query=151\">NL-HaNA_1.04.02_151_014.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

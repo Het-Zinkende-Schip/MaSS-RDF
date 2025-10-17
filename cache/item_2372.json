@@ -1,0 +1,27 @@
+{
+  "id": "2372",
+  "code": "groenlo",
+  "name": "Groenlo",
+  "type": "wreck",
+  "lat": "52.4766308",
+  "lon": "1.7537638",
+  "location": "Lowestoft, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1926",
+  "firstyearend": null,
+  "lastdate": "1941-11-24",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-16 15:45:53",
+  "modified_on": "2025-06-12 12:21:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 22 november 1941 vertrok de <em>Groenlo</em> van Middlesbrough naar London in konvooi F.S.654. Door een lekke ketel raakte de Groenlo achterop. Op 24 november 1941 werd zij ten oosten van Lowestoft met torpedo&rsquo;s tot zinken gebracht door de Duitse motortorpedoboot &lsquo;S.52&rsquo;.</p> <p>Bij de ramp verloren 10 opvarenden van de &lsquo;Groenlo&rsquo; het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Stoomschip</p> <p>Gebouwd: N.V. Boele's Scheepswerven, Slikkerveer</p> <p>Eigenaar: N.V. Stoomvaart Mij. Noordzee, Amsterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Vermogen</th><td>1000 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>8 knopen ~ 15 km/u (9 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>275 &frac14; voet (83,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>41 &frac14; voet (12,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 &frac34; voet (5,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1984 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van, (1947).<br /><em>Scheepsrampen in  oorlogstijd ,nr. 119.</em></li><li>Stichting Maritiem historische Data.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=2579\">GROENLO - ID 2579.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

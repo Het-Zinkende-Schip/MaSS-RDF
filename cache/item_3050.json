@@ -1,0 +1,27 @@
+{
+  "id": "3050",
+  "code": "ameland",
+  "name": "Ameland",
+  "type": "wreck",
+  "lat": "51.9328730",
+  "lon": "3.0304094",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1940-02-18",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-02-09 09:33:35",
+  "modified_on": "2025-06-15 20:50:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Ameland</strong></em> vertrok 18 februari 1940 van Rotterdam met bestemming Batavia (Jakarta) Nederlands Indi&euml;. <br>De lading bestond uit stukgoederen. Een paar uur later (9.26) uur) werd zij ten noorden van het lichtschip Schouwenbank, getorpedeerd door de Duitse onderzee&euml;r U<em> 10</em>.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003440.png\" alt=\"De Ameland in Rotterdam. De neutrealiteitskleuren zijjn net aangebracht (september 1939)\"> <div class=\"img-source\">Marhistdata</div> <figcaption class=\"img-description\">De Ameland in Rotterdam. De neutrealiteitskleuren zijjn net aangebracht (september 1939)</figcaption> </figure> <p><br>Er vond een hevige ontploffing onder het achterschip plaats, waarbij drie zwaargewonden vielen. Na nog enige tijd te hebben gedreven, zonk de Ameland. <br>De overlevenden werden opgepikt door het vrachtschip Montferland. De gewonden werden daarna overgedragen naar Vlissingen met de Belgische loodsboot nr. 10. De rest werd met de sleepboot Zwarte Zee in Maassluis aan wal gebracht. Alle opvarenden overrleefden de ramp.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: De Rotterdamsche Droogdok Maatschappij N.V., Rotterdam<br>Eigenaar: N.V. Stoomvaart Maatschappij 'Rotterdam', Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>A. Kokké</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>48</td></tr><tr><th scope=\"row\">Lengte</th><td>387 &frac14; voet (118 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>53 &frac14; voet (16,2 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>25 &frac12; voet (7,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>4536 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>marhisdata.nl.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=338\">id 338.</a></li><li>Uboat.net.<br /><a href=\"https://uboat.net/allies/merchants/ship/269.html\">U 10.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Ameland&amp;cql%5B%5D=%28date+_gte_+%2218-02-1940%22%29&amp;cql%5B%5D=%28date+_lte_+%2201-04-1940%22%29&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;redirect=true&amp;sortfield=date&amp;page\">Volkskrkrant 19-2-1940.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

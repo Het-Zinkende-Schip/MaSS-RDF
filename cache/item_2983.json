@@ -1,0 +1,27 @@
+{
+  "id": "2983",
+  "code": "juno-ijm-285",
+  "name": "Juno (IJM 285",
+  "type": "wreck",
+  "lat": "56.1848588",
+  "lon": "2.6904245",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2022-09-08 12:02:54",
+  "modified_on": "2025-06-15 14:35:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De logger Juno vertrok 26 juni 1918 uit IJmuiden.</p> <p>De zwaar beschadigde scheepsboot van de Juno werd door een visser uit Scheveningen opgevist bij boei 5 in de \"vrije vaargeul.\" Dat was het enige dat van de Juno en bemanning is overgebleven. De beschadigde scheepsboot kan een indicatie zijn voor een mijn explosie.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar : Nereus mij.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Langbroek, C.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>9</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40032243\">Centraal_Visserijregister.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22IJM+285%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1918%7C&amp;identifier=ddd:010384135:mpeg21:a0122&amp;resultsidentifier=ddd:010384135:mpeg21:a0122&amp;rowid=8\">De Tĳd 9-07-1918 1.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

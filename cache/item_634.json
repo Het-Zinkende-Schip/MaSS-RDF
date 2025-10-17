@@ -1,0 +1,27 @@
+{
+  "id": "634",
+  "code": "juffer",
+  "name": "Juffer",
+  "type": "wreck",
+  "lat": "-5.3643855",
+  "lon": "121.7342605",
+  "location": "Sagori, A reef near pulau Kabaena, Indonesië",
+  "firstdate": null,
+  "firstyear": "1644",
+  "firstyearend": null,
+  "lastdate": "1650-03-04",
+  "lastyear": "1650",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-04-10 12:22:35",
+  "modified_on": "2024-07-06 17:21:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Juffer </em>was een fluit van de VOC en werd ingezet op de Aziatische handelsroutes.</p> <p>Op haar laatste reis was De Juffer in een vloot van vijf schepen (Tijger, Juffer, Luipaard, Bergen op Zoom en de Aagtekerk) die met proviand en soldaten van Batavia naar Ternate (Specerij eilanden) onderweg waren.</p> <p>Een uur voor het aanbreken van de ochtend op 4 maart 1650 voeren de schepen &lsquo;<em>gezamenlijck opt Riff vant eylandt Comboina verseylt</em>'. (Coolhaas, 471)</p> <p>Alle schepen gingen verloren. De bemanning en een deel van de lading kon worden gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>480 ton (240 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Huygens ING.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91753\">DAS 0636.1.</a></li><li>Coolhaas, W. Ph.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=484&amp;accessor=search_in_text&amp;source=2&amp;accessor_href=search_in_text%2Findex_html%3Fsearch_term%253Austring%253Autf-8%3DJuffer%26source_id%3D&amp;size=1219&amp;view=imagePane\">Generale missiven van gouverneurs-generaal en raden aan heren XVII der Verenigde Oostindische Compagnie.</a></li><li><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/1179B/file/NL-HaNA_1.04.02_1179B_0405?eadID=1.04.02&amp;unitID=1179B&amp;query=1179A\">NL-HaNA_1.04.02_1179B_0405 (copie daghregister 1650).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

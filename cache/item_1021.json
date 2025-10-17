@@ -1,0 +1,27 @@
+{
+  "id": "1021",
+  "code": "towa",
+  "name": "SS Towa",
+  "type": "wreck",
+  "lat": "58.0701295",
+  "lon": "-12.4453104",
+  "location": "Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1940-12-11",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-07 12:16:48",
+  "modified_on": "2025-06-09 13:01:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De<em> <strong>SS Towa</strong> </em>vertrok op 30 november in konvooi HX 92 van Canada naar het Verenigd Koninkrijk. Op 11 december werd het konvooi aangevallen door Duitse onderzee&euml;rs. Een Engels schip werd getorpedeerd. Tegen de avond werd ook de <em>Towa</em> getorpedeerd door de Duitse <em>'U 96</em>' en tot zinken gebracht.</p> <p>18 Bemanningsleden kwamen hierbij om het leven; 19 man konden worden gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Stoomboot , Cargo vessel<br>Gebouwd: Machinefabriek en Scheepswerf van P. Smit Jr. N.V., Rotterdam<br>Eigenaar: N.V. Maatschappij Vrachtvaart, Rotterdam<br>Voortstuwing: Steam, Triple Expansion<br><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>37</td></tr><tr><th scope=\"row\">Lengte</th><td>420 voet (128 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>55 &frac12; voet (16,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>28 &frac34; voet (8,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>5418 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 54.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://uboat.net/allies/merchants/ship/713.html\">U Boat net.</a></li><li><a href=\"https://oorlogsgravenstichting.nl/zoeken?section%5B%5D=persons&amp;q=Towa\">oorlogsgraven stichting.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

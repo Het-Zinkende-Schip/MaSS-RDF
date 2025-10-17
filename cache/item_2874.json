@@ -1,0 +1,27 @@
+{
+  "id": "2874",
+  "code": "martha-maria-vl-199",
+  "name": "Martha Maria (VL 199)",
+  "type": "wreck",
+  "lat": "52.8899043",
+  "lon": "4.3075561",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1902",
+  "firstyearend": null,
+  "lastdate": "1917-05-07",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-01 05:58:01",
+  "modified_on": "2025-07-17 10:58:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00003197.jpg\" alt=\"tekst: TWEE VLAARDINGER STOOMBEUGERS TOT ZINKEN GEBRACHT. Men meldt ons gisterenavond uit IJmuiden: Voorgaats ligt de logger &bdquo;Op Hoop van Ze-gen&quot; MA 20, die in volle zee heeft opgenomen de bemanningen van de stoombeugers, Prins Hendrik der Nederlanden&quot; VL 195 en &bdquo;Mar-tha Maria&quot; VL 199, beide van de reederij A. Hoogendijk Jz. te Vlaardingen, welke schepen door duikbooten tot zinken werden gebracht. De 32 opvarenden zijn allen gered.\"> <div class=\"img-source\">Het vaderland 08-05-1917</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Smit P. Jnr. - Machinefabriek &amp; Scheepswerf P. Smit, Rotterdam <br>Eigenaar: Dogger Maatschappij - Hoogendijk A., Vlaardingen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>176 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.wrecksite.eu/wreck.aspx?157111\">Wrecksite.eu.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

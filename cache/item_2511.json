@@ -1,0 +1,27 @@
+{
+  "id": "2511",
+  "code": "sms-coeln-1914",
+  "name": "SMS Cöln",
+  "type": "wreck",
+  "lat": "54.1333330",
+  "lon": "6.9666670",
+  "location": "North Sea (EEZ), Duitsland",
+  "firstdate": "1911-06-16",
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1914-08-28",
+  "lastyear": "1914",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-15 16:52:55",
+  "modified_on": "2025-06-14 16:00:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>SMS C&ouml;ln was launched as one of four Kolberg-class light cruisers on 5th June 1909 at the Germania shipyard in Kiel.</p> <p>At the outbreak of World War I, the vessel was assigned to patrols off the island of Heligoland as the flagship of Rear Admiral Leberecht Maass. In the Battle of Heligoland Bight on 28th August 1914, the German patrol forces were attacked by superior British forces and C&ouml;ln was fatally hit by the British battlecruisers. The ship was abandoned by the surviving sailors, who lowered down rescue boats, but the battlefield was not searched in the following days and only a single crew-member was found alive three days later.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hans Meidinger</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>485</td></tr><tr><th scope=\"row\">Snelheid</th><td>26 knopen ~ 48 km/u (30 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>428 &frac14; voet (130,5 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 voet (5,5 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>46 voet (14 m)</td></tr><tr><th scope=\"row\">Deplacement</th><td>4362 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wrecksite is situated in the German Exclusive Economic Zone (EEZ). Due to the sovereignty of federal states in cultural politics (<em>\"Kulturhoheit der L&auml;nder\"</em>), the remit of the state agencies responsible for heritage protection extends only into territorial waters (12 nautical mile zone), while heritage protection is not regulated in the German EEZ. However, naval shipwrecks are granted sovereign immunity under international law and remain the property of their state of orgin, and as such the German Federal Republic is the inheritor of war-wrecks of the Imperial German Navy.</p> <p>The wreck obstructed a major shipping lane and was removed in 1979. During the clearing operation, a 10,5cm gun and other wreck remains were salvaged, which are now exhibited at Cuxhaven's wreck and fishery museum \"Windst&auml;rke 10\".</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Gröner, E. (1990).<br /><em>German Warships: 1815–1945. Vol. I: Major Surface Vessels.</em><br />Annapolis: Naval Institute Press.</li><li>Nottelmann, D. (2020).<br /><em>The Development of the Small Cruiser in the Imperial German Navy.</em><br />Warship 2020.<br />pp 102-118.</li><li>Wikipedia.<br /><a href=\"https://en.wikipedia.org/wiki/SMS_C%C3%B6ln_(1909)\">SMS Cöln.</a></li><li>&quot;Das Seegefecht bei Helgoland&quot; (Historical-Archaeological Research Project).<br /><a href=\"http://www.seegefecht-helgoland.de/\">www.seegefecht-helgoland.de.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

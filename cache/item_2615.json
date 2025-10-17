@@ -1,0 +1,27 @@
+{
+  "id": "2615",
+  "code": "orio-4",
+  "name": "Orio 4",
+  "type": "wreck",
+  "lat": "43.2891860",
+  "lon": "-2.1310220",
+  "location": "Ria del Oria (Guipúzcoa), Spanje",
+  "firstdate": null,
+  "firstyear": "1450",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1550",
+  "lastyearend": null,
+  "country": "Spanje",
+  "countrycode": "ES",
+  "author": "Sergio José López Martín",
+  "created_on": "2021-06-29 16:23:14",
+  "modified_on": "2025-06-14 17:07:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Excavated by M. Izaguirre in 1991. The wreck corresponds to a 16th century wooden boat to sixteenth-century wooden boats destined in their time to transport iron ore for the ironworks in the area.</p> <p>This vessel conserves its structure of upper works from the keel to something less than the waterline. Its characteristics are similar to those of Orio I and Orio II:</p> <ul> <li>&nbsp;Frames consisting of floors and part of the futtocks. Their squares vary between 10 x 10 cm and 20 x 20 cm. Their lengths between 1 and 3 m.</li> <li>&nbsp;The keel is the longest piece of the boat and varies between 7 and 9 m in length and 20 x 20 cm squad. The keelson is a straight piece between 2 and 3 m in length and 25 x 25 cm in section.</li> <li>&nbsp;The ceiling planking composed of 3-4 cm boards thick, width between 20 and 30 cm and length between 1 and 7 m in length.</li> <li>&nbsp;Planking composed of planks with an average-thickness betwen 3 and 4 cm, width 30-30 cm and length from 3 to 8 m.</li> </ul><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Izaguirre, Manuel (200).<br /><a href=\"https://www.icomos.org/risk/2006/25izaguirre2006es.pdf\">Orio IV : La investigación arqueológica de un patache venaquero del siglo XVI.</a><br />Underwater Cultural Heritage at Risk: Mananging Natural and Human Impacts, 73-75. nternational Council on Monuments and Sites. Paris.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

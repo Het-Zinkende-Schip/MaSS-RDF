@@ -1,0 +1,26 @@
+{
+  "id": "2263",
+  "code": "vickers-wellington-mk-ia-p9232",
+  "name": "Vickers Wellington MK IA  P9232",
+  "type": "plane",
+  "lat": "51.8384538",
+  "lon": "4.2666627",
+  "location": "Geervliet, Nederland",
+  "firstdate": null,
+  "firstyear": "1940",
+  "firstyearend": null,
+  "lastdate": "1940-06-06",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-23 11:15:07",
+  "modified_on": "2025-06-11 19:46:19",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Wellington Mk.1A P9232 \"WS-M\" of 9 Squadron, RAF: Airborne from Honington at 21:25 hours. Target Duisberg Railway Freight Terminal. Shot down by Flak soon after crossing the Dutch coast. Crashed near Simonshaven (Zuid Holland) in the commune of Geervliet, 16 km SW of Rotterdam, Holland.</p> <p>As soon as they were over Holland every gun on the ground seemed to have them in their sights. The sky lit up like a Christmas tree. Flak came soaring up at them, rattling against them like hail on a iron shed. And for some reason the pilot, instead of making the usual manoeuvre - a quick vertical nose-dive towards terra firma in order to try and break out of the searchlight cone - continued to plug on heavenwards. They never reached it. Soon the port engine cascaded in flame after being hit. That was one engine gone and they only got two. With a full bomb-load and a fire on board, the situation was split-second hazardous. The pilot George Peacock soon gave the order, 'Bail out! Bail out!'</p> <p>The pilot stayed at the controls for a few more seconds to allow the crew to escape but was unable to leave the plane in time - the whole plane exploded, raining pieces of metal down. The navigator also seem to have left the plane too late and trailed down with his parachute in flames.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: Vickers Wellington Mk IA <br>Owner/operator: 9 Sqn Royal Air Force (9 Sqn RAF)</p> <p><strong>Crew</strong><br>Pilot: George Ernest Peacock, buried at commonwealth cemetery in simonshaven<br>Pilot Officer: Bertram A.James PoW<br>Sergeant (Observer) Ronald Charles Hargrave, commonwealth cemetery in simonshaven<br>Sgt A.K.Griffiths PoW<br>Pilot Officer S.W.Webster PoW<br>LAC C.Murton PoW</p></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>According to local records this plane crashed within or in an area belonging to the community of \"Geervliet\" and not \"Simonshaven\". It was probably somewhere in between those two villages. The exact location has not been identified yet.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Aviation Safety Net.<br /><a href=\"https://aviation-safety.net/wikibase/53928\">Accident Vickers Wellington.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

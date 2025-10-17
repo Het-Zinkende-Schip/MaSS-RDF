@@ -1,0 +1,27 @@
+{
+  "id": "2252",
+  "code": "zuiderburg",
+  "name": "Zuiderburg",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1705",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1708",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-20 09:10:54",
+  "modified_on": "2024-07-22 11:12:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Zuiderburg vertrok samen met <a href=\"https://mass.cultureelerfgoed.nl/concordia-1696\">De Concordia</a> 15 -1- 1708 uit Batavia met bestemming Nederland. Beide schepen kwamen nooit aan en zijn vermist tussen Batavia en De Kaap.</p> <p>De locatie is onbekend.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf Oostenburg Amsterdam, 1703<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Likkert, Jan</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>150</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>618 ton (309 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97070\">DAS 06184.1.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000235.jpg\">NA-1.11.01.01-551, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

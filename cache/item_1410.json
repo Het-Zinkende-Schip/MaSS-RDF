@@ -1,0 +1,27 @@
+{
+  "id": "1410",
+  "code": "zwammerdam-5",
+  "name": "Zwammerdam 5",
+  "type": "wreck",
+  "lat": "52.1048836",
+  "lon": "4.7264313",
+  "location": "Zwammerdam, Nederland",
+  "firstdate": null,
+  "firstyear": "100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "300",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-23 13:32:26",
+  "modified_on": "2025-07-02 17:43:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit vaartuig is in 1973 gevonden in een opgevulde rivierbedding nabij het Romeinse castellum Nigrum Pullum in Zwammerdam.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001840.jpg\" alt=\"De afbeelding toont de plattegrond van een Romeins fort, ook wel bekend als een castrum. \"></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De aangetroffen lengte was 5,48 meter bij een breedte van 0,76 meter. Op de boorden was een dolboord gespijkerd. <br>De boomstamboot was in gebruik als viskaar (opslagbak voor levende vis). Voor dat doel was een groot aantal gaatjes over de gehele lengte van de zijkant<br>geboord en was de bovenzijde met planken afgedekt.<br><br>Een luikje om de vis in de kaar te kunnen doen was met ijzeren scharnieren in het dek bevestigd. Dit vaartuig is net als de Zwammerdam 1 in de lengte doorgezaagd. Het uiteinde werd afgesloten met een verticale plank (spiegel) toen het het in tweede instantie tot viskaar werd omgebouwd. <br><br>Het is mogelijk dat de boot nooit heeft gefunctioneerd maar bij de bouw al was<br>&lsquo;afgekeurd&rsquo;, om vervolgens als viskaar te worden gebruikt.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001881.jpg\" alt=\"foto van een opgegraven houten schip\"> <div class=\"img-source\">RCE beeldbank</div> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brouwers,  W. , Jansma, E. Manders, M. (2013).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000073.pdf\">Romeinse scheepsresten in Nederland.</a><br />Archeobrief nr. 4 jaargang 17, 2013.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

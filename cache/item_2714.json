@@ -1,0 +1,27 @@
+{
+  "id": "2714",
+  "code": "fauna",
+  "name": "Fauna",
+  "type": "wreck",
+  "lat": "22.1000000",
+  "lon": "-72.3000000",
+  "location": "Caicos Passage",
+  "firstdate": null,
+  "firstyear": "1912",
+  "firstyearend": null,
+  "lastdate": "1942-05-17",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-11-29 10:49:53",
+  "modified_on": "2025-06-14 20:48:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip Fauna vertrok 6 Mei 1942 uit New York met een lading stukgoederen. De reis werd gedeeltelijk met en gedeeltelijk <br>zonder escorte gemaakt. Op 17 Mei toen geen escorte aanwezig was, werd de Fauna in het achterschip getorpedeerd door de U558. Onmiddellijk maakte het schip 30 &agrave; 40 graden slagzij en begon te zinken. De bemanning nam plaats in de bakboord reddingboot. Na ongeveer 10 minuten verdween de Fauna in de diepte. <br>De duikboot was intussen bovengekomen en gevraagd werd naar naam, nationaliteit en grootte van het schip. Nadat deze gegevens verstrekt waren verdween de duikboot weer.</p> <p>Twee opvarenden werden vermist n.l. de tremmer G. Baardwijk <br>en de bediende W. Kervezee.</p> <p>&nbsp;18e Mei landden de schipbreukelingen op Providence Island. Het ongeval vond plaats op 22&deg; 10' N. en <br>72&deg; 30' W.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Werf v/h Rijkee &amp; Co., Rotterdam/Katendrecht<br><br>bronnen: Scheepsrampen in oorlogstijd. nr. 182<br><a href=\"https://www.marhisdata.nl/schip&amp;id=2170\">Stichting Maritieme databank</a></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Den Heyer, J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>29</td></tr><tr><th scope=\"row\">Lengte</th><td>251 voet (76,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>36 voet (11 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1254 ton</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

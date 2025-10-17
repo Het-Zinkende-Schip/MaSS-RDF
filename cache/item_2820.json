@@ -1,0 +1,27 @@
+{
+  "id": "2820",
+  "code": "antwerpen-1916",
+  "name": "Antwerpen",
+  "type": "wreck",
+  "lat": "49.7365516",
+  "lon": "-6.7153931",
+  "location": "Scilly islands t.z.w., Verenigd Koninkrijk",
+  "firstdate": "1916-07-22",
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1916-09-12",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-05 19:17:36",
+  "modified_on": "2025-06-15 11:28:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>Antwerpen</strong></em> was de laatste van een trio tankers geleverd aan de Standard Oil Co. tussen 1914 en 1916. Ze had een van de kortste loopbanen van de American Petroleum Co.</p> <p>Tijdens haar eerste reis van New York naar Londen met een lading petroleum werd de tanker op 30 mijl ten zuidwesten van de Scilly-eilanden door de Duitse UB 18 aangehouden en vervolgens tot zinken gebracht. De bemanning kon vanuit de sloepen worden gered door de Britse torpedobootjager <em><strong>HMS Cameleon</strong></em> en vervolgens in Plymouth aan wal worden gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: John D. Rockefeller-klasse<br>Gebouwd: Newport News Shipbuilding &amp; Dry Dock Company Inc., Newport News (Va.), U.S.A.<br>Eigenaar: N.V. American Petroleum Company, Rotterdam, NL</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Snelheid</th><td>10 knopen ~ 19 km/u (12 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>460 voet (140,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>60 voet (18,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>36 voet (11 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>7955 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=544\">Antwerpen id 544.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

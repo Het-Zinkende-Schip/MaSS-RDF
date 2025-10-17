@@ -1,0 +1,27 @@
+{
+  "id": "3080",
+  "code": "utrecht-5-2",
+  "name": "Utrecht 5",
+  "type": "wreck",
+  "lat": "52.0958898",
+  "lon": "5.1177959",
+  "location": "Utrecht, Nederland",
+  "firstdate": null,
+  "firstyear": "1100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1150",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-05-31 20:29:42",
+  "modified_on": "2025-10-16 10:31:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Utrecht 5 is in 1984 aangetroffen op het terrein van de Lange Lauwerstraat 91-95 in Utrecht wegens archeologisch onderzoek voor nieuwbouw.[1] De boomstamboot van Utrecht 5 (Figuur 29) is gemaakt van eikenhout en is 14,2 meter lang en 193 breed. Het is gedateerd tussen de periode 1100 en 1150 na Christus (Middeleeuwen).[2] Uiteindelijk is de bodem aan de voor- en achtersteven verlengd, waardoor de boot uiteindelijk 18,4 meter lang was.[3]</p> <p>De boomstamboot is aangetroffen in een oude sloot die naarmate tijd vorderde gedeeltelijk is dichtgeslibd. Deze sloot was mogelijk in verbinding met het noordelijke gedeelte van de rivier de Vecht.[4] In deze sloot zijn zand, zavel en kleibanden afgezet.[5]</p> <p><br>&nbsp;<br>[1] Oud-Utrecht maandblad, 1984.<br>[2] De Weerd, 1988: 266; Vlierman, 2002: 125; Maritiem Archeologisch Depot, 2019g.<br>[3] Koehler, 1997: 60.<br>[4] Maritiem Archeologisch Depot, 2019g.<br>[5] Oud-Utrecht maandblad, 1984.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>14 voet (4,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>2 voet (0,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brouwers W, Jansma E. Manders M. (2015).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000086.pdf\">Middeleeuwse scheepsresten in Nederland, de vroege middeleeuwen 500-1050.</a><br />Archeobrief 3.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

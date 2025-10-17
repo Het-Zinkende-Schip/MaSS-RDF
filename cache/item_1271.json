@@ -1,0 +1,27 @@
+{
+  "id": "1271",
+  "code": "valk-1636",
+  "name": "Valk",
+  "type": "wreck",
+  "lat": "13.4207504",
+  "lon": "80.3188691",
+  "location": "Pulicat, India",
+  "firstdate": null,
+  "firstyear": "1636",
+  "firstyearend": null,
+  "lastdate": "1638-10-13",
+  "lastyear": "1638",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-31 14:14:49",
+  "modified_on": "2025-06-24 19:08:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Valk</em> verging bij Fort Gelria op de Coromandel kust in India. Hier was het hoofdkantoor van de VOC voor de Coromandel kust. Op grote schaal werd hier katoenen kleding gemaakt. V.a. 1620 was er een buskruit fabriek die de VOC in Azi&euml; bevoorraadde.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003465.jpg\" alt=\"landkaart van de Coromandel kust in India\"> <div class=\"img-source\">4VEL-255-det</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd/Built: Zeeland<br>Tonnage: 60 last<br>Bemanning: 54<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Huygens ING.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91516\">DAS 0478.1.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

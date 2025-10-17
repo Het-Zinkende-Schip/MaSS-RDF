@@ -1,0 +1,27 @@
+{
+  "id": "4058",
+  "code": "nj137",
+  "name": "NJ137",
+  "type": "wreck",
+  "lat": "52.6517550",
+  "lon": "5.7571590",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1450",
+  "lastyearend": "1500",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:05:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1947 werd de vondst van een wrak gemeld op kavel J137 in de Noordoostpolder. De ligging werd opgenomen maar verder onderzoek vond nog niet plaats. In 1955 kwam het tot een verkenning van het wrak, waarbij werd opgemerkt dat de overnaadse scheepsrest qua constructie overeenkomsten vertoonde met wrak NO28, maar zwaarder gebouwd was. In 1958 werd het wrak opnieuw bezocht om de conditie te beoordelen en te zien wat er nodig zou zijn voor een opgraving, welke daarna ook plaatsvond. Slechts de helft van het schip, het achtersteven, was nog aanwezig in de bodem. Tussen de huidplanken was het gebreeuwd met gevlochten koehaar. Binnenin was nog vrij veel zand aanwezig, een restant van de voormalige lading. Uit het wrak werden allerhande objecten geborgen, maar speciale vermelding verdient de vondst van een leren messchede voorzien van het opschrift 'ANNO 1565'. Dit lijkt de ondergang van het schip in de tweede helft van de 16de eeuw te plaatsen. Daarnaast werd onder meer een kleine ijzeren kogelgiettang gevonden. Na afloop van het onderzoek zijn de scheepsresten verwijderd.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-29a-w5yc\">Opgravingsdocumentatie scheepswrak NJ137.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "607",
+  "code": "westerbeek",
+  "name": "Westerbeek",
+  "type": "wreck",
+  "lat": "61.3672513",
+  "lon": "-6.7785645",
+  "location": " Suðuroy klippen , Faeröer",
+  "firstdate": null,
+  "firstyear": "1722",
+  "firstyearend": null,
+  "lastdate": "1742-09-02",
+  "lastyear": "1742",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-02-12 17:17:50",
+  "modified_on": "2024-09-02 09:38:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Westerbeek vertrekt voor haar 6e terugreis op 27-1-1642 uit Batavia. De lading bestaat bij vertrek uit peper van Bantam op Java en thee uit China. Ze vaart via de Peperkust (Malabar) in India en dan door naar Galle op Ceylon om daar koffie te laden. Ze komt 22 april aan in de Tafelbaai.</p> <p>Op de rede liggen de Indi&euml;vaarders. Het Kasteel van Woerden, de Weltevreden, Maarseveen, Strijen, Horstendaal, Oude Zijpe, Hogersmilde en ook Westerbeek. 11 mei vertrekken ze gezamenlijk naar Nederland.</p> <p>Op de Atlantische oceaan raakt de Westerbeek gescheiden van de rest. De kapitein kiest voor de veiligere lange route Achterom via de westkust van Ierland om Schotland heen naar Holland. De Westerbeek raakt te ver naar het noorden en komt bij de Faroer eilanden in moeilijkheden. De masten breken. Op 2 september 1742 eindigt de reis van de Westerbeek op de klippen van het eiland Su&eth;uroy het zuidelijkste van de Faero&euml;r-eilanden.</p> <p>10 man verdrinken en de overigen kunnen zicht redden. De lading en schip gaan verloren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf in Amsterdam , 1722</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Schutte, Herman</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>94</td></tr><tr><th scope=\"row\">Tonnage</th><td>650 ton (325 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98038\">DAS 7145.6.</a></li><li>Leon Mijderwijk.<br /><a href=\"https://historiek.net/voc-schip-westerbeek-1742-faeroer/140663/\">Historien.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

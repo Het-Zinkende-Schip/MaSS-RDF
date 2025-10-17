@@ -1,0 +1,27 @@
+{
+  "id": "659",
+  "code": "utrecht-4",
+  "name": "Utrecht 4",
+  "type": "wreck",
+  "lat": "52.0852869",
+  "lon": "5.1258259",
+  "location": "Utrecht, Waterstraat, Nederland",
+  "firstdate": null,
+  "firstyear": "1000",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1020",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-08 11:33:17",
+  "modified_on": "2025-10-16 10:30:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>In 1974, the remains of a ship built in Scandinavian tradition were found in Waterstraat in Utrecht. The ship was demolished and the boards were reused in the quay of the Vecht.</p> <p>The planks are dated on archaeological grounds in the first quarter of the eleventh century. In that period the Vikings were active again in our country.&nbsp;The hull planks are kept at Batavialand in Lelystad.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><figure class=\"img-wrapper\"><img src=\"/photos/l/00001477.jpg\" alt=\"Utrecht-04-nisa-01\"> <figcaption class=\"img-description\">Planks of the Utrecht 4 on workfloor of the RCE in lelystad (2005)</figcaption> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Ex situ</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Brouwers W, Jansma E. Manders M. (2015).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000086.pdf\">Middeleeuwse scheepsresten in Nederland, de vroege middeleeuwen 500-1050.</a><br />Archeobrief 3.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

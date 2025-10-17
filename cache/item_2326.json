@@ -1,0 +1,26 @@
+{
+  "id": "2326",
+  "code": "sulphur-minegreen-island",
+  "name": "Sulphur Mine/Green Island",
+  "type": "site",
+  "lat": "17.6491613",
+  "lon": "-63.2297130",
+  "location": "Green island, Saba, Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": "1865",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1873",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Ryan Espersen",
+  "created_on": "2020-11-21 21:43:49",
+  "modified_on": "2025-07-06 19:22:55",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Sulphur deposits were known to exist on Saba since at least the early 19th century (Teenstra 1834), though they were not known to be commercially exploited until the 1860&rsquo;s, when a small rush of mainly American prospectors went to Saba to negotiate with local property owners and stake their claims. The only claim that was developed was on a property known as the &ldquo;Great Hole&rdquo;, northwest of Flat Point, located on cliffs 100m above the shoreline. Known as the MacNish Sulphur Mine, it was in operation from 1865 to 1873. The mine consisted of at least seven tunnels, which helped to provide ventilation and keep internal temperatures down. Due to its inaccessibility, sulphur ore was ferried down from the mine via a cable system down to a nearby cay (more of a large boulder that tumbled into the sea) called Green Island. From there it would be loaded onto ships anchored nearby. However, this area was not ideal for anchorage due to its exposure to the prevailing easterly current, and Green Island was too small to offer any practical shelter on its lee. The difficulties in extraction and loading the sulphur caused resulted in costs that were deemed too high to continue, and the mine ceased operations in 1873.</p> <p>Legal challenges to the mine&rsquo;s ownership lasted nearly 20 years from 1861 to 1881, stemming from the original owners who sold mining rights on the &ldquo;Great Hole&rdquo; property to two different people, who in turn sold their ownership and shares to several others over the years (Saba Vendue Book, 17 May 1875). By the late 1870&rsquo;s, Charles A. Poizat and Nicholas Cornwall Henwood were the contesting owners, and in 1881 Henwood was murdered in a hotel room in New York, probably over this ownership affair with the MacNish Sulphur Mine (New York Times, 9 Jan 1881).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002289.jpg\" alt=\"paper written on by the Saba Sulphur Company\"> <figcaption class=\"img-description\">First share issued by the Saba Sulphur Company, issued in 1865.</figcaption> </figure> <p><em>Figure 1: First share issued by the Saba Sulphur Company, issued in 1865.</em></p></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The lands of the former MacNish sulphur mine formed the Muriel Thiessel National Park, and as of 2019 now form part of the Saba National Park. One loop tunnel is open for sightseeing, but hikers are encouraged to stay on the path and not wander into other tunnels. In 2007 an American tourist got lost in the sulphur mine&rsquo;s other tunnels, and his body was not found until nearly one year later.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002291.jpg\" alt=\"A sea with a high rocky island\"> <figcaption class=\"img-description\">Green island, looking south.</figcaption> </figure> <p><em>Figure 2: Green island, looking south.</em></p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Maarten Douwes Teenstra (1977).<br /><em>De Nederlansch West-Indische Eilanden (1836).</em><br />Amsterdam, Sulpke.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1543",
+  "code": "hazendonk",
+  "name": "Hazendonk",
+  "type": "wreck",
+  "lat": "51.8047088",
+  "lon": "4.9699402",
+  "location": "Hazendonk, Nederland",
+  "firstdate": null,
+  "firstyear": "-3200",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-3000",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-18 09:53:03",
+  "modified_on": "2023-04-17 12:27:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De boomstamboot van Hazendonk is gedeeltelijk bewaard gebleven enkel 2,5 meter van het middendeel van de bodem is bewaard gebleven. De boot is gemaakt van eikenhout en is gedateerd uit 4400&plusmn;160 BP (vroeg-Vlaardingencultuur).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Fragment 2,5 m van een eiken houten boomstamkano.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "541",
+  "code": "aurora",
+  "name": "Aurora",
+  "type": "wreck",
+  "lat": "24.4330000",
+  "lon": "-82.0330000",
+  "location": "Tortuga reef, Verenigde Staten",
+  "firstdate": null,
+  "firstyear": "1867",
+  "firstyearend": null,
+  "lastdate": "1879-02-01",
+  "lastyear": "1879",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2015-09-15 00:00:00",
+  "modified_on": "2025-02-01 12:48:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Aurora</em> was een Nederlandse bark. Ze vertrok op 14 januari 1879 van Pensacola (VS) naar Nederland (Harlingen) met een lading hout. 8 -2-1879 werd een telegram ontvangen uit New York dat het schip Aurora totaal verongelukt was.</p> <p>Op 1 februari om 07.00 uur in de ochtend tijdens mist en een sterke bries, gestrand op een wrak, ZW van het rif van Tortugas. De 10 bemanningsleden redden zich met de eigen boot en landden te Aberdeen. Schip en lading gingen verloren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Fontein &amp; Tjallingii (houthandel), Harlingen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Smit, W.J</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>10</td></tr><tr><th scope=\"row\">Tonnage</th><td>369 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=8471\">marhisdata id 8471.</a></li><li>delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Aurora&amp;facets%5Bperiode%5D%5B%5D=2%7C19e_eeuw%7C1870-1879%7C1879%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;page=5&amp;coll=ddd&amp;sortfield=date&amp;identifier=ddd:010102093:mpeg21:a0051&amp;resultsidentifier=ddd:010102093:mpeg2\">Algemeen handelsblad (9-2-1879).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

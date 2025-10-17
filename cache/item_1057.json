@@ -1,0 +1,27 @@
+{
+  "id": "1057",
+  "code": "kameel",
+  "name": "Kameel",
+  "type": "wreck",
+  "lat": "-5.9105916",
+  "lon": "108.3660878",
+  "location": "pulau Rakit, Indonesië",
+  "firstdate": null,
+  "firstyear": "1624",
+  "firstyearend": null,
+  "lastdate": "1630-02-17",
+  "lastyear": "1630",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-15 09:39:19",
+  "modified_on": "2025-06-09 13:43:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <strong><em>Kameel</em></strong> vertrekt vanuit Texel naar Batavia op 4 januari 1625. Ze komt in Azi&euml; aan op 19 september 1625. Ze blijft vervolgens dienst doen in Azi&euml;.</p> <p>Zij is op 23 juli 1627 naar Siam gezonden om daar de huid (opnieuw) te laten verdubbelen. (<a href=\"https://archive.org/details/daghregistergeh01kologoog/page/n313/mode/2up?q=Cameel\">Dagregister 1627</a>)</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001797.gif\" alt=\"Insulae Iavae Pars Occidentalis Edente Hadriano Relando (\"> <div class=\"img-source\">Rijksmuseum NG-501-78</div> </figure> <p>Op 17 februari 1630 is het schip bij Boompjes-eiland vergaan.</p> <p>Het uitloopboek NA 4934 vermeld:&nbsp;<em>op de cust van Java bij gaan naar Banda verseijlt.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0039?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">*</a></em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf in Amsterdam,&nbsp;<br>Tonnage: In egalisatie/equipage lijst mei 1624: 250 last.&nbsp;<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91354\">Details of voyage 0316.1 from Texel to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7345/file/NL-HaNA_1.04.02_7345_0377?eadID=1.04.02&amp;unitID=7345&amp;query=7345\">NL-HaNA_1.04.02_7345_0377.</a></li><li><a href=\"https://archive.org/details/daghregistergeh01kologoog/page/n211/mode/2up?q=Cameel\">Dagh-register gehouden int Casteel Batavia 1625-27.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1360",
+  "code": "susanna",
+  "name": "Susanna",
+  "type": "wreck",
+  "lat": "-6.6431921",
+  "lon": "111.6928482",
+  "location": "Rembang, Indonesië",
+  "firstdate": null,
+  "firstyear": "1721",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1737",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-25 11:52:37",
+  "modified_on": "2024-12-16 17:27:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Susanna</strong></em> maakte vier retourreizen tussen 1721 en 1732 voor de VOC kamer Amsterdam.<br>Haar laatste uitreis naar Indi&euml; begon 4 juli 1732. Ze bleef dienst doen in de regio.</p> <p>Na een aantal retourreizen waren de schepen technisch vaak niet meer in staat om de lange en gevaarlijke reis naar Europa te maken. Ze werden dan in de archipel zelf in gezet.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De VOC gebruikte voornamelijk hekboten in de 18e eeuw.</p> <p>Het was een soort fluitschip maar langer en breder met een kleine platte maar hoge spiegel, dit om veel vracht te kunnen vervoeren. Het is een soort mengvorm met als onderschip de kenmerken van een fluit en de bovenbouw van een jacht (galerij en galjoen).<br>De aanduiding 'hek' had betrekking op de verhoogde en brede achtersteven met hennegat, waar het helmhout doorheen liep. De hekboot werd ook wel \"kat zonder oren\" genoemd.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>300 ton (150 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97638\">DAS 6807.3.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "484",
+  "code": "loosdrecht-1719",
+  "name": "Loosdrecht 1719",
+  "type": "wreck",
+  "lat": "50.6580000",
+  "lon": "-1.6080000",
+  "location": "Isle of Wight, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1714",
+  "firstyearend": null,
+  "lastdate": "1719-01-21",
+  "lastyear": "1719",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Annaliese Dempsey",
+  "created_on": "2015-01-08 00:00:00",
+  "modified_on": "2025-04-25 14:55:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Loosdrecht </em>was een Nederlands Oost-Indi&euml;vaarder, of spiegelretourschip.</p> <p>Loosdrecht maakte twee retourreizen naar Ceylon tussen 1715 en 1718. Haar derde uitreis naar Batavia begon op 14 januari 1719 vanaf Texel. Een paar dagen later, op 21 januari, liep ze aan de grond bij het Isle of Wight en ging verloren. Papieren en deel contanten geborgen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0106?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 103.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

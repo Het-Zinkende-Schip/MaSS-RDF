@@ -1,0 +1,27 @@
+{
+  "id": "4029",
+  "code": "ne42-ne43",
+  "name": "NE42/NE43",
+  "type": "wreck",
+  "lat": "52.6487580",
+  "lon": "5.6590030",
+  "location": "Urk, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:25:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1949 werd de vondst gemeld van een scheepswrak op de grens van de kavels E42 en E43. Het daaropvolgende jaar vond een opgraving plaats, waarbij bleek dat het ging om het sterk beschadigde restant van een overnaads gebouwd, omgekeerd liggend scheepswrak. Bij de aanleg van de sloot tussen de kavels was een gedeelte van het wrak weggetrokken en stevens en kiel waren niet meer aanwezig. Een scheepstype kon dan ook niet worden vastgesteld, en datering geschiedde op basis van het bodemprofiel. Na afloop van het onderzoek zijn de restanten van het wrak verwijderd. Verdere objecten, al dan niet dateerbaar, werden niet teruggevonden, maar wel werden enkele monsters genomen van het breeuwsel.</p> <p>Er is een aantal seconden bewegend beeld van de opgraving van dit wrak te zien in acte 3 van 'Der Zee Ontrukt', een film van Herman van der Horst over de drooglegging van de Noordoostpolder (uit hetzelfde jaar als de opgraving, 1950). <a href=\"https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608050034401331?ac=dgtl&amp;q=\">De film is beschikbaar via Beeld &amp; Geluid</a>.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zre-58my\">Opgravingsdocumentatie scheepswrak NE42/NE43.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

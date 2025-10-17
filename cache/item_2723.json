@@ -1,0 +1,27 @@
+{
+  "id": "2723",
+  "code": "poseidon-1921",
+  "name": "Poseidon",
+  "type": "wreck",
+  "lat": "13.6844191",
+  "lon": "-64.1601563",
+  "location": "West of Grenada",
+  "firstdate": null,
+  "firstyear": "1921",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-02 12:04:21",
+  "modified_on": "2025-02-06 17:25:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Poseidon</em> was onderweg van Demerara in Guyana naar New York. Na een tussenstop in Trinidad vertrok ze vandaar op 28 mei 1942. Sindsdien is nooit meer iets van het schip of de 32 opvarenden vernomen.</p> <p>Aangenomen wordt, dat het schip het slachtoffer is geworden van een Duitse onderzeeboot aanval. Het lot van de Poseidon is tot op de dag van vandaag onbekend.</p> <p>Alle opvarenden zijn omgekomen. De namen worden vermeld op de site van de <a href=\"https://oorlogsgravenstichting.nl/zoeken?q=%22Poseidon#zoeken-form\">oorlogsgraven stichting.</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Klijn, W.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>32</td></tr><tr><th scope=\"row\">Tonnage</th><td>1928 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=5244\">Poseidon.</a></li><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 186.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

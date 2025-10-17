@@ -1,0 +1,26 @@
+{
+  "id": "1230",
+  "code": "dejima",
+  "name": "Dejima",
+  "type": "site",
+  "lat": "32.7375350",
+  "lon": "129.8668785",
+  "location": "Nagasaki, Japan",
+  "firstdate": null,
+  "firstyear": "1641",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1859",
+  "lastyearend": null,
+  "country": "Japan",
+  "countrycode": "JP",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-19 11:32:26",
+  "modified_on": "2020-03-30 10:43:46",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dejima was een kunstmatig, waaiervormig eilandje van nog geen anderhalve hectare in de haven van Nagasaki in Japan. Dit eilandje was vanaf 1641 tot en met 1859 een Nederlandse handelspost en het enige contact tussen de westerse wereld en het afgesloten Japan. (Wikipedia (NL)</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://wiki2.org/en/Deshima\">VOC wiki.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2075",
+  "code": "zk47",
+  "name": "ZK47",
+  "type": "wreck",
+  "lat": "52.3200000",
+  "lon": "5.3388100",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": "1520",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1575",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:14:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het scheepswrak op kavel K47 in Zuidelijk Flevoland werd na een melding in 1978 in hetzelfde jaar verkend. Het betreft een zwaargebouwd vissersschip dat behoort tot het type waterschip. Het object ligt 20 meter ten oosten van de Waterlandse weg en 100 meter ten westen van de Gooise weg. De grootste lengte is ca. 19 meter en de grootste breedte is ca. 6 meter. Op basis van de bodemopbouw en verschillende vondsten is de datering vastgesteld op de tweede helft van de zestiende eeuw. Door de dikke laag klei waarin het schip zich bevindt, verkeert het hout in goede staat. Na de verkenning is het wrak ingekuild en ingedeeld in de categorie 'terrein met zeer hoge archeologische waarde'. Momenteel heeft het scheepswrak de status van 'Rijksmonument'. Bij de aanleg van de rijksweg is rekening gehouden met het wrak door een keerwand ter bescherming tussen het object en de rijksweg te plaatsen. Tijdens de verkenning van het scheepswrak zijn een aantal vondsten gedaan, waaronder verschillende netverzwaarders die door de vissers werden gebruikt om de netten te laten zinken, een aantal zwerfstenen, die als ballast hebben gediend, en verschillende soorten aardewerk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een zwaargebouwd vissersschip uit de tweede helft van de zestiende eeuw, Almere</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002042.jpg\" alt=\"Het vrijwel complete dek van het vaartuig, gezien over de voorsteven.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het vrijwel complete dek van het vaartuig, gezien over de voorsteven.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zkm-xdnw\">Opgravingsdocumentatie scheepswrak ZK47.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

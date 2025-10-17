@@ -1,0 +1,27 @@
+{
+  "id": "2837",
+  "code": "ceres-1908",
+  "name": "Ceres",
+  "type": "wreck",
+  "lat": "59.8535922",
+  "lon": "19.8354606",
+  "location": "Flötjan",
+  "firstdate": null,
+  "firstyear": "1908",
+  "firstyearend": null,
+  "lastdate": "1915-06-25",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-19 09:40:29",
+  "modified_on": "2025-06-15 11:41:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis in ballast van Amsterdam naar Hudiksvall bevond de <em><strong>Ceres</strong></em> zich op 25 juni 1915 des morgens om 7.30 uur op 5 mijl ten noord-westen van het baken van Fl&ouml;tjan (in de Finse Golf voor de kust van Zeden bij &Aring;land Island).</p> <p>Men was bezig van koers te veranderen, toen een hevige ontploffing onder het voorschip, 20 meter van de boeg, plaatsvond. Het schip schudde en trilde hevig en alles sloeg door elkaar. De Ceres begon meteen te zinken. De 25 koppige bemanning kon nog bijtijds het schip verlaten. De &lsquo;CERES&rsquo;, die op een mijn gelopen was, zonk en was verloren. (Het baken van Fl&ouml;tjan ligt in positie 59&deg;49&rsquo;NB. en 19&deg;47&rsquo;OL.).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Werf v/h Rijkee &amp; Co., Rotterdam/Katendrecht, Zuid-Holland, Netherlands</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>25</td></tr><tr><th scope=\"row\">Snelheid</th><td>6 knopen ~ 11 km/u (7 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>275 &frac12; voet (84 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>39 voet (11,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 &frac34; voet (5,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1749 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=1348\">Ceres ID 1348.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

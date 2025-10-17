@@ -1,0 +1,27 @@
+{
+  "id": "2923",
+  "code": "texelstroom-1914",
+  "name": "Texelstroom",
+  "type": "wreck",
+  "lat": "52.3168152",
+  "lon": "1.9155280",
+  "location": "Galloper lightvessel, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1914",
+  "firstyearend": null,
+  "lastdate": "1915-10-06",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-17 07:28:17",
+  "modified_on": "2025-06-15 13:59:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Texelstroom</strong></em> was op 4 oktober 19125 vertrokken uit Swansea met een lading stukgoederen en steenkolen naar Amsterdam. Op 6 oktober om 16.30 uur liep ze op de Noordzee op 4 mijl van het lichtschip Galloper op een mijn. Alle 24 opvarenden konden zich in de scheepsboten begeven en veilig aan land komen, De Texelstroom zonk en ging verloren.</p> <p>De mijn was op 12 september 1915 gelegd door de Duitse onderzeeboot UC 7.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Maatschappij voor Scheeps- en Werktuigbouw Fijenoord N.V., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Vos, P.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>24</td></tr><tr><th scope=\"row\">Lengte</th><td>274 &frac14; voet (83,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 &frac14; voet (12,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>17 &frac12; voet (5,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1860 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6484\">Marhisdata ID 6484.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Texelstroom&amp;cql%5B%5D=%28date+_gte_+%2206-10-1915%22%29&amp;cql%5B%5D=%28date+_lte_+%2220-10-1915%22%29&amp;redirect=true&amp;sortfield=date&amp;page=2&amp;identifier=MMKB15:000630006:mpeg21:a00042&amp;resultsidentifier=\">Het nieuws van den dag  07-10-1915.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

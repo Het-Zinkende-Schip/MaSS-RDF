@@ -1,0 +1,27 @@
+{
+  "id": "853",
+  "code": "silvain-ijm116",
+  "name": "Silvain (IJM116)",
+  "type": "wreck",
+  "lat": "53.1441337",
+  "lon": "2.8322762",
+  "location": "North Sea",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1939",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-18 10:39:42",
+  "modified_on": "2025-06-07 20:59:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Silvain is spoorloos verdwenen nadat zij vertrok uit de haven van IJmuiden op 24 november 1939 .</p> <p>Contemporaine bronnen gingen er vanuit dat de trawler op een mijn is gelopen. Alle elf opvarenden zijn vermist.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Naam: IJM 116, ex- Ella Ober, ex- Cuxhaven &amp; Saale</p> <p>Type: stoomtrawler, vissersboot</p> <p>Gebouwd: G. Seebeck A.G., Weserm&uuml;nde. 1912</p> <p>Eigenaar: Nationale Stoomvisserij Maatschappij (A.S. Groen) uit IJmuiden,</p> <p>Bemanning: 11 (alle elf vermist)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.maritiemdigitaal.nl/index.cfm?event=search.getdetail&amp;id=101090355\">Maritiem Digitaal.</a></li><li>Bart FM Droog.<br /><a href=\"http://www.droog-mag.nl/koopvaarderij-en-visserij.pdf\">Oorlogsslachtoffers Nederlandse koopvaardij en visserij, 1 september 1939 – 9 mei 1940.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

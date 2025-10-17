@@ -1,0 +1,27 @@
+{
+  "id": "2329",
+  "code": "panter",
+  "name": "Panter",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1784",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1796",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-25 11:04:52",
+  "modified_on": "2025-07-06 19:24:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Panter</strong></em> was een kotter van 16 stukken. In 1795 in dienst van de Bataafse Republiek. Onder kapt. luit. Kraft.</p> <p>9 januari vertrokken in een eskader vanuit Texel naar de Noordzee</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003598.jpg\" alt=\"Stukje tekst uit een oude krant.\"> <div class=\"img-source\">Oprechte Haarlemsche Courant</div> <figcaption class=\"img-description\">.</figcaption> </figure> <p>Daarna raakte de Panter vermist tijdens reis naar Noorwegen. Ze is waarschijnlijk met man en muis vergaan.</p> <p>Een van de verdronken opvarenden was <a href=\"https://www.genealogieonline.nl/genealogie-de-ruiter/I61.php\">Hendrik (Johan Heinrich?) Wolvekamp.</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Gebouwd door de admiraliteit van Rotterdam in 1784</p> <p>Bewapening: 14 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kraft</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>80</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Glavimans.<br /><a href=\"http://rjb.x-cago.com/GARJB/1900/12/19001231/GARJB-19001231-0129/story.pdf\">Glavimans, schepen op de admiraliteitswerf gebouwd.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

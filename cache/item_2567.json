@@ -1,0 +1,27 @@
+{
+  "id": "2567",
+  "code": "grossensee-1",
+  "name": "Großensee 1",
+  "type": "wreck",
+  "lat": "53.6237567",
+  "lon": "10.3482628",
+  "location": "Großensee, Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1930",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-18 18:47:32",
+  "modified_on": "2025-07-11 14:22:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The small pram's flat bottom is almost entirely preserved, while the lapstrake side planking has partially collapsed. Half-frames were inserted in an alternating manner. This is a typical pram, which was used for a fishing operation on the lake in the early 20th century.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002599.jpg?modifiedon=1621356713\" alt=\"illustration of the top view of an elongated boat\"> <div class=\"img-source\">Oleksiy Konovalov</div> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002628.jpg\" alt=\"photo of a shipwreck on the ocean floor, with a diver next to it\"> <div class=\"img-source\">Erhard Schulz</div> <figcaption class=\"img-description\">photo of a shipwreck on the ocean floor, with a diver next to it</figcaption> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck of this fishing pram was discovered by recreational divers of the TSG Ahrensburg and investigated in 2012 by the Scientific Diving Association (SDA Kiel) under the lead of Hubert Pinto de Kraus and wreck-diving enthusiasts.</p> <p>Although the visibility in the lake is almost nil, an artist's impression of the wreck was produced (see above) and a Structure-from-Motion (SfM) model was generated on the basis of 500 photos (see below).</p> <p><iframe src=\"https://sketchfab.com/models/2b76e522a4a44834a1b4fc2cf42bc613/embed\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p> <p>In accord with the responsible authority - the State Archaeology Department of Schleswig-Holstein (ALSH) - the site is monitored by the hobby archaeologist and local resident Elmar Klemm, who reports frequently from the wreck in his \"home waters\".</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Kraus, H., Mehrens, C. (2012).<br /><em>Archäologische Untersuchung im Großensee: Untersuchungsbericht.</em><br />Scientific Diving Association (unpublished report).</li><li>NDR (TV broadcaster).<br /><a href=\"https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/Kreis-Stormarn-Wracktauchen-in-Grossensee,shmag82822.html\">Kreis Stormarn: Wracktauchen in Großensee.</a></li><li>Elmar Klemm (historytaucher.de).<br /><a href=\"https://historytaucher.de/\">https://historytaucher.de/.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

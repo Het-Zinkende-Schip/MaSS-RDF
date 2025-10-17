@@ -1,0 +1,27 @@
+{
+  "id": "632",
+  "code": "luipaard",
+  "name": "Luipaard",
+  "type": "wreck",
+  "lat": "-5.3674648",
+  "lon": "121.7389419",
+  "location": "Sagori, A reef near pulau Kabaena, Sulawesi, Indonesië",
+  "firstdate": null,
+  "firstyear": "1641",
+  "firstyearend": null,
+  "lastdate": "1650-03-04",
+  "lastyear": "1650",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-04-10 11:52:00",
+  "modified_on": "2025-09-25 11:16:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het jacht <em>Luipaard</em> werd gebouwd voor de VOC kamer Amsterdam. Het schip vertrok 14-1-1642 van Texel naar Batavia. Ze kwam daar 30-8-1642 aan.</p> <p>Het jacht Luipaard bleef vervolgens dienst doen in Azi&euml;.</p> <p>Op haar laatste reis was de Luipaard in een vloot van vijf VOC schepen (Tijger, Juffer, Luipaard, Bergen op Zoom en de Aagtekerk), met proviand en soldaten van Batavia naar Ternate (Specerij eilanden) onderweg.</p> <p>Een uur voor het aanbreken van de ochtend op 4 maart 1650 voeren de schepen &lsquo;<em>gezamenlijck opt Riff vant eylandt Comboina verseylt</em>'. (Coolhaas, 471)</p> <p>Alle schepen gingen verloren. De bemanning en een deel van de lading kon worden gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1641</p>  <ul> <li>Liebner, H, et al (2016).<br><a href=\"https://cultureelerfgoed.info/mass/?file=00000304.pdf\">Pra-Survey at Sagori Island, Southeast Sulawesi, Indonesia, the Scene of the Loss of a Dutch East India Company Fleet in 1650.</a></li> </ul><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>320 ton (160 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/1179B/file/NL-HaNA_1.04.02_1179B_0405?eadID=1.04.02&amp;unitID=1179B&amp;query=1179A\">NL-HaNA_1.04.02_1179B_0405.</a></li><li>Coolhaas, J. P.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=484&amp;accessor=search_in_text&amp;source=2&amp;accessor_href=search_in_text%2Findex_html%3Fsearch_term%253Austring%253Autf-8%3DJuffer%26source_id%3D&amp;view=\">Generale missiven van gouverneurs-generaal en raden aan heren XVII der Verenigde Oostindische Compagnie.</a></li><li>R. Bruijn, F.S. Gaastra, I. Schöffer,<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91697\">DAS 0580.1.</a></li><li>Liebner, H, et al.<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000304.pdf\">Pra-Survey at Sagori Island, Southeast Sulawesi, Indonesia, the Scene of the Loss of a Dutch East India Company Fleet in 1650.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

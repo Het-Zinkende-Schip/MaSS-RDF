@@ -1,0 +1,27 @@
+{
+  "id": "4090",
+  "code": "nm93",
+  "name": "NM93",
+  "type": "wreck",
+  "lat": "52.7268140",
+  "lon": "5.8085650",
+  "location": "Luttelgeest, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1575",
+  "lastyearend": "1625",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 16:24:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1947 werd de vondst gemeld van een scheepswrak op kavel M93 in de Noordoostpolder. Een assistent van archeoloog Gerrit van der Heide bracht een bezoek aan de vindplaats, maar legde toen niet de juiste greppel en plaats vast van het wrak. Pas in 1949 was men weer in de gelegenheid om een opgraving uit te voeren, en derhalve werd toen een nieuwe poging gedaan de locatie te achterhalen. Dat lukte en het wrak werd archeologisch onderzocht. De conclusies van Van der Heide luidden als volgt:</p> <p>\"De opgraving van dit scheepswrak toonde een vrij zwaar gehavend scheepje, dat vergaan moet zijn in het einde van de sloeffase en nagezonken door deze lagen heen op het autochtone zand. Het scheepje bevatte slechts zeer weinig vondsten, waardoor voorlopig geen datering nog kan worden vastgesteld: Het is echter aannemelijk dat het vergaan van het schip gesteld mag worden tussen het begin van de XVIde (=16de) en de XVIIde (=17de) eeuw in. Aan de verspoeling in de grondlagen zouden bij een datering van het vergaan in de XVIde eeuw kunnen ontlenen, indien wij de situatie vergelijken met eerder opgegraven wrakken en de daarbij gevonden dateringen voor de sedimentatiefasen. Het scheepje was vrijwel platboomd, met slechts een dunne kiel, en twee scheggen, overigens overnaads gebouwd. Het was een kleine zeilschuit met &eacute;&eacute;n mast. De grootte en de bouw doen vermoeden dat wij te doen hebben met een vissersscheepje, terwijl de aanwezigheid van mossel- alikruiken en kokkelschalen kan doen geloven dat wij te doen hebben met een scheepje, dat mosselen viste buiten het gebied, waar het verging, waar op dat tijdstip nog een zoet watermilieu voorkwam dat het voorkomen van een zo karakteristiek zoute fauna uitsloot.\"</p> <p>Uit het wrak werd een aantal monsters genomen, onder meer van het breeuwsel en de schelpen. Van enkele geborgen stukken scheepshout resteert thans enkel nog een mastspoor in de maritieme archeologische rijkscollectie. Na afloop van de opgraving werd meegedeeld dat de landbouwkundig opzichter het wrak kon verwijderen en de opgravingsput dichtgemaakt kon worden.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xas-9dn9\">Opgravingsdocumentatie scheepswrak NM93.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

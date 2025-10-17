@@ -1,0 +1,27 @@
+{
+  "id": "1580",
+  "code": "hogersmilde",
+  "name": "Hogersmilde",
+  "type": "wreck",
+  "lat": "20.7270661",
+  "lon": "70.9993012",
+  "location": "Diu, India",
+  "firstdate": null,
+  "firstyear": "1723",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1750",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-31 15:37:37",
+  "modified_on": "2025-07-06 18:34:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Hogersmilde was in 1750 op weg naar Surat toen het schip in een zware storm terecht kwam en strandde bij de stad Diu in Gujarat. De lading ging verloren en een deel van de bemanning verdronk:</p> <p><em>&nbsp;twee mijlen beoosten Diu gestrand, en bij die gelegentheyd verdronken waren den&nbsp;capitain-luytenand Toussain benevens alle de overige officieren en gemeenen, excepto&nbsp;&eacute;&eacute;n luytenant, 17 Europeese en 15 inlandse zeevarende, welke zig ternaauwernood gesalveert hebben, zonder dat van dien kiel ofte dies inlading dan wel de contanten iets het&nbsp;minste teregt geraakt is, en de Compagnie dus daardoor alweder buyten de waarde van&nbsp;dat schip en dies equipagie een emportant verlies van &fnof; 398.038,2,- heeft moeten ondergaan.</em></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004309.jpg\" alt=\"Een oude landkaart waar een langwerpig eiland op te zien is\"> <div class=\"img-source\">NL-HaNA_4.VELH_106</div> <figcaption class=\"img-description\">.</figcaption> </figure> <p><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/4.VELH/invnr/106/file/NL-HaNA_4.VELH_106?eadID=4.VELH&amp;unitID=106&amp;query=Diu\">klik hier</a> voor een grotere versie van de kaart</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Lengte 145 vt.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Toussain</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98121\">DAS 7228.6.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=12&amp;page=168&amp;view=&amp;accessor=toc\">Generale missiven Deel 12, 157.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

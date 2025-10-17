@@ -1,0 +1,27 @@
+{
+  "id": "2579",
+  "code": "ostland-1900-1950",
+  "name": "Ostland (1900-1950)",
+  "type": "wreck",
+  "lat": "54.4500000",
+  "lon": "10.6766670",
+  "location": "Kieler Bucht, Duitsland",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": "1950-07-19",
+  "lastyear": "1950",
+  "lastyearend": null,
+  "country": "Letland",
+  "countrycode": "LV",
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-27 18:07:49",
+  "modified_on": "2025-07-11 14:30:38",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This is the wreck of a bucket dredger, as evidenced by a large wheel, measuring ca. 4 metres in diameter.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002627.jpg\" alt=\"painting of part of a shipwreck with a diver with a flashlight\"> <div class=\"img-source\">Peter Klink (bubblewatcher.de)</div> </figure> <p>The wreck has been known since 2001, but it was only recently tentatively associated with the bucket dredger OSTLAND (a discussion is ongoing in the <em>Forum Marinearchiv</em>).</p> <p>If this identification is indeed correct, the vessel was built in 1900 as steam-powered bucket dredger and operated in Latvian waters. The initial name of the vessel was RIGA. Shortly after the outbreak of World War II and the German occupation of the Baltic States, the vessel was taken in 1941 as a prize by German troops and was re-named OSTLAND. The vessel remained in the Baltic region for the next few years, but was relocated to Gotenhafen (Gdynia, Poland) when the German army withdrew from the Baltic region in 1944. In April 1945, the vessel was relocated to Heiligenhafen. At the end of World War II, the ship was confiscated by Allied forces and relocated to Bad Schwartau in a state of disrepair and half-aground. For this reason, the ship was sold to a ship-scrapping company and it was decided to tow it to Kiel in summer 1950. After having passed the island of Fehmarn, however, the vessel started to sink and the crew was taken on board of the tug.</p> <p>The case was investigated by the maritime casualty investigation board later that year, which came to the conclusion that the vessel (as Allied property) was not subject to German maritime law. For this reason nobody was found guilty, as the vessel was moved without undergoing an inspection, which would have been mandatory under German law.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The pontoon-like hull is in an advanced state of deterioration. Nevertheless, several details could be observed through which this vessel could be identified as bucket dredger. Several buckets of a diameter of 2 metres are still linked to the chain. The underwater artist Oleksiy Konovalov has produced a sketch of the wrecksite based on his own observations.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002613.jpg\" alt=\"illustration of the top of a shipwreck\"> <div class=\"img-source\">Oleksiy Konovalov</div> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>196 &frac34; voet (60 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>9 &frac34; voet (3 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>36 voet (11 m)</td></tr><tr><th scope=\"row\">Deplacement</th><td>700 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck has been noted for its beauty, but not in terms of the wreck itself, but its role as artificial reef and habitat for marine life. Several derelict fishing nets have been observed at the wrecksite, which got entangled. The trawlers had to cut the nets loose.</p> <p>Starting at 2:42 in below video, some footage of the wreck can be viewed.</p> <p><iframe src=\"https://www.youtube-nocookie.com/embed/RZ3iyP-N9X4\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Bölk, W., Landschof, E. (1988).<br /><em>Schiffe in Not: Strandungen und Seeunfälle um Fehmarn.</em><br />Rendsburg: Verlag Heinrich Möller Söhne.</li><li><a href=\"https://www.forum-marinearchiv.de/smf/index.php/topic,34528.msg391718.html#msg391718\">Forum Marinearchiv.</a></li><li>Peter Klink (bubblewatcher.de).<br /><a href=\"http://www.bubblewatcher.de/eimerkettenbagger/\">Eimerkettenbagger.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

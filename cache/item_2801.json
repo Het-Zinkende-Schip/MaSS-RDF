@@ -1,0 +1,27 @@
+{
+  "id": "2801",
+  "code": "amsterdam-1808",
+  "name": "Amsterdam",
+  "type": "wreck",
+  "lat": "-33.8650000",
+  "lon": "25.6350000",
+  "location": "Amsterdamse Hoek, Algoa bay, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1806",
+  "firstyearend": "1808",
+  "lastdate": "1817-12-16",
+  "lastyear": "1817",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-03-02 09:23:50",
+  "modified_on": "2025-07-17 10:47:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Amsterdam raakte tijdens de terugreis van Surabaia naar Nederland in 1817 zo lek dat ze op het strand moest worden gezet in de Algoabaai (Zuid Afrika). Aanvankelijk werd gehoopt om het schip te kunnen behouden. Eerst door het marszeil onder de romp te trekken om het lekken te stoppen. Dit hielp onvoldoende. Om het schip te verlichten werd een lading koffie en het geschut over boord gezet.</p> <p><strong>Oost-Indisch Eskader</strong></p> <p>Het schip bevond zich in 1814 te Nieuwediep (nu Den Helder), waar het aan de Nederlandse marine werd overgeleverd, nadat de Franse bezetting zich had overgegeven. De schepen waren in slechte staat het koste veel tijd om ze zeilklaar te maken.<br>Toen Napoleon in 1815 definitief was verslagen vertrok op 29 oktober de Amsterdam als onderdeel van het Oost-Indisch Eskader. Deze vloot werd naar Indi&euml; gestuurd om het gezag van de Engelsen over te nemen.</p> <p>De vloot arriveerde in april 1816 in Nederlands-Indi&euml;.</p> <table>  <tr> <td><strong>schip</strong></td> <td><strong>type</strong></td> <td><strong>commandant</strong></td> <td><strong>bemanning</strong></td> <td><strong>stukken</strong></td> </tr> <tr> <td>Admiraal Evertsen</td> <td>linieschip</td> <td>&nbsp;D.H.Dietz</td> <td>320</td> <td>80</td> </tr> <tr> <td>Amsterdam</td> <td>\"</td> <td>Hofmeijer</td> <td>250</td> <td>80</td> </tr> <tr> <td>Brabant</td> <td>\"</td> <td>Van der Hart</td> <td>250</td> <td>80</td> </tr> <tr> <td>Admiraal De Ruijter</td> <td>\"</td> <td>'t Hooft</td> <td>250</td> <td>80</td> </tr> <tr> <td>Maria Rijgersbergen</td> <td>fregat</td> <td>van der<br>Neijpoort</td> <td>200</td> <td>&nbsp;</td> </tr> <tr> <td>Iris</td> <td>korvet</td> <td>Pool</td> <td>90</td> <td>&nbsp;</td> </tr> <tr> <td>Spion</td> <td>brik</td> <td>Van Der Loef</td> <td>90</td> <td>&nbsp;</td> </tr>  </table> <p>De Amsterdam werd terug naar Nederland gezonden met o.a. een deel van de collectie naturalia die de botanicus Caspar Georg Carl Reinwardt had verzameld voor de Hortus botanicus te Leiden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: De Amsterdam was een linieschip van een klasse van vier schepen, de Admiraal Zoutman (1798) Admiraal Evertsen, de Admiraal De Ruijter en de Amsterdam.</p> <p>gebouwd: Rijkswerf. Ontworpen door Roelof Dorsman gebouwd door P. Schuijt Jr.<br>bewapening: 80 stukken</p> <p>Naam: Het schip kreeg aanvankelijk de naam Leeuw, vervolgens Commercie van Amsterdam onder het Koninkrijk Holland; vervolgens Commerce d' Amsterdam na de inlijving bij Frankrijk; voor het in 1814 de naam Amsterdam kreeg.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hermanus Hofmeijer</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>220</td></tr><tr><th scope=\"row\">Lengte</th><td>195 voet (59,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>50 &frac34; voet (15,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Koek, F.B. (KNMI); KNM.<br /><a href=\"https://www.narcis.nl/dataset/RecordID/oai%3Aeasy.dans.knaw.nl%3Aeasy-dataset%3A101172\">Amsterdam 1817 : Reis van Indonesie naar Nederland.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

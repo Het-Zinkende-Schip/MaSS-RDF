@@ -1,0 +1,27 @@
+{
+  "id": "1055",
+  "code": "kers",
+  "name": "Kers",
+  "type": "wreck",
+  "lat": "-21.5417003",
+  "lon": "85.9705007",
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1691",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1697",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-14 16:21:13",
+  "modified_on": "2025-02-14 14:13:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Kers</em>, een klein galjoot, vertrok 4 mei 1693 naar Azi&euml;. Ze bleef daar dienst doen tot 1697. 15 januari 1697 vertrok De Kers met de retourvloot o.l.v. Hendrik Pronk naar de Kaap. Daar zou De Kers vervolgens dienst gaan doen.*</p> <p>De retourvloot kwam 20 mei 1697 aan de Kaap zonder De Kers. De Kers was ca. 10 maart tijdens een zware storm zwaar beschadigd geraakt. De grote mast was aan stukken gebroken en kon niet meer gerepareerd worden. Besloten werd om het aldus zeer traag geworden galjoot achter te laten. Ze hield de hele retourvloot op. Bemanning en lading werd verdeeld over de rest van de vloot. Het schip werd afgezonken op de Indische Oceaan .</p> <p class=\"note\">*) de retourvloot bestond uit de schepen Bantam, Berkenrode, Driebergen, Jerusalem, Kattendijk, Stad Keulen, Drie Kronen, Huis te Loo, Nederland, Spiegel, Vrijburg en Waddinxveen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Amsterdam, 1692<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92726\">Details of voyage 1666.1 from Texel to Ceylon.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0161?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">NL-HaNA_1.04.02_4932 uitloopboek.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/47/file/NL-HaNA_1.11.06.18_47_0133?eadID=1.11.06.18&amp;unitID=47&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 1697  NA_1.11.06.18_47_0133.</a></li><li>Leenstra, M.<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000281.pdf\">Transcriptie relevante tekst.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

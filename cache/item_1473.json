@@ -1,0 +1,27 @@
+{
+  "id": "1473",
+  "code": "herpt-1889",
+  "name": "Herpt 1889",
+  "type": "wreck",
+  "lat": "51.7278433",
+  "lon": "5.1572170",
+  "location": "Herpt NB, Nederland",
+  "firstdate": null,
+  "firstyear": "-300",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-100",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-28 11:41:24",
+  "modified_on": "2025-06-10 16:40:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Een boomstamboot van eikenhout met twee verdikkingen als een soort spanten in voor en achterschip.</p> <p>De Kano van Herpt werd ingepakt en in twee kisten naar Leiden verzonden. Hij<br>lijkt in uitstekende bewaringstoestand te verkeren en Pleyte is er verguld mee. Hij eindigt zijn rapport aan de directeur met de volgende constatering: &lsquo;In verband met de laatst ingekomenkano uit Kolderveen mogen wij hierin eene allerbe[lang]rijkste aanwinst onzer verzameling zien&rsquo;.</p> <p><br>De beide &lsquo;kano&rsquo;s&rsquo; figureren in het jaarverslag over 1888/1889. E&eacute;n is er later kennelijk weggegooid. De andere is behouden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Boomstamboot</p> <p>Lengte bewaard 7,35 m gemeten.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

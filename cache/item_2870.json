@@ -1,0 +1,27 @@
+{
+  "id": "2870",
+  "code": "hollandia-kw",
+  "name": "Hollandia (KW 169)",
+  "type": "wreck",
+  "lat": "52.8412673",
+  "lon": "2.2413937",
+  "location": "Noordzee, Smith Knoll Buoy",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1918-08-24",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-31 15:41:31",
+  "modified_on": "2025-08-19 18:45:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 24 august 1918 waren meerdere Hollandse loggers aan het vissen op de Noordzee. Door stroom en wind dreven de vissers af in een door de Duitsers verboden gebied. De Duitse UB 111 (commandant Egon von Werner) bevond zich in het gebied en besloot alle vissersschepen tot zinken te brengen.</p> <p>Zeven loggers werden daarop tot zinken gebracht. Het ging om de volgende schepen:<em><strong> Majoor Thomson</strong></em>, <em><strong>Maria Johanna</strong></em>, KW 3, Neerlandia II (KW 34), <em><strong>Hollandia</strong></em>, Neerlandia III (KW 38) en de Stella. De opvarenden werden gered en kwamen de volgende dag aan in Ijmuiden.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003193.jpg\" alt=\"tekst: het z.g.,,Sperrgebiet\"> <div class=\"img-source\">Delph</div> <figcaption class=\"img-description\">De nieuwe courant 06-09-1918</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00003188.jpg\" alt=\"tekst: schepen te weten de Katwijk\"> <div class=\"img-source\">Delpher.nl</div> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>103 ton (52 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Logger+Hollandia+&amp;coll=ddd&amp;sortfield=date&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1918%7C&amp;page=7&amp;identifier=MMKB15:000739116:mpeg21:a00007&amp;resultsidentifier=MMKB15:000739116:mpeg21:a00007&amp;rowi\">De nieuwe courant 06-09-1918.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2278",
+  "code": "postpaard",
+  "name": "Postpaard",
+  "type": "wreck",
+  "lat": "51.2123898",
+  "lon": "2.2631836",
+  "location": "Noordzee, België",
+  "firstdate": null,
+  "firstyear": "1597",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1604",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-06 10:10:59",
+  "modified_on": "2025-06-11 20:07:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Postpaard kruiste voor de Vlaamse kust alwaar het in 1604 verging.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Adriaansz. Jan</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>60</td></tr><tr><th scope=\"row\">Tonnage</th><td>200 ton (100 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>archief Joosten.<br /><em>NIMH.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

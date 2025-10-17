@@ -1,0 +1,27 @@
+{
+  "id": "1133",
+  "code": "makreel-1643",
+  "name": "Makreel",
+  "type": "wreck",
+  "lat": "-6.2790804",
+  "lon": "105.2545167",
+  "location": "Sunda Strait, Indonesië",
+  "firstdate": null,
+  "firstyear": "1643",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1656",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-17 16:21:22",
+  "modified_on": "2025-04-14 09:12:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Makreel</em> was een fluitschip gebouwd voor de VOC kamer Amsterdam. Ze vertrok 14 april 1644 naar Batavia. Het schip bleef vervolgens dienst doen in Azi&euml;. Het schip is vergaan in Straat Soenda in 1656.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1643<br>Tonnage: 50 last (100 ton)<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/91741\">DAS 0624.1.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

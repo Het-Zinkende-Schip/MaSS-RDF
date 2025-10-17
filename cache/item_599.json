@@ -1,0 +1,27 @@
+{
+  "id": "599",
+  "code": "uitgeest-logboat",
+  "name": "Uitgeest logboat",
+  "type": "wreck",
+  "lat": "52.5210781",
+  "lon": "4.7029424",
+  "location": "Uitgeest, Nederland",
+  "firstdate": null,
+  "firstyear": "-631",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-631",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Robert de Hoop",
+  "created_on": "2018-12-03 13:21:17",
+  "modified_on": "2025-06-06 22:21:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: Logboat</p> <p>Length: 8 meters</p> <p>Width: 68 centimeters</p> <p>Draught (dugout): 30 centimeters</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001364.jpg\" alt=\"Uitgeest logboat\"></figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>A logboat was found during the construction of a tunnel in November 2003. Thanks to the digger operator the boat was barely damaged and the rescue mission was launched.</p> <p>&nbsp;The logboat was found in an old rivier-bed 6 meters under the surface level. After salvaging the boat was transported to one of the warehouses of NISA (Dutch institute for ship archaeology). There is was examined by Hollandia archeologie. Dendrochronological analysis dated the wood from &plusmn; 631 BC.</p> <p>&nbsp;The boat had a rather long and thin appearance; it is 8 meters long and 68 centimeters wide. The dugout is 30 centimeters deep. The boat had several&nbsp;frames that strengthen the boards.</p> <p>The wood was treated with polyethyleenglycol and the boat was strengthened by polyester moulds during conservation process. The project was funded by the ministry of education, culture and science. The Uitgeest logboat is now on display at the museum Huis van Hilde.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Akker van den, J., M. Manders, W. van der Wens, A. Zandstra (2007).<br /><em>Bundel Maritieme Vindplaatsen 1, p. 100-101.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

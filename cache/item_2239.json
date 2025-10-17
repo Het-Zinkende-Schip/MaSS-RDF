@@ -1,0 +1,27 @@
+{
+  "id": "2239",
+  "code": "zeemeeuw-1653",
+  "name": "Zeemeeuw",
+  "type": "wreck",
+  "lat": "-5.9624998",
+  "lon": "107.2572943",
+  "location": "Pantai Sarakan, t.h.v., Indonesië",
+  "firstdate": null,
+  "firstyear": "1643",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-13 16:34:46",
+  "modified_on": "2025-06-11 19:26:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Abel Tasman vertrok 29 januari 1644 aan boord van de Zeemeeuw voor zijn tweede expeditie naar Nova Hollandia (Australi&euml;). De expeditie bestond tevens uit het jacht Limmen en de galjoot <a href=\"https://mass.cultureelerfgoed.nl/brak\">Brak</a>. De expeditie voerde langs de zuidkust van Nieuw-Guinea en de Baai van Carpentaria (Australi&euml;).</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003386.png\" alt=\"landkaart met rode lijnen, waarop twee zeilboten staan afgebeeld\"> <div class=\"img-source\">collection.sl.nsw.gov.au</div> </figure> <p class=\"figcaption\"><br>Dit is een detail van de kaart van Abel Tasman gemaakt n.a.v. zijn twee ontdekingsreizen naar Nieuw Holland. Afgebeeld zijn de Zeemeeuw, Brak en de Limmen. (<a href=\"https://collection.sl.nsw.gov.au/record/74VvALr6N6VO/KdkzwrQO3oQ08#viewer\">Bonaparte Tasman map</a>, anno 1644).<br><br></p> <p><strong>Zeemeeuw vergaan</strong></p> <p>In de zomer van 1653 verging de Zeemeeuw op weg van Ternate naar Batavia:</p> <p><em>Opt de Ternataense advijsen sullen u Ed lesen hoe het jacht de Zeemeeuw van daer naer amboina gsonden ende aldaer niet verschenen sij, ophebbende 50 Soldaten. het selve is amboina voorbij geraect ende door gebreck van rijs, soo de overheijt voorgeeft genootsaeckt over Bouton herwaerts te comen. Doch 8: a 9: mijlen beoosten Batavia op de cust van Java slechtelijck verseijlt ende gebleven sijnde het volck daer van mede altesamen behouden op Batavia gecomen, nevens weijnige scheeps gereetschappen.<a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/1196/file/NL-HaNA_1.04.02_1196_0099?query=1196&amp;start=0&amp;search-type=item_code\">(1)</a> </em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hendriksz., Alexander</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>53</td></tr><tr><th scope=\"row\">Tonnage</th><td>100 ton (50 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91727\">DAS 0610.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/1196/file/NL-HaNA_1.04.02_1196_0099?query=1196&amp;start=0&amp;search-type=item_code\">NA 1.04.02 (VOC) 1196 Gen. Mis.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

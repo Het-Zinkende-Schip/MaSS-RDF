@@ -1,0 +1,27 @@
+{
+  "id": "2449",
+  "code": "wapen-van-veere",
+  "name": "Wapen van Veere",
+  "type": "wreck",
+  "lat": "-15.9226392",
+  "lon": "-5.7201004",
+  "location": "Sint Helena, Sint-Helena, Ascension en Tristan da Cunha",
+  "firstdate": null,
+  "firstyear": "1667",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1673",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-02-15 16:30:57",
+  "modified_on": "2025-06-12 18:35:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Abraham Huibrechtsen, de commandeur van de retourvloot was op Het Wapen van Veere.</p> <p>Het schip werd tijdens gevecht bij Sint Helena veroverd door de Engelsen in mei 1673.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/96556\">DAS 5647.3.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

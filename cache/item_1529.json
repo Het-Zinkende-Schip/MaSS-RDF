@@ -1,0 +1,27 @@
+{
+  "id": "1529",
+  "code": "hardinxveld-giessendam-1",
+  "name": "Hardinxveld-Giessendam De Bruin",
+  "type": "wreck",
+  "lat": "51.8350895",
+  "lon": "4.8192531",
+  "location": "Hardinxveld Giessendam, Nederland",
+  "firstdate": null,
+  "firstyear": "-6000",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-5000",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-01 12:56:57",
+  "modified_on": "2024-12-03 16:33:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Boomstamboot (De Bruin) van linde hout. Datering 6310 +/- 90 BP. (Mesolithicum) De boot werd gevonden tijdens opgravingen in kader van de Betuweroute.</p> <p>De Bruin bevindt zich in het zuidelijke gedeelte van de Alblasserwaard en ten noorden van Hardinxveld-Giessendam. De site bevindt zich op een Pleistocene rivierduin (een donk) en wordt omringd door veen- en kleiafzettingen. Tijdens de periode Laat-Mesolithicum en Vroeg-Neolithicum was dit gebied dan ook een &ldquo;nat en moerassig rivierengebied&rdquo;. <br>De boomstamboot van Hardinxveld-De Bruin is 5,5 meter lang en 55 centimeter breed. De boomstamboot is gemaakt van lindehout, dat mogelijk afkomstig is van de donken uit de regio. De boot heeft aan beide zijden gaten die mogelijk een indicatie geven van reparatie, in plaats van op boringen of een gebruik als visbun.&nbsp;<br><br>Op basis van C14-onderzoek is geconcludeerd dat de boomstamboot dateert uit 6310&plusmn;90 BP; na kalibratie is dit 5473-5057 cal BC.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>18 voet (5,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>1 &frac34; voet (0,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>L.P. Louwe Kooijmans (red.) (2001).<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zqw-7dvd\">Archeologie in de Betuweroute: Hardinxveld-Giessendam De Bruin. Een kampplaats uit het Laat-Mesolithicum en het begin van de Swifterbantcultuur (5500-4450 v. Chr.).</a><br />RAM 88.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

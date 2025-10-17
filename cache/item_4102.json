@@ -1,0 +1,27 @@
+{
+  "id": "4102",
+  "code": "zo43",
+  "name": "ZO43",
+  "type": "wreck",
+  "lat": "52.2698610",
+  "lon": "5.4821400",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": "1275",
+  "firstyearend": "1300",
+  "lastdate": null,
+  "lastyear": "1275",
+  "lastyearend": "1300",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 16:22:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In september 1980 werd op kavel O43 in Zuidelijk Flevoland, nabij de Nijkerkersluis, bij het graven van een scheidingsgreppel een scheepswrak gevonden. Bij de verkenning in november 1980 bleek dat het schip zeer ondiep lag en kon vastgesteld worden, dat het ging om een vrachtschip uit de late Middeleeuwen. De plaats waar het schip verging moet zeer dicht bij de toenmalige kustlijn hebben gelegen. Het wrak was bij het graven van de scheidingsgreppel echter op ongeveer halve lengte zwaar beschadigd. Het schip is vervolgens opgegraven in mei 1981. De afmetingen van het schip waren 13 bij 2,8 meter. Deze opgraving markeerde de eerste keer dat van een kogge al het scheepshout op schaal 1:10 werd getekend. Ook was het de eerste keer dat in een kogge een haardplaats werd aangetroffen, getuige de aanwezigheid van een met leem gevulde houten vuurkist. Tot op heden zijn er hiervan geen oudere exemplaren bekend, en geen van de andere (latere) exemplaren heeft leem als vulling. De ballaststenen uit het wrak bleken geen zwerfstenen uit Nederlands grondgebied te zijn, maar zijn vermoedelijk aan boord genomen in Denemarken. Ook de in het wrak gevonden bijl lijkt van een Deens type te zijn. Opmerkelijk was verder dat in het wrak een stuk textiel bewaard was gebleven, mogelijk een fragment zeildoek, gemaakt van bruine wol. Vanwege het belang van de vondst is het wrak na afloop van het onderzoek ingekuild, dat wil zeggen het scheepshout is begraven op een manier dat de grondwaterspiegel ter plaatse hoog wordt gehouden. De vindplaats dient dan wel boom- en struikvrij gehouden te worden.</p> <p>De ondergang van het schip wordt geplaatst richting het einde van de 13de eeuw, met een vermoedelijke bouw tussen 1225 en 1250. Het nemen van dendromonsters was in 1981 echter nog geen standaardpraktijk. Mocht het hout opnieuw opgegraven worden, dan kan dendrochronologisch onderzoek uitwijzen of dit inderdaad het geval is geweest.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x8v-ypp9\">Opgravingsdocumentatie scheepswrak ZO43.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

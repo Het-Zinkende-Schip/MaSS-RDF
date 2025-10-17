@@ -1,0 +1,27 @@
+{
+  "id": "2298",
+  "code": "mercurius",
+  "name": "Mercurius",
+  "type": "wreck",
+  "lat": "52.0323026",
+  "lon": "4.1390991",
+  "location": "Ter Heijde, Nederland",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1653-08-10",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-09 17:37:01",
+  "modified_on": "2025-07-02 10:53:57",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De 'Mercurius'</em> was een VOC schip dat in 1652-1653, ten tijde van de Eerste Engelse Oorlog, werd gecharterd en als oorlogsschip aan de vloot werd toegevoegd.&nbsp;<br>De Mercurius werd op 10 augustus 1653 tijdens de <a href=\"https://mass.cultureelerfgoed.nl/zeeslag-bij-ter-heijde\">Zeeslag bij Terheijde</a> door de Engelsen in de grond geboord. Het schip stond toen onder bevel van Pieter de Bitter, was bemand met 100 koppen en was ingedeeld bij het eskader van Michiel de Ruiter.<br><br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Zie ook het schip de Gerechtigheid en de Zwarte Bul.</p> <p>Bewapening: 36 stukken.</p> <p><em>daarop by de Compagnie was geresolveert aan Haar Ho. Mo. te presenteren aght schepen, te weten ses, die sy soude huyren, om ten spoedigsten uytgerust en bequaem gemaeckt te worden om in zee te gaan, en twee, die sy op stapel hadde staan om voor soolangh die buyten haar dienst souden kunnen werden gemist, in dienst van 't Lant te werden gebruyckt, dogh sonder dat de Compagnie van die twee huyr soud&eacute; trecken;</em></p> <p><em>Ingevolge van 't welcke by de Camer van Amsterdam sijn ingehuyrt en uytgerust de schepen 't Huys te Nassau, de Mercurius en de Geregtigheyt; by de Camer van Zeelant de Swarte Bul; by de Camer van&nbsp;Rotterdam, 't Wapen van Nassau en by de Camer van Hoorn, Sint Willebord,&nbsp;die oock dien gantschen somer onder 's Lants vlagge hebben gedient en in alle&nbsp;zeegeveghten sijn geweest, gelijck als het schip de Mercurius in de zeeslagh, in&nbsp;Augusty desselvigen jaars voorgevallen, in de gront is geschoten, en de Geregtigheyt in November daaraanvolgende door of in den swaren storm, neffens verscheyde andere schepen van 's Lants vloot voor Tessel belopen, sijn vergaan en gebleven.</em> (<a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=518&amp;accessor=searchText&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=2\">van Dam p. 509</a>)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Bitter de, Pieter</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>100</td></tr><tr><th scope=\"row\">Lengte</th><td>120 Amsterdamse&nbsp;voet (34 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 Amsterdamse&nbsp;voet (8,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dam, Pieter van (1704).<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/vandam/#page=518&amp;accessor=searchText&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=2&amp;\">Beschrijvinge van de Oostindische Compagnie 1639-1701 I.2.68.</a><br />pp 509,</li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/234/file/NL-HaNA_1.04.02_234_0324\">NL-HaNA_1.04.02_234_0324.</a></li><li><a href=\"https://archive.org/details/gri_33125011133994/page/n145/mode/1up?view=theater\">Leven en bedrijf van den vermaarde zeeheld Cornelis Tromp, 130.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

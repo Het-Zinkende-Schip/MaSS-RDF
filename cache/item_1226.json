@@ -1,0 +1,27 @@
+{
+  "id": "1226",
+  "code": "schermer",
+  "name": "Schermer",
+  "type": "wreck",
+  "lat": "-2.4196819",
+  "lon": "105.7572079",
+  "location": "Bangka, Indonesië",
+  "firstdate": null,
+  "firstyear": "1668",
+  "firstyearend": null,
+  "lastdate": "1671-06-04",
+  "lastyear": "1671",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-19 10:37:06",
+  "modified_on": "2025-02-22 15:18:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Schermer</strong></em> was een fluit s vergaan in de Banka Straat op 4 juni 1671 waarbij voor f. 42000 aan suiker en f. 18000 aan peper verloren ging.</p> <p><em>8 Juny, waerin omstandelyk ontwaer worden 'l verongelucken van de voorsz. Schermer; dat namenllyk de voorsz. fluyt, op een santbancq in de mondt ofte het nauste van de Straet Bancka vast geraekt, op 4 deser naer sonnen ondergancq en \"sdaegs daeraen geborsten en voorts vol water is gelopen tot aen den beneden, soo datier geen de minste apparenlie was van daer ooyt weder af te geraeken&nbsp;</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: op de VOC werf in Hoorn, in 1668&nbsp;<br>Dimensies&nbsp;138 x&nbsp;33 x holte: 14 voet<br>Laadvermogen: 318 last (636 ton)<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92225\">DAS 1142.1.</a></li><li><a href=\"https://archive.org/details/daghregistergeh00kologoog/page/n361/mode/2up?q=schermer\">Dagregister Batavia 15-6-1671.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2803",
+  "code": "alberdina-1885",
+  "name": "Alberdina",
+  "type": "wreck",
+  "lat": "52.7868186",
+  "lon": "3.1860352",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1885",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1898",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-03-07 12:09:15",
+  "modified_on": "2025-06-14 22:08:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Men is zeer ongerust zich ongerust over het lot van het te Groningen thuis horende koopvaardijschip Alberdina die op 26 januari van Maassluis naar Cranton in Schotland is vertrokken en tot op heden niet op de plaats van bestemming gearriveerd is. Zeer waarschijnlijk is het vaartuig met man en muis vergaan. De opvarenden waren kapt. H.R. Speelman met echtgenote en twee dochters en drie matrozen waarvan twee ook familie waren van kapitein Speelman (<a href=\"https://www.delpher.nl/nl/kranten/view?query=Alberdina&amp;facets%5Bperiode%5D%5B%5D=2%7C19e_eeuw%7C1890-1899%7C1898%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;page=1&amp;coll=ddd&amp;identifier=ddd:010177262:mpeg21:a0035&amp;resultsidentifier=ddd:010177262:mpeg21:a0035&amp;rowid=4\">Rotterdams nieuwsblad, 18-3-1898</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type : Kofschip 1 master<br>Gebouwd: Gebr. J. &amp; G.. Verstockt, Martenshoek, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Speelman, H.R.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>8</td></tr><tr><th scope=\"row\">Lengte</th><td>102 &frac14; voet (31,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>21 &frac34; voet (6,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>9 &frac34; voet (3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>80 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=149\">Alberdina ID 149.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

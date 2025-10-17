@@ -1,0 +1,27 @@
+{
+  "id": "2765",
+  "code": "rosalia",
+  "name": "Rosalia",
+  "type": "wreck",
+  "lat": "12.0801473",
+  "lon": "-69.1609955",
+  "location": "Curaçao",
+  "firstdate": null,
+  "firstyear": "1938",
+  "firstyearend": null,
+  "lastdate": "1943-07-27",
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2021-12-09 15:01:21",
+  "modified_on": "2025-06-14 21:36:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>op weg van Lagunillas naar Cura&ccedil;ao met een lading ruwe aardolie, op 10 mijl ten zuiden van Willemstad bij de Bullenbaai door de Duitse onderzeeboot 'U 615' tot twee maal toe getorpedeerd.</p> <p>23 Opvarenden, waaronder de kapitein, komen hierbij om het leven. 13 opvarenden konden worden gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: N.V. Cura&ccedil;aosche Scheepvaart Maatschappij, Willemstad (NA),</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Linde, J van der</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=5581\">Rosalia 5581.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

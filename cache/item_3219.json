@@ -1,0 +1,26 @@
+{
+  "id": "3219",
+  "code": "commandeursbaai-harbor",
+  "name": "Commandeursbaai harbor",
+  "type": "site",
+  "lat": "12.4447360",
+  "lon": "-69.9418769",
+  "location": "Savaneta, Aruba",
+  "firstdate": null,
+  "firstyear": "1500",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1950",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gendra Lacle",
+  "created_on": "2023-12-30 16:23:54",
+  "modified_on": "2025-06-16 20:29:47",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In de literatuur en de mondelinge overlevering geldt het dorp <em>Savaneta </em>als de oudste Europese nederzetting op Aruba. Tussen ca. 1501 en 1636 stationeerden de Spanjaarden er hun bestuurders en na de overname door de West-Indische Compagnie vestigden ook de Nederlandse machthebbers hun bestuurscentrum aan de baai die vanzelf de naam <strong><em>Commandeursbaai</em></strong>&nbsp;verkreeg.</p> <p>In de achttiende eeuw waren de Commandeurs en andere medewerkers van de West-Indische Compagnie de enige Europeanen die op het eiland mochten verblijven. Pas in juni 1754 werden andere kolonisten toegestaan.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

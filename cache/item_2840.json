@@ -1,0 +1,27 @@
+{
+  "id": "2840",
+  "code": "prinses-juliana-1",
+  "name": "Prinses Juliana 1",
+  "type": "wreck",
+  "lat": "51.9358944",
+  "lon": "1.3249896",
+  "location": "Felixstowe, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1909",
+  "firstyearend": null,
+  "lastdate": "1916-03-23",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-19 10:37:26",
+  "modified_on": "2025-02-01 13:16:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tussen februari en juli 1916 liepen kort na elkaar drie schepen van de SMZ , de <em><strong>Prinses Juliana</strong></em>, de <em><strong>Mecklenburg</strong></em> en de <em><strong>Koningin Wilhelmina</strong></em> op een mijn en gingen verloren.</p> <p><strong>Ondergang</strong> <br>1-2-1916 tijdens een reis van Vlissingen naar Tilbury liep de Prinses Juliana op een mijn. Het achterruim aan stuurboord maakte water.</p> <p>Ze werd bij het Britse Felixstowe aan de grond gezet om te voorkomen dat het schip zou zinken. Ze brak op 29-3-1916 bij slecht weer in twee&euml;n gebroken en zonk alsnog.&nbsp;In 1920 werd ter vervanging de <a href=\"https://mass.cultureelerfgoed.nl/prinses-juliana-1929\">Prinses Juliana 2</a> gebouwd.</p> <p><strong>SMZ</strong><br>De Stoomvaart Maatschappij Zeeland (SMZ) was een rederij die tussen 1875 en 1989 een veerdienst tussen Nederland en Engeland over de Noordzee onderhield. Tot en met 1939 was de Nederlandse afvaarthaven Vlissingen, vanaf 1946 was dat Hoek van Holland.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: veerboot, pakketdienst PQSF<br>Gebouwd: Fairfield Shipbuilding &amp; Engineering Co. Ltd., Glasgow (461)<br>accomodation: 356 passagiers</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Buskop. A</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>79</td></tr><tr><th scope=\"row\">Snelheid</th><td>22 knopen ~ 41 km/u (25 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>362 &frac34; voet (110,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>42 &frac34; voet (13 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>16 &frac12; voet (5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3051 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://web.archive.org/web/20071223070339/http://zeevaart.web-log.nl/zeevaart/zeeland_nv_stoomvaart_mij_stena_line_bv/index.html\">zeevaart.web-log.nl.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Juliana&amp;cql%5B%5D=%28date+_gte_+%2201-02-1916%22%29&amp;cql%5B%5D=%28date+_lte_+%2201-05-1916%22%29&amp;redirect=true&amp;sortfield=date&amp;page=1&amp;facets%5Btype%5D%5B%5D=artikel&amp;identifier=MMWFA01:000169088:mpeg\">Onze courant (1-2-1916).</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Juliana&amp;coll=ddd&amp;sortfield=date&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;cql%5B%5D=%28date+_gte_+%2201-02-1916%22%29&amp;cql%5B%5D=%28date+_lte_+%2201-05-1916%22%29&amp;page=6&amp;redirect=tr\">De Telegraaf (4-2-1916).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

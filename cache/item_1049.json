@@ -1,0 +1,27 @@
+{
+  "id": "1049",
+  "code": "hof-van-zeeland",
+  "name": "Hof van Zeeland",
+  "type": "wreck",
+  "lat": "51.3667943",
+  "lon": "2.5134563",
+  "location": "Vlaamse banken, België",
+  "firstdate": null,
+  "firstyear": "1665",
+  "firstyearend": null,
+  "lastdate": "1666-06-11",
+  "lastyear": "1666",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-11 15:12:56",
+  "modified_on": "2025-09-24 15:38:51",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Hof van Zeeland raakte in brand en explodeerde tijdens de eerste dag van de Vierdaagse Zeeslag. De Vierdaagse Zeeslag was een zeeslag tijdens de Tweede Engels-Nederlandse Oorlog. Het gevecht duurde van 11 juni tot 14 juni 1666, en werd uitgevochten tussen de Vlaamse en Engelse kust. De vierdaagse slag werd uiteindelijk gewonnen door de Hollandse vloot onder Admiraal de Ruyter.<a href=\"https://nl.wikipedia.org/wiki/Vierdaagse_Zeeslag\">&sup1;</a><br><br><strong>Vierdaagse Zeeslag</strong><br>De beide vloten bestookten elkaar in linie, maar doordat de Nederlanders de lij hadden (de wind woei van de kant van de vijandelijke vloot, zodat de kanonnen een hogere elevatie en dus beter bereik hadden) kreeg de tuigage van de Engelse vloot het zwaar te verduren.</p> <p><strong>Nieuw Engels wapen <br></strong>De Engelsen, in het nauw, zetten hierop een nieuw wapen in. De Engelse marine had z.g. '<em>Fire shots</em>' laten maken: Holle kanonskogels (messing) gevuld met een ontvlambare stof. Twee Hollandse schepen vlogen in brand toen de Fire shots op hun dek uiteenspatten; de Hof van Zeeland en de Duivenvoorde. De effectiviteit van het nieuw wapen was evident maar vanwege het brandrisico en de hoge prijs werd dit type munitie daarna niet meer ingezet.</p> <p>Tromp vermelde dit nog in zijn memoires:</p> <p><em>&nbsp;[&hellip;] zo men vertrouwt , door brandende Proppen, die uit haar eigc of andere Nederlandsche Schepen geschooten zijnde, door de force van de wind der voorsz. Schepen weder terug zijn gedreven</em></p> <p><em>Commissie<br>Een onderzoekscommissie van de admiraliteiten wilde niet geloven dat 4 schepen door vuurkogels waren uitgeschakeld en suggereerde dat onvoorzichtigheid met lontstokken en vuurlonten de oorzaak zou zijn.</em></p> <p>Recent bronnenonderzoek heeft de waarheid van het verhaal aangetoond.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Middelburg, 1665<br>Bewapening: 58&nbsp;<br>2x36, 4x24, 18x18, 8x16, 14x12, 6x6, 6x5 ponders</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Simon Blok</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>256</td></tr><tr><th scope=\"row\">Lengte</th><td>136 Amsterdamse&nbsp;voet (38,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 Amsterdamse&nbsp;voet (9,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Tromp, C.<br /><a href=\"https://archive.org/details/gri_33125011133994/page/320/mode/1up?view=theater\">Leven en bedrijf van den vermaarde zeeheld Cornelis Tromp, 319.</a></li><li>Brandt, Geeraardt.<br /><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0012.php?q=Landtman#4619T\">Het leven en het bedrijf van den Heere Michiel de Ruyter 9, 482.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

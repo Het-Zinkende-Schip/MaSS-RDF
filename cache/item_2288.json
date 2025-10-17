@@ -1,0 +1,27 @@
+{
+  "id": "2288",
+  "code": "overijssel",
+  "name": "Overijssel",
+  "type": "wreck",
+  "lat": "51.8517281",
+  "lon": "3.9138794",
+  "location": "Goeree, Nederland",
+  "firstdate": null,
+  "firstyear": "1693",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1695",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-07 10:08:49",
+  "modified_on": "2025-06-11 23:41:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Bij Goeree gestrand en vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwdt: admiraliteits werf, Rotterdam door van Leeuwen, 1693</p> <p>Bewapening: 66</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>145 voet (44,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 voet (12,2 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=989\">Overijssel.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

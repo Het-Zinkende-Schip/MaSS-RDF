@@ -1,0 +1,27 @@
+{
+  "id": "2221",
+  "code": "adam-en-eva",
+  "name": "Adam en Eva",
+  "type": "wreck",
+  "lat": "53.6872738",
+  "lon": "7.1349335",
+  "location": "Norderney, Duitsland",
+  "firstdate": null,
+  "firstyear": "1693",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1693",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-10 10:33:38",
+  "modified_on": "2025-06-11 19:15:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Adam en Eva komt voor op een archiefstuk uit Amsterdam.</p> <p>Het schip was beladen met balken onderweg waarschijnlijk van Noorwegen naar Nederland. In de buurt van het Duitse waddeneiland Nordeny is het vergaan. Een deel van de lading is geborgen. Over het schip wordt niets vermeld dat zal dus verloren zijn gegaan.</p> <p>Over de lading was dispuut tussen de bergers en de schipper van de Adam en Eva. Schipper Tymen Hendrikxs legde via de notaris vast dat hij aanspraken maakte op de lading.</p> <p>Zie voor Noordvaarders <a href=\"/vrede-van-nijmegen\">De Vrede van Nijmegen</a>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://transkribus.eu/r/amsterdam-city-archives/#/documents/606879/pages/274?t=Adam%20en%20Eva%201693\">Amsterdam archief, S.A.A, 4162_NOTA00262.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

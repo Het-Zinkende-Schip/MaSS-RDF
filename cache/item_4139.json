@@ -1,0 +1,27 @@
+{
+  "id": "4139",
+  "code": "ns83",
+  "name": "NS83",
+  "type": "wreck",
+  "lat": "52.6990960",
+  "lon": "5.9190870",
+  "location": "Marknesse, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": "1800",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:55:33",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gemeld in 1943 en in hetzelfde jaar opgegraven, waarbij het om een sterk verslagen schip bleek te gaan. Het betrof een 'vissersboot' van 10,5 m lang en 1,19 m diep/hol, die werd getekend door B. Boelens. Verder werden enkele vondsten geborgen (objectnrs. Z1943-V106 t/m 110), te weten het koperen gevest van een degen, twee kruiken, een jeneverkruik en een steelpan, waarvan enkel de laatste twee zich thans nog in de collectie bevinden.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xth-7mzf\">Opgravingsdocumentatie scheepswrak NS83.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

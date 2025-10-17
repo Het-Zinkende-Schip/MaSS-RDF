@@ -1,0 +1,27 @@
+{
+  "id": "988",
+  "code": "nieuwland",
+  "name": "Nieuwland",
+  "type": "wreck",
+  "lat": "52.8333300",
+  "lon": "2.1500000",
+  "location": "Winterton Ness, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1920",
+  "firstyearend": null,
+  "lastdate": "1940-09-04",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-31 14:41:02",
+  "modified_on": "2025-06-09 12:25:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip <em><strong>Nieuwland</strong></em>, vertrok 3 September 1940 van Sunderland naar Londen. In de avond van 4 september werd de Nieuwland aangevallen door het Duitse motorschip S. 18 getorpedeerd. Door de grote slagzij was het niet meer mogelijk de reddingsboot te strijken, zodat allen, die zich bij deze boot bevonden, in het water sprongen.</p> <p>De drenkelingen werden opgepikt door de Engelse torpedojager \"Loo\" en door de schepen \"Ethylene\" en \"Eleanor Brooke\".</p> <p>Acht personen werden vermist:</p> <p>J. L. de Blok (gezagvoerder), E.G. J. Arena (stoker), W. N. de Jong (kok), D. Delwel (stoker), H. Bleecke (lampenist), J. Leuver (stoker), L. Pronk (matroos o/g) en een Engelse kanonnier, wiens naam niet bekend is.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Built: N.V. Scheepswerf v/h. Jan Smit Czn., Alblasserdam,Netherlands<br>Owner: N.V. Scheepvaart en Steenkolen Mij. te Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Blok, J.L. de</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>19</td></tr><tr><th scope=\"row\">Vermogen</th><td>175 pk</td></tr><tr><th scope=\"row\">Lengte</th><td>216 &frac34; voet (66,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>33 &frac14; voet (10,1 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>13 &frac34; voet (4,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1075 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4654\">Maritiem Historische Data ID 4654.</a></li><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

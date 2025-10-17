@@ -1,0 +1,27 @@
+{
+  "id": "4091",
+  "code": "nm9",
+  "name": "NM9",
+  "type": "wreck",
+  "lat": "52.7576740",
+  "lon": "5.8037510",
+  "location": "Bant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": "1800",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:28:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In mei 1943 werd de vondst gemeld van een scheepswrak op kavel M9 in de Noordoostpolder. Vermoedelijk gaat het om hetzelfde wrak dat te boek staat als M10NOP / NM10, een smal, vrij lang wrak aangetroffen in het uiterste zuiden van kavel M10. Helaas werden er geen nadere gegevens genoteerd over het vermeende wrak op M9. Opmerkelijk is dat al eerder, in 1942, enkele vondsten uit het wrak waren gevonden en geregistreerd. De ondergangsdatum van het wrak wordt gesteld op ca. 1800-1825 op basis van gedane vondsten. Daaronder bevinden zich een koperen tabaksdoos met het wapen van Leiden en de koperen trekkerbeugel van een vuurwapen.</p> <p>Besloten om M9NOP / NM9 als wraktoponiem voorlopig nog aan te houden, maar het wel te voorzien van een verwijzing naar M10NOP / NM10.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z6r-k7bb\">Opgravingsdocumentatie scheepswrak NM9.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

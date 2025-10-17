@@ -1,0 +1,27 @@
+{
+  "id": "2936",
+  "code": "derika-i",
+  "name": "Derika I (IJm 265)",
+  "type": "wreck",
+  "lat": "52.6726898",
+  "lon": "3.6014143",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1917-02-08",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-01 12:44:35",
+  "modified_on": "2025-06-15 14:08:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Derika was vertrokken uit Ijmuiden 31-1 met bestemming Doggerbank. Ze werd beschoten en aangehouden door een Duitse onderzee&euml;r die beweerde dat ze zich in de verboden zone bevond en dus tot zinken zou worden. Protesten hielpen niet. De bemanning verliet het schip en de Derika werd opgeblazen.</p> <p>De bemanning werd opgenomen en aan wal gebracht door de KW 73.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: stalen stoomtrawler, harringvisser Doggerbank</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>11</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40032165\">Centraal Visserijregister.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=DErika+IJM+265&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;identifier=MMKB08:000141713:mpeg21:a0002&amp;resultsidentifier=MMKB08:000141713:mpeg21:a0002&amp;rowid=1\">Delftsche courant 10-02-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

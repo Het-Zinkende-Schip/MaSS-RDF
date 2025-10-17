@@ -1,0 +1,27 @@
+{
+  "id": "1163",
+  "code": "huis-te-foreest",
+  "name": "Huis te Foreest",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1717",
+  "firstyearend": null,
+  "lastdate": "1722-01-17",
+  "lastyear": "1722",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-25 10:36:34",
+  "modified_on": "2025-03-31 17:21:21",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Huis te Foreest was een fluitschip 3 mei 1718 vertrokken vanuit Texel naar Oost Indi&euml;. Het schip bleef vervolgens tot 1722 in Azi&euml; dienst doen.</p> <p>Ze maakte deel uit van de retourvloot van 1722 (smaldeel Batavia) vertrokken uit straat Sunda 17 -12 1721.</p> <p>Waarschijnlijk is Hert Huis te Foreest net als de Samson en Amstelveen, op 17 januari 1722 op 26&deg;15' ZB met man en muis vergaan. Er is een relaas van de schieman van De Samson.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>gebouwd: Hoorn<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97387\">DAS 6522.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0078?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 75.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/72/file/NL-HaNA_1.11.06.18_72_0025?eadID=1.11.06.18&amp;unitID=72&amp;query=\">Dagregister Kaap 24-2-1722.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

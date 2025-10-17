@@ -1,0 +1,27 @@
+{
+  "id": "1103",
+  "code": "rooswijk-1747",
+  "name": "Rooswijk",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1746",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1748",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-28 17:51:01",
+  "modified_on": "2025-02-24 11:16:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Rooswijk vertrok uit Texel 10-11-1746 voor haar eerste retourreis naar Indi&euml;. De retourvloot (9 schepen) van 1748 met de Rooswijk vertrok 24--11- 1747 uit Batavia met bestemming Kaap. De Vrijheid, Rooswijk en Domburg kwamen nooit aan de Kaap.</p> <ul> <li>De retourvloot 1748 divisie Batavia bestond uit de schepen Haarlem, Overschie, Hoop, Voorzichtigheid, Vrijheid, Domburg, Weltevreden, en Rooswijk. Onder admiraal Daniel Nolthenius op de Haarlem (<a href=\"https://dekok.xyz/htrsearch/transcriptie?scan=76211&amp;query=Rooswijk&amp;varianten=2&amp;archief=VOC\">inventarisnummer 7564 (scan 9</a>)</li> </ul></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam,<br>Lengte: 150 vt<br>Tonnage: 575 last , 1150 ton<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Lindberg, Paulus</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98170\">Details of voyage 7277.1 from Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0162?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 159.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7569/file/NL-HaNA_1.04.02_7569_0221\">1.04.02/invnr/7569 scan 0221.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

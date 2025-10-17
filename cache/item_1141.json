@@ -1,0 +1,27 @@
+{
+  "id": "1141",
+  "code": "meeroog",
+  "name": "Meeroog",
+  "type": "wreck",
+  "lat": "25.6686972",
+  "lon": "121.1179116",
+  "location": "Benoorden Taiwan, Taiwan",
+  "firstdate": null,
+  "firstyear": "1716",
+  "firstyearend": null,
+  "lastdate": "1719-08-14",
+  "lastyear": "1719",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-18 14:58:12",
+  "modified_on": "2024-12-07 14:24:28",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Meeroog</em>, Slot van de Capelle en De Catharina waren VOC-schepen die op 14 augustus op hun reis naar Japan door een storm in de straat van Taiwan werden overvallen. Vermist op seijn reijse na Japan benoorden Formosa.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0118?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup1;</a></p> <p>Een Portugees schip bracht acht overlevenden van Slot van de Capelle en dit bericht in januari 1720 naar Batavia.(GM 7, 467)</p> <p>Van de Meeroog en de <a href=\"https://mass.cultureelerfgoed.nl/catharina\">Catharina </a>werd niets meer vernomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1653<br>Lengte: 145 vt<br>Tonnage: 400 last, 800 tns<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=480&amp;accessor=search_in_text&amp;source=7&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Generale missiven Deel 7, 467.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0118?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">NA-1.11.01.01-551, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

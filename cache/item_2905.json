@@ -1,0 +1,27 @@
+{
+  "id": "2905",
+  "code": "flevo",
+  "name": "Flevo X",
+  "type": "wreck",
+  "lat": "52.3591946",
+  "lon": "2.8230030",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1918-08-02",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-02 09:14:41",
+  "modified_on": "2025-07-17 11:02:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>2 Augustus op 40 mijl oost van Schipwasch, gegist bestek, hoorde hij te 5.30 's morgens aanhoudend schieten en ontdekte eindelijk een onderzee&euml;r. Alle opvarenden gingen in de scheepsboot de duikboot tegenmoet. Onderwijl ging de duikboot met vuren door. De commandant van de duikboot gelastte allen op een na aan boord van den duikboot te komen. Daar werden de scheepspapieren onderzocht en in beslag genomen.</p> <p>Daarop gingen allen in de scheepsboot terug, waar zij getuigen waren van het met kanonschoten tot zinken brengen van hun schip. Al zeilend bereikten zij de haven van Southwold, van waar zij naar Londen vertrokken.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003229.jpg\" alt=\"tekst: DE NEDERL, ZEILSCHEPEN REMKE EN FLEVO X GETORPEDEERD. De Nederlandsche zeilschepen Remke en Flevo X, die 3 dezer van Rotterdam naar Lon-den vertrokken zijn met een lading gloeilam-pen, zijn getorpedeerd en gezonken. De be-manningen zijn gered en in een Engelsche haven geland. De Remke was een gaffelschoener, 197 bruto en 157 netto tons groot, in in 1900 1900 gel gebouwd en behoorende aan de Scheepvaart-Maatschappij Piet Hein te Rotterdam. De Flevo X was een vrachtlogger, 111 bruto en 95 netto tons groot, in 1916 gebouwd en behoorende aan de Scheepvaart-Maatschappij Flandrin (dir, J. W. Lensen) te Rotterdam,\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: vrachtlogger, zeilschip<br>Eigenaar: N.V. Scheepvaart-Maatschappij Flandria, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Willem Bolt</td></tr><tr><th scope=\"row\">Tonnage</th><td>111 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2217\">Stichting Maritieme Historische Data.</a></li><li>Delpher.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Flevo+X%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1918%7C&amp;identifier=MMKB23:001521062:mpeg21:a00093&amp;resultsidentifier=MMKB23:001521062:mpeg21:a00093&amp;rowid=7\">Het vaderland 06-08-1918.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

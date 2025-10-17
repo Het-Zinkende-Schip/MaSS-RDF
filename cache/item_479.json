@@ -1,0 +1,27 @@
+{
+  "id": "479",
+  "code": "hertog-van-brunswijk",
+  "name": "Hertog van Brunswijk",
+  "type": "wreck",
+  "lat": "8.0552980",
+  "lon": "79.7056182",
+  "location": "Koyyawadi, ter hoogte van, Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1765",
+  "firstyearend": null,
+  "lastdate": "1769-11-13",
+  "lastyear": "1769",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Annaliese Dempsey",
+  "created_on": "2014-10-29 00:00:00",
+  "modified_on": "2025-06-22 12:05:33",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Hertog van Brunswijk</em> vertrok 10 oktober 1766 naar Azi&euml; en bleef daar dienst doen. Ze maakte tenminste &eacute;&eacute;n reis naar Japan.</p> <p>Het schip ging verloren toen ze in 1769 in Sri Lanka aan de grond liep, tussen Navakarre en Calpitiya.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004315.jpg\" alt=\"Dit is een kaart van de westkust van Ceylon (het huidige Sri Lanka) van Manaar tot Negombo. \"> <div class=\"img-source\">NL-HaNA_4.VELH_112, Op de kaart fort Calpentijn (Calpitiya )en de plaats Navalkadoe (Navakarre?)</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan Schellinger</td></tr><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1150 ton (575 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0086?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen.</a></li><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95023\">Details of voyage 3972.1 from Texel to Batavia.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

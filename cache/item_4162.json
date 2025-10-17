@@ -1,0 +1,26 @@
+{
+  "id": "4162",
+  "code": "blinkerwall",
+  "name": "Blinkerwall (10.000 BP)",
+  "type": "site",
+  "lat": "54.0960980",
+  "lon": "11.5481831",
+  "location": "Mecklenburg bay of, Duitsland",
+  "firstdate": null,
+  "firstyear": "-9000",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "2000",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Will Brouwers",
+  "created_on": "2024-02-14 13:55:12",
+  "modified_on": "2025-07-25 13:27:09",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Blinkerwall is a megastructure, which is situated 21 meters (69 feet) below the surface of the sea in Germany&rsquo;s Bay of Mecklenburg.</p> <p><strong>Mega stone age structure</strong><br>It is almost a kilometer (0.62 miles) long and is made up of big stones that have been thoughtfully placed. The Blinkerwall was on dry land.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004092.webp\" alt=\"An underwater photo of stone fragments lying together on sand.\"> <div class=\"img-source\">PNAS</div> <figcaption class=\"img-description\">Stones on the sand.</figcaption> </figure> <p>Although dating such structures is challenging, the researchers believe that the Blinkerwall was built more than 10,000 years ago, based on the age of surrounding features, and submerged beneath the Baltic Sea around 8,500 years ago.<br><br>Examination of the site indicates 1,670 stones organized over a 971-meter (3,186-foot) stretch, with each stone being under a meter in height and 2 meters in width.</p> <p><strong>Research<br></strong></p> <p>The German research team, led by geophysicist Jacob Geersen of Kiel University, hypothesizes that the structure was part of a wall used by ancient hunter-gatherers for hunting.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004093.jpg\" alt=\"A bird's-eye view of the water where the wall stood. The wall's location is indicated by arrows and a white line.\"> <div class=\"img-source\">PNAS</div> </figure> <p>The arrows point to the wall</p> <p>Researchers used a combination of ships and submarine drones to survey the area, collecting sonar data on the shape and size of the long-lost structure. The sheer number of rocks, as well as their organized placement, told the researchers that the formation was not crafted by natural processes.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004094.jpg\" alt=\"Map of brinkelwall in the Baltic Sea showing topograhpy, water depth, and archaeological sites.\"> <div class=\"img-source\">PNAS</div> <figcaption class=\"img-description\">The location of the Blinkerwall</figcaption> </figure> <p><br><br><strong>Purpose<br></strong>The researchers rule out the Blinkerwall being used as a fish weir or coastal defense because the structure does not meet the requirements for these uses. Instead, they suggest that the wall could have been used to corral large animals like reindeer or bison for hunting.</p> <p>Similar low walls, also known as desert kites, have been discovered under the Great Lakes in North America, as well as in numerous locations throughout Africa and the Middle East. Some are up to 5 kilometers long, and it is now widely accepted that they were used for hunting.</p> <p><strong>Kongemose culture</strong><br>Team member Marcel Bradtm&ouml;ller, an archaeologist at the University of Rostock, believes it was probably made by hunter-gatherers belonging to what is known as the Kongemose culture, named after a site in Denmark where artifacts such as stone tools have been found.</p> <p>The Kongemose culture (Kongemosekulturen) was a mesolithic hunter-gatherer culture in southern Scandinavia ca. 6000 BC&ndash;5200 BC and the origin of the Erteb&oslash;lle culture.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Jacob Geersen, Marcel Bradtmöller , Jens Schneider and Harald Lübke.<br /><a href=\"https://www.pnas.org/doi/full/10.1073/pnas.2312008121\">A submerged Stone Age hunting architecture from the Western Baltic Sea.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

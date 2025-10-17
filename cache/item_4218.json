@@ -1,0 +1,27 @@
+{
+  "id": "4218",
+  "code": "mv-carinthia-v",
+  "name": "MV Carinthia V",
+  "type": "wreck",
+  "lat": "38.0275600",
+  "lon": "20.7909600",
+  "location": "Κεφαλονιά, Griekenland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1971-11-01",
+  "lastyear": "1971",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Kimon Papadimitriou",
+  "created_on": "2024-09-05 21:40:14",
+  "modified_on": "2024-10-04 09:28:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p><em>References</em></p> <ul> <li>WRECKSITE - CARINTHIA V YACHT 1971 [WWW Document], n.d. URL&nbsp;<a href=\"https://www.wrecksite.eu/wreck.aspx?98736\">https://www.wrecksite.eu/wreck.aspx?98736</a> (accessed 4.10.24)</li> <li>BLUE MANTA Diving &amp; Aquatic Club - Carinthia V wreck [WWW Document], n.d. URL <a href=\"https://www.bluemantadiving.gr/carinthia-v-wreck/\">https://www.bluemantadiving.gr/carinthia-v-wreck/</a> (accessed 4.10.24)</li> </ul><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Snelheid</th><td>27 knopen ~ 50 km/u (31 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>226 voet (68,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>29 &frac34; voet (9,1 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>8 &frac34; voet (2,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The shipwreck was designated as a monument in 2024, according to the Law 4858/2021 (<a href=\"https://diavgeia.gov.gr/doc/65%CE%A4%CE%9946%CE%9D%CE%9A%CE%9F%CE%A4-5%CE%A8%CE%A0?inline=true\">https://diavgeia.gov.gr/doc/65%CE%A4%CE%9946%CE%9D%CE%9A%CE%9F%CE%A4-5%CE%A8%CE%A0?inline=true</a>).</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

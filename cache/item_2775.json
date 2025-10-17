@@ -1,0 +1,27 @@
+{
+  "id": "2775",
+  "code": "ss-amstel-iii",
+  "name": "SS Amstel III",
+  "type": "wreck",
+  "lat": "57.9258792",
+  "lon": "10.8325195",
+  "location": "Skagerrak",
+  "firstdate": "1915-11-30",
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1919",
+  "lastyearend": "1919",
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Bepton",
+  "created_on": "2021-12-23 20:58:19",
+  "modified_on": "2025-07-14 12:28:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>&nbsp;De <em><strong>Amstel</strong></em> is 2 April van Gothenburg naar Rotterdam vertrokken. De lading bestond uit zinkerts. Op 5 April spoelde op de kust bii Kashaven wrakhout aan. Ook is een reddingsboei gevonden. Tussen 2 en 5 april moet de \"Amstel\" vergaan zijn.</p> <p>Aan boord waren 20 opvarenden twee passagiers en 18 bemanningsleden.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003017.jpg\" alt=\"Foto van een stukje tekst uit een oude krant met \"> <div class=\"img-source\">Rotterdamsch Nieuwsblad</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Burgerhout&rsquo;s Machinefabriek en Scheepswerf, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>T. Sterenberg</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>20</td></tr><tr><th scope=\"row\">Lengte</th><td>64 &frac34; voet (19,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>10 &frac14; voet (3,1 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>4 voet (1,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>816 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p><strong>Omgekomen bemanningsleden</strong><br>Tj. Sterenborg, kapitein, Rotterdam; J.A. Barbillon, 1e stuurman, Rotterdam; B. Vermeulen, 2e stuurman, Gouda; H. v. Welsen, kok, Amsterdam; B. v. Langeveld, bediende, Rotterdam; L. v. Schaick, bootsman, Rotterdam; H. J. Overhoff, matroos, Rotterdam; N. Kop, matroos, Rotterdam; J. Kamps, matroos, Rotterdam; J. Verkerk, matroos, Rotterdam; F. Meenhorst, 1e machinist, Rotterdam; M. A. Heynsdijk, 2e machinist, Groningen; M. N. de Vries, 3e machinist, Den Haag; F. W. Germing, donkeyman, Rotterdam; W. Grotepas, stoker, Rotterdam; M. Meyer, stoker, Rotterdam; M. de Roode, stoker, Rotterdam; H. Postma, bediende, Harlingen.</p> <p><strong>Omgekomen passagiers</strong><br>Enny Vrede en haar man mr. Vlielander Hein. Het paar was net getrouwd en op huwelijksreis geweest in Noorwegen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003016.jpg\" alt=\"Een klein stukje tekst uit een krant met de titel &quot;Enny Vrede&quot;\"> <div class=\"img-source\">Rotterdamsch Nieuwsblad</div> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=357\">Amstel.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

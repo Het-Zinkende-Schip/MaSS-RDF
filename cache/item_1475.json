@@ -1,0 +1,27 @@
+{
+  "id": "1475",
+  "code": "kuinre",
+  "name": "Kuinre",
+  "type": "wreck",
+  "lat": "52.7878820",
+  "lon": "5.8382378",
+  "location": "Kuinre, Nederland",
+  "firstdate": null,
+  "firstyear": "-200",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "400",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2020-07-29 09:44:44",
+  "modified_on": "2025-06-10 16:41:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In de Noordoost polder bij Kuinre is een fragment van een boomstamboot gevonden. Het is een steven gedeelte uitlopend buiten de opstaande wanden en mal van boven.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001861.jpg\" alt=\"tekening van verschillende fragmenten van een boomstamboot\"> <div class=\"img-source\">RCE beeldbank</div> </figure> <p>Tekening gemaakt in 1964</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewaard gebleven is ca. 3.00 m bij 30 cm breedte bij 32 cm hoogte.<br>Datering is onbekend.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Over de vondst omstandigheden is weinig bekend. Het zou op een diepte van 90 cm zijn gevonden.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Heide, G.D. van der (1974).<br /><em>Scheepsarcheologie: Scheepsopgravingen in Nederland en elders in de wereld , p. 115.</em><br />Strengholt, Naarden.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

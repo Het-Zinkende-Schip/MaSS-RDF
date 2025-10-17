@@ -1,0 +1,26 @@
+{
+  "id": "2261",
+  "code": "vickers-wellington",
+  "name": "Vickers Wellington Mk. II W5375",
+  "type": "plane",
+  "lat": "52.3528790",
+  "lon": "5.6106652",
+  "location": "Harderwijk, Nederland",
+  "firstdate": null,
+  "firstyear": "1941",
+  "firstyearend": null,
+  "lastdate": "1942-04-10",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-23 09:48:03",
+  "modified_on": "2025-06-11 19:45:28",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong>Mission Emden</strong><br>In de nacht van 9 op 10 april 1941 valt het Bomber Command met 96 bommenwerpers de steden Berlijn, Emden en Vegesack aan. <br>Om 22.30 uur stijgt de Vickers Wellington PH-D van de basis Binbrook (Lincolnshire, Engeland) voor een bombardementsvlucht op het havengebied van de Duitse stad Emden.<br><br><strong>Onderschept</strong><br>De Vickers Wellington wordt gesignaleerd door 'Funkme&szlig;stellung Hering' bij Medemblik. De Duitse jachtvlieger Oblt. Egmont Prinz zur Lippe-Wei&szlig;enfeld wordt - in een Messerschmitt Bf 110 - naar de bommenwerper gedirigeerd. Al snel krijgt zur Lippe-Wei&szlig;enfeld de Vickers Wellington in het vizier. Met de Wellington meevliegend schuift de Messerschmitt onopgemerkt onder de buik van de Brit.<br>Hij geeft gas, trekt de neus van zijn jachtvliegtuig omhoog en vuurt met zijn boordkanonnen. Nu pas merken ze in de Vickers dat ze aangevallen worden en proberen ze met verschillende bochten om de achtervolger af te schudden. Tevergeefs, na een vijfde aanval vat de linkermotor vlam. Het vliegtuig ontploft en stort brandend neer in het IJsselmeer bij Harderwijk. De zeskoppige bemanning komt daarbij om het leven.</p> <p>(Bron: <a href=\"https://www.flevolanderfgoed.nl/home/erfgoed/zuidelijk-flevoland-2/vliegtuigwrakken/wellington-w-5375.html\">Flevoland Erfgoed)</a></p></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De namen van de omgekomen bemanningsleden staan vermeld op het Monument voor geallieerde vliegers in Harderwijk.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Flevoland Erfgoed.<br /><a href=\"https://www.flevolanderfgoed.nl/home/erfgoed/zuidelijk-flevoland-2/vliegtuigwrakken/wellington-w-5375.html\">Vickers Wellington Mk. W5375.</a></li><li>Aviation Safety Net.<br /><a href=\"https://aviation-safety.net/wikibase/53599\">ASN Wikibase Occurrence # 53599.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

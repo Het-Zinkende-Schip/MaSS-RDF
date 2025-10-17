@@ -1,0 +1,27 @@
+{
+  "id": "1390",
+  "code": "wapen-van-monnikendam",
+  "name": "Wapen van Monnikendam",
+  "type": "wreck",
+  "lat": "52.9993859",
+  "lon": "4.6532135",
+  "location": "Texel, Nederland",
+  "firstdate": null,
+  "firstyear": "1664",
+  "firstyearend": null,
+  "lastdate": "1683-11-15",
+  "lastyear": "1683",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-16 15:29:14",
+  "modified_on": "2025-07-09 09:13:21",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In augustus 1683 was een vlooteskader onder het bevel van luitenant-admiraal Willem Bastiaensz Schepers uitgezonden naar Gotenburg om Zweden bij te staan tegen Denemarken dat gesteund werd door Frankrijk. Pas in oktober durfde het eskader de Sont binnen te varen.</p> <p>Toen het eskader bij Gotenburg aankwam was de Zweedse koning en zijn leger al vertrokken. De Hollandse vloot kon niets meer uitrichten en maakte rechtsomkeer.&nbsp;<br><strong><br>Storm</strong><br>Op thuisreis werd het eskader, vlak bij huis op de Noordzee, overvallen door een zware storm die dagen aanhield (11-15 november). Veel schepen kwamen in moeilijkheden. Hierbij vergingen 9 van de 24 schepen: Woerden, Hollandia, Tijdverdrijf, Prins te Paard, Leeuwen, Gouda, Wapen van Monnickendam en de Westfriesland. <br><br>De Monnikendam sloeg op het strand kapot bij Kamperduin. Alle opvarenden kwamen om. (De Jonge, III, p. 19) In totaal kost deze ramp aan circa 1200 mensen het leven, waarmee het tot de grootste rampen uit de Nederlandse geschiedenis behoort.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: ca. 1666<br>Bewapening: 66-70 (24, 18 p, 24 12 p, 22 4 pds)<br>Complement 270 crew, 70 soldiers (1672), 350 (1683)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Carsenboom, Pieter</td></tr><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jonge,  J.C.  (1860).<br /><em>Geschiedenis van he Nederlandsche zeewezen III, p. 19.</em><br />Haarlem,Kruze.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

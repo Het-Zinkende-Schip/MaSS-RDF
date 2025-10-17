@@ -1,0 +1,27 @@
+{
+  "id": "1537",
+  "code": "noorderkwartier",
+  "name": "Noorderkwartier",
+  "type": "wreck",
+  "lat": "50.8149595",
+  "lon": "0.4126740",
+  "location": "Pevensey Bay, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1688",
+  "firstyearend": null,
+  "lastdate": "1690-07-10",
+  "lastyear": "1690",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-17 11:50:49",
+  "modified_on": "2025-06-10 16:58:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Na de verloren zeeslag bij Beachy Head vluchtte de gecombineerde Brits-Nederlandse vloot richting Thames monding. Zeven zwaar gehavende schepen werden op sleeptouw genomen. Nagezeten door Franse vloot moesten de schepen waaronder de Noorderkwartier worden opgegeven. De Noorderkwartier werd in de grond geboort.</p> <p>Schout bij Nact Jan Dik sneuvelde in de strijd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: linieschip 2e charter<br>Armament: 70</p> <p>Vlaggenofficier Schout bij nacht Jan Dik</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Dik, Jan (sbn)</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>320</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Schependocumentatie NIMH.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

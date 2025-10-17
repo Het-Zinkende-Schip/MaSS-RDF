@@ -1,0 +1,27 @@
+{
+  "id": "2386",
+  "code": "rooseboom",
+  "name": "Rooseboom",
+  "type": "wreck",
+  "lat": "0.1500000",
+  "lon": "86.5000000",
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1926",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-24 16:38:18",
+  "modified_on": "2025-07-06 20:13:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Rooseboom vertrok uit de Emma Haven op 26 februari vanuit Batavia vertrokken, om via Padang met 500 evacu&eacute;es w.o. 250 Britse soldaten naar Colombo (Ceylon) uit te wijken, door de Japanse onderzeeboot 'I 59' tot zinken gebracht op 600 zeemijl van het eiland Siberoet (0.15 NB, 86.50 OL). Hierbij komen in totaal circa 500 opvarenden om het leven.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002324.jpg\" alt=\"Foto van een lange boot op zee\"> <figcaption class=\"img-description\">.</figcaption> </figure> <p>Slechts vier overlevenden konden door het ss. 'Palopo' worden opgepikt, de enige twee andere overlevenden strandden 26 dagen later met een reddingssloep op het eiland Sipora.</p> <p>Passagiers capaciteit 247</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type : Stoomboot , paketboot<br>Gebouwd: N.V. Werf v/h Rijkee &amp; Co., Rotterdam/Katendrecht</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Boon, M.C.A.</td></tr><tr><th scope=\"row\">Vermogen</th><td>775 pk</td></tr><tr><th scope=\"row\">Lengte</th><td>230 voet (70,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>38 voet (11,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>10 &frac12; voet (3,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1030 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritieme Historische Data.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=5579\">ROOSEBOOM - ID 5579.</a></li><li>Sensuikan.<br /><a href=\"http://www.combinedfleet.com/I-159.htm\">IJN Submarine I-159: Tabular Record of Movement.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

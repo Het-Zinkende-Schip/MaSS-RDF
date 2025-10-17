@@ -1,0 +1,27 @@
+{
+  "id": "4044",
+  "code": "ng37",
+  "name": "NG37",
+  "type": "wreck",
+  "lat": "52.7428720",
+  "lon": "5.7014490",
+  "location": "Emmeloord, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1200",
+  "lastyearend": "1300",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:16:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1955 werd de vondst gemeld van een scheepswrak op kavel G37 in de Noordoostpolder, nabij het huidige Emmeloord. Kort daarop was men ter plekke om een proefgreppel te graven, waaruit werd opgemaakt dat wel eens om een 15de- of 16de-eeuws wrak zou kunnen gaan. Derhalve kwam het voor verder onderzoek in aanmerking, wat nog datzelfde jaar plaatsvond. Het bleek te gaan om een deels overnaads, deels gladboordig gebouwd schip met brede planken en een duidelijke kim (de plek waar het vlak overgaat in het boord). De ondergangsdatering werd nog wat vroeger bijgesteld, naar de 14de/15de-eeuw. Als vondsten werden met name dierlijke botresten en aardewerken scherven aangetroffen, maar daarnaast bijvoorbeeld ook delen van een leren schoen. De stenen die in het wrak gevonden werden dienden als ballast. Ze werden bij het onderzoek gedetermineerd, in een poging meer te weten te komen over hun mogelijke herkomst. De variatie in gesteentesoorten bleek echter opvallend groot, waaruit kon worden opgemaakt dat men erg selectief was geweest met het uitkiezen van vooral zware ballaststenen, maar andere lichtere steensoorten juist links had laten liggen. Dit maakte het moeilijk een specifiek herkomstgebied aan te wijzen.</p> <p>(Maritiem) archeoloog Gerrit (G.D.) van der Heide schreef over de wrakvondst het volgende in de 'Driemaandelijksche berichten betreffende de Zuiderzeewerken 1955' (blz. 177): \"In kavel G37 bleek ook een wrak aanwezig te zijn, nagezonken in de sloef. Hoewel dateerbare vondsten geheel ontbreken, moet het schip stellig als een vroeg type worden opgevat, vermoedelijk gebouwd in de XIII/XIVde eeuw. Het meest opvallend in de bouw is de combinatie van overnaadse- en karveelbouw. Het is thans de tweede maal dat er zich een gelegenheid voordoet deze vrijwel onbekende constructie vast te stellen. Waarschijnlijk droeg het schip &eacute;&eacute;n mast met een razeil. Doordat het stuurboord was omgeklapt en over het gehele schip was komen te liggen, was het schip uitzonderlijk compleet bewaard. Ook de achtersteven bleek aanwezig. Er zijn van dit vaartuig belangrijke delen bewaard evenals van J137.\"</p> <p>De genoemde wrakdelen (nu door hem gedateerd als 13de/14de-eeuws!), alsmede de ballaststenen, zijn thans echter niet meer in het Nationaal Scheepsarcheologisch Depot te Lelystad aanwezig.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2cp-epf2\">Opgravingsdocumentatie scheepswrak NG37.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

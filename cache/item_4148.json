@@ -1,0 +1,27 @@
+{
+  "id": "4148",
+  "code": "ou43",
+  "name": "OU43",
+  "type": "wreck",
+  "lat": "52.4344250",
+  "lon": "5.6362310",
+  "location": "Biddinghuizen, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": "2000",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 17:10:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Op kavel U43 in Oostelijk Flevoland werd in 1964 de vondst gemeld van een uit elkaar geslagen houten schip van jonge datering, dat met dun plaatijzer was bekleed. Het werd nog in hetzelfde jaar verkend. Tussen de scheepsresten werden stukken rioolbuis aangetroffen en scherven van een inmaakpot (Keulse pot) van geglazuurd Duits steengoed, een emaillen potdeksel en stukken van een ge&euml;mailleerde pan. Aan de ploegbaas werd gemeld dat de stukken konden worden verwijderd, omdat ze van geen belang voor verder onderzoek werden geacht. De ligging was 100 m van de weg. 60 m uit sloot U42/43. In 1966 werd 80 meter verderop van de in 1964 verkende scheepsrest opnieuw iets gevonden: fragmenten scheepshout van een 7 meter lang boord. Deze werden beoordeeld als deel uitmakende van het prijsgegeven wrak en er werd gemeld, dat ook dit scheepshout kon worden verwijderd. Uiteindelijk werden slechts twee objecten opgenomen in het Nationaal Scheepsarcheologisch Depot te Lelystad, waarvan inmiddels alleen de emaillen potdeksel nog aanwezig is.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2bg-js3d\">Opgravingsdocumentatie scheepswrak OU43.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4109",
+  "code": "oostvaardersplassen-wrak-90",
+  "name": "Oostvaardersplassen wrak 90",
+  "type": "wreck",
+  "lat": "52.4537190",
+  "lon": "5.3145340",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": "1550",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 15:56:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een eerste verkenning naar een gemeld scheepswrak ('wrak 90') in de Oostvaardersplassen vond plaats in augustus 1989. Hierbij werd toen geen scheepshout gevonden. Bij een herverkenning in oktober 1989 vond men echter een vrij intact scheepswrak. Omdat het wrak in een moerassig gebied ligt is de vindplaats moeilijk begaanbaar, hetgeen ook datering van het schip op dat moment niet mogelijk maakte. De grootte van het is schip is 17 bij 4 meter. Het wrak ligt in een dik en zacht kleipakket en wordt op zijn huidige locatie onder normale omstandigheden goed beschermd. Er is een overzichtstekening gemaakt van datgene wat op dat moment van de scheepsconstructie zichtbaar was. Tijdens de verkenning zijn in of bij het wrak geen vondsten aangetroffen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-259-v3d8\">Opgravingsdocumentatie scheepswrak Oostvaardersplassen wrak 90.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2119",
+  "code": "za87-iv",
+  "name": "ZA87-IV",
+  "type": "wreck",
+  "lat": "52.3641300",
+  "lon": "5.1348500",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:36:29",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens het diepploegen van kavel A87 in Zuidelijk Flevoland, ten zuiden van het Lawsonpad en ten oosten van de IJmeerdijk, in 1983 werd een scheepswrak aangetroffen. In hetzelfde jaar is er door het Nederlands Instituut voor Scheepsarcheologie een verkennend onderzoek uitgevoerd. Het betreft een zeer gaaf en compleet overnaads gebouwd vrachtschip dat rond 1500 is vergaan. Tijdens de verkenning ontbraken alleen de mast, de tuigage en luiken van het ruim. Geconcludeerd werd dat het hout van prima kwaliteit is. Op basis van het bodemprofiel is vastgesteld dat het scheepswrak vermoedelijk uit de vijftiende eeuw dateert. De afmetingen van het wrak zijn ca. 16 m lang bij ca. 4,20 m breed. Interessant is dat het wrak een van de weinige bewaard gebleven 15de-eeuwse schepen is. Dit scheepswrak kan ons veel vertellen over de overgang van overnaads naar karveel gebouwde schepen(van kogge naar hulk). Deze overgang vond waarschijnlijk plaats rond 1530, maar verder is hier nog zeer weinig van bekend. Na de verkenning is het wrak ingekuild en vervolgens met een grondlaag tot ca. 1 meter boven het maaiveld toegedekt. Buiten enkele aardewerk- en glasfragmenten werden onder andere een tinnen kan en een lederen schoen aangetroffen. De schoen is op grond van typologische gegevens gedateerd in het laatste kwart van de vijftiende eeuw.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002015.jpg\" alt=\"De tinnen kan die in het schip is aangetroffen.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Scheepswrak van een rechthoekig vaartuig uit mogelijk de late Middeleeuwen, Almere</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xvd-gtpd\">Opgravingsdocumentatie scheepswrak ZA87-IV.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

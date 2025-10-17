@@ -1,0 +1,27 @@
+{
+  "id": "1603",
+  "code": "zoutberg",
+  "name": "Zoutberg",
+  "type": "wreck",
+  "lat": "32.8426736",
+  "lon": "-34.9804688",
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1623",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1639",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-07 10:49:27",
+  "modified_on": "2025-06-11 16:35:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: WIC kamer Amsterdam<br>Bewapening: 20 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>46</td></tr><tr><th scope=\"row\">Tonnage</th><td>240 ton (120 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Bron: Nationaal Archief, Den Haag, Oude West-Indische Compagnie (OWIC), nummer toegang 1.05.01.01, inventarisnummer 57; nr. 185.<br><em>Lijst van schepen en jachten te Brazili&euml;. [1639]&nbsp;</em></p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Laet, J. (1644).<br /><em>Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, zedert haer begin, tot het eynde van 't jaer sesthien-hondert ses-en-dertich.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

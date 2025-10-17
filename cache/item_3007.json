@@ -1,0 +1,27 @@
+{
+  "id": "3007",
+  "code": "ootmarsum-2",
+  "name": "Ootmarsum",
+  "type": "wreck",
+  "lat": "49.1520523",
+  "lon": "-6.2836203",
+  "location": "English Channel",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": "1917-02-17",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-27 10:39:33",
+  "modified_on": "2022-09-27 10:49:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Ootmarsum</strong></em> was samen met <em><strong>de Trompenberg</strong></em> op weg van Penarth (bij Cardiff) naar Las Palmas, In het Engelse kanaal werden ze aangehouden door de Duitse onderzee&euml;r <em><strong>UC 66</strong></em>, en vervolgens met explosieven tot zinken gebracht. De 23 opvarenden verlieten het schip en konden op &eacute;&eacute;n persoon na gered worden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Wm. Gray &amp; Co. Ltd., West Hartlepool (UK)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>23</td></tr><tr><th scope=\"row\">Lengte</th><td>281 &frac12; voet (85,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>42 &frac34; voet (13 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>19 voet (5,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2313 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4922\">marhisdata id 922.</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/4565.html\">UC66, hit by.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1060",
+  "code": "simaloer",
+  "name": "SS Simaloer",
+  "type": "wreck",
+  "lat": "56.5820775",
+  "lon": "-13.9218707",
+  "location": "North Atlantic Ocean",
+  "firstdate": "1920-10-13",
+  "firstyear": "1920",
+  "firstyearend": null,
+  "lastdate": "1941-03-02",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-15 16:06:27",
+  "modified_on": "2025-06-09 13:45:38",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis met een lading suiker van Palembang via Freetown naar London op de Atlantische Oceaan, ten noord-westen van Ierland, in positie 56.43 NB en 10.46 WL bij een Duitse luchtaanval in brand geschoten waarbij de opvarenden het schip verlieten. Twee Chinese bemanningsleden verloren het leven. Het wrak is 4 maart 1941 nog drijvende gezien maar is op een later tijdstip toch gezonken. Het schip voer wegens te lage snelheid niet in konvooi.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Vrachtschip<br>Gebouwd: N.V. Nederlandsche Scheepsbouw-Maatschappij, Amsterdam, 1921<br>Eigenaar: N.V. Stoomvaart Maatschappij 'Nederland', Amsterdam<br>Dimensies: 128.02 x 16.61 x 10.97 Meters Registered<br>Tonnage: 6587<br>Voortstuwing: Steam, Triple Expansion<br>Snelheid: 12</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>420 voet (128 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>6587 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Twee Chinese bemanningsleden werden gedood:<br>Lai Wah stoker, Yip Fook Lin stoker</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 75.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

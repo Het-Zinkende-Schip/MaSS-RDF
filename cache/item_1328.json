@@ -1,0 +1,27 @@
+{
+  "id": "1328",
+  "code": "rotterdama-welvaren",
+  "name": "Rotterdams Welvaren",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1780",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1789",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-05-28 10:06:11",
+  "modified_on": "2024-12-24 13:37:35",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het schip <em>Rotterdams Welvaren</em> werd meteen na de bouw in 1780 opgelegd omdat oorlog met Engeland was uitgebroken (vierde Engelse oorlog 1780-1784). Het duurde tot 1784 voor ze aan haar eerste retourreis kon beginnen.</p> <p>Ze maakte haar tweede uitreis naar Batavia 26-7-1785.</p> <p>Op haar tweede thuisreis (vertrek Batavia 18-11-1789) verging Rotterdams Welvaren tussen Batavia en de Kaap. Alle 101 opvarenden, waaronder 26 Chinezen, kwamen om.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Rotterdam, 1780<br>Tonnage: 440<br>Bemanning: 101<br>Schipper: Willem Jacob Kudde</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.vocsite.nl/schepen/detail.html?id=11163\">VOC site.</a></li><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/99052\">DAS 8269.2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "860",
+  "code": "delft-1657",
+  "name": "Delft",
+  "type": "wreck",
+  "lat": "51.8204368",
+  "lon": "4.1240101",
+  "location": "Hellevoetsluis, Nederland",
+  "firstdate": null,
+  "firstyear": "1656",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1658",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-22 12:55:16",
+  "modified_on": "2024-09-22 12:39:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In juli 1658 wordt Pieter Wouterse Wijnbergh aangesteld als kapitein ordinaris op het schip van oorlog Delft van de admiraliteit van Rotterdam.&sup1;</p> <p>Het schip heeft een jaar eerder dienst gedaan in het vlooteskader van admiraal Wassenaar van Opdam. Dit eskader (12 schepen en een bevooradingsfluit) vertrok 5 september 1657 om de westkust van Portugal te blokkeren. En de Portugezen te dwingen De Taag werd op 25 september bereikt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: eerst genoemd 1657<br>Eigenaar: admiraliteit Maze, Rotterdam<br>Bewapening: 32 stukken</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.01.02/invnr/12273/file/NL-HaNA_1.01.02_12273_0354?eadID=1.01.02&amp;unitID=12273&amp;query=\">NL-HaNA_1.01.02_12273_0354.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

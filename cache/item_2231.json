@@ -1,0 +1,27 @@
+{
+  "id": "2231",
+  "code": "witte-leeuw-1665",
+  "name": "Witte Leeuw",
+  "type": "wreck",
+  "lat": "13.4281590",
+  "lon": "80.3358078",
+  "location": "Pulicat, India",
+  "firstdate": null,
+  "firstyear": "1665",
+  "firstyearend": null,
+  "lastdate": "1670-11-03",
+  "lastyear": "1670",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-13 10:34:43",
+  "modified_on": "2024-11-26 12:12:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het schip de <em>Witte Leeuw</em> werd gekocht door de VOC in 1665. Het vertrok op 28 oktober van dat jaar naar Azi&euml; en kwam op 26 juni 1666 in Batavia aan.</p> <p>De General Missieven van de VOC vermelden dat de&nbsp;<em>Witte Leeuw</em> samen met de <em>Caneelboom </em>op 6 november 1670 uit Bengalen naar Batavia vertrokken was. De lading bestond voornamelijk uit zijde (waarde 376458 gulden).</p> <p>De twee schepen kwamen nooit aan in Batavia. Ter hoogte van Pulicat spoelden wrakstukken aan, zodat er van uit gegaan werd dat de twee fluiten daar vergaan zijn. De uitloopboeken (scheepslijsten, via DAS, zie referenties) vermelden echter dat het schip op 3 november 1670 vergaan is op de kust van Orissa, dus een stuk noordelijker in India.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001750.jpg\" alt=\"Kaart van de Golf van Bengalen, Zeekaart van de baai van Bengalen; uit het vijfde deel van de Franse editie van de Grote Atlas van Janssonius, collectie atlas van Loon.\"><div class=\"img-source\">Maritiem Museum Rotterdam</div><figcaption class=\"img-description\">Detail van een kaart van de Golf van Bengalen door Johannes Janssonius.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>47</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00004231.jpg?modifiedon=1720429759\" alt=\"archiefnummer 4.VEL/109. Plan van het fort Geldria in Pulicat, 1708, anoniem\"><div class=\"img-source\">Nationaal Archief</div></figure><p class=\"figcaption\"><br>Plattegrond van het fort Geldria bij Pulicat, anoniem, 1708.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92157\">DAS 1040.1.</a></li><li>Coolhaas.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=757&amp;accessor=toc&amp;source=3&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Ftoc%2Findex_html%3Fpage%3D756%26source%3D3%26id%3Dtoc&amp;view=\">Generale missiven III. 743.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

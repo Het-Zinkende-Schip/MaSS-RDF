@@ -1,0 +1,27 @@
+{
+  "id": "4024",
+  "code": "ne159",
+  "name": "NE159",
+  "type": "wreck",
+  "lat": "52.6302030",
+  "lon": "5.7603010",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": "1500",
+  "firstyearend": "1600",
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:36:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1963 vond de opgraving plaats van een 16de-eeuws scheepswrak op kavel E159 in de Noordoostpolder. Daar waren de resten van een overnaads gebouwd vrachtschip aangetroffen. Bij dit onderzoek werd een deel van het boord geborgen en opgenomen in het Nationaal Scheepsarcheologisch Depot te Lelystad. Verder zijn er bij het onderzoek enkel monsters genomen van het wrak. Een paar jaar later, in 1969, is op dezelfde kavel nog een stuk harpuis aangetroffen, een mengsel van hars en lijnolie dat werd gebruikt aan boord voor behandeling van touwen en dergelijke.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xn6-s84f\">Opgravingsdocumentatie scheepswrak NE159.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

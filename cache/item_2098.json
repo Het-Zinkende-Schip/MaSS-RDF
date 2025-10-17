@@ -1,0 +1,27 @@
+{
+  "id": "2098",
+  "code": "zm41",
+  "name": "ZM41",
+  "type": "wreck",
+  "lat": "52.3716300",
+  "lon": "5.5020900",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1925",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:52:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tussen de Schollevaarweg en de Hoge Vaart, nabij het Trekkersveld is tijdens het greppeltrekken op kavel M41 in Zuidelijk Flevoland in 1973 een scheepswrak aangetroffen. In hetzelfde jaar is er een verkennend onderzoek uitgevoerd. In 1979 is een herverkenning uitgevoerd waarbij het schip volledig is gedocumenteerd. Het vaartuig is een vrij klein type vissersschip (botter). Het schip is 11,6 bij 3,5 meter groot en is onder zware slagzij over bakboord in de bodem afgezonken. De huidplanken zijn met twee tot drie houten pennen aan de inhouten bevestigd. De pennen zijn aan de buitenkant voorzien van deutels. Het schip is zwaar beschadigd. De stuurboordzijde was geheel afwezig, de voorsteven was geheel verdwenen evenals het bovenste deel van de achtersteven en het voordek. Als gevolg van het trekken van een drainsleuf miste een strook in het achterschip. De bakboordzijde was daarentegen vrij compleet. In het midden van het schip is een bun aangetroffen. De bun reikte van zijde tot zijde en was 3,65 meter lang. De datering van het schip is vrij recent, circa eind negentiende of begin twintigste eeuw. In het wrak zijn onder andere een mes, een ijzeren beslag, pokhouten schijven en een gietijzeren plaat met houten omlijsting aangetroffen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een vrij kleine botter uit de negentiende of twintigste eeuw, Zeewolde</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002062.jpg\" alt=\"De romp van een opgegraven houten boot\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">De bun met de doorboorde gaten.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002061.jpg\" alt=\"Een vierkante vuurplaat in een opgegraven schip\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">In het midden van het schip waren de vuurplaat en vuurkist nog aanwezig.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002060.jpg\" alt=\"Deel van een houten schip\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Overzichtsfoto van de botter.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-24d-yh2k\">Opgravingsdocumentatie scheepswrak ZM41.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "795",
+  "code": "landskroon",
+  "name": "Landskroon",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indische Oceaan, tussen Ceylon en de Kaap ",
+  "firstdate": null,
+  "firstyear": "1725",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1739",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-07-04 11:04:43",
+  "modified_on": "2025-04-25 16:33:57",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Landskroon</em> was in gebruik van 1725 tot 1739. Het schip is vergaan op de terugreis van Ceylon naar Nederland op de Indische Oceaan.</p> <p><em>Tussen de Caap en Batavia gebleven 1739.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4934/file/NL-HaNA_1.04.02_4934_0058?query=\">*</a></em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd op de VOC werf in Amsterdam, 1725<br>VOC Kamer van Amsterdam<br>Lengte 145 voet<br>Laadvermogen 425 last (850 ton)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4934/file/NL-HaNA_1.04.02_4934_0058?query=\">NL-HaNA_1.04.02_4934_0058.</a></li><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/97897\">DAS 7066.5.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1186",
+  "code": "valkenburg",
+  "name": "Valkenburg",
+  "type": "wreck",
+  "lat": "-2.4062138",
+  "lon": "107.0474855",
+  "location": "Near Bangka, Indonesië",
+  "firstdate": null,
+  "firstyear": "1637",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1647",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-04 09:11:22",
+  "modified_on": "2025-05-18 15:33:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In gebruik bij de VOC vanaf 1637 tot juni 1647 (vergaan, Banka)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd in 1637 werf in Amsterdam<br><br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91533\">Details of voyage 0495.1 from Texel to Batavia.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

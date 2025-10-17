@@ -1,0 +1,27 @@
+{
+  "id": "1188",
+  "code": "valkenisse",
+  "name": "Valkenisse",
+  "type": "wreck",
+  "lat": "-5.8914068",
+  "lon": "105.6704186",
+  "location": "Lampong bocht, Sumatra, Indonesië",
+  "firstdate": null,
+  "firstyear": "1717",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1740",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-06 10:39:30",
+  "modified_on": "2025-06-10 11:33:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Valkenisse</em> was een VOC spiegelretourschip van het grootste charter (160 voet. Gebouwd in Middelburg.<br>Het schip maakte zes retourreizen tussen 1717 en 1733.<a href=\"https://www.vocsite.nl/schepen/11057/\">&sup1;</a></p> <p>Na de laatste uitreis van Rammekens (17-4-1733) naar Batavia bleef ze dienst doen in de archipel.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004342.png\" alt=\"model 1717\"> <div class=\"img-source\">Museum of Fine Arts Boston</div> <figcaption class=\"img-description\">Een 18e eeuw model van de Valkenisse is in het bezit van Museum of Fine Arts in Boston. Het is gerestaureerd door Rob Napier.</figcaption> </figure> <p>Haar laatste reis eindigde in de Bocht van Lampong omtrent Bantam gestrand volgens de lijst van alle schepen op 10 januari 1741.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0197?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup2;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Middelburg, 1717<br>Lengte: 160<br>Tonnage: 575 last, 1150 tons<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93950\">Details of voyage 2912.7 from Rammekens to Batavia.</a></li><li>Napier, Rob, (2008).<br /><em>Valkenisse, retourschip of 1717 : Reconditioning an Eighteenth-Century Ship Model. - Florence, USA: SeaWatchBooks, 2008.</em></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0197?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0133?eadID=1.04.02&amp;unitID=4935&amp;query=\">NA_1.04.02 4935 0133.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

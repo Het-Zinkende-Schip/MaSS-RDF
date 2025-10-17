@@ -1,0 +1,27 @@
+{
+  "id": "2971",
+  "code": "lauwerzee-sch-165",
+  "name": "Lauwerzee (SCH 165)",
+  "type": "wreck",
+  "lat": "52.4040882",
+  "lon": "3.3902565",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1917-06-29",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-14 11:39:02",
+  "modified_on": "2025-07-18 16:54:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Lauwerzee</em> (visserijnummer SCH 165) was een stoomtrawler met Scheveningen als thuishaven. Tijdens de Eerste Wereldoorlog, op 28 juni 1917, voer het uit voor kustvisserij. Er werd daarna niets meer van het schip vernomen. Vermoed wordt dat het schip met man en muis is vergaan in de storm die vanaf die vrijdag woedde op de Noordzee. De omgekomen bemanning bestond uit de schipper genaamd Vrolijk, zijn zoon en zijn zwager met diens zoon en daarnaast drie Rotterdammers die de machinekamer bedienden.<br><br></p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003306.jpg\" alt=\"artikel: NEDERLAND EN DE OORLOG. De Lauwersee. Omtrent het lot van de sleepboot-kusttreiler &bdquo;Lauwerzee&quot; Sch. 165 schip-per G. Vrolijk bestaat, nu zij reeds 8 dagen uit is weinig of geen hoop meer. Hoogstwaar-schijnlijk is het vaartuig dat Donderdag voor een week was uitgegaan den volgenden dag Vrijdag in 't stormweer met man en muis verongelukt. Het scheepje was niet groot en stak weinig boven het water uit. De bemanning bestond uit 4 Scheveningers, schipper Vrolijk en drie familie-leden, zijn zoon, zijn zwager en diens zoon en drie Rotterdammers voor de machine, stoker en tremmer. Het scheepje behoorde aan de N. V. Lauwerzee, directeur H. F. van der Boon, te Scheveningen.\"> <div class=\"img-source\">Delpher.nl</div> <figcaption class=\"img-description\">Een bericht uit de Arnhemse courant 8-7-1917 over de verdwijning van de Lauwerzee.</figcaption> </figure> <p>'De Courant' van 10 augustus vermeldt een gerechtelijk onderzoek naar het vergaan. Het was voor het laatst gezien op ten zuidoosten van de Nieuwe Waterweg op 29 juni. Scheveningse vissers meenden het schip gezien te hebben op terwijl het slagzij maakte en omringd werd door drie andere schepen, maar deze getuigenis werd door de krant als onbetrouwbaar afgedaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: stoomtrawler/sleepboot<br>Eigenaar: NV Lauwerzee, Scheveningen, H.P. van der Boom</p> <p>De <a title=\"MarHisData Lauwerzee\" href=\"https://www.marhisdata.nl/schip&amp;id=3630\">MarHisData</a> database vermeldt een zeesleper genaamd <em>Lauwerzee</em> dat eigendom was van L. Smit &amp; Co&rsquo;s Sleepdienst te Rotterdam en dat in 1916 voor de visserij uitgerust werd. Het schip kreeg het visserijnummer MA 139 maar ging varen vanuit Ijmuiden. De informatie over dit schip lijkt daar echter door elkaar te lopen en naar verschillende schepen te verwijzen. Het schip lijkt verder te groot om de SCH 165 te zijn.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003294.jpg?modifiedon=1705654477\" alt=\"Een ansichtkaart van de visserijhaven in Ijmuiden met stoomtrawlers, oa.a de HVH2 en de IJM151\"> <div class=\"img-source\">Public Domain</div> <figcaption class=\"img-description\">Stoomtrawlers in de haven van Ijmuiden met op de voorgrond de HVH 2 en de IJM 151.</figcaption> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>7</td></tr><tr><th scope=\"row\">Tonnage</th><td>47 ton (24 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak is niet gevonden.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Lauwerzee&amp;cql%5B%5D=%28date+_gte_+%2229-06-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2210-07-1917%22%29&amp;facets%5Btype%5D%5B%5D=artikel&amp;redirect=true&amp;sortfield=datedesc&amp;identifier=MMNHA03:179001012:mpeg2\">Arnhemse Courant  (8-7-1917).</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Lauwerzee&amp;cql%5B%5D=%28date+_gte_+%2201-07-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2201-09-1917%22%29&amp;redirect=true&amp;page=2&amp;identifier=MMKB19:003540184:mpeg21:a00056&amp;resultsidentifier=MMKB19:003540184:\">De Courant (10-08-1917).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

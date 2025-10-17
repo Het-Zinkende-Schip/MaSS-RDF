@@ -1,0 +1,27 @@
+{
+  "id": "2530",
+  "code": "eendracht-1605",
+  "name": "Eendracht",
+  "type": "wreck",
+  "lat": "12.5636785",
+  "lon": "80.2180481",
+  "location": "Coromandel, India",
+  "firstdate": null,
+  "firstyear": "1604",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1610",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-03-29 14:31:18",
+  "modified_on": "2024-06-17 16:32:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Eendracht</em> was nog voor de oprichting van de VOC aangekocht en heette aanvankelijk <em>De Haai</em>. Het vaartuig maakte deel uit van de zogenaamde vloot van 14 schepen die een aparte administratie had binnen die van de Compagnie, maar werd na terugkomst in juni 1604 aangekocht door de VOC en opnieuw naar Azi&euml; gezonden.</p> <p>De Eendracht vertrok uit de Maas op 20 mei 1605. Ze was op 22 mei 1606 op Mauritius. Via Mauritius arriveerde de Eendracht op 15 juli 1607 in Bantam. Het schip maakt vervolgens reizen naar de kust van India en naar de Molukken. Op 17 oktober 1609 vertrok De Eendracht onder schipper/koopman Willem Jansz opnieuw via Atjeh naar de oostkust van India. Het was de bedoeling het schip daar - in Massulipatnam - te verdubbelen, maar dat bleek niet meer mogelijk. Ze bleef in Azi&euml; en werd verbrand in augustus 1610 op de kust van Coromandel, India.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Haai, Adriaan Kornelisz.</td></tr><tr><th scope=\"row\">Tonnage</th><td>240 ton (120 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Nationaal Archief.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02\">NA 1.04.02 (VOC) 226 [Resolutie 28-6-1604] Aankoop door de VOC.</a></li><li>DAS.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91149\">Details of voyage 0095.1 to Bantam.</a></li><li>Nationaal Archief.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02\">NA 1.04.02 (VOC) 1055 map Coromandel. Reis naar Massulipatnam.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

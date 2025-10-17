@@ -1,0 +1,27 @@
+{
+  "id": "1471",
+  "code": "kolderveen-1888",
+  "name": "Kolderveen 1888",
+  "type": "wreck",
+  "lat": "52.7237618",
+  "lon": "6.1536426",
+  "location": "Kolderveen Nijenveen, Nederland",
+  "firstdate": null,
+  "firstyear": "-100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "25",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-26 12:31:34",
+  "modified_on": "2025-06-10 16:38:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De boomstambootdelen met een bordje 'KANO&rsquo; er op gespijkerd in het Rijksmuseum van Oudheden, is naar we nu aannemen Kolderveen 1888. (Maarleveld 19). Voorheen werd altijd aangenomen dat het de Nijenveen 1 uit 1870 betrof. Maar de maten details stemmen niet overeen met de Nijenveen 1870.</p> <p>Het Kolderveen ligt ten Zuidoosten van Nijenveen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001855.jpg\" alt=\"foto van Het Kolderveen, een boomstamboot en die ligt ten Zuidoosten van Nijenveen.\"> <div class=\"img-source\">RCE</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Een boomstamboot van eiken<br>Lengte 5.58 m.</p> <p>Datering: 2480 BP -</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De Kolderveen kano is bewaard gebleven (RMO depot Alphen aan de Rijn)</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Pleyte, W. (1888).<br /><em>Kano Kolderveen.</em><br />Meppeler Courant 28-11-1888.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

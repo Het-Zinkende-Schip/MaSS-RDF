@@ -1,0 +1,27 @@
+{
+  "id": "2289",
+  "code": "overijssel-1703",
+  "name": "Overijssel",
+  "type": "wreck",
+  "lat": "51.7501595",
+  "lon": "2.7465820",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1703",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1709",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-07 10:14:18",
+  "modified_on": "2025-06-11 23:42:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Overijssel was een snelle zeiler. Op 23 maart 1704 wist De Overijssel in de straat van Gibraltar het Frans schip L'arrogant te stoppen en tot overgave te dwingen.In de lucht gevlogen in 1709. (bron: Schependocumentatie NIMH)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Ootshoorn, J. van,</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>230</td></tr><tr><th scope=\"row\">Lengte</th><td>140 voet (42,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 voet (12,2 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Glavimans,<br /><a href=\"https://rjb.x-cago.com//GARJB/1900/12/19001231/GARJB-19001231-0129/story.pdf\">appendix schepen op de admiraliteitswerf gebouwd.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

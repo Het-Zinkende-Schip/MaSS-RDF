@@ -1,0 +1,27 @@
+{
+  "id": "1334",
+  "code": "standvastigheid-16",
+  "name": "Standvastigheid",
+  "type": "wreck",
+  "lat": "-33.9069851",
+  "lon": "18.4717877",
+  "location": "Salt River, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1687",
+  "firstyearend": null,
+  "lastdate": "1695-10-12",
+  "lastyear": "1695",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-05 12:26:22",
+  "modified_on": "2024-11-12 17:32:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Standvastigheid</strong></em> was een jacht gebouwd in Cochin Malabar (India ) voor regionaal gebruik in dienst van de VOC.</p> <p>Het jacht werd ingezet voornamelijk in het westerkwartier (Indische Oceaan) ,</p> <p>De Standvastigheid werd 22 februari uitgezonden naar de Kaap en Mauritius om o.a. ebben hout te laden . Ze strandde aan de monding van de Soute rivier op 10 juli 1695. De lading werd geborgen.<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=758&amp;accessor=search_in_text&amp;source=5&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1219&amp;view=imagePane\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Cochin, Malabar, 1687<br>afmetingen 114 x 27,5 vt.<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=745&amp;accessor=search_in_text&amp;source=5&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26\">Generale missiven Deel 5,</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

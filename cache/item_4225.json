@@ -1,0 +1,27 @@
+{
+  "id": "4225",
+  "code": "haas-2",
+  "name": "Haas",
+  "type": "wreck",
+  "lat": "52.3046136",
+  "lon": "1.6835511",
+  "location": "Southwold, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1660",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1672",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2024-11-01 12:36:39",
+  "modified_on": "2025-07-25 15:22:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Haas</em> was een als brander ingericht schip gehuurd door de admiraliteit Zeeland.</p> <p>Tijdens de slag bij Solebay 7 juni 1672 werd de brander door de eigen bemanning in brand gestoken om verovering te voorkomen.</p> <p>De slag bij Solebay was de eerste zeeslag van de Derde Engels-Nederlandse Oorlog. Een vloot van 75 oorlogsschepen, 22 adviesjachten en 32 branders, met 4500 kanonnen en 20.700 opvarenden, van de Republiek der Zeven Verenigde Nederlanden, onder het bevel van admiraal Michiel de Ruyter, verraste een Engels-Franse vloot van 93 oorlogsschepen en 24 branders met 6158 kanonnen en zo'n 40.000 opvarenden, in de Solebay bij Southwold aan de kust van Suffolk, aan de oostkant van Engeland.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001697.jpg\" alt=\"Schilderij van een zeeslag. Links zinkt een schip in zee, rechts staan er schepen in brand.\"> <figcaption class=\"img-description\">Zeeslag bij Solebay</figcaption> </figure> <p>De verliezen aan manschappen waren enorm aan de Britse zijde: ongeveer 2500 man. De Nederlanders telden slechts enkele honderden doden. Daar stond tegenover dat de Nederlanders meer schepen verloren. Twee Nederlandse schepen werden tot zinken gebracht, een derde explodeerde kort na de eigenlijke slag, en nog eens twee werden door de Engelsen ge&euml;nterd. Beide partijen zagen zichzelf als overwinnaars. Het was in ieder geval een strategische overwinning voor de Republiek: de blokkade was mislukt en de Republiek was beter in staat de schade te herstellen. (<a href=\"https://nl.wikipedia.org/wiki/Slag_bij_Solebay\">bron: wikipedia</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan van Ede</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Vreugdenhil, A.<br /><a href=\"https://nla.gov.au/nla.obj-33239056/view?partId=nla.obj-82158244#page/n35/mode/1up\">Part IV Ships Of The United Netherlands 1648-1702,nr. 680.</a></li><li><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0014.php\">Het leven en het bedrijf van den Heere Michiel de Ruyter, XL 660.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

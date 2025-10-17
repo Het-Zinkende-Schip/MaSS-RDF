@@ -1,0 +1,27 @@
+{
+  "id": "2235",
+  "code": "zandhorst",
+  "name": "Zandhorst",
+  "type": "wreck",
+  "lat": "-6.6646076",
+  "lon": "66.4453125",
+  "location": "Indische oceaan",
+  "firstdate": null,
+  "firstyear": "1701",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1711",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-13 13:52:43",
+  "modified_on": "2024-11-26 10:32:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Zandhorst zesde thuis reis van Ceylon (20-12-1710) via de Kaap naar Nederland was haar laatste reis. De fluit kwam nooit aan bij de Kaap en is vermist op de Indische Oceaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>125</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97134\">DAS 6247.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0173?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

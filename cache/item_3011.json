@@ -1,0 +1,27 @@
+{
+  "id": "3011",
+  "code": "tjimahi",
+  "name": "Tjimahi",
+  "type": "wreck",
+  "lat": "17.0000000",
+  "lon": "112.0000000",
+  "location": "Paracel group",
+  "firstdate": null,
+  "firstyear": "1903",
+  "firstyearend": null,
+  "lastdate": "1915-05-14",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-28 12:00:41",
+  "modified_on": "2022-09-28 12:28:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Door een navigatiefout strandde de <em><strong>Tjimahi</strong></em> op 14 mei 1915 op het Noorderrif van de Paracel-eilanden, Spoedig bleek, dat het schip reddeloos verloren was en op 19 mei 1915 verlieten de opvarenden het schip, dat als Total Loss werd geabandonneerd. Het wrak van de TJIMAHI was reeds op 22 mei 1915 in de golven verdwenen. Het schip was op reis van Hong Kong naar Java, toen zij bij Triton-Island (&eacute;&eacute;n van de eilanden van de Paracel-groep) op een rif liep.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>348 voet (106,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>46 voet (14 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3878 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6608\">marhisdata id 6608.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

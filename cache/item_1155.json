@@ -1,0 +1,27 @@
+{
+  "id": "1155",
+  "code": "hertog-van-brunswijk-1795",
+  "name": "Hertog van Brunswijk",
+  "type": "wreck",
+  "lat": "-6.0602364",
+  "lon": "106.7719684",
+  "location": "Teluk Jakarta, Indonesië",
+  "firstdate": null,
+  "firstyear": "1792",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1796",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-21 10:53:10",
+  "modified_on": "2025-02-21 20:04:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Hertog van Brunswijk vertrekt vanuit Texel naar Oost Indi&euml; . Ze komt 9-7-1794 aan in Batavia.</p> <p>In 1795 of 1796 is&nbsp;<em>de Hertog van Brunswijk </em>bij Batavia<em> </em>vergaan.</p> <p>In 1799 staat het schip echter nog op de equipage lijst.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/2.01.27.02/invnr/107/file/NL-HaNA_2.01.27.02_107_0566?eadID=2.01.27.02&amp;unitID=107&amp;query=107\">&sup1;</a></p> <p><br>Volgens Van Eyck door de Engelsen in 1799 in Azi&euml; genomen.</p> <p>Eyck van Heslinga, E.S. van, 1988. Van compagnie naar koopvaardij : de scheepvaartverbinding van de Bataafse Republiek met de koloni&euml;n in Azi&euml; 1795-1806. - Amsterdam: De Bataafsche Leeuw, 1988.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1792<br>Lengte: 150 vt<br>Tonnage: 575 last<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

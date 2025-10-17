@@ -1,0 +1,27 @@
+{
+  "id": "1266",
+  "code": "trompetter",
+  "name": "Trompetter",
+  "type": "wreck",
+  "lat": "56.0545938",
+  "lon": "-1.9348834",
+  "location": "Berwick, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1691",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1691",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-30 13:28:46",
+  "modified_on": "2024-12-23 10:50:57",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Trompetter</strong></em> werd in 1691 in Amsterdam gebouwd.</p> <p>Ze vertrok uit Texel op 22 juli 1691 voor haar eerste uitreis naar Suratte in India.* via de Route achterom (Noord Schotland ) om de Franse vijand in het Kanaal te vermijden.</p> <p>Desondanks werd de Trompetter ter hoogte van de Schotse kust aangevallen en veroverd door de gevreesde Franse kaper Jean Bart. Het schip werd overmeesterd en de lading (kwikzilver) en kanonnen werden eruit gehaald waarna het verder onbruikbare schip werd verbrand. Drie opvarenden kwamen om. De rest werd aan land gezet en kwamen uiteindelijk in Edinburg terecht (<a href=\"https://www.delpher.nl/nl/kranten/view?query=Trompetter&amp;coll=ddd&amp;sortfield=date&amp;page=3&amp;facets%5Bperiode%5D%5B%5D=2%7C17e_eeuw%7C1690-1699%7C1691%7C&amp;identifier=ddd:011226590:mpeg21:a0004&amp;resultsidentifier=ddd:011226590:mpeg21:a0004&amp;rowid=9\">Oprechte Haarlemse Courant</a>)</p> <p>De Amsterdamse Courant noemde de locatie \"<em>ter hoogte van Boekenes</em> \". (<a href=\"https://www.delpher.nl/nl/kranten/view?query=Trompetter&amp;coll=ddd&amp;sortfield=date&amp;page=3&amp;facets%5Bperiode%5D%5B%5D=2%7C17e_eeuw%7C1690-1699%7C1691%7C&amp;identifier=MMSAA06:165522253:mpeg21:a00004&amp;resultsidentifier=MMSAA06:165522253:mpeg21:a00004&amp;rowid=10\">Amst. Courant</a>)</p> <p class=\"note\">*) Uitloopboek, en Lijst van alle zodanige schepen vermelden 22 juli 1691 . DAS vermeldt 21-12-1691</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd/Built: werf Oosterburg, Amsterdam 1691<br>Bemanning: 80<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Sieuwer Karstensz.</td></tr><tr><th scope=\"row\">Lengte</th><td>95 Amsterdamse&nbsp;voet (26,9 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92692\">DAS 1632.1.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000248.jpg\">NA 1.04.11.01.01. 551-184, Lijst van alle zoodanige Schepen.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Trompetter&amp;coll=ddd&amp;sortfield=date&amp;page=3&amp;facets%5Bperiode%5D%5B%5D=2%7C17e_eeuw%7C1690-1699%7C1691%7C&amp;identifier=MMSAA06:165522253:mpeg21:a00004&amp;resultsidentifier=MMSAA06:165522253:mpeg21:a00004&amp;rowid=10\">Amsterdamse Courant (28-8-1691).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

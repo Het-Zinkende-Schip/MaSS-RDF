@@ -1,0 +1,27 @@
+{
+  "id": "1109",
+  "code": "persijnenburg",
+  "name": "Persijnenburg",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Vermist tussen Batavia en de Kaapkolonie",
+  "firstdate": null,
+  "firstyear": "1752",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1756",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-03 13:39:13",
+  "modified_on": "2024-07-26 15:20:30",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Persijnenburg </strong></em>vertrok uit Batavia voor de thuisreis op 14 januari 1756.</p> <p>Het schip kwam nooit bij de Kaap aan. De Persijnenburg is ergens op de Indische Oceaan vergaan.&nbsp;<a title=\"P-06_551\" href=\"https://cultureelerfgoed.info/mass/?file=00000278.jpg\" target=\"_blank\" rel=\"noopener\">Lijst van alle schepen</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Enkhuizen in 1752 <br>Tonnage: 440 last (880 ton)</p> <p>Schipper: Pieter Arendse</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/99229\">DAS 7472.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0150?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 147.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

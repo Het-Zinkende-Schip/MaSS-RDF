@@ -1,0 +1,27 @@
+{
+  "id": "1293",
+  "code": "nieuwendam",
+  "name": "Nieuwendam",
+  "type": "wreck",
+  "lat": "-6.6432266",
+  "lon": "118.9407640",
+  "location": "Pulau Sumanga , , Indonesië",
+  "firstdate": null,
+  "firstyear": "1662",
+  "firstyearend": null,
+  "lastdate": "1670-10-01",
+  "lastyear": "1670",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-13 10:54:17",
+  "modified_on": "2025-06-02 18:01:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De <strong>Nieuwendam</strong></em> is een oorlogsjacht dat werd ingezet in de Intra Aziatische handel.</p> <p>Het schip verongelukte toen het geladen met Sppanhout van Bima naar Makassar onderweg was bij de de Postillion en Pater Nostre Eilanden.</p> <p>Schipper Antonio van Doren werd later aangeklaagd vanwege het verzeilen en verspillen van buskruit (<a href=\"https://archive.org/details/daghregistergeh00kologoog/page/362/mode/2up?q=Nieuwendam\">Dagregister p 363</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf Oostenburg Amsterdam, 1661 (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/151/file/NL-HaNA_1.04.02_151_0141?eadID=1.04.02&amp;unitID=151&amp;query=151\">lijst van timmeringen</a>&nbsp;<br>Dimensies 100 x 23,5 vt<br>Tonnage: 105 last<br>Complement: 53<br>Bewapening: 20</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92093\">DAS 0976.1.</a></li><li>Dam, Pieter van (1702).<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/vandam/#page=519&amp;accessor=searchText&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=1\">Beschrijvinge van de Oostindische Compagnie 1639-1701.</a></li><li><a href=\"https://archive.org/details/daghregistergeh00kologoog/page/362/mode/2up?q=Nieuwendam\">Daghregister 30-12-1670, 363.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

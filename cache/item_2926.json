@@ -1,0 +1,27 @@
+{
+  "id": "2926",
+  "code": "salland",
+  "name": "Salland",
+  "type": "wreck",
+  "lat": "49.9673656",
+  "lon": "-5.9140113",
+  "location": "Wolf Rock, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1905",
+  "firstyearend": null,
+  "lastdate": "1917-01-23",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-31 11:03:29",
+  "modified_on": "2025-06-15 14:02:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Britse stoomschip <em><strong>Hilmere</strong></em> werd gekocht door Koninklijke Hollandsche Lloyd in 1912 en herdoopt in <em><strong>Salland</strong></em>. Ze werd bestemd voor de vaart op Brazilie.</p> <p>Op haar laatste reis was de Salland op weg van Amsterdam naar Buenos Aires. In Cardiff, werd een lading steenkolen ingenomen.</p> <p>Op 23 januari 1917 om 05.20 uur werd se Sallans door de Duitse onderzeeboot 'U 55' getorpedeerd. Alle opvarenden konden worden gered en aan boord worden genomen van de Britse torpedobootjager HMS 'Hope' en vervolgens in Plymouth aan wal gezet.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Russell &amp; Co. Ltd, Port Glasgow, Great Britain<br>Eigenaar 1: Hill S.S. Co. Ltd., Liverpool, Great Britain (1905-1912</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>A. Vreugdenhil</td></tr><tr><th scope=\"row\">Snelheid</th><td>9 knopen ~ 17 km/u (10 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>339 &frac12; voet (103,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>48 voet (14,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 voet (5,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3657 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5674\">marhisdata.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

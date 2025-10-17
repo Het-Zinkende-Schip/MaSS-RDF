@@ -1,0 +1,27 @@
+{
+  "id": "4201",
+  "code": "gekroonde-haring",
+  "name": "Gekroonde Haring",
+  "type": "wreck",
+  "lat": "-8.5230995",
+  "lon": "123.1902751",
+  "location": "Lembata, westpunt, Indonesië",
+  "firstdate": null,
+  "firstyear": "1664",
+  "firstyearend": null,
+  "lastdate": "1669-12-16",
+  "lastyear": "1669",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2024-06-25 12:38:24",
+  "modified_on": "2025-07-25 15:10:25",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Gekroonde Haring</strong></em> was een hoeker van 72 voet lengte en een laadvermogen van ca 40 last uitgerust door de VOC kamer Zeeland. Ze vertrok uit Wielingen op 12-2-1665.(<a title=\"G-02_551\" href=\"https://cultureelerfgoed.info/mass/?file=00000134.jpg\" target=\"_blank\" rel=\"noopener\">1</a>)<br>Na aankomst in de Tafelbaai op 30-6-1665 eerst enige tijd in die regio ingezet. en op 30-9-1666 naar Batavia en daarna vooral ingezet bij Makassar.</p> <p>De hoeker Gekroonde Haring vertrok uit Makassar 15 oktober:</p> <p><em>Den hoekerboot, den Gekroondem Haringh, van Macassar naar Timor vertrocken, was den 16en december 1669 op de westhoeck van Lombatte bij &lsquo;t gat van Lambale verongeluckt, sijnde het volck en eenige goederen gesalveert</em></p> <p>(<a href=\"https://archive.org/details/daghregistergeh00kologoog/page/n85/mode/2up\">Dagregister Batavia 16-5-1670</a>)</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004221.jpg\" alt=\"Getekende landkaart van verschillende eilanden bij elkaar.\"> <div class=\"img-source\">NA_4.VEL_1288</div> <figcaption class=\"img-description\">Verongelukt op de westpunt van Lombatte, &lsquo;t gat van Lambale ligt midden op de kaart.</figcaption> </figure> <p>De schipper en stuurman werden verantwoordelijk gehouden voor het ongeluk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Rotterdam<br>Lengte 72 voet<br>Schipper: Johan de Wolff</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>16</td></tr><tr><th scope=\"row\">Tonnage</th><td>80 ton (40 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://archive.org/details/daghregistergeh00kologoog/page/n85/mode/2up\">Dagregister Batavia 16-5-1670, p. 73.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

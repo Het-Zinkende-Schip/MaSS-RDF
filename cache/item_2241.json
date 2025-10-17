@@ -1,0 +1,27 @@
+{
+  "id": "2241",
+  "code": "romeins-schip-leiden",
+  "name": "Romeins schip Leiden",
+  "type": "wreck",
+  "lat": "52.1496989",
+  "lon": "4.5110464",
+  "location": "Leiden, Nederland",
+  "firstdate": null,
+  "firstyear": "100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "300",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-15 11:37:47",
+  "modified_on": "2025-06-11 19:27:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1912 werd bij de aanleg van het Rijn-Schie kanaal resten van een Romeins schip gevonden. De voorzichtige identificatie en datering werd afgeleid uit een tweetal omgevingsvondsten; Romeins terra nigra aardewerk. Later bleek dat de scheepsresten in het trace van het Romeine kanaal van Corbulo lagen vlak bij het toen nog niet ontdekte castellum Matilo.</p> <p>Sindsdien zijn er tal van Romeinse scheepsresten gevonden in Nederland. Meestal waren het afgedankte schepen die als kade beschoeing werden afgezonken.</p> <p>Van het schip is niets bewaard gebleven. De toenmalige onderdirecteur van het Rijksmuseum van Oudheden Holwerda was ter plaatse maar constateerde dat:\"deze belangrijke vondst helaas bij ons te laat berkend werd.\"</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

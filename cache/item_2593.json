@@ -1,0 +1,27 @@
+{
+  "id": "2593",
+  "code": "staberhuk-1",
+  "name": "Staberhuk 1",
+  "type": "wreck",
+  "lat": "54.4000000",
+  "lon": "11.5500000",
+  "location": "Baltic Sea (German EEZ), Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1950-11-03",
+  "lastyear": "1950",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-06-03 19:18:54",
+  "modified_on": "2025-07-11 17:42:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This wooden wreck has not been identified with certainty, but it was tentatively associated with a stone-fishing vessel, which sunk with a crew of 7 in November 1950.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The wreck is heavily overgrown with sea anemones, so it is difficult to recognise any details, as demonstrated by the photos taken by Erhard Schulz (shown below). Nonetheless, a windlass for the anchor cable, an angular transom stern, and a well-preserved rudder were observed. The fact that there is no indication for a propeller, and thus no engine, calls the hypothesis into question that this could be a vessel of the mid 20th century. Amongst wreck-divers it has simply become known as <em>Zweimaster</em> (two-masted vessel).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002657.jpg\" alt=\"a shipwreck on the bottom of the sea, covered with algae\"> <div class=\"img-source\">Erhard Schulz</div> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002658.jpg\" alt=\"photo of a wooden ship on the bottom of the sea, completely covered with algae\"> <div class=\"img-source\">Erhard Schulz</div> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002659.jpg\" alt=\"photo of a wooden ship on the bottom of the sea, completely covered with algae\"> <div class=\"img-source\">Erhard Schulz</div> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>7</td></tr><tr><th scope=\"row\">Lengte</th><td>78 &frac34; voet (24 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Following the hint of the historian who traced the fate of the abovementioned stone-fishing vessel, the Maritime and Hydrographic Agency of Germany (BSH: <em>Bundesamt f&uuml;r Seeschifffahrt und Hydrographie</em>) intensively searched this area and discovered the wreck in 2006.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Oppelt, I. (2019).<br /><em>Wracktauchen: Die schönsten Tauchplätze der Ostsee.</em><br />Wetnotes.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

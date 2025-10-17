@@ -1,0 +1,27 @@
+{
+  "id": "1338",
+  "code": "schiedam-1620",
+  "name": "Schiedam",
+  "type": "wreck",
+  "lat": "-5.8676897",
+  "lon": "108.3888053",
+  "location": "Pulau Biawak, bij, Indonesië",
+  "firstdate": null,
+  "firstyear": "1620",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1633",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-08 10:29:35",
+  "modified_on": "2025-06-10 13:45:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Schiedam</strong></em> maakte de retourreis driemaal. Ze vertrok voor haar eerste reis <br>op 4 april 1620 vanuit Goeree. Ze kwam in Batavia aan op 11 oktober.<br>Na haar derde uitreis (aankomst Batavia 30 augustus 1628) bleef ze in Azi&euml; dienst doen. Het schip is in februari 1633 vergaan ter hoogte van Boomkens eiland.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001797.gif\" alt=\"West-java_1718_NA\"> <div class=\"img-source\">Rijksmuseum NG-501-78</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Delfshaven, 1620<br>Tonnage: 150 last<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/11353/file/NL-HaNA_1.04.02_11353_0006?eadID=1.04.02&amp;unitID=11353&amp;query=11353\">*</a></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91399\">DAS 0361.3.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/11353/file/NL-HaNA_1.04.02_11353_0006?eadID=1.04.02&amp;unitID=11353&amp;query=11353\">NL-HaNA_1.04.02_11353_0006.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1016",
+  "code": "farmsum",
+  "name": "SS Farmsum",
+  "type": "wreck",
+  "lat": "52.5380546",
+  "lon": "-24.5039041",
+  "location": "Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1929",
+  "firstyearend": null,
+  "lastdate": "1940-12-07",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-06 12:08:48",
+  "modified_on": "2025-06-09 12:54:57",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het s.s. \"Farmsum\" vertrok 1 December 1940 in konvooi OB 252 met 8.200 ton steenkool van Blyth naar Canada. Door het slechte weer was het konvooi al snel uit elkaar geslagen. Op de Atlantische Oceaan getorpedeerd door de Duitse onderzeeboot 'U 99' en tot zinken gebracht op positie 52.11&deg; N / 22.56&deg; W.</p> <p>Na tien dagen met slecht weer in de reddingboot te hebben doorgebracht, werden de overlevenden eindelijk ontdekt door een Flying boat. Een half uur daarna werden de schipbreukelingen opgepikt door de torpedoboot<br><em>Ambuscade.</em><br>Op 15 December overleed in de reddingboot door uitputting de ass. machinist E. Lubliek en op 17 December de ass. machinist W. Willemse; aan boord van de \"Ambuscade\" . Op 20 December zijn nog overleden de kok D. Broersma en de stoker A. van Heemst.<br>16 bemanningsleden kwamen om het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Vracht <br>Gebouwd: A. Vuyk &amp; Zonen, Capelle aan den IJssel, NL, 1929<br>Eigenaar: Stoomvaart Mij. \"Oostzee\" N.V. te Amsterdam<br>Dimensies: 128.55 x 17.12 x 8.88 Meters Registered<br>Tonnage: 5251.00 Gross tonnage<br>Kapitein: B. Jansma</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2165\">Maritiem Historische Data ID 2165.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

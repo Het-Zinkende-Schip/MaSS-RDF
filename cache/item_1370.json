@@ -1,0 +1,27 @@
+{
+  "id": "1370",
+  "code": "s-graveland-2",
+  "name": "'s Graveland",
+  "type": "wreck",
+  "lat": "45.3452369",
+  "lon": "-5.9511394",
+  "location": "Golf van Biskaje",
+  "firstdate": null,
+  "firstyear": "1722",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1729",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-01 10:01:06",
+  "modified_on": "2024-12-24 13:55:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>'s Graveland</em> vertrok 3 februari 1729 uit Batavia. <br>Na een tussen stop van een maand&nbsp;<br>&nbsp;<br><em>Gebleven op z'n thuisreis met al het volck in de Spaanse Zee</em>.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0176?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Oostenburg Amsterdam<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97586\">DAS 6755.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0176?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

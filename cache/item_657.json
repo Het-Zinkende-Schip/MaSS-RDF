@@ -1,0 +1,27 @@
+{
+  "id": "657",
+  "code": "vlaardingen-fragement",
+  "name": "Vlaardingen fragment long boat",
+  "type": "wreck",
+  "lat": "51.9077644",
+  "lon": "4.3437538",
+  "location": "Vlaardingen, Grote Markt, Nederland",
+  "firstdate": null,
+  "firstyear": "970",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1000",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-08 10:46:33",
+  "modified_on": "2025-06-07 12:27:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>During excavations, parts of a ship's wood were found on the market in Vlaardingen.&nbsp;The piece of wood was incorporated into the lid of an 11th-century pit burial that was found at the 'Gat in the Market' location. The lid was made up of different pieces of wood that showed no mutual coherence. This piece of wood is very special.</p> <p>Two planks were connected with an oblique weld, with an additional connection with rivets. A crack had been repaired with a board, the seams of which were sealed with sheep's wool. The details suggest that this is a piece of a Viking ship. The wood was reused in a grave.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000388.jpg\" alt=\"Oseberg ship\"></figure> <h2>Date</h2> <p>The archaeological context suggests a dating from the end of the 10th to the beginning of the 11th century Dendrochronological research yields a dating after around 967.</p> <p><br>The curve of the ship's wood turned out to correspond to an English calendar of oak. The wood is therefore from southern England and can be dated between 971-1008. England was conquered by the Danes in 1013. The origin of the wood and the date makes it fairly certain that the ship was built by Danish vikings.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: scandinavian longboat knar, or drakar</p> <p>Fragment: 7.0 cm x 37.0 cm oak wood with rivets</p> <p>Keel boats originated from Scandinavia. They were originally large rowboats without sails that grew into the long ships of the Viking period.</p> <p>The basis consisted of a T-shaped keel that formed the backbone of the ship. The first aisles were attached to the crossbars of the keel. The remaining planks were applied over and attached to each other with rivets. The trusses were attached to the edges with wooden pins with protruding convex heads.</p> <p>Below the waterline, trusses were not connected to the edges. This ensured a high degree of elasticity and increased resilience at sea. The mast was mounted in an extra beam longitudinally on the keel. The seams were made watertight with caulk consisting of animal hair (cows and sheep wool). There is a clear difference between lightly built long ships (\"drakar\") that were built for war purposes and the more robust merchant ships (\"knar\").</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Ex situ</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"https://www.geschiedenisvanvlaardingen.nl/\">History of Vlaardingen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

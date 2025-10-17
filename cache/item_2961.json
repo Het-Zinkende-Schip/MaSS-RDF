@@ -1,0 +1,27 @@
+{
+  "id": "2961",
+  "code": "catriena",
+  "name": "Catriena",
+  "type": "wreck",
+  "lat": "57.5730691",
+  "lon": "4.1686042",
+  "location": "Noordzee, t.h.v. Egersund",
+  "firstdate": null,
+  "firstyear": "1901",
+  "firstyearend": null,
+  "lastdate": "1918-04-07",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-12 10:40:41",
+  "modified_on": "2025-06-15 14:23:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De schoener <em><strong>Catriena</strong></em> vertrok 28 maart op de eerste reis voor haar nieuwe eigenaar van Rotterdam naar Egernsund (Noorwegen). Aan boord een lading hoepels en dakpannen.</p> <p>Bij aankomst was, wegens het slechte weer, de loodsdienst in Egernsund buiten dienst en koos het schip weer zee. Op 07.04.1918 werd ze beschoten door de Duitse UB 73. Bij het in de sloep gaan werd de kapitein dodelijk getroffen en werd de stuurman gewond. De bemanning moest met bommen naar het schip terugroeien en het schip werd tot zinken gebracht.</p> <p>De bemanning werd daarna aan haar lot overgelaten. Na 24 uur roeien bereikte men de Noorse kust.</p> <p>RC 14.04.1918: Stavanger, 9 april.<br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: twee mast schoener<br>Gebouwd: Scheepswerf Gebr. Gebhardt &amp; Co. (Gideon), Groninge</p> <p>Eigenaar 1: Geert Engel(s) Brouwer, Groningen</p> <p>Eigenaar 2: N.V. Scheepvaart-Maatschappij Zuid-Holland, Rotterdam (1917)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Bos, R.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>4</td></tr><tr><th scope=\"row\">Lengte</th><td>101 &frac34; voet (31 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>18 voet (5,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>115 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://uboat.net/wwi/ships_hit/1173.html\">Uboat.net UB 73.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=1334\">marhisdata id 1334.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Catriena&amp;coll=ddd&amp;sortfield=date&amp;page=5&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1918%7C&amp;identifier=MMKB04:000189881:mpeg21:a0024&amp;resultsidentifier=MMKB04:000189881:mpeg21:a0024&amp;rowid=8\">De Maasbode (14-04-1918).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

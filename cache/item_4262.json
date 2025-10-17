@@ -1,0 +1,27 @@
+{
+  "id": "4262",
+  "code": "weltevreden",
+  "name": "Weltevreden",
+  "type": "wreck",
+  "lat": "-33.9177227",
+  "lon": "18.4526681",
+  "location": "Tafelbaai, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1740",
+  "firstyearend": null,
+  "lastdate": "1748-04-22",
+  "lastyear": "1748",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-04-05 14:53:36",
+  "modified_on": "2025-06-14 18:40:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>Het VOC schip Weltevreden</em> begon haar eerste - van drie succesvolle - retourreizen 27-10-1740 vanuit Texel naar Batavia. Haar vierde uitreis begon 7-1-1747.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003722.jpg?modifiedon=1705654502\" alt=\"Woodstock-strand met uitzicht op Milnerton\"> <div class=\"img-source\">Thomas Baines</div> </figure> <p class=\"figcaption\">Op dit schilderij 'Woodstock beach looking toward Milnerton' van Thomas Baines zij resten van (gesloopte) wrakken te zien in de Tafelbaai</p> <p>Ze vertrok 20-11-1748 uit Batavia in de retourvloot. Ze was op weg naar de Kaap en raakte in een zware storm al haar rondhout en haar roer kwijt. Stuurloos liep De Weltevreden april 1748 aan de grond op een rif bij Kaap Agulhas. Zij is daarna naar de Tafelbaai gesleept. Ze kwam 22-4-1748 aan. Daar is na grondige inspectie geconstateerd dat het schip niet meer te repareren was en werd ze daar gesloopt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://dekok.xyz/htrsearch/browse?scan=76211&amp;archief=VOC\">inventarisnr  7564,sc 9.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0212?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 209.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

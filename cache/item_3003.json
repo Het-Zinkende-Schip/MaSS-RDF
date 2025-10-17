@@ -1,0 +1,27 @@
+{
+  "id": "3003",
+  "code": "martha-1917",
+  "name": "Martha",
+  "type": "wreck",
+  "lat": "56.8827390",
+  "lon": "6.7427949",
+  "location": "Thyboron, Denemarken",
+  "firstdate": null,
+  "firstyear": "1917",
+  "firstyearend": null,
+  "lastdate": "1918-08-19",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-26 10:32:57",
+  "modified_on": "2025-06-15 17:10:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Martha werd gebouwd in 1917. Ze werd door de oorlogsomstandigheden geruime tijd opgelegd.</p> <p>Op 17 augustus vertrok ze van Rotterdam naar Helsing&oslash;r (Denemarken) met 476 ton gezouten groenten. Daarna is niets meer van het schip vernomen. Wel zijn twee reddingsboten aangespoeld. De negen opvarenden worden vermist.<br>&nbsp;<br>Volgens een bericht van de reederij is bij Thyboron, op de Westkust van Denemarken een boot aangespoeld, gemerkt &bdquo;Martha\". Daar ook veel mijnen op die plaats zijn aangespoeld, ligt het vermoeden voor de hand, dat het schip op een mijn gelopen en met de gehele bemanning gezonken is.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type : 3 mast motorschoener<br>Gebouwd: N.V. Werf 'Zeeland', Hansweert, Zeeland<br>Eigenaar: Vrachtvaart mij. Hollandia, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Leeuwen, K.J. van</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>9</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4116\">marhisdata.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

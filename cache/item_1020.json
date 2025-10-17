@@ -1,0 +1,27 @@
+{
+  "id": "1020",
+  "code": "apollonia-2",
+  "name": "Apollonia",
+  "type": "wreck",
+  "lat": "49.9784869",
+  "lon": "-5.8551635",
+  "location": "Lizard Point, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1931",
+  "firstyearend": null,
+  "lastdate": "1940-11-25",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-07 11:48:49",
+  "modified_on": "2025-02-06 11:28:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>&nbsp;De tanker <strong><em>Apollonia</em></strong> , op weg van Plymouth naar Avonmouth, wordt in de nacht van 24 op 25 november 1940 het Kanaal (8 mijl zuidwest van Wolf Rock en Lizard Point) aangevallen door een eskader van drie Duitse torpedobootjagers ('Richard Beitzen', 'Karl Galster' en 'Hans Lody').</p> <p>Al snel wordt het schip geraakt door granaten. Een aantal Chinese bemanningsleden tracht dekking te zoeken in het stuurhuis, dat echter een voltreffer krijgt met fatale gevolgen voor de mannen. Als het vuren tijdelijk wordt gestaakt laat de kapitein de stuurboordsloep strijken. Na hervatting van het vuren wordt de 'Apollonia' aan stuurboord getroffen door twee torpedo&rsquo;s. 23 bemanningsleden weten nog veilig in de gestreken sloep te komen. Veertien opvarenden komen hierbij om het leven. Twee Nederlanders en de overige slachtoffers waren Chinezen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: 1931<br>Eigenaar: N.V. Nederlandsch-Indische Tankstoomboot Maatschappij, Den Haag&nbsp;<br>Dimensies: 91.26 (loa) x 14.60 x 4.50 m<br>Tonnage: 2086<br>Voortstuwing: Oil, 2-stroke single-acting, Power: 1020<br>Bemanning: 36<br>Kapitein: P. Schol</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Schol.  P.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>36</td></tr><tr><th scope=\"row\">Snelheid</th><td>9 knopen ~ 17 km/u (10 mijl per uur)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2086 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 53.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=558\">marhisdata id 558.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

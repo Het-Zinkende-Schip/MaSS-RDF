@@ -1,0 +1,27 @@
+{
+  "id": "2868",
+  "code": "marcus-aurelius-kw-66",
+  "name": "Marcus Aurelius (KW 66)",
+  "type": "wreck",
+  "lat": "52.7370676",
+  "lon": "3.5584714",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1918-02-26",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-29 14:21:34",
+  "modified_on": "2025-06-15 12:01:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Marcus Aurelius is op 26-02-1918 vertrokken ter visserij in de zogenaamde vrije vaargeul. Na die datum is er van het schip en zijn 6 koppige bemanning niets meer vernomen. Vermoed wordt dat de Marcus Aurelius door oorlogsomstandigheden is komen te verongelukken.</p> <p>Aan boord waren<br>&nbsp;Cornelis Plokker 27 jaar<br>stuurman Pieter Nicolaas Hoek 29 jaar<br>matroos Huig van der Bent 32 jaar<br>matroos Jacob van der Plas 22 jaar<br>matroos Klaas van Dijk 22 jaar<br>jongste Willem van der Plas 16 jaar</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: stalen zeillogger vissersvaartuig</p> <p>Eigenaar: NV Loggermaatschappij Marcus Aurelius, Katwijk</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Ouwehand H.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>6</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://geneakatwijk.webtrees.net/tree/katwijk/note/N28/KW-66-quot-Marcus-Aurelius-quot\">Marcus Aurelius.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Marcus+Aurelius+KW+66%22&amp;coll=ddd&amp;sortfield=datedesc&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1918%7C&amp;identifier=MMKB08:000189657:mpeg21:a0002&amp;resultsidentifier=MMKB08:000189657:mpeg2\">Uitspraken van den Raad voor de Scheepvaart en uitspraken in beroep van den voorzitter van dien raad      27-05-1918.</a></li><li><a href=\"https://hdl.handle.net/21.12111/cvr-cvr-40013294\">Centraal Visserij register 40013294.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

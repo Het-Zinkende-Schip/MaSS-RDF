@@ -1,0 +1,27 @@
+{
+  "id": "2545",
+  "code": "vrijheid-1666",
+  "name": "Vrijheid",
+  "type": "wreck",
+  "lat": "51.2479913",
+  "lon": "2.3291016",
+  "location": "Vlaamse bank, België",
+  "firstdate": null,
+  "firstyear": "1666",
+  "firstyearend": null,
+  "lastdate": "1666-06-14",
+  "lastyear": "1666",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-04-24 16:51:14",
+  "modified_on": "2021-04-24 16:53:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Verloren gegaan tijdens de Vierdaagse zeeslag (11-14 juni 1666).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Ingericht als brander met 2 stukken.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Engel Adriaansz.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>14</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2082",
+  "code": "za87-ii",
+  "name": "ZA87-II",
+  "type": "wreck",
+  "lat": "52.3630700",
+  "lon": "5.1382600",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:17:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In het jaar 1983 is op kavel A87 in Zuidelijk Flevoland, aan het Pampushout, een scheepswrak ontdekt. Een jaar later is door het Centrum voor Scheepsarcheologie een verkennend onderzoek uitgevoerd. Het betreft een kleine Amsterdamse modderschouw. Een modderschouw is een schip dat werd gebruikt voor het transport van havenslib. Het vaartuig is in de tweede helft van de zeventiende eeuw vergaan.</p> <p>Het wrak is ongeveer 12 m lang en 3 m breed. Het hout is van slechte kwaliteit. Uit onderzoek blijkt dat modderschouwen op grote schaal werden geproduceerd. De bereikbaarheid van de Amsterdamse haven leed ernstig onder de overvloed van slib dat uit de Zuiderzee afkomstig was. Door de aanwezigheid van het vele slib dreigden de havenactiviteiten onmogelijk te worden. Vanaf de zeventiende eeuw werd het probleem grootschalig aangepakt. Dat blijkt uit het feit dat het Amsterdamse stadsbestuur in &eacute;&eacute;n keer 100 modderschouwen bestelde! Voor het uitdiepen van de havens werd er gebruikgemaakt van zogenaamde moddermolens, die het slib in de modderschouwen deponeerde. De modder werd in eerste instantie gebruikt om binnen de stad percelen op te hogen. Later werden de schouwen versleept naar plaatsen buiten Amsterdam om met de inhoud kades, dijken en percelen grond op te hogen. Het feit dat er in het huidige Almere een modderschouw uit Amsterdam is aangetroffen, kan alleen verklaard worden door het feit dat het schip vermoedelijk is losgeslagen. Tijdens de verkenning zijn een aantal vondsten aangetroffen waaronder een gedraaid, houten handvat met koperen huls, twee stenen knikkers en een loden knoop. Na de documentatie is het schip afgevoerd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Scheepswrak van een modderschouw, 2e helft 17e eeuw, Almere</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zcm-zqfa\">Opgravingsdocumentatie scheepswrak ZA87-II.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

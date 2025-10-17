@@ -1,0 +1,27 @@
+{
+  "id": "3008",
+  "code": "trompenberg",
+  "name": "Trompenberg",
+  "type": "wreck",
+  "lat": "48.8403726",
+  "lon": "-6.9643901",
+  "location": "English Channel",
+  "firstdate": null,
+  "firstyear": "1906",
+  "firstyearend": null,
+  "lastdate": "1917-02-17",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-27 10:56:08",
+  "modified_on": "2022-09-27 11:16:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Trompenberg</strong></em> was samen met <a href=\"https://mass.cultureelerfgoed.nl/ootmarsum-2\"><strong>De Ootmarsum</strong></a> onderweg van Cardif naar Las Palmas. Ze werden aangehouden door de Duitse onderzee&euml;r UC 66 en met springladingen tot zinken gebracht. Alle 21 opvarenden kwamen veilig aan land..</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: A. Vuijk &amp; Zonen, Capelle a/d Yssel <br>Eigenaar: N.V. Stoomboot Mij. &ldquo;Hillegersberg&rdquo; (Vinke &amp; Co.), Amsterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>21</td></tr><tr><th scope=\"row\">Lengte</th><td>269 &frac34; voet (82,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>39 voet (11,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1608 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://uboat.net/wwi/ships_hit/6134.html\">uboat.net ships_hit/6134.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6706\">marhisdata id 6706.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1038",
+  "code": "wapen-van-emmerik",
+  "name": "Wapen van Emmerik",
+  "type": "wreck",
+  "lat": "51.4330363",
+  "lon": "3.4663880",
+  "location": "Schooneveld, Nederland",
+  "firstdate": null,
+  "firstyear": "1672",
+  "firstyearend": null,
+  "lastdate": "1673-06-16",
+  "lastyear": "1673",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-09 13:33:43",
+  "modified_on": "2025-06-09 13:23:35",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>In de slag bij SchonevTwee Amsterdamsche brandtscheepen zyn ter zelver tydt vruchteloos verbrandt. Het eene, genoemt de Salmander, werdt van de vyanden in brandt geschooten. Het ander, genoemt het wapen van Emmerik, gevoert door den Kommandeur Jan van Kampen, meende een groot vyandtlyk schip aan te steeken, doch dreef al brandende voorby.eld ingezet als brander tegen de Engelse -Franse vloot. (Brand XIV, 802)</em></p> <p>De Eerste Slag bij het Schooneveld of de Eerste Slag op Schoneveld was een van de twee zeeslagen bij het Schooneveld tijdens de Derde Engels-Nederlandse Oorlog. De eerste slag, die voor de Nederlandse kust gevoerd werd, vond plaats op 7 juni 1673. De Frans-Engelse vloot onder leiding van Ruprecht van de Palts werd in de twee slagen door Michiel de Ruyter verslagen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 4</p> <p>Complement: 18 zeelieden, 4 soldaten</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kampen, Jan van</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>22</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0017.php\">Het leven en het bedrijf van den Heere Michiel de Ruyter, XIV, p 787, 802.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

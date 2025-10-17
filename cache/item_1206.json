@@ -1,0 +1,27 @@
+{
+  "id": "1206",
+  "code": "ridderschap-van-holland-2",
+  "name": "Ridderschap van Holland",
+  "type": "wreck",
+  "lat": "51.8352118",
+  "lon": "2.5191649",
+  "location": "Golf van Biskaje",
+  "firstdate": null,
+  "firstyear": "1666",
+  "firstyearend": null,
+  "lastdate": "1690-03-29",
+  "lastyear": "1690",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-12 12:10:45",
+  "modified_on": "2024-12-17 09:35:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Ridderschap van Holland.&nbsp;<br>Vlaggenschip van vice admiraal Johan de Liefde tijdens de vierdaagse zeeslag 1666.<br>Vlaggenschip van schout-bij-Nacht Jan Jansse van Nes tijdens de <a href=\"https://nl.wikipedia.org/wiki/Slag_bij_Solebay\">slag bij Solebay</a> (7-6-1672)<br>Vlaggenschip van Eland du Bois tijdens <a href=\"https://nl.wikipedia.org/wiki/Slag_bij_Kijkduin\">Slag bij Kijkduin</a> 21-8-1673</p> <p>Philips van Almonde in 1674 actions against the French west coast.</p> <p>De Ridderschap is tijdens een zware storm voor de Spaanse kust vergaan in de Golf van Biskaje.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Rotterdam, Salomon Janszoon 1665-1666<br><br>Dimensies: 150 x 40 x 15 (amst vt)<br>Bemanning: 350 (1666)<br>Commandeur: Jan de Liefde (vice admiraal) 1665-67, Eland Dubois (1667-1673)<br>Vlaggenschip Jan van Nes (1672)<br><br>Bewapening: 66 (1666)</p> <p>br 24pdr, 18-18pdr, 4-br 12pdr, 22-12pdr, 12-6pdr, 4-br 4pdr, 4-4pdr</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>G. van Reyn, Glavimans.<br /><a href=\"http://rjb.x-cago.com/GARJB/1900/12/19001231/GARJB-19001231-0129/story.pdf\">Beschrijving van Rotterdam, Bijlage: II Schepen op de admiraliteitswerf gebouwd.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

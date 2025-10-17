@@ -1,0 +1,27 @@
+{
+  "id": "3159",
+  "code": "bruidegom",
+  "name": "Bruidegom",
+  "type": "wreck",
+  "lat": "-33.1235973",
+  "lon": "18.0372902",
+  "location": "Kraal Bay, Langebaan lagoon, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1674-04-09",
+  "lastyear": "1674",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-16 09:43:01",
+  "modified_on": "2025-04-30 11:11:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Bruidegom</strong></em> was een klein vaartuig.&nbsp;De Bruidegom heeft de Kaapkolonie ongeveer twintig jaar gediend. Ze werd in maart naar de Saldanha baai gezonden om klaksteen en schelpen te laden. Op 8 april 1674 strandde ze in de baai nadat ze een rots had geraakt tussen de Meeuw- en Skaap-eilanden.</p> <p>Waarschijnlijk hetzelfde schip dat in 1671 door de Kaapse gouverneur werd gestuurd om vast te stellen of er landingsplaatsen waren aan de noordoostelijke kant van False Bay. Deze expeditie vond een kleine ankerplaats in wat nu bekend staat als Gordons Bay.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives.</a><br />Cape Town: South African Heritage Resources Agency.</li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/24/file/NL-HaNA_1.11.06.18_24_0080?eadID=1.11.06.18&amp;unitID=24&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 9-4-1674.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

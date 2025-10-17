@@ -1,0 +1,27 @@
+{
+  "id": "4016",
+  "code": "zc46",
+  "name": "ZC46",
+  "type": "wreck",
+  "lat": "52.4229020",
+  "lon": "5.2811700",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": "1321",
+  "firstyearend": "1333",
+  "lastdate": null,
+  "lastyear": "1300",
+  "lastyearend": "1350",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:30:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In augustus en september 1999 is een verkenning verricht naar gevonden scheepshout op kavel C46 in Zuidelijk Flevoland, onderdeel van de Oostvaardersplassen. Het bleek te gaan om een zwaar gebouwd schip met een karveel vlak en overnaadse boorden van ongeveer 14 meter, gedateerd op de 14de of 15de eeuw. Het wrak deed sterk denken aan een kogge of kogge-achtig vaartuig. Het middeleeuwse schip werd beschouwd als van groot wetenschappelijk belang en daarom werden beschermende maatregelen voorgesteld. Deze konden echter niet worden gerealiseerd omdat men door was gegaan met werkzaamheden in het gebied. De vindplaats kwam hierdoor onder de (ondiepe) waterspiegel te liggen, maar is wel afgedekt met landbouwplastic. Vervolgens is er een flink pakket klei op aangebracht, waardoor er een soort eilandje in het plassengebied is ontstaan.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zan-x73a\">Opgravingsdocumentatie scheepswrak ZC46.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

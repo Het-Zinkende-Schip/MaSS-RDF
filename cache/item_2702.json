@@ -1,0 +1,27 @@
+{
+  "id": "2702",
+  "code": "north-point-wreck",
+  "name": "North Point Wreck",
+  "type": "wreck",
+  "lat": "21.3439414",
+  "lon": "-71.2098648",
+  "location": "Salt Cay, Turks- en Caicoseilanden",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1855",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Ruud Stelten",
+  "created_on": "2021-11-24 19:03:37",
+  "modified_on": "2024-02-23 11:31:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Onbekend wrak</h2> <p>Buiten de noordwestelijke punt van Salt Cay (een eiland dat tot de Turks en Caicos eilandengroep in het Caribisch gebied behoort) ligt een houten scheepswrak dat tot op heden nog niet ge&iuml;dentificeerd is. Het zou kunnen dat het de overblijfselen zijn van de brik <em>Gustavus</em>, die in deze omgeving zonk in 1855. Het was de bedoeling dat he schip op 5 januari 1855 het eiland Grand Turk zou bezoeken om zout te verzamelen. De <em>Gustavus</em> raakte op drift in een zware storm en werd op de noordkust van Salt Cay gedreven waar het op het ondiepe rif stootte en zonk (informatie gevonden in <em>The Sailor's Magazine, and Naval Journal</em>, 1855, p. 279).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002891.jpg?modifiedon=1705654452\" alt=\"Aerial view of Salt Cay's northern reef. The wreck is the elongated narrow dark spot in the middle of the foreground.\"><div class=\"img-source\">The Shipwreck Survey</div><figcaption class=\"img-description\">Luchtfoto van het noordelijke rif van Salt Cay. Het wrak is de langwerpige donkere vlek in het midden van de voorgrond.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>In 2019 voerden archeologen Ruud Stelten (The Shipwreck Survey) en Joost Morsink (SEARCH, Inc.) een onderzoek uit op de wraklocatie. De locatie, die op een diepte van zes meter ligt, bleek gedeeltelijk begraven te zijn, maar het zichtbare houtwerk was 10.2 meter lang. Het hout bleek in relatief goede staat te zijn, met maar weinig schade door paalworm. Dit suggereert dat het wrak lange tijd onder het zand begraven heeft gelegen. Een deel van de wraklocatie is bedekt met visnetten. Hoewel het grootste deel van de houten structuur intact was, waren aan de noordkant een aantal vergane stukken hout zichtbaar, wat de kwetsbare aard van het wrak onderstreept. Er werden geen artefacten gevonden. Er werden verscheidene metingen gedaan en er is een 3-D fotogrammetrisch model gemaakt van de wraklocatie. Dit model zal dienen als een driedemensionale basis waaraan toekomstig onderzoek van het wrak getoetst kan worden.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002890.jpg\" alt=\"Ruud Stelten documenting the North Point Wreck.\"><div class=\"img-source\">Joost Morsink</div><figcaption class=\"img-description\">Ruud Stelten documenteerd de overblijfselen van het wrak.</figcaption></figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Ruud Stelten.<br /><a href=\"https://www.theshipwrecksurvey.com/research-detail/turks-caicos-islands-2/\">The Shipwreck Survey.</a></li><li>Leiden University.<br /><a href=\"https://www.universiteitleiden.nl/nexus1492/news/an-interview-with-dr.-ruud-stelten\">Interview with Dr. Ruud Stelten.</a></li><li><em>The Sailor's Magazine, and Naval Journal, p. 279.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

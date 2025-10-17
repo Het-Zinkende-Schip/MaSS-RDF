@@ -1,0 +1,27 @@
+{
+  "id": "1172",
+  "code": "jonge-hellingman",
+  "name": "Jonge Hellingman",
+  "type": "wreck",
+  "lat": "21.6978414",
+  "lon": "88.0268956",
+  "location": "monding van de sandbank, India",
+  "firstdate": null,
+  "firstyear": "1767",
+  "firstyearend": null,
+  "lastdate": "1780-09-12",
+  "lastyear": "1780",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-27 14:53:37",
+  "modified_on": "2024-12-04 11:45:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Vertrok op 14 juli 1779 van Texel naar Azi&euml; voor de VOC kamer Amsterdam.<br>12 september 1780 verongelukt: <em>in de (zand)banken van Bengalen.</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Hoorn, 1767<br>Lengte 140 vt<br>Tonnage: 425 last (850 ton)<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95398\">Details of voyage 4347.4 from Texel to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0229?eadID=1.04.02&amp;unitID=4935&amp;query=\">NA_1.04.02_4935_0229.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

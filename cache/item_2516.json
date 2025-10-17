@@ -1,0 +1,27 @@
+{
+  "id": "2516",
+  "code": "gottfried-1822",
+  "name": "Gottfried",
+  "type": "wreck",
+  "lat": "54.0374576",
+  "lon": "8.6599731",
+  "location": "Duitsland",
+  "firstdate": null,
+  "firstyear": "1815",
+  "firstyearend": null,
+  "lastdate": "1822-03-12",
+  "lastyear": "1822",
+  "lastyearend": null,
+  "country": "Denemarken",
+  "countrycode": "DK",
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-17 21:07:30",
+  "modified_on": "2025-06-14 16:02:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p><em>Gottfried</em> was a galeas built 1815 in Greifswald, which was registered in Copenhagen and sailed under the command of Heinrich Jacob Riesbeck since 1818.</p> <p>The vessel gained tragic notoriety when it sank 1822 in a hurricane in the Elbe estuary with a cargo of ancient Egyptian artefacts. These were designated for the collection of King Frederick William III of Prussia. Some of the artefacts were excavated by the Prussian baron Heinrich Menu von Minutoli, while others were bought by him in Luxor. The heaviest artefacts were taken on board <em>Gottfried</em> in Triest on 10th December 1821 in 97 boxes, while lighter artefacts were transported via the land route from Venice to Berlin. The ship was lost without a trace and 8 crew including the captain lost their lifes; only one sailor survived.</p> <p>In 2003, a ringlet of one of the mummies that had been on board was rediscovered by chance by the Egyptologist Renate Germer (Museum of Art and Design, Hamburg). This finding prompted the Egyptologist to search for further artefacts in the museum's archive that could have also originated from the shipwreck and indeed several artefacts could be associated to Von Minutoli's shipment, which have reportedly washed ashore near Cuxhaven shortly after the loss of the vessel.</p> <p>The wreck has never been discovered despite concerted surveying efforts with sediment and side-scan sonars, carried out in preparation of dredging operations in the Elbe River.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Heinrich Jacob Riesbeck</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>9</td></tr><tr><th scope=\"row\">Lengte</th><td>65 &frac12; voet (20 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The story of the ship-loss and the Egyptian artefacts scattered across the north German shore have inspired circulating museum exhibitions and press reports.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Karig, J. S. (2021).<br /><em>Ägyptische Mumien in der Elbe - Die Suche nach der &quot;Gottfried&quot;.</em><br />pp 144-151.<br />Darmstadt: wbg Theiss.</li><li>Karig, J. S., Leive, R. (1993).<br /><em>Auf der Suche nach der &quot;Gottfried&quot; und der Sammlung Minutoli.</em><br />Jahrbuch Preußischer Kulturbesitz XXX, 133ff.</li><li>Kiel, U. (2009).<br /><em>Schiffbruch in der Elbmündung.</em><br />Pommern - Zeitschrift für Kultur und Geschichte 47.4.<br />pp 21-25.</li><li>Graichen, G. / Hamburger Abendblatt (newspaper).<br /><a href=\"https://www.abendblatt.de/kultur-live/article106816293/Das-Geheimnis-der-Mumien-aus-der-Elbe.html\">Das Geheimnis der Mumien aus der Elbe (The secret of the mummies in the Elbe).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

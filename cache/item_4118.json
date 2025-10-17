@@ -1,0 +1,27 @@
+{
+  "id": "4118",
+  "code": "zq18",
+  "name": "ZQ18",
+  "type": "wreck",
+  "lat": "52.3613930",
+  "lon": "5.5188470",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1890",
+  "lastyearend": "1910",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:35:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gevonden nabij het huidige Zeewolde. In oktober 1975 werd een scheepswrak aangetroffen bij werkzaamheden op kavel Q18 in Zuidelijk Flevoland. Diezelfde maand vond men tijdens een verkenning inderdaad een vrachtschip van ongeveer 19,5 bij 5,5 meter. Het schip bleek nog vrij compleet aanwezig en was geladen met vetkolen. In september 1979 is het wrak opgegraven. In 2019 werd door archeoloog Yftinus van Popta aanvullend onderzoek gedaan naar de in het wrak aangetroffen papiersnippers. &Eacute;&eacute;n fragment was afkomstig van de Nieuwe Veendammer courant uit 1890. Een ander fragment bleek afkomstig uit het boek Oude David van J. Verhagen uitgekomen in 1889. Met deze informatie was het mogelijk om het schip te identificeren; het schip was met behulp van gedigitaliseerde kranten te vinden via Delpher. Het scheepswrak bleek de Drie Gezusters te zijn, van de schippersfamilie Meijer uit Wildervank. Het schip verging met een lading van 31 last steenkolen in de nacht van 20 juni 1893, maar het gezin overleefde de ramp en was verzekerd, zo vermeldde de Provinciale Overijsselsche en Zwolsche courant diezelfde maand.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xsq-j53t\">Opgravingsdocumentatie scheepswrak ZQ18.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

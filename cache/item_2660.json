@@ -1,0 +1,27 @@
+{
+  "id": "2660",
+  "code": "grote-paulus",
+  "name": "Grote Paulus",
+  "type": "wreck",
+  "lat": "36.6566868",
+  "lon": "-6.4132690",
+  "location": "Cadiz, Spanje",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1694",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-10-06 10:57:11",
+  "modified_on": "2021-10-08 13:03:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Munitieschip in het Brits-Nederlandse eskader o.l.v. Rooke om de Smyrna vloot te begeleiden naar de Noord Zee. De Grote Paulus werd ter hoogte van Gibraltar achtervolgd door 3 Franse schepen en op het strand gejaagd. Kapitein van Leeuwen laat zijn gestrandde schip springen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Leeuwen, Gerrit van</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

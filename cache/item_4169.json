@@ -1,0 +1,26 @@
+{
+  "id": "4169",
+  "code": "portoroz",
+  "name": "Portorož",
+  "type": "site",
+  "lat": "45.5151305",
+  "lon": "13.5788590",
+  "location": "Portorož, Slovenië",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "100",
+  "lastyearend": "400",
+  "country": "Slovenië",
+  "countrycode": "SI",
+  "author": "Will Brouwers",
+  "created_on": "2024-03-08 17:47:59",
+  "modified_on": "2025-07-25 13:31:45",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In de Noord-Adriatische Zee in Sloveni&euml; is een kleine Romeinse haven opgegraven.<br>Op de site nabij de pier van de Faculteit Maritieme Studies en Transport van de Universiteit van Ljubljana vond tussen november 2023 en februari 2024 de laatste fase van het veldonderzoek plaats.</p> <p>Op deze locatie zijn tussen 2017 en 2023 in meerdere campagnes opgravingen uitgevoerd. De opgravingen in 2023 waren kleinschaliger en bevestigden de bevindingen van voorgaande jaren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De intacte Romeinse lagen op de locatie bevatten een grotere hoeveelheid keramische fragmenten - volgens de huidige bevindingen voornamelijk ge&iuml;mporteerde laatantieke vaten zoals amforen, grofwandige waar en terra sigillata.</p> <p><strong>mast en tuigage delen</strong></p> <p>Op de locatie werden tuigage elementen gevonden en twee delen van antieke masten en een groter aantal houten palen blootgelegd.</p> <p>De bestaande ontdekkingen, in de context van de uitzonderlijk beschutte locatie langs de kust en andere nabijgelegen locaties, suggereren dat er in de late oudheid een kleine haven was met ligplaatsen en houten constructies &ndash; ofwel een golfbreker ofwel een verbinding met de kust. De verificatie en evaluatie van de genoemde hypothese volgt nu &ndash; de post-veldwerkfase van het onderzoek, waarin verschillende wetenschappers en archeologen specifieke aspecten van de site zullen onderzoeken. Vervolgens zal de locatie worden ge&euml;valueerd in het licht van de resultaten van alle onderzoeken.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>ZAPA.<br /><a href=\"https://zapa.si/en/projects/zakljucek-izkopavanj-v-fizinah/\">Conclusion of underwater excavation at Fizin.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

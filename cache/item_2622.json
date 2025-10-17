@@ -1,0 +1,27 @@
+{
+  "id": "2622",
+  "code": "kuggmaren",
+  "name": "Kuggmaren",
+  "type": "wreck",
+  "lat": "59.1338223",
+  "lon": "18.6719513",
+  "location": "Jungfruskär, Zweden",
+  "firstdate": null,
+  "firstyear": "1215",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1220",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-07-27 14:56:54",
+  "modified_on": "2025-06-14 17:09:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The shipwreck has been known locally for some time, as it is situated in shallow waters in a lagoon of the Jungfrusk&auml;r archipelago, well visible from the water surface. It is situated just 1.5 m below the present sea level, so in total about 4.7 m below the sea-level of the early 13th century, when the post-glacial rebound is taken into account.</p> <p>The site was first surveyed by Dr. Jonathan Adams (University of Southampton) and Dr. Johan R&ouml;nnby (S&ouml;dert&ouml;rn University, Stockholm) in 1998.</p> <p>The preserved portion consist of the keel, keelson with integrated mast-step, as well as 20 frames.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002775.jpg\" alt=\"photo of a lake with a sunken ship underwater\"> <div class=\"img-source\">Karin Romdahl</div> </figure> <p>The shipwreck has been noted for it's bottom-based construction, which is frequently associated with the historical ship-type \"cog\".</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The initial dendrochronological analysis provided a date in the late 12th/ early 13th century, which was later refined by the analysis of a further sample with sapwood inclusion carried out by Dr. Aoife Daly, providing a <em>terminus post quem</em> of 1215.</p> <p>Macro-botanical samples already taken during the 1998 expedition were later analysed at the University of Kiel. The sample included grain, mainly prepurified barley with some minor traces of oat. This finding was contextualised by Dr. Daniel Zwick, who also presented a hypothesis on the ship's route, linking the vessel to a 13th century Danish itinerary from Utl&auml;ngan in the province of Scania to Tallinn in Estonia.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Almost the entire bottom-section has survived due to the low salinity and thus the absence of marine borers like <em>teredo navalis</em>. The wreck is protected under the Swedish Monuments Protection law, but accessible for divers.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Adams, J. &amp; Rönnby, J.  (2002).<br /><em>Kuggmaren 1: the first cog find in the Stockholm archipelago, Sweden.</em><br />The International Journal of Nautical Archaeology, 31.2.<br />pp 172-181.</li><li>Daly, A. (2007).<br /><em>Timber, Trade and Tree-Rings. A dendrological analysis of structural oak timber in northern Europe, c. AD 1000 to c. AD 1650 (= PhD dissertation).</em><br />Esbjerg: Syddansk Universitet.</li><li>Rönnby, J.  (2014).<br /><em>The Archaeological Interpretation of Shiwrecks.</em><br />pp 9-24.<br />Southampton: Highfield Press.</li><li>Zwick, D. (2014).<br /><a href=\"https://archaeologia-navalis.org/de/online-manuskripte/auf-den-spuren-des-altesten-see-itinerars-der-ostsee-eine-archaologische-zeitreise/\">Auf den Spuren des ältesten See-Itinerars der Ostsee: eine archäologische Zeitreise.</a><br />pp 192-215.<br />Neumünster: Wachholtz.</li><li>Zwick, D. (2017).<br /><em>Maritime Logistics in the Age of the Northern Crusades (= PhD dissertation).</em><br />University of Kiel.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

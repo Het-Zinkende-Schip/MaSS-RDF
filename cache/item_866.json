@@ -1,0 +1,27 @@
+{
+  "id": "866",
+  "code": "vrede-en-vrijheid",
+  "name": "Vrede en vrijheid",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Vermist tussen Batavia en de Kaapkolonie",
+  "firstdate": null,
+  "firstyear": "1783",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1786",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-25 13:57:58",
+  "modified_on": "2025-06-07 21:12:30",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het schip voer onder neutrale Pruisische vlag en heette tot 1783 Kroonprins van Pruisen.* Vanaf de tweede reis in 1783 werd het hernoemd in <em><strong>Vrede en vrijheid</strong></em>.</p> <p>Het schip werd gehuurd door de VOC kamer van Amsterdam en was in gebruik bij de VOC vanaf 1783 tot 1786. Het schip is vergaan in 1786 op de terugreis van Batavia naar Nederland ergens op de Indische Oceaan.</p> <p class=\"note\">*) De VOC probeerde t.t.v. de Vierde Engelse oorlog in beslagname te vermijden door schepen onder neutrale vlag te laten varen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Schipper: Dirk Huizing</p> <p>Eigenaar: het schip werd gehuurd van Frank van der Schoor, Dordrecht</p> <p>Laadvermogen: 760 ton 380 last</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>35 Amsterdamse&nbsp;voet (9,9 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Dillo, I.G., 1992. De nadagen van de Verenigde Oostindische Compagnie 1783 - 1795 : schepen en zeevarenden. Amsterdam, De Bataafsche Leeuw. p.304, [nl] - 90-6707-296-6.</em></li><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/98998\">DAS 8178.3.</a></li><li><a href=\"https://www.dordtenazoeker.nl/hulpbronnendordrecht/dordrecht_maritiem_17e_18e_eeuw/21\">Rederij Frank v/d Schoor &amp; ZN.</a></li><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98998\">Details of voyage 8178.3 from Batavia.</a></li><li><em>VOC site.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

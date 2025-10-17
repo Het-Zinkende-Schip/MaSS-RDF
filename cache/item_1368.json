@@ -1,0 +1,27 @@
+{
+  "id": "1368",
+  "code": "gekroonde-burg",
+  "name": "Gekroonde Burg",
+  "type": "wreck",
+  "lat": "50.7381850",
+  "lon": "0.2494669",
+  "location": "Beachy Head, Eastbourne, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1682",
+  "firstyearend": null,
+  "lastdate": "1690-07-10",
+  "lastyear": "1690",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-30 11:36:45",
+  "modified_on": "2025-06-10 15:53:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Gekroonde Burg was onderdeel van het Hollandse eskader ingezet in de zeeslag nabij het Zuid-Engelse Beachy Head die op 10 juli 1690 als onderdeel van de Negenjarige Oorlog werd uitgevochten. De zeeslag werd uitgevochten tussen Brits-Nederlandse vloot o.l.v. admiraal Arthur Torrington een admiraal Cornelis Evertsen en de Franse vloot o.l.v. De Tourville. De Franse vloot behaalde een klinkende overwinning. (zie<a href=\"/slag-bij-beachy-head\"> slag bij Beachy Head</a>)</p> <p>De Gekroonde Burch werd door de eigen bemanning verbrand om verovering door de Fransen te voorkomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: linie schip 2e charter<br>Eigenaar: admiraliteit Zeeland<br>Vice admiraal: Karel van der Putte<br>Bewapening: 62</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>350</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J.<br /><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=893\">Dutch Warships in the Age of Sail 1600 - 1714.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

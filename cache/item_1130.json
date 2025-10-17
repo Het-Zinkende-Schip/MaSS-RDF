@@ -1,0 +1,27 @@
+{
+  "id": "1130",
+  "code": "maarsseveen-1739",
+  "name": "Maarsseveen",
+  "type": "wreck",
+  "lat": "-6.4591531",
+  "lon": "120.5076001",
+  "location": "Salayar, Sulawesi, Indonesië",
+  "firstdate": null,
+  "firstyear": "1739",
+  "firstyearend": null,
+  "lastdate": "1748-12-31",
+  "lastyear": "1748",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-17 14:45:53",
+  "modified_on": "2025-06-24 18:35:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Maarseveen</strong></em> is op 4 maart 1748 vertrokken van Batavia naar Amboina met de nieuwe gouverneur Cornelis Rooseboom aan boord.</p> <p>Op de terugweg naar Batavia is De Maarsseveen met de scheidende gouverneur Nathana&euml;l Steinmetz (1743-1748) aan boord op de oostkust van het eiland Salayar vergaan.<br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1739<br>Schipper: Quinje, Herman</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004324.png\" alt=\"landkaart van het eiland Saleyar op de oostkust bleef de Maarsseveen\"> <div class=\"img-source\">NA_VEL_457</div> </figure> <p class=\"figcaption\"><br>Het eiland Saleyar op de oostkust bleef de Maarsseveen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>129</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=629&amp;accessor=search_in_text&amp;source=11&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22\">Generale missiven Deel 11, 618.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0119?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">NA_1.11.01.01 551 011.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

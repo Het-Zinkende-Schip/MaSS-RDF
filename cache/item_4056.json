@@ -1,0 +1,27 @@
+{
+  "id": "4056",
+  "code": "nh73",
+  "name": "NH73",
+  "type": "wreck",
+  "lat": "52.7093140",
+  "lon": "5.7151770",
+  "location": "Emmeloord, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1775",
+  "lastyearend": "1800",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:03:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1953 werd de aanwezigheid van een scheepswrak met rode handvormstenen gemeld, gelegen op kavel H73 in de buurt van de Pilotenweg. Toen archeologen ter plekke kwamen werd geconcludeerd dat de aanwezigheid van het wrak al langer bekend geweest moet zijn, omdat een deel van de boorden sterk beschadigd en mogelijk verwijderd was en er al stenen waren uitgegraven. Opgraving in hetzelfde jaar wees uit dat het ging om een platboomd vrachtschip met een lengte van 18 meter en een vlak met een breedte van 2,6 meter. Opvallend was dat de binnenwegering van het schip, die er getuige de aanwezigheid van spijkers op de inhouten wel geweest moet zijn, volledig verwijderd was. Dit moet al gebeurd zijn voordat de laatste vracht stenen aan boord werd genomen. Ook een mastspoor was niet te vinden. In combinatie met de vele zichtbare reparaties gaf het geheel de indruk een oud schip te zijn geweest waarvan al het zeilwerk verwijderd was, en dat daarom alleen nog gesleept kon worden. In het voorschip werd een haardplaat gevonden, wat betekent dat daar een kookgelegenheid was ingericht. Bij de opgraving werden diverse vondsten geborgen, van gebruiksaardewerk tot tinnen gespen en leren schoenfragmenten, waaronder het zooltje van een baby- of kinderschoen. Tevens werd een Utrechtse duit uit 1722 aangetroffen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x4p-vmtr\">Opgravingsdocumentatie scheepswrak NH73.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

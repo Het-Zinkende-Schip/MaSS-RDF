@@ -1,0 +1,27 @@
+{
+  "id": "2584",
+  "code": "borkum",
+  "name": "Borkum 13",
+  "type": "wreck",
+  "lat": "53.5626940",
+  "lon": "6.7734440",
+  "location": "Borkum, Emsmündung, Duitsland",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1925",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-06-01 13:07:39",
+  "modified_on": "2024-11-28 13:08:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Een 20e eeuws houten wrak</h2> <p>In 2013 werd de vondst van een wrak gerapporteerd in de Eems bij het eiland Borkum. Het getij had delen van het wrak vrijgespoeld. Met behulp van schepen van het Agentschap voor Waterwegen en Scheepvaart van Emden (WSA: <em>Wasserstra&szlig;en- und Schifffahrtsamt</em>) kon het wrak ingemeten worden voor het verder beschadigd werd door de werking van het getij en werkzaamheden in het gebied.</p> <p>Het wrak was bijna geheel bedekt met sediment en slechts vergane delen van spanten aan bakboords waren zichtbaar. Er werden testsleuven gegraven die een groter deel van de constructie blootlegden, met zeer zware en dicht op elkaar geplaatste spanten en dikke huid- en binnengangen van 2 duim dik.</p> <p>Het bleek om de overblijfselen van een 20e eeuws houten schip te gaan en aan de hand van bepaalde bouwkundige elementen kon een waarschijnlijk type vastgesteld worden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De erg dichte plaatsing van de dikke spanten vielen op, net als de ongebruikelijk dikke binnenhuid. Deze zaken wijzen op een type schip dat alleen in Esbjerg in Denemarken gebouwd werd tussen ongeveer 1904 en 1925. Dit was een erg effectief type viskotter dat Haikutter genoemd werd, wat een gaffel getuigde kotter was die geschikt was voor diepzeevisserij. Deze identificatie is echter niet geheel zeker.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>53 &frac14; voet (16,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>12 &frac12; voet (3,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De vindplaats is ingemeten in het kader van een noodopgraving, omdat hij zich bevond in een gebied dat bloot staat aan erosie en waar onderwaterkabels gelegd werden.</p> <p>De regionale vestiging in Oldenburg van de Monumentenzorg van Nedersaksen (<em>Nieders&auml;chsisches Landesamt f&uuml;r Denkmalpflege</em>) voerde dit onderzoek uit in augustus 2013 met logistieke steun van de WSA.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Fries, J. E. (2014).<br /><em>Bericht der archäologischen Denkmalpflege 2013.</em><br />Oldenburger Jahrbuch 114.<br />pp 219-232.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

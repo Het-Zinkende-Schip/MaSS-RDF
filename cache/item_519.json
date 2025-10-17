@@ -1,0 +1,27 @@
+{
+  "id": "519",
+  "code": "botland",
+  "name": "Botland",
+  "type": "wreck",
+  "lat": "6.9520000",
+  "lon": "79.8120000",
+  "location": "Colombo, Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1769",
+  "firstyearend": null,
+  "lastdate": "1783-01-04",
+  "lastyear": "1783",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2015-05-19 00:00:00",
+  "modified_on": "2025-06-19 17:52:56",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Botland</em> werd in Middelburg gebouwd door de VOC in 1769 en maakte drie succesvolle retourreizen naar Azi&euml; en terug. Na haar uitreis in 1779, bleef het schip in Azi&euml;. Op 04-01-1783 is de <em>Botland</em> vergaan in de haven van Colombo.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001207.jpg?modifiedon=1705654358\" alt=\"The Noord-Nieuwland in Table Bay (anonymous), ca. 1762\"> <div class=\"img-source\">Iziko Museums/Wikimedia Commons</div> <figcaption class=\"img-description\">De Noord Nieuwland bij de Tafelbaai, anoniem, 1762. Dit is een schip van een vergelijkbaar type.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Werf: VOC werf Middelburg</p> <p>Tonnage: 1150 ton/575 last&nbsp;<br>Het is niet duidelijk hoeveel er aan boord waren tijdens het vergaan.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001206.jpg\" alt=\"Replica of the Dutch East Indiaman Amsterdam at the National Maritime Museum, Amsterdam.\"> <div class=\"img-source\">Het Scheepvaartmuseum</div> <figcaption class=\"img-description\">Replica van het spiegelretourschip Amsterdam bij het Scheepvaartmuseum, Amsterdam.</figcaption> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Johnson, Jakob</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>259</td></tr><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>KNAW.<br /><a href=\"https://resources.huygens.knaw.nl/das/voyages?field_voyrgpdeel=&amp;bln_number=and&amp;field_voynumber=&amp;bln_nameship=and&amp;field_voynameship=botland&amp;bln_master=and&amp;field_voymaster=&amp;bln_typeofship=and&amp;field_voytypeofship=&amp;bln_built=and&amp;field_voybuiltY0=&amp;field_v\">Dutch Asiatic Shipping.</a></li><li>VOC site.<br /><a href=\"https://www.vocsite.nl/schepen/11271/\">Botland.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

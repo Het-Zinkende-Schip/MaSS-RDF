@@ -1,0 +1,27 @@
+{
+  "id": "1006",
+  "code": "goudestein-1699",
+  "name": "Goudestein",
+  "type": "wreck",
+  "lat": "8.5608941",
+  "lon": "100.0225962",
+  "location": "Nakhon Si Thammarat, Thailand",
+  "firstdate": null,
+  "firstyear": "1680",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1699",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-04 14:14:31",
+  "modified_on": "2025-06-20 10:49:48",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De 'Goudestein' </em>was 20 dagen v&oacute;&oacute;r het schip <em>Hobree</em> van Siam vertrokken naar Batavia maar was op 4 maart 1699, toen De Hobree in Batavia aankwam, daar nog niet gearriveerd. Gevreesd werd dat het schip verloren was gegaan.</p> <p>Op 24 december kwam een brief van het hoofd van de VOC loge in Siam. De Goudestein was vanwege ernstige lekkage bij Ligoor op de wal gezet. De bemanning en lading waren geborgen. Het schip werd opgegeven.</p> <p><strong>Siam</strong><br>Siam was voor de VOC van groot belang. Het land leverde tin, sappanhout, herte- en roggevellen, koe- en buffelhuiden, benjuin, gomlak, olifantstanden, rijst, olie en zeer goed timmerhout. De VOC leverde o.a. laken en wollen stoffen de inkoop van goederen werd vooral met zilver betaald.<br>Na 1639, toen de VOC het monopolie had op de Japanse buitenlandse handel, was de VOC voor Siam een belangrijke handelspartner geworden. Na 1688 was de vestiging van de VOC zelfs de enige Europese factorij in Siam.<br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd VOC werf in Amsterdam, in 1679<br>Tonnage: 421 last, 843 ton<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92709\">Details of voyage 1649.5 from Wielingen to Batavia.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=111&amp;accessor=search_in_text&amp;source=6&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26\">Generale missiven Deel 6, 96.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0061?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 58.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4103",
+  "code": "no50",
+  "name": "NO50",
+  "type": "wreck",
+  "lat": "52.7029480",
+  "lon": "5.8513140",
+  "location": "Ens, Nederland",
+  "firstdate": null,
+  "firstyear": "1600",
+  "firstyearend": "1625",
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1625",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-07-25 13:21:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1943 is een scheepswrak onderzocht door archeoloog Pieter (P.J.R.) Modderman op kavel O50 in de Noordoostpolder. Het schip vervoerde een lading rode bakstenen en moet ongeveer 16 meter lang zijn geweest en 5,75 meter breed, met een diepte van 1,6 meter. Uit de aantekeningen van Modderman is een schets van het schip overgeleverd, maar nadere gegevens over de constructie lijken niet genoteerd te zijn. In een verslag uit 1943 schrijft hij over de opgraving:</p> <p>\"Een interessante scheepsvondst kan gemeld worden van kavel O50. Het schip, dat door een lading baksteen diep in de klei gezonken was, kon vrij gaaf uitgegraven worden. Door de vondsten werd het schip op de eerste helft van de 17de eeuw gedateerd. De vondsten bestonden o.a. uit: 4 tinnen lepels, een tinnen kannetje, een houten schotel en enig aardewerk.\"</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003964.jpg\" alt=\"Een simpele modeltekening van het bovenaanzicht van schip O50 met de schaal 1:200\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> </figure> <p>Enkele van de gevonden tinnen lepels zijn voorzien van jaartallen in hun merktekens, waarvan 1611 het jongste leesbare jaartal is.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zdy-68jd\">Opgravingsdocumentatie scheepswrak NO50.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

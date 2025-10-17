@@ -1,0 +1,27 @@
+{
+  "id": "1269",
+  "code": "trouw-1649",
+  "name": "Trouw",
+  "type": "wreck",
+  "lat": "-3.6418762",
+  "lon": "127.9578667",
+  "location": "Hitoe Ambon, Indonesië",
+  "firstdate": null,
+  "firstyear": "1649",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1659",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-31 11:33:13",
+  "modified_on": "2025-06-10 12:37:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De fluit <em><strong>Trouw</strong> </em>is vrijwel zeker in Zaandam (Sardam) aangekocht door de VOC kamer Amsterdam.* Ze werd in 1648 uitgezonden om de verwachte retourschepen op te vangen. Ze werd verondersteld met het retourschip voor de kamer Zeeland daar binnen te lopen om vervolgens vandaar ge&euml;quipeerd te worden voor de reis naar Azi&euml;. De Trouw bleef na haar eerste uitreis in Azi&euml;. Ze voer op de <em>Verre Oosten route</em> (Batavia-Siam- Taiwan-Deshima).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001567.jpg\" alt=\"Taioan_Atlas_Blaeu_jonk\"> <figcaption class=\"img-description\">Fort Zeelandia in Tayouan</figcaption> </figure> <p>De Trouw is 3-12- 1658 in Batavia. Ze is dan zo versleten dat ze alleen nog inzetbaar is op een relatief veilige route zoals in de Indonesische archipel en de routes naar de specerij eilanden. Daar is het schip in een storm vergaan bij Hitu op de noordkust van Ambon.</p> <p>*NA 1/04.02 (VOC) 234 (Resolutie. . Amsterdam) , 25-5-1648<br><br><em>alsoo nu twee fluydschepen gecoft syn ...goetgevonden dat men de fluyt de Trouw aen de camer van Seelant sal presenteren om deselve op dherbst voor haer naer Indie te equiperen ende dat deynstvolg d vrnd fluydt nu tot cruysen gedestineert met haer Vwachte retourschip naer Selant sal laten gaen</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Tonnage: 250<br>Schipper/Master: Bartholomeus Roos (tot 1656)<br>Armament: 20 (tot 1655)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Resources Huygens ING.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91822\">DAS 0705.1.</a></li><li>Resources Huygens ING.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/taiwan/#page=7&amp;accessor=search_in_text&amp;source=2&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Ftaiwan%2Fsearch_in_text%2Findex_html%3Fpage%3D7%26source%3D2%26id%3Dsearc\">De dagregisters van het kasteel Zeelandia, Taiwan 1629-1662.</a></li><li>Nationaal archief.<br /><em>NA 1/04.02 (VOC) 234 (Res. K. Amst) , 25-5-1648.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

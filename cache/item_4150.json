@@ -1,0 +1,27 @@
+{
+  "id": "4150",
+  "code": "oz27",
+  "name": "OZ27",
+  "type": "wreck",
+  "lat": "52.4449380",
+  "lon": "5.7337330",
+  "location": "Biddinghuizen, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": "1800",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 17:11:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Volgens een wrakkenoverzicht gaat het om een overnaads gebouwde (modder)praam, aangetroffen inOostelijk Flevoland in een bermsloot langs de polderweg (kavelzijde) en 50 meter uit sloot Z26/27 (Biddinghuizen-Aliekruikweg). Het was door de dragline ernstig beschadigd. In 1959 werd het ge&iuml;nspecteerd door ir. D.T. Biewinga, en in 1963 werd het nog beschouwd als waardevolle scheeppsrest.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x3h-484q\">Opgravingsdocumentatie scheepswrak OZ27.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

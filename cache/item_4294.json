@@ -1,0 +1,27 @@
+{
+  "id": "4294",
+  "code": "zeerijp",
+  "name": "Zeerijp",
+  "type": "wreck",
+  "lat": "51.0590519",
+  "lon": "2.3207741",
+  "location": "Nederland",
+  "firstdate": null,
+  "firstyear": "1692",
+  "firstyearend": null,
+  "lastdate": "1694-06-29",
+  "lastyear": "1694",
+  "lastyearend": null,
+  "country": "Frankrijk",
+  "countrycode": "FR",
+  "author": "Will Brouwers",
+  "created_on": "2025-06-26 10:47:54",
+  "modified_on": "2025-07-18 11:25:00",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De '<em>Zeerijp</em>' werd gebouwd in Amsterdam.</p> <p>Het schip maakte deel uit van een eskader van 8 schepen onder sbn Hidde de Vries in de Noordzee . In de slag bij Texel 29-6-1694 werd het eskader aangevallen door de Duinkerker admiraal Jean Bart.</p> <p>De Zeerijp werd aangevallen en ge&euml;nterd door het Franse schip <em>Fortune</em>. Kapitein Bucking gaf zich over. Bij de Jonge wordt de episode verhaalt maar het schip van Bucking 'De Triton' genoemd. Dit schip komen we verder niet tegen. De Zeerijp wordt genoemd in De Jonge III, bijlage VIII.</p> <p>Het vlaggenschip '<em>Prins Friso'</em>, '<em>Zeerijp'</em> en <em>Stad en Lande</em> vielen in handen van de Fransen. Twee schepen werden in Franse dienst genomen. Het lot van de Zeerijp is onbekend.</p> <p>De overige Nederlandse kapiteins hielden zich daarop afzijdig en vluchten naar Texel. De Zeerijp werd als prijs meegenomen naar Duinkerken.(brief&nbsp;<a href=\"https://cultureelerfgoed.info/mass/?file=00000290.pdf\">Jean Bart</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1692<br>Bewapening: 30 (<a title=\"Jonge_III_bijlagen\" href=\"https://cultureelerfgoed.info/mass/?file=00000298.pdf\" target=\"_blank\" rel=\"noopener\">De Jonge, III, bijlage VIII 734</a>)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Rutger Bucking</td></tr><tr><th scope=\"row\">Lengte</th><td>115 &frac14; Amsterdamse&nbsp;voet (32,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.dbnl.org/arch/jong102gesc08_01/pag/jong102gesc08_01.pdf\">Geschiedenis van Het Nederlandsche Zeewezen, III, 500, 731.</a></li><li>La Roncière, Charles de.<br /><a href=\"https://archive.org/details/histoiredelamari06laro/page/194/mode/2up\">Histoire de la marine française.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2100",
+  "code": "zl8",
+  "name": "ZL8",
+  "type": "wreck",
+  "lat": "52.3404100",
+  "lon": "5.4248700",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:54:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens landbouwwerkzaamheden is in 1975 op kavel L8 in Zuidelijk Flevoland, aan de Schollevaarweg, een scheepswrak aangetroffen. Twee jaar later is er een verkennend onderzoek uitgevoerd. Het aangetroffen schip is een klein overnaads gebouwd vissersscheepje voor de kustvisserij. Het vissersscheepje hoort thuis in de familie van de punters, pluten, bonzen en schokkers. Zeer waarschijnlijk is het scheepje een 'zeepunter'. De bun en de mastbank zijn compleet aangetroffen. De voor- en achtersteven zijn door landbouwwerkzaamheden beschadigd. Het schip was 9 meter lang en 2,20 meter breed en is met slagzij is afgezonken. De beide boorden tussen de mastbank en de bun zijn aan de bovenkant beschadigd. Tijdens de bouw van het scheepswrak is overwegend gebruik gemaakt van eikenhout. De datering van het schip is de tweede helft van de achttiende eeuw.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een klein vissersschip uit de tweede helft van de achttiende eeuw, Zeewolde.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002050.jpg\" alt=\"Een holle steen gevuld met as.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">De bakboordzijde van het wrak. Achter de trog ligt een ankersteen waar een ring aan is bevestigd.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002049.jpg\" alt=\"Opgegraven volledige houten boot, nog in de grond\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het vissersschip gezien over de achtersteven.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xe2-87eh\">Opgravingsdocumentatie scheepswrak ZL8.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

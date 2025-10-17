@@ -1,0 +1,27 @@
+{
+  "id": "2187",
+  "code": "dwinger",
+  "name": "Dwinger",
+  "type": "wreck",
+  "lat": "53.1274715",
+  "lon": "5.2794662",
+  "location": "Harlingen, Nederland",
+  "firstdate": null,
+  "firstyear": "1782",
+  "firstyearend": null,
+  "lastdate": "1793-03-15",
+  "lastyear": "1793",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-05 11:36:50",
+  "modified_on": "2025-06-11 18:48:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>'s lands admiraals hulk vertrok 15 maart uit de haven Harlingen voor een patrouille tocht naar het Vlie . Aan boord een detachement soldaten van de Friese garde. Er ontstond een brand in de kombuis dat zich snel verspreidde. 80.000 pond kruit werd snel overboord gegooid. Maar het vuur kon niet bedwongen worden.</p> <p>Van de opvarenden kwamen 67 man om in de vlammen of verdronken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 18-22 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>W.L. Bouricius</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>140</td></tr><tr><th scope=\"row\">Lengte</th><td>140 voet (42,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>37 voet (11,3 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Westerbrink,P.<br /><a href=\"https://historischcentrumleeuwarden.nl/images/PDF-bestanden/Friese-Gardes-Peter-Westenbrink.pdf\">Friese gardes.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

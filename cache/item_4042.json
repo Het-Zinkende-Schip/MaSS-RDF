@@ -1,0 +1,27 @@
+{
+  "id": "4042",
+  "code": "og29",
+  "name": "OG29",
+  "type": "wreck",
+  "lat": "52.5653500",
+  "lon": "5.5436870",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1650",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:52:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In mei 1965 werd op kavel G29 in Oostelijk Flevoland aan de Visvijverweg en 48,40 meter uit het hart van de kavelsloot G29/28 een verkenning verricht naar een scheepswrak, geraakt bij het draineren van de kavel. De verkenning wees in de richting van een tamelijk compleet scheepswrak met een vroege datering, waardoor het werd gereserveerd voor nader onderzoek in de toekomst. Dit vond plaats in de vorm van een herverkenning in 1989. Hieruit kon worden opgemaakt dat het ging om een karveel gebouwd schip, gewegerd aan de binnenkant en vermoedelijk gebruikt als vrachtschip. Het had een lengte van 21 meter een breedte van 5,4 meter. Bij de herverkenning werden verder slechts wat schoenleer en enkele roodbakkend aardewerken scherven geborgen. Zowel deze scherven als het bodemprofiel doen een ondergang in de eerste helft van de 17de eeuw vermoeden. Na het onderzoek is het wrak weer afgedekt.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-222-kxpf\">Opgravingsdocumentatie scheepswrak OG29.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

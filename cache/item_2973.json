@@ -1,0 +1,27 @@
+{
+  "id": "2973",
+  "code": "letty-ijm-215",
+  "name": "Letty (IJM 215)",
+  "type": "wreck",
+  "lat": "55.0120785",
+  "lon": "2.4036382",
+  "location": "Doggerbank",
+  "firstdate": null,
+  "firstyear": "1906",
+  "firstyearend": null,
+  "lastdate": "1915-06-05",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-14 13:13:02",
+  "modified_on": "2022-08-14 13:26:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Letty was samern met de Clara Nicol aan het vissen op de Doggerbank. Ze werd het laatst gezien door de Clara Nicol op 4 juni 1915. In de nacht hoorde men een hevige ontploffing. De volgende ochtend was de Letty verdwenen. De Letty is waarschijnlijk op een mijn gelopen en met man en muis vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Hall, Russell &amp; Co. Ltd., Aberdeen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>10</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40031974\">Centraal Visserij register 40031974.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22IJM+215%22&amp;coll=ddd&amp;sortfield=datedesc&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1915%7C&amp;identifier=MMSAVL02:000481100:mpeg21:a00065&amp;resultsidentifier=MMSAVL02:000481100:mpeg21:a00065&amp;\">Nieuwe Vlaardingsche courant  (03-07-1915).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

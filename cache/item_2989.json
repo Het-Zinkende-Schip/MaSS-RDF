@@ -1,0 +1,27 @@
+{
+  "id": "2989",
+  "code": "maria-catharina",
+  "name": "Maria Catharina (SCH 29)",
+  "type": "wreck",
+  "lat": "52.8856169",
+  "lon": "3.5047154",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1881",
+  "firstyearend": null,
+  "lastdate": "1918-01-21",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-11 10:45:34",
+  "modified_on": "2025-06-15 14:39:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Aangehouden met kanonvuur tot zinkenb gebracht door de U 55.</p> <p>7 opvarenden kwamen om.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type : Houten zeillogger ingericht voor haringvisserij.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>88 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://uboat.net/wwi/ships_hit/3923.html\">uboat.net.</a></li><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40018491\">Centraal Visserijregister 40018491.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

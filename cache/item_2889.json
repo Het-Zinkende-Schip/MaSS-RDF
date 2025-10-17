@@ -1,0 +1,27 @@
+{
+  "id": "2889",
+  "code": "pacific",
+  "name": "Pacific",
+  "type": "wreck",
+  "lat": "56.4070391",
+  "lon": "5.2228918",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": "1916-10-16",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-15 14:15:35",
+  "modified_on": "2025-06-15 12:11:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De schoener &ldquo;Pacific&rdquo; is op 16 oktober 1916 tijdens stormweer in de Noordzee overzijde gevallen, door de bemanning verlaten en verloren gegaan.</p> <p>Er kwam veel water in het schip en de lading ging over. De pompen konden niet meer bediend worden en men kon het kabelgat waar de reservezeilen geborgen waren, niet bereiken. Twee zwarte ballen werden als noodsein geheschen. Men was toen naar gissing 60 mijl uit de kust.</p> <p>Te 3 uur namiddags kwam de stoomtrawler, &ldquo;Anna Josina&rdquo; YM 169 in het zicht, waarvan men door het hijschen van het noodsein \"N.C.&rdquo; en het afsteken van vuurpijlen de aandacht wist te trekken. In de nabijheid gekomen vierde de treiler een lijn naar de &ldquo;Pacific&rdquo;, door middel waarvan men de boot naar de &ldquo;Pacific&rdquo; haalde; de bemanning begaf zich daarin en kwam veilig aan boord van de &ldquo;Anna Josina&rdquo;. Tot den avond bleef men in de nabijheid van de &ldquo;Pacific&rdquo; die voor steeds dieper kwam te liggen. Daar het weder steeds slechter werd, durfde de schipper van den treiler niet langer te wachten en vervolgde zijn koers naar IJmuiden waar men 17 October aankwam.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type : driemaster schoener <br>Gebouwd: Hoogezand<br>Eigenaar: NV &rdquo;Pacific&rdquo; Middelburg.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>A. Goumare</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>6</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Pacific&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1916%7C&amp;page=180&amp;sortfield=datedesc&amp;coll=ddd&amp;identifier=ddd:010652971:mpeg21:a0124&amp;resultsidentifier=ddd:010652971:mpeg21:a0124&amp;rowid=4\">Algemeen Handelsblad      18-10-1916.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

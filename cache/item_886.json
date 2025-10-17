@@ -1,0 +1,27 @@
+{
+  "id": "886",
+  "code": "poolster",
+  "name": "Poolster",
+  "type": "wreck",
+  "lat": "23.4961215",
+  "lon": "119.5875549",
+  "location": "Mako, Pescadores, Taiwan",
+  "firstdate": null,
+  "firstyear": "1938",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Indonesië",
+  "countrycode": "ID",
+  "author": "Will Brouwers",
+  "created_on": "2019-11-18 14:27:03",
+  "modified_on": "2025-06-07 21:27:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: boei, bevoorradingschip</p> <p>Gebouwd: Droogdok Maatschappij Tandjong Priok, Batavia, 1939</p> <p>Voortstuwing: x 4-stroke MAN dieselengine</p> <p>Bewapening:&nbsp;1 x 75 mm Krupp L/40 , 2 x .50 Colt MG</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>90</td></tr><tr><th scope=\"row\">Snelheid</th><td>12 knopen ~ 22 km/u (14 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>242 &frac34; voet (74 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>39 &frac14; voet (12 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>9 &frac34; voet (3 m)</td></tr><tr><th scope=\"row\">Deplacement</th><td>1291 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>netherlandsnavy.nl.<br /><a href=\"http://www.netherlandsnavy.nl/Abcclass.htm\">ABC-class auxiliary minesweepers.</a></li><li><em>L.L. von Münching, 1978: Schepen van de koninklijke marine in de 2e wereldoorlog. p. 119.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

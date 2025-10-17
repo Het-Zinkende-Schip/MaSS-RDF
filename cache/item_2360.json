@@ -1,0 +1,27 @@
+{
+  "id": "2360",
+  "code": "engel-gabriel-1652",
+  "name": "Engel Gabriël",
+  "type": "wreck",
+  "lat": "50.5176181",
+  "lon": "-2.3922729",
+  "location": "Portland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1653-02-28",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-04 12:12:51",
+  "modified_on": "2025-06-12 12:10:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Engel Gabri&euml;l was een door de admiraliteit gehuurde koopvaarder. Ze was betrokken bij verschillende acties in 1652 tijdens de Eerste Engels-Nederlandse oorlog.</p> <p>De Engel Gabri&euml;l is door vijandelijk vuur tot zinken gebracht tijdens de vierdaagse zeeslag (battle of Portland).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: directoraat Amsterdam, 1652<br>Bewapening: 36, 18 x 12 pds, 10x 8 pds , 4x 6 pds, 4x 4pds.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Sweers, Isaac</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>142</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>29 &frac34; voet (9,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J. (2014).<br /><em>Dutch warships in the age of sail (1600-1714) p. 192.</em><br />Seaforth Publ.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

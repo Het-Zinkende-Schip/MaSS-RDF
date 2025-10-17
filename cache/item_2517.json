@@ -1,0 +1,27 @@
+{
+  "id": "2517",
+  "code": "vrije-zee",
+  "name": "Vrije Zee",
+  "type": "wreck",
+  "lat": "-12.0736929",
+  "lon": "79.1015625",
+  "location": "vrije zee",
+  "firstdate": null,
+  "firstyear": "1667",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1686",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-03-18 09:27:46",
+  "modified_on": "2025-06-04 13:24:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Vrije Zee</strong></em> maakte zeven retour reizen.<a href=\"https://www.vocsite.nl/schepen/11217/\">&sup1;</a></p> <p>De laatste thuisreis begint op 8 februari 1684 Batavia . De aankomst in Texel is 13 oktober 1684. De retourvloot, die onder commando stond van Jozephas Vosch, bestond uit de schepen <a href=\"/afrika-1673\">Afrika</a>, Wapen van Alkmaar, Ridderschap van Holland (a), Burcht van Leiden, Eiland Mauritius, Oostenburg en Vrije Zee.</p> <p>Volgens de VOC site wordt de Vrije Zee daarna afgelegd. <br>&nbsp;Het uiteindelijke lot is niet duidelijk. De lijst van alle zodanige schepen vermeld: <em>\"De Vrije Zee is in de Vrije Zee gezonken. De eigen equipage gered 1686 .\"</em></p> <p>Wat bedoelt de auteur met de Vrije Zee als geografische benaming?</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Delfshaven, 200 last op de lijst van timmeringen 14-11-1667.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/151/file/NL-HaNA_1.04.02_151_0593?eadID=1.04.02&amp;unitID=151&amp;query=151\">&sup2;</a></p> <p>met lastbalcken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>423 ton (212 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/96697\">DAS 5788.6.</a></li><li>Pieter van Dam (1703).<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/vandam/#page=527&amp;accessor=searchText&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=1\">Beschrijvinge van de Oostindische Compagnie 1639-1701.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0195?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen , fol 192.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

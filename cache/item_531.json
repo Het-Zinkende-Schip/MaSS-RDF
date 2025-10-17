@@ -1,0 +1,27 @@
+{
+  "id": "531",
+  "code": "streefkerk",
+  "name": "Streefkerk",
+  "type": "wreck",
+  "lat": "8.3809707",
+  "lon": "79.7838950",
+  "location": "Caredivo, Karaitivu, Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1736",
+  "firstyearend": null,
+  "lastdate": "1740-09-21",
+  "lastyear": "1740",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2015-05-26 00:00:00",
+  "modified_on": "2024-11-12 18:11:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Streefkerk </strong></em>maakte &eacute;&eacute;n succesvolle reis naar Azi&euml; en terug naar de Republiek. Op de tweede reis vertrok zij op 19 mei 1737 en kwam op 28 april 1740 in Batavia aan. Daarna reisde ze naar Ceylon.</p> <p>De Streefkerk is op 21 september 1740 daar aan de grond gelopen bij het eilandje Caredivo/Karaitivu (nu schiereiland Kalpitiya)</p> <p>De bovenkant van het gestrande schip werd al in 1740 door de VOC stukje bij beetje afgebroken, o.a. om bij de kostbare lading tin onderin het schip te kunnen komen. Nadien is het restant verkocht aan de duikers die voor deze klus waren ingehuurd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94189\">DAS 3152.2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3177",
+  "code": "eleanor",
+  "name": "Eleanor",
+  "type": "wreck",
+  "lat": "-29.8916491",
+  "lon": "31.0644800",
+  "location": "Annabella bank, Durban, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1839-07-28",
+  "lastyear": "1839",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-16 11:41:00",
+  "modified_on": "2025-06-16 20:03:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Eleanor</strong></em> was een schip in dienst van de Nederlandse Handel maatschappij.*</p> <ul> <li class=\"figcaption\">opgericht in 1824 door koning Willem I. Vooral gericht op Nederlands-Indi&euml;, het huidige Indonesi&euml;. Na de ondergang van de Vereenigde Oost-Indische Compagnie (VOC) hadden de Engelsen en Amerikanen de import en export van koloniale producten van Nederlands-Indi&euml; in handen. Deze handel moest worden teruggewonnen en winstgevend voor Nederland zijn. Het boek Max Havelaar, of de koffieveilingen der Nederlandse Handelmaatschappij van Multatuli behandelt voor een groot deel de uitwassen van de activiteiten van de NHM in Nederlands-Indi&euml;&nbsp;</li> </ul></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>C Botha</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><em>SAHRA Database.</em></li><li><a href=\"https://sahris.sahra.org.za/sites/default/files/heritagereports/CSIR%20HIA%20Pier%201%20%26%202%20Scoping%20Report%202011%20Port%20of%20Durban.pdf\">CSIR HIA Pier 1 &amp; 2 Scoping Report 2011 Port of Durban.pdf.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

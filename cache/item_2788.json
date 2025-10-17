@@ -1,0 +1,27 @@
+{
+  "id": "2788",
+  "code": "rms-teuton",
+  "name": "R.M.S Teuton",
+  "type": "wreck",
+  "lat": "-34.7913632",
+  "lon": "19.6284485",
+  "location": "Quoin Point, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1869",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1881",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Luke Tandy",
+  "created_on": "2022-01-24 10:48:17",
+  "modified_on": "2025-07-14 12:35:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>On 30th August 1881 at 10.00hrs she sailed from Cape Town bound for Port Elizabeth and at 19.00 hrs, in a calm sea, struck a known and charted rock four miles from Quoin Point, Cape Colony. Teuton was a mile off course.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003047.jpg\" alt=\"A drawn map of a rocky island in the sea, with a portrait of a man\"> <figcaption class=\"img-description\">The R.M.S. Teuton sank between Dangerpoint and Hang klip</figcaption> </figure> <p>The passengers were ordered to the quarterdeck and the lifeboats were equipped with provisions and compasses and prepared for watering. However, Captain Manning assumed that an evacuation of the ship would not be necessary and that he would be able to reach Simon's Town. He wanted to use previous experience with <em>The American</em> a ship that sank but calmly let the crew and passengers off with no hassle.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003046.jpg\" alt=\"A large two-masted ship sinking scull into the sea\"></figure> <p>&nbsp;As a safety precaution the boats were readied in case the ship had to be abandoned and the passengers went aft while the crew and volunteers manned the pumps. The pumps could not cope with the incoming sea and at 22.00hrs the ship lost way because the propeller came out of the water as the bow settled down. As the ship was obviously sinking the master gave the order to abandon ship. The first boat moved away with much laughing and cheering but as the second boat was being prepared for lowering the second and then the third bulkheads gave way, 3 other lifeboats that were attached to the ship went down with it.</p> <p>236 persons, including Captain Manning, perished and only the 26 in the first lifeboat survived.</p> <p><strong>Conclusion</strong></p> <p>The court of inquiry in Cape town reported that Manning's decision not to evacuate the ship immediately was wrong, and contributed to the high loss of life. Manning and the surviving third officer, Robert Diver, who was in command at the time of the accident, were blamed for the disaster. Captain Manning made a poor choice gambling peoples lives for a selfish act of heroism.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Captain Manning</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>262</td></tr><tr><th scope=\"row\">Snelheid</th><td>24 knopen ~ 44 km/u (28 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>101 &frac12; voet (30,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>10 &frac12; voet (3,2 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>7 &frac12; voet (2,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1741 ton</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "986",
+  "code": "gele-beer",
+  "name": "Gele Beer",
+  "type": "wreck",
+  "lat": "-3.0984643",
+  "lon": "100.8566897",
+  "location": "Sumatra, west of, Indonesië",
+  "firstdate": null,
+  "firstyear": "1676",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1684",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-31 13:30:19",
+  "modified_on": "2025-02-13 18:58:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Gele Beer</em> werd gekocht in&nbsp;1675/1676 (ook Gekroonde Beer). <br>Volgens de Generale Missiven d.d. 3 augustus 1678 was het schip gehuurd. Mogelijk is het aanvankelijk gehuurd en later gekocht.</p> <p>Op reis van Batavia naar Padang ten westen van Sumatra vergaan.&nbsp;<br>Het schip vertrok op 28 juli 1684 en werd voor het laatst gezien op 6 augustus; het schip bleek lek. De Gele Beer had een lading zout aan boord waarde bedroeg f 2644. Het schip met bemanning en lading op zee vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: fluit<br>Gebouwd: in Amsterdam, aangekocht , 1676<br>Tonnage: 206 , 412 ton<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92493\">Details of voyage 1433.3 from Wielingen to Batavia.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=741&amp;accessor=search_in_text&amp;source=4&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Generale missiven Deel 4, 726.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

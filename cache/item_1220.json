@@ -1,0 +1,27 @@
+{
+  "id": "1220",
+  "code": "soldaat",
+  "name": "Soldaat",
+  "type": "wreck",
+  "lat": "19.8372246",
+  "lon": "72.6485024",
+  "location": "Tarapur, India",
+  "firstdate": null,
+  "firstyear": "1692",
+  "firstyearend": null,
+  "lastdate": "1700-09-20",
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-17 11:17:37",
+  "modified_on": "2025-06-30 11:46:56",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het jacht <em>De Soldaat</em> vertrok 19-12-1695 van Texel naar Batavia. Het schip bleef vervolgens dienst doen in Azi&euml;. (<a href=\"https://www.vocsite.nl/schepen/10969/\">reizen</a>)&nbsp;O.a. als slaven haler in 1697 naar Madagaskar.</p> <p>16 juli 1699 werd ze van Batavia - samen met het Jacht Wijk op Zee - naar Suratte gezonden om te konvooieren.<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=149&amp;accessor=search_in_text&amp;source=6&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1219\">&sup1;</a> Op de terugweg daarvan naar Suratte omtrent Tarrapura gebleven.</p> <p>De schipper werd 17-2 door de raad van justitie aangeklaagd en uit de VOC dienst ontslagen.<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=199&amp;accessor=search_in_text&amp;source=6&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26&amp;view=imagePane\">&sup2;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: op de VOC-werf in Amsterdam, in 1692.<a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=523&amp;accessor=searchText&amp;source=1&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;size=1219&amp;view=imagePane\">&sup3;</a><br><br><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>100 Amsterdamse&nbsp;voet (28,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 Amsterdamse&nbsp;voet (7,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>288 ton (144 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Waarschijnlijk gevonden en deels ontmanteld [Pickford 1994]</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92790\">DAS 1730.1.</a></li><li>Dam, Pieter van.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=523&amp;accessor=searchText&amp;source=1&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;size=1219&amp;vie\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.1.1  484.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

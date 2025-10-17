@@ -1,0 +1,27 @@
+{
+  "id": "1256",
+  "code": "voorzichtigheid",
+  "name": "Voorzichtigheid",
+  "type": "wreck",
+  "lat": "-33.9087000",
+  "lon": "18.4725000",
+  "location": "Salt River Mouth, Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1743",
+  "firstyearend": null,
+  "lastdate": "1757-06-08",
+  "lastyear": "1757",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-26 10:02:19",
+  "modified_on": "2025-06-10 12:28:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Voorzichtheid door een zware orkaan van de ankers geslagen en gestrand bij de Kaap. Ze was geladen met rijst voor de kolonie. Bemanning en lading werden gered. (Generale Missiven, Deel 13 p. 200)</p> <p>In de GM wordt het journaal van opperstuurman Jeronimus Jongenberg aangehaald. Hij zou de tekst hebben aangepast zodat de werkelijke (slechtere) staat van het schip en de reden waarom het te lang bij de Kaap bleef liggen verantwoord kon worden. (GM Deel 14 p. 169)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Spiegelretourschip<br>Gebouwd: Delfshaven, 1743<br>Eigenaar/Owner: VOC kamer Delft<br>Lengte: 136<br>Tonnage: 425 last<br>Complement: 149 crew, 80 soldaten, 8 ambachtslieden (Batavia 5-12- 1753)<br>Master: Arend van der Deuren (1753)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>59</td></tr><tr><th scope=\"row\">Lengte</th><td>136 &frac14; voet (41,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>protected by the National Heritage Resources Act (No. 25 of 1999).</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94655\">DAS 3593.4.</a></li><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=211&amp;accessor=search_in_text&amp;source=13&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%2\">Generale Missiven Deel 13, p. 200.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><em>SAHRA Database.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4245",
+  "code": "manvantara",
+  "name": "Manvantara",
+  "type": "wreck",
+  "lat": "-4.8888576",
+  "lon": "106.8434603",
+  "location": "Java Zee, Indonesië",
+  "firstdate": null,
+  "firstyear": "1931",
+  "firstyearend": null,
+  "lastdate": "1942-02-13",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-02-04 18:55:24",
+  "modified_on": "2025-02-04 19:03:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In konvooi varende van Palembang naar Tandjong Priok in de Javazee op circa 100 mijl ten noorden van Tandjong Priok (04.08 ZB, 106.38 OL) door een Japanse luchtaanval tot zinken gebracht. <br><br>Vier opvarenden kwamen om het leven. Het schip was met zes andere tankers eind januari 1942 uit Australi&euml; vertrokken om nog zoveel mogelijk olie bij Palembang in te nemen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: N.V. Petroleum Maatschappij 'La Corona'</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Happee, W.L.</td></tr><tr><th scope=\"row\">Lengte</th><td>482 &frac14; voet (147 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>62 &frac14; voet (19 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.helderline.com/tanker/manvantara\">helderline.com.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=3959\">marhisdata id 3959.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

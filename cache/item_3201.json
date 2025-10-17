@@ -1,0 +1,27 @@
+{
+  "id": "3201",
+  "code": "hontestroom",
+  "name": "Hontestroom",
+  "type": "wreck",
+  "lat": "63.3866903",
+  "lon": "-20.0763228",
+  "location": "Skage reef, IJsland",
+  "firstdate": null,
+  "firstyear": "1921",
+  "firstyearend": null,
+  "lastdate": "1943-03-15",
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-12-20 16:45:30",
+  "modified_on": "2025-06-15 16:48:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het vrachtschip SS <em><strong>Hontestroom</strong></em>, vertrok 3 maart 1943 van Liverpool naar Reykjavik. Het schip was op reis met een lading cokes.<br>&nbsp;Op 15 maart 1943 strandde zij op Skage Reef (zuidwest kust van IJsland). Ze brak doormidden en ging verloren. een persoon kwam om het leven, de overige opvarenden werden gered door een Brits oorlogsschip.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Stoomschip<br>Gebouwd : N.V. Haarlemsche Scheepsbouw Maatschappij, Haarlem</p> <p><a href=\"https://www.delpher.nl/nl/kranten/view?query=Hontestroom&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1920-1929%7C1920%7C&amp;identifier=MMKB19:001120011:mpeg21:p00001&amp;resultsidentifier=MMKB19:001120011:mpeg21:a00001&amp;rowid=9\">Lijst van stoomschepen in Nederland</a> (18-3-1921)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>W. Jonker</td></tr><tr><th scope=\"row\">Lengte</th><td>265 voet (80,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1730 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2894\">marhisdata id 2894.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

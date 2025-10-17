@@ -1,0 +1,27 @@
+{
+  "id": "954",
+  "code": "delfshaven-17",
+  "name": "Delfshaven",
+  "type": "wreck",
+  "lat": "-6.2489033",
+  "lon": "113.8617407",
+  "location": "Java Zee, Indonesië",
+  "firstdate": null,
+  "firstyear": "1772",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1780",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-24 11:06:30",
+  "modified_on": "2025-06-20 10:31:15",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Delfshaven werd gebouwd in 1772. Ze maakte twee uitreizen. Na haar tweede vertrek uit Texel op 13 oktober 1777 bleef ze in Azi&euml; dienst doen.</p> <p>De Delfshaven verongelukte op de terugweg van Ternate naar Batavia boven het eiland Madura. De equipage werd gered door het schip Azi&euml;. (Dag reg 15 sept 1780)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd in 1772 voor de Kamer van Delft op de VOC-werf in Delfshaven.<br><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95353\">Details of voyage 4302.2 from Texel to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0045?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 42.</a></li><li><a href=\"https://sejarah-nusantara.anri.go.id/pagebrowser/icaatom-dasa-anri-go-id_339-ead-xml-1-2607/#source=1&amp;page=113&amp;accessor=thumbnails&amp;view=imagePane\">Dagregister 15 september 1780.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

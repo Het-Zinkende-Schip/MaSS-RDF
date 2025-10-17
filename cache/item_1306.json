@@ -1,0 +1,27 @@
+{
+  "id": "1306",
+  "code": "zon-1637",
+  "name": "Zon",
+  "type": "wreck",
+  "lat": "23.7673982",
+  "lon": "119.6040251",
+  "location": "Chi-pei-Tao, Penghu, Taiwan",
+  "firstdate": null,
+  "firstyear": "1637",
+  "firstyearend": null,
+  "lastdate": "1639-12-29",
+  "lastyear": "1639",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-29 16:12:18",
+  "modified_on": "2025-06-10 13:19:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Zon was een fluit die waarschijnlijk is aangekocht in 1637 in Amsterdam. De Zon vertrok 31-12-1637 vanuit Texel en kwam aan in Batavia op 9-7 -1638.</p> <p>De fluit werd ingezet op de Verre Oosten route. De Zon was op weg van Hirado (Japan) naar fort Zeelandia (Taiwan) met een lading Japans zilver.</p> <p>Zes dagen na vertrek uit Japan is ze op de klippen gelopen bij Laagh eiland (Een deel van de Pehu eilanden groep). De lading waaronder 400 kisten zilver en stenen voor een te bouwen trap in het fort Zeelandia werd deels geborgen en aan land gebracht op het Laagh eiland.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00002772.jpg\" alt=\"landkaart van het Laagh eiland.\"> <div class=\"img-source\">NA Den Haag, De Pescadores of Pehu eilanden groep</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf Oostenburg, Amsterdam 1637</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>60</td></tr><tr><th scope=\"row\">Tonnage</th><td>200 ton (100 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91535\">DAS 0497.1.</a></li><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/taiwan/#page=513&amp;accessor=search_in_text&amp;source=1&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Ftaiwan%2Fsearch_in_text%2Findex_html%3Fpage%3D7%26source%3D2%26id%3Dsea\">De dagregisters van het kasteel Zeelandia, Taiwan 1629-1662, Deel I p.493.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

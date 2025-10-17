@@ -1,0 +1,27 @@
+{
+  "id": "1112",
+  "code": "pennland",
+  "name": "SS Pennland",
+  "type": "wreck",
+  "lat": "37.4363939",
+  "lon": "23.9228668",
+  "location": "Agios Georgios, Griekenland",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": "1941-04-25",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-04 10:00:59",
+  "modified_on": "2025-06-09 16:27:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De kiel werd gelegd in november 1913 voor de American Line-International Navigation Co. Ltd., Liverpool. Toen WWI uitbrak werd de bouw stil gelegd. In 1920 werd het schip als <strong><em>SS Pittsburgh</em></strong> te water gelaten. De eerste proefvaart vond plaats op 25 mei 1922.</p> <p>Het <em><strong>s.s. Pennland</strong></em> werd in 1940 in dienst gesteld als troepentransportschip en verhuurd aan het Ministry of War Transport. Het schip werd bij de evacuatie van Britse troepen uit Griekenland ingezet. Op 25 April 1941 werd de <em><strong>Pennland</strong></em> door vijandelijke bommenwerpers zwaar beschadigd. Zij was niet meer te bergen en werd door het Britse oorlogsschip <em><strong>H.M.S. Griffin</strong></em> met kanonvuur tot zinken gebracht. Bij de aanval op de <em><strong>Pennland</strong></em> vielen 4 slachtoffers te betreuren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: passagiersschip/vracht<br>Gebouwd: Harland &amp; Wolff Ltd., Queen's Island, Belfast<br>Eigenaar 1: F. Leyland &amp; Co. Ltd., Liverpool,<br>Eigenaar 2: Holland-Amerika Lijn, Rotterdam (v.a. 1939)<br>Dimensies: 574.4 x 67.8 x 40.9 Feet (British) Registered<br>Tonnage: 16381<br>Voortstuwing: Steam, Triple Expansion with LP-Turbine, Power: 12<br>Snelheid: 16</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Slachtoffers: F. Bolte, magazijnmeester, P. Verschoor, tremmer,<br>M.A. Ronteltap, olieman en G. C. v.d. Winkel, pantryman</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 90.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5111\">Maritiem Historische Data ID 5111.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

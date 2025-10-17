@@ -1,0 +1,27 @@
+{
+  "id": "2830",
+  "code": "noorderdijk",
+  "name": "Noorderdijk",
+  "type": "wreck",
+  "lat": "49.8678215",
+  "lon": "-6.4431381",
+  "location": "Bishop Rock, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": "1917-02-22",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-08 11:18:36",
+  "modified_on": "2025-06-14 21:28:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Noorderdijk</strong></em> was op reis met een voor de Nederlandse regering bestemde lading graan en meel van New York naar Rotterdam via Falmouth (UK). Ze vertrok op 22 februari 1917 van Falmouth in konvooi met zes andere Nederlandse schepen onder waarborg van de Duitse regering. Niettegenstaande deze waarborg werd het konvooi op 22 februari op de Atlantisch Oceaan ten westen van Bishop Rock door de Duitse onderzee&euml;r U 21 onder commando van Otto Hersing tegengehouden.</p> <p>Het konvooi bestond uit de schepen: Jacatra, Noorderdijk, Eemland, Gaasterland, Bandoeng, Zaandijk en de Menado.</p> <p><strong>Lot Falmouth konvooi</strong><br>De kapitein van de Bandoeng onderhandelde nog met Hersing maar het mocht niet baten. Zes van de 7 Nederlandse schepen werden tot zinken gebracht.De Noorderdijk werd getorpedeerd. De Menado was het enige schip dat, hoewel zwaar beschadig, bleef drijven.</p> <p>De 61 opvarenden kwamen veilig aan land. Na moeizame onderhandelingen erkende Duitsland het onrechtmatige van de daad en werd als schadevergoeding een in Nederlands Indi&euml; liggend Duits stoomschip aan de N.A.S.M. overgedragen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Wm. Gray &amp; Co. Ltd., West Hartlepool, UK</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Koning, J. de</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>61</td></tr><tr><th scope=\"row\">Lengte</th><td>133 &frac12; voet (40,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>16 &frac12; voet (5 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>11 &frac34; voet (3,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>7166 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=4706#event11670\">Noorderdijk  ID 4706.</a></li><li>Delpher.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Bishop+rock&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;page=2&amp;sortfield=date&amp;coll=ddd&amp;identifier=ddd:110549478:mpeg21:a0053&amp;resultsidentifier=ddd:110549478:\">De Telegraaf  02-06-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

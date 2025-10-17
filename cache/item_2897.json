@@ -1,0 +1,27 @@
+{
+  "id": "2897",
+  "code": "jacoba-ma-166",
+  "name": "Jacoba (MA 166)",
+  "type": "wreck",
+  "lat": "52.3116967",
+  "lon": "4.0146124",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1917-05-17",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2022-06-26 11:31:18",
+  "modified_on": "2025-06-15 12:23:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Jacoba MA 166 is door de Duitse onderzee&euml;r U 71 samen met de MA 45 tot zinken gebracht. De bemanning werd gered.<a title=\"Delftse courant 18-5-1917\" href=\"https://cultureelerfgoed.info/mass/?file=00000047.jpg\">*</a></p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003224.jpg\" alt=\"foto van de masten van een vissersvaartuig\"> <div class=\"img-source\">scheveningen haven.nl</div> <figcaption class=\"img-description\">De Jacoba MA 166 in de haven van Maassluis</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Zeil beuger<br>Eigenaar: C. Doeleman &amp; Co. Maassluis</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22MA+45%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;identifier=MMKB08:000142644:mpeg21:a0003&amp;resultsidentifier=MMKB08:000142644:mpeg21:a0003&amp;rowid=2\">Delftse couran t 18-5-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

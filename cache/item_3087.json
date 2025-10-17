@@ -1,0 +1,27 @@
+{
+  "id": "3087",
+  "code": "midlaren-de-bloemert",
+  "name": "Midlaren-De Bloemert",
+  "type": "wreck",
+  "lat": "53.1137720",
+  "lon": "6.6828966",
+  "location": "Midlaren, Nederland",
+  "firstdate": null,
+  "firstyear": "618",
+  "firstyearend": "630",
+  "lastdate": null,
+  "lastyear": "630",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-05-25 11:55:34",
+  "modified_on": "2025-06-15 21:11:33",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De boomstamboot van Midlaren-De Bloemert (Figuur 16), wat nabij rivier Hunze en het Zuidlaardermeer gelegen is, dateert uit 624 &plusmn; 6 AD (vroege Middeleeuwen B) en is volgens Van de Moortel gebruikt als rivier- of meerbootje.</p> <p>Moortel, A. van de, (2009). The Utrecht Ship Type: an expanded logboat tradition in its historical context. In R. Bockius: Between the seas: transfer and exchange in nautical technology: proceedings of the eleventh international symposium on boat and ship archaeology, Mainz 2006.</p> <p>Voor de datering van waterput 4 (dccd nr. mil00111), waterput 21 (dccd nr. mil00262) en waterput 28 (dccd nr. mil00242)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>1 &frac34; voet (0,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>0 &frac34; voet (0,2 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Moortel, A. van de (2009).<br /><em>The Utrecht Ship Type: an expanded logboat tradition in its historical context.</em><br />Between the seas: transfer and exchange in nautical technology: proceedings of the eleventh international symposium on boat and ship archaeology.</li><li>Elsemieke Spoor-Hanraets; Tamara Vernimmen; Esther Jansma.<br /><a href=\"https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/HB1PPU\">Midlaren De Bloemert, waterput. Projectnummer dendrochronologie (Stichting RING): 2005051 Version 2.2.</a></li><li>Brouwers W, Jansma E. Manders M.<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000086.pdf\">Middeleeuwse scheepsresten in Nederland, De vroege middeleeuwen 500-1050.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

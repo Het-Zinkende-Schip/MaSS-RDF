@@ -1,0 +1,27 @@
+{
+  "id": "2814",
+  "code": "handel-en-visscherij",
+  "name": "Handel en Visscherij (MA 103)",
+  "type": "wreck",
+  "lat": "52.5600000",
+  "lon": "4.1000000",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1917-07-06",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-03-22 10:56:33",
+  "modified_on": "2025-07-14 12:58:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 6 juli July 6, 1917 werden twee haringvissers (loggers) uit Maassluis <em><strong>Handel en Visscherij</strong></em> en <em><strong>Piet Hein</strong> </em>door de Duitse onderzee&euml;r UC 33 aangehouden en tot zinken gebracht. De Duitse kapitein beweerde dat ze buiten de territoriale wateren voeren en daarom in overtreding waren. De bemanning dobberde drie dagen in de boten voordat ze opgepikt werden.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003102.jpg\" alt=\"Stukje tekst uit een krant, met bovenaan in een groter lettertype de tekst &quot;Laatste Berichten&quot;\"> <div class=\"img-source\">Delpher</div> <figcaption class=\"img-description\">Apeldoornsche Courant 10-7-1917</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: zeil logger, zeilschip met houten romp</p> <p>Gebouwd: P. de Zeeuw, Vlaardingen</p> <p>Eigenaar: J.J. van Rossum, Maassluis</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>76 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Uboat.net.<br /><a href=\"https://uboat.net/wwi/ships_hit/2692.html\">Handel en Visscherij.</a></li><li>Apeldoornsche Courant.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Handel+en+Visscherij%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;identifier=MMCODA01:000153818:mpeg21:a0010&amp;resultsidentifier=MMCODA01:000153818:mpeg21\">Per telegraaf 10-7-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

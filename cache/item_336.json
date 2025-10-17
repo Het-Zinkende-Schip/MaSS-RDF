@@ -1,0 +1,27 @@
+{
+  "id": "336",
+  "code": "jonker",
+  "name": "Jonker",
+  "type": "wreck",
+  "lat": "22.6000000",
+  "lon": "114.4000000",
+  "location": "Wankang, Guangzhou, China",
+  "firstdate": null,
+  "firstyear": "1645",
+  "firstyearend": null,
+  "lastdate": "1647-10-21",
+  "lastyear": "1647",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Charlotte de Hoogd",
+  "created_on": "2012-10-09 00:00:00",
+  "modified_on": "2025-03-31 15:21:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het fluitschip <em>Jonker</em> voer voor de Verenigde Oost-Indische Compagnie (VOC). Zij werd naar het Oosten gezonden om dienst te doen als schip voor de inter-Aziatische handel.</p> <p>Op 21 oktober 1647 verging het schip tijdens haar reis vanuit Japan. Zij leed schipbreuk in Wankang bij Guangzhou in China. Hierbij verdronken 55 van de 90 opvarenden en ging het schip verloren met een lading suiker, zilver en koper. Deze reis was slechts haar eerste tijdens haar inter-Aziatische reizen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000744.jpg\" alt=\"Afluyt ship\"><figcaption class=\"img-description\">Een fluytschip.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Het fluytschip <em>Jonker</em> werd in Amsterdam gebouwd voor de Amsterdamse Kamer van de VOC.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>90</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Enkele jaren nadat het wrak was gezonken, werd er nog wat koper uit geborgen. Deze poging om een deel van de lading van het scheepswrak te bergen vond plaats in 1652 en werd gedaan door Chinese duikers. Archeologisch is er niets bekend over de berging van het schip, over het onderzoek dat op het schip is verricht of over de vondsten die bij de opgraving zijn gedaan.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000743.jpg\" alt=\"Fluytship ca.1650, J.Th. Blankenhoff\"><figcaption class=\"img-description\">Fluytschip ca. 1650, J.Th. Blankenhoff.</figcaption></figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91759\">Details of voyage 0642.1 from Texel to Batavia.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=2&amp;page=334&amp;accessor=search_in_text&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D334%26source%3D2%2\">Generale missiven Deel 2, 321.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

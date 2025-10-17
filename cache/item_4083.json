@@ -1,0 +1,27 @@
+{
+  "id": "4083",
+  "code": "nm133-i",
+  "name": "NM133-I",
+  "type": "wreck",
+  "lat": "52.7827500",
+  "lon": "5.8400060",
+  "location": "Kuinre, Nederland",
+  "firstdate": null,
+  "firstyear": "1296",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1300",
+  "lastyearend": "1350",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:38:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Begin 1949 werd de mondelinge mededeling ontvangen dat er op kavel M133 in de Noordoostpolder van een scheepswrak alleen een achtersteven was gevonden. De grond op de vindplaats was bewerkt, waardoor het niet na was te gaan of eerdere opgraving was verricht. Het is daarna niet verder onderzocht en opgegeven als zijnde een object van minder betekenis. Bij het gevonden achtersteven werden ook een aantal andere vondsten gedaan, die echter van jongere datum waren.</p> <p>In 1956 kwam aan het licht dat er zich inderdaad een tweede wrak van een jongere datering op de kavel bevond. De jongere vondsten op kavel M133 zijn daarom met terugwerkende kracht toegeschreven aan wrak M133IINOP (NM133-II), dat tenminste na 1650 moet zijn vergaan op basis van het bodemprofiel. In het archeologisch wrakdossier worden NM133-I en II helaas door elkaar gebruikt, maar hier is er voor gekozen om de oudere achterstevenhaak wrak I te noemen en de jongere scheepsvondst wrak II, in navolging van Yftinus van Popta &amp; Andr&eacute; (A.F.L.) van Holk 2018 ('Where are the Shipwrecks of the Zuiderzee - Shipwreck Database Flevoland 3.0').</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zqv-nekb\">Opgravingsdocumentatie scheepswrak NM133-I.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

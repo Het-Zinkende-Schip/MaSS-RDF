@@ -1,0 +1,27 @@
+{
+  "id": "2746",
+  "code": "nieuw-zeeland",
+  "name": "Nieuw Zeeland",
+  "type": "wreck",
+  "lat": "36.0917243",
+  "lon": "-4.1967773",
+  "location": "100 mijl t.z.v. Malaga",
+  "firstdate": null,
+  "firstyear": "1928",
+  "firstyearend": null,
+  "lastdate": "1942-11-11",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-06 14:17:27",
+  "modified_on": "2025-07-14 12:22:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip Nieuw Zeeland werd aan het begin van de oorlog gecharterd door het BMWT en te Singapore verbouwd tot troepentransportschip.</p> <p>Op 11 november 1942 op de terugweg van Arzeu (Algiers) - waar ze troepen aan land had gebracht in het kader van Operation Torch - naar Gibraltar door de Duitse onderzeeboot <em><strong>U 380</strong></em> getorpedeerd. Het schip zonk binnen een halfuur.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002977.jpg\" alt=\"Kaart van het noorden van Afrika. Met pijlen zijn west, midden en oost taskforces aangegeven.\"> <div class=\"img-source\">bron: wikicommons</div> <figcaption class=\"img-description\">Kaart van het noorden van Afrika. Met pijlen zijn west, midden en oost taskforces aangegeven.</figcaption> </figure> <p>De in de buurt varende torpedobootjager <a href=\"/isaac-sweers-hrms\">Hr.Ms. 'Isaac Sweers</a>' weet samen met de Britse HMS 'Porcupine' en HMS 'Albrington' het grootste gedeelte van de 246 opvarenden te redden.* Veertien van de 256 opvarenden lieten het leven.</p> <p>* De Isaac Sweers werd op haar beurt 2 dagen later getorpedeerd door de U 431.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Rotterdamse Droogdok Mij. N. V., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Vermogen</th><td>7500 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>15 knopen ~ 28 km/u (17 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>540 voet (164,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>62 &frac34; voet (19,1 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>32 &frac14; voet (9,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>11069 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 231.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

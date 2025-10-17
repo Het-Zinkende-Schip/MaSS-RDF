@@ -1,0 +1,27 @@
+{
+  "id": "1061",
+  "code": "grootekerk",
+  "name": "Grootekerk",
+  "type": "wreck",
+  "lat": "57.7338755",
+  "lon": "-22.8339822",
+  "location": "North Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1923",
+  "firstyearend": null,
+  "lastdate": "1941-02-24",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-15 16:28:54",
+  "modified_on": "2025-06-09 15:41:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op weg van Swansea (vertrokken 18 februari) via Freetown en Penang naar Singapore, kort na vertrek op de Atlantische Oceaan ten westen van Ierland (ongeveer 56 NB en 25 WL) getorpedeerd door de Duitse onderzeeboot 'U 123'. Alle 52 opvarenden kwamen hierbij om het leven. De 'Grootekerk' was oorspronkelijk op 5 maart als vermist opgegeven. De 'U 123' vertrok voor zijn derde oorlogspatrouille onder commando van Karl-Heinz Moehle uit Lorient (Frankrijk) op 14 januari 1941 voor een 6,5 week durende patrouille ten westen van Groot-Brittanni&euml;. In totaal werden vier schepen tijdens deze tocht tot zinken gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Vracht, stoom<br>Gebouwd: Scheepsbouw Maatschappij 'Nieuwe Waterweg' N.V., Schiedam, 1923<br>Eigenaar: N.V. Nederlandsch-Amerikaansche Stoomvaart Maatschappij 'Holland-Amerika Lijn', Rotterdam<br>Dimensies: 141.98 x 17.75 x 9.65 Meters Registered<br>Tonnage: 8365<br>Voortstuwing: Steam, Turbine, Power: 4200<br>Snelheid: 13<br>Bemanning: 52<br>Kapitein: B.A. Veen</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Alle 52 bemanningsleden kwamen om bij de ramp.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://uboat.net/allies/merchants/ship/787.html\">Maritiem Historische Data id 2592.</a></li><li><a href=\"https://uboat.net/allies/merchants/ship/787.html\">Uboat.net.</a></li><li><a href=\"https://uboat.net/allies/merchants/ship/787.html\">Uboat.net U 123.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

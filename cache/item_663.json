@@ -1,0 +1,27 @@
+{
+  "id": "663",
+  "code": "utrecht-2",
+  "name": "Utrecht 2",
+  "type": "wreck",
+  "lat": "52.0952804",
+  "lon": "5.1151507",
+  "location": "Waterstraat, Utrecht, Nederland",
+  "firstdate": null,
+  "firstyear": "1000",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1030",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-09 11:14:51",
+  "modified_on": "2025-10-16 10:28:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In Utrecht vinden we de grootste concentratie Romeinse en vroegmiddeleeuwse scheepsvondsten van Noordwest-Europa.</p> <p>De zogenaamde Utrecht 2 was een opgeboeide boomstamboot van eikenhout. Afmetingen 12,8 x 3 meter. Ze werd gevonden in de Waterstraat in 1974. De boot lijkt sterk op de <a href=\"https://mass.cultureelerfgoed.nl/utrecht-1\">Utrecht 1</a>.</p> <p>De archeologische context levert een datering op in het begin van de 11e eeuw.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Moortel, A. van de, 2009: The Utrecht Ship Type. An Expanded Logboat Tradition in its Historical Context, in: R. Bockius (ed.), Between the Seas. Trans-fer and Exchange in Nautical Technology. Eleventh International Symposium on Boat and Ship Ar.</em></li><li>Brouwers,  W. , Jansma, E. Manders, M. (2015).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000086.pdf\">Middeleeuwse scheepsresten in Nederland, de vroege middeleeuwen 500-1050.</a><br />Archeobrief, 2015 (3).</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

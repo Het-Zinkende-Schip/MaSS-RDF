@@ -1,0 +1,27 @@
+{
+  "id": "2821",
+  "code": "apollo-1905",
+  "name": "Apollo",
+  "type": "wreck",
+  "lat": "51.4930128",
+  "lon": "1.6589355",
+  "location": "Galloper Shoal, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1905",
+  "firstyearend": null,
+  "lastdate": "1916-01-21",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-05 19:46:35",
+  "modified_on": "2025-06-15 11:30:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De<em><strong> Apollo</strong></em> was op weg van Lissabon naar Amsterdam. Op 21-1-1916 ca 1 mijl zuid-zuidwest van het lichtschip Galloper liep ze op een mijn en zonk snel. De opvarenden slaagden er in om met beide reddingssloepen van het schip af te komen. Nadat app&egrave;l werd gehouden blijkt dat drie man worden vermist.</p> <p>De volgende dag kon de bemanning worden gered door de veerboot <em><strong>Prinses Juliana</strong></em> van de Stoomvaart Maatschappij 'Zeeland', op weg van Tilbury naar Vlissingen. De Apollo was het vierde schip van de KNSM dat tijdens de oorlog verloren ging. De mijn was op 29 december 1915 gelegd door de Duitse onderzeeboot <em><strong>UC 10</strong></em>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>765 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=554\">Apollo id 554.</a></li><li><a href=\"https://www.theshipslist.com/ships/lines/knsm.shtml\">The shiplist.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

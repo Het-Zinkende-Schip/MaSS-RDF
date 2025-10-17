@@ -1,0 +1,27 @@
+{
+  "id": "1180",
+  "code": "koe",
+  "name": "Koe",
+  "type": "wreck",
+  "lat": "23.7623819",
+  "lon": "117.6764411",
+  "location": "Dongshan, China",
+  "firstdate": null,
+  "firstyear": "1646",
+  "firstyearend": null,
+  "lastdate": "1652-07-20",
+  "lastyear": "1652",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-02 15:28:10",
+  "modified_on": "2025-06-24 18:44:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Koe</strong></em> vertrok voor de kamer Amsterdam naar Azi&euml; op 21 december 1646. Ze bleef in Azi&euml; dienst doen.</p> <p>De Koe vertrok op 13 juni 1652 uit Batavia met bestemming Taiwan.<br>Ze kwam daar nooit aan.</p> <p>Missive Verburgh en Raad uit Zeelandia 15-11-1652:</p> <p><em>Chinese jonken brengen het bericht dat drie maand geleden een Hollands schip op de Custe van Chincheo is vergaan, 8 matrozen die zich met de boot gesalveert hebben zijn door vissers naar Amuy bij Coxinga gebracht.</em></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003389.jpg\" alt=\"landkaart van de Tangsoa baai, locatie van De Koe (rode kader), Tayoean, Fort Zeelandia (Blauw kader), en Amoy (groen kader)\"> <div class=\"img-source\">NL-HaNA_4.VEL_272-det Tangsoa</div> <figcaption class=\"img-description\">Tangsoa baai, locatie van De Koe (rode kader), Tayoean, Fort Zeelandia (Blauw kader), en Amoy (groen kader)</figcaption> </figure> <p>Van de 86 opvarenden konden slechts acht zich redden in de schuit. Deze was te water gelaten door twee matrozen. Zes drenkelingen konden de schuit zwemmend bereiken. De rest ging met de Koe ten onder.</p> <p>De schuit bereikte het Chinese vasteland waar de drenkelingen door de plaatselijke vissers naar Chincheo Amoy werden gebracht en waar Zheng Chenggong (alias Koxinga) zijn machtsbasis had.* Deze stuurde de mannen na zes maanden detentie terug naar Batavia. Ze deden uitgebreid verslag van hun omzwervingen.(Dagregister, 9).<br><br></p> <p class=\"note\">* Zheng zou in 1662 Taiwan op de VOC veroveren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1646<br>Laadvermogen: <br>De Koe staat vermeld in de equipage lijst van 1647 voor 100 last. Het werkelijke laadvermogen was veel hoger.<br>Opvarenden: 86</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91787\">DAS 0670.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/1194/file/NL-HaNA_1.04.02_1194_0317?query=1194&amp;start=0&amp;search-type=item_code\">NA 1.04.02 (VOC) 1194, fol 152.</a></li><li>Chijs, van der, J.A. (1888).<br /><a href=\"https://play.google.com/books/reader?id=XF_ZAAAAMAAJ&amp;pg=GBS.PA10&amp;hl=nl\">Dagh-register gehouden int Casteel Batavia, volume 1653.</a><br />Den Haag, Martinus Nijhof.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

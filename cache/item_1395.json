@@ -1,0 +1,27 @@
+{
+  "id": "1395",
+  "code": "koning-david-2",
+  "name": "Koning David",
+  "type": "wreck",
+  "lat": "52.7765007",
+  "lon": "4.6540833",
+  "location": "Petten, Nederland",
+  "firstdate": null,
+  "firstyear": "1645",
+  "firstyearend": null,
+  "lastdate": "1653-11-10",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-19 10:03:02",
+  "modified_on": "2025-06-08 15:49:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Gehuurd door adm. Amsterdam. De Koning David was deel van de vloot o.l.v. Witte de With die na de zeeslag bij Ter Heijde naar Denemarken en Noorwegen werd gestuurd om de vele Oostzee koopvaarders en VOC retourschepen veilig thuis te brengen. Door de De Eerste Engels-Nederlandse oorlog was de VOC retourvloot uit Batavia uitgeweken naar Noorwegen en konden vele Oostzee vaarders niet naar huis. Op de terugreis 10 november 1653 door storm op de kust van Noord Holland (bij Petten?) kapot geslagen.</p> <p>Kapitein Vogelsang en de meeste opvarenden verdronken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gehuurd in april 1653<br>Bewapening: 28 (12 x12 p, 8 x 8 p., 6 x 6 p., 2 x3 ponders.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Vogelsang, Dirk Hendriksz.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>124</td></tr><tr><th scope=\"row\">Lengte</th><td>124 voet (37,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 &frac34; voet (8,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J.A. (2014).<br /><em>Dutch Warships in the Age of Sail 1600 - 1714 p. 209.</em></li><li><a href=\"https://archive.org/details/gri_33125010266480/page/n439/mode/2up?q=Star\">Hollandtsche Mercurius, november 1653.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "617",
+  "code": "concordia",
+  "name": "Concordia",
+  "type": "wreck",
+  "lat": "22.2565631",
+  "lon": "-84.7166744",
+  "location": "In between Yucatan and Cabo San Anton, Cuba",
+  "firstdate": null,
+  "firstyear": "1740",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1744",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-04-02 15:55:18",
+  "modified_on": "2025-05-23 10:52:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Rechtzaak als een bron van informatie</h2> <p>De <em>Concordia </em>was een schip in dienst van de WIC. Het schip was op de terugweg naar Nederland vanaf Cura&ccedil;ao en Honduras. De gebruikelijke route was langs Havana door de Straat van Bahama, door de overheersende winden. De <em>Concordia</em> is ergens voor de kust van Cuba vergaan in 1744, waarschijnlijk door slecht weer.</p> <p>Er is niet veel bekend over dit schip en haar ondergang. Maar er zijn een paar bronnen. Jan van Stralsund was een zeeman die gediend had op de <em>Concordia</em> en die terug was gekomen naar Amsterdam. Hij getuigde bij een notaris om te bewijzen dat hij op het schip gediend had als een manier om het achterstallige loon voor het werk op het schip te krijgen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001397.jpg?modifiedon=1705654367\" alt=\"Part of a print after Reinier Nooms, mid 17th century. The original depicts a VOC and a WIC ship. The name of the ship is the Dubbele Arend. Mr. and Mrs. Lewis B. Williams Collection.\"> <div class=\"img-source\">Rijksmuseum, RP-P-1891-A-16542</div> <figcaption class=\"img-description\">Detail van een prent naar Reinier Nooms, midden van de 17e eeuw. Het origineel laat een VOC en een WIC ship zien. De naam van het WIC schip dat hier afgebeeld is, is de Dubbele Arend.</figcaption> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Spoor, Jan</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

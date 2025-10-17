@@ -1,0 +1,27 @@
+{
+  "id": "1059",
+  "code": "amstelland",
+  "name": "Amstelland",
+  "type": "wreck",
+  "lat": "54.1000000",
+  "lon": "-14.3800000",
+  "location": "Atlantic Ocean, Ierland",
+  "firstdate": null,
+  "firstyear": "1920",
+  "firstyearend": null,
+  "lastdate": "1941-02-28",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-15 15:57:08",
+  "modified_on": "2025-06-09 13:45:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het S.S.<em> Amstelland </em>werd, op weg in ballast in konvooi van Falmouth via de Clyde naar Buenos Aire<em>s</em>, op 26 februari 1941 in de Ierse Zee aangevallen door vijandelijke vliegtuigen. Het schip werd zwaar beschadigd maar dreef nog. Twee dagen later zonk het alsnog. (<a title=\"Amstelland\" href=\"https://cultureelerfgoed.info/mass/?file=00000010.pdf\">National Archives BT-389-33-149</a>)</p> <p>De gehele bemanning met uitzondering van de gezagvoerder Rietbergen wist zich in de reddingboten te redden. De kapitein, die als laatste man het schip verliet, viel bij het in de boten gaan in het water.</p> <p>De Engelse torpedoboot <em>Vanquisher</em>, die het ongeval had gezien, kwam te hulp en kon de kapitein na 25 minuten aan boord nemen. De kapitein kon niet meer gereanimeerd worden en stierf. Het stoffelijk overschot van kapitein Rietbergen werd op 5 maart 1941 te Liverpool begraven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Swan, Hunter &amp; Wigham Richardson Ltd., Wallsend on Tyne, UK, 1920<br>Eigenaar: Koninklijke Hollandsche Lloyd, Amsterdam<br>Dimensies: 470.10 x 61.50 x 32.10 Feet (British) Registered<br>Voortstuwing: 2 Steam Turbine, Power: 4500, type Metropolitan-Vickers<br>Snelheid: 13</p> <p>Bewapening : 4-inch naval gun Mk</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>C.S. Th. Rietbergen</td></tr><tr><th scope=\"row\">Tonnage</th><td>8156 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=380\">Maritiem Historische Data ID 380.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

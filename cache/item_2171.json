@@ -1,0 +1,27 @@
+{
+  "id": "2171",
+  "code": "meermin-1754",
+  "name": "Meermin",
+  "type": "wreck",
+  "lat": "51.5497510",
+  "lon": "1.9885254",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1754",
+  "firstyearend": null,
+  "lastdate": "1761-01-29",
+  "lastyear": "1761",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-24 10:59:49",
+  "modified_on": "2024-05-16 10:27:44",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het fregat <em><strong>Meermin</strong></em> strandde in januari 1761 op de Goodwin Sands, een beruchte zandbank voor de Engelse kust bij Deal. Kapitein Bisdom werd door een krijgsraad van alle schuld vrijgesproken. N.a.v. dit ongeluk werd een commissie ingesteld door Staten Generaal om te kijken hoe dergelijke ongelukken in de toekomst konden worden voorkomen. Er werd vanuit de verschillende admiraliteiten voorstellen gedaan. Een van de voorstellen was het verbeteren van opleiding van stuurlieden en het verbeteren van navigatie technieken. (Vlot, 90, 91)<br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: 'lands werf Amsterdam, 1754, scheepsbouwer Charles Bentam.<br>Bewapening: 24</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Bisdom, Evert</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>150</td></tr><tr><th scope=\"row\">Lengte</th><td>122 Amsterdamse&nbsp;voet (34,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>threedecks.org.<br /><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=1507\">Meermin.</a></li><li>Vlot, J.D. (2002).<br /><em>Ambitie en lust om wel te dienen.</em><br />Zoetermeer, Uitgeverij Protocol BV.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

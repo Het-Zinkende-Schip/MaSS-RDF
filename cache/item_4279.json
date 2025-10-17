@@ -1,0 +1,27 @@
+{
+  "id": "4279",
+  "code": "huis-te-nek",
+  "name": "Huis te Nek",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "onbeked",
+  "firstdate": null,
+  "firstyear": "1682",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1683",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-05-28 11:27:05",
+  "modified_on": "2025-06-16 16:23:59",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Huis te Nek vertrok 10 mei 1683 uit Texel als onderdeel van de voorjaarsvloot.</p> <p>8 september 1683 kwam een deel van de vloot aan bij de Kaap (Ridderschap van Holland, Castricum, Coevorden).&nbsp;Huis te Nek kwam nooit aan bij de Kaap. Er werd gespeculeerd dat het schip in oktober 1683 door storm voorbij de Kaap is gedreven. Maar het is ook mogelijk dat het schip al eerder op de Atlantisch Oceaan is vergaan. De locatie is vooralsnog onbekend.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Hoorn, 1682.<a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=530&amp;accessor=searchText&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=1&amp;view=\">&sup2;</a></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 Amsterdamse&nbsp;voet (9,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4019/file/NL-HaNA_1.04.02_4019_0378?eadID=1.04.02&amp;unitID=4019&amp;query=4019\">NA_1.04.02_4019_0378.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

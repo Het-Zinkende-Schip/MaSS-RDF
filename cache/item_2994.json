@@ -1,0 +1,27 @@
+{
+  "id": "2994",
+  "code": "maria",
+  "name": "Marian (SCH 235)",
+  "type": "wreck",
+  "lat": "52.7754796",
+  "lon": "3.1600000",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1885",
+  "firstyearend": null,
+  "lastdate": "1917-02-09",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-15 09:39:38",
+  "modified_on": "2022-09-15 10:09:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Marian is aangehouden door de Duitse onderzee&euml;r U 53 en tot zinken gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Houten zeillogger<br>Gebouwd: L. van Dam, Vlaardingen<br>Eigenaar: rederij Huibert Dirkzwager, Scheveningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Vrolijk, D.</td></tr><tr><th scope=\"row\">Tonnage</th><td>71 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://uboat.net/wwi/ships_hit/3939.html\">uboat.net.</a></li><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40018274\">Centraal Visserij register 400182743.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

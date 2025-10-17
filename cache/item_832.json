@@ -1,0 +1,27 @@
+{
+  "id": "832",
+  "code": "zeearend-ss-1916",
+  "name": "SS Zeearend",
+  "type": "wreck",
+  "lat": "52.0202166",
+  "lon": "3.7974930",
+  "location": "Approach to Europoort, Nederland",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": "1916-09-01",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-09-30 11:04:13",
+  "modified_on": "2025-06-07 20:38:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De motorzeeboot <em><strong>Zeearend</strong></em> was eigendom van de Overzeesche Vrachtmaatschappij, Rotterdam. Tijdens het laden in de haven van Rotterdam is de Zeearend gekapseisd en gezonken, waarbij de masten afbraken. Het schip werd gelicht en weer hersteld.</p> <p>Onderweg van Rotterdam naar Londen met een lading stukgoederen (levensmiddelen) aangehouden door de Duitse Onderzeeboot 'UB 17' en nadat de bemanning het schip op commando had verlaten, met een torpedo tot zinken gebracht op ca. 19 mijl WNW van lichtschip 'Maas'.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: cargo - vrachtschip</p> <p>Werf: N.V. Werf De Noord, Alblasserdam in 1913</p> <p>Lenge : 44.95 m<br>Breedte: 7.74 m<br>Tonnage: 462 grt</p> <p>Motor, Oil, 4-stroke single-acting<br>Power: 260 pk</p> <p>Kapitein:&nbsp;Zwierts, J.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritieme Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=7436\">Zeearend - ID 7436.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

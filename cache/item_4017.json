@@ -1,0 +1,27 @@
+{
+  "id": "4017",
+  "code": "nc82",
+  "name": "NC82",
+  "type": "wreck",
+  "lat": "52.7361120",
+  "lon": "5.6585080",
+  "location": "Creil, Nederland",
+  "firstdate": null,
+  "firstyear": "1700",
+  "firstyearend": "1750",
+  "lastdate": null,
+  "lastyear": "1790",
+  "lastyearend": "1800",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:31:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1948 werden nabij het huidige Espel in Noordoostpolder de resten van een groot maar incompleet scheepswrak aangetroffen. Gezien de geschatte omvang en hoeveelheid werk die dit met zich mee zou brengen, werd echter besloten om opgraving vooralsnog uit te stellen. Hierna is de scheepsrest op kavel C82 nog een aantal keer gemeld, maar zonder opgraving tot gevolg. In de met pachter D.J. Blok in 1956 afgesloten overeenkomst wordt gesteld dat het scheepswrak ter plekke intact gelaten moet worden. Uiteindelijk wordt in 1975 een verzoek tot opgraving gedaan, omdat het wrak dusdanig dicht onder de bouwvoor ligt dat grondbewerking ter plekke niet goed mogelijk is. Daarom wordt in datzelfde jaar een verkennend onderzoek uitgevoerd, gevolgd door opgraving in het daarop volgende jaar. Onder de vondsten, verspreid over de wraklocatie, bevond zich onder meer een nagenoeg complete octant, van een type dat (getuige een catalogus) door de firma Spencer Browning and Rust werd gemaakt omstreeks 1792. Ook twee gelijke messing kandelaren uit het wrak bleken later (getuige hun ontwerp) van Engelse makelij. Hoewel het meeste scheepshout redelijk slecht bewaard was gebleven, was een boegfragment er een stuk beter aan toe. Daarom adviseerde de 'Commissie voor de Historische Scheepswrakken' om dit fragment indien mogelijk te bergen en conserveren. Dat lukte, maar omdat in Ketelhaven de ruimte om het fragment tentoon te stellen ontbrak, werd het in 1986 naar het Maritiem Museum Prins Hendrik (thans het Maritiem Museum Rotterdam) gebracht voor restauratie. Uiteindelijk werd het onderdeel van de vaste tentoonstelling 'Vergane Schepen' eerst van Nieuw Land Erfgoedcentrum, later van Batavialand. Zie ook scheepsrest NC85, betreffende de vondst van boordfragmenten die mogelijk bij dit schip hebben gehoord.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2z5-jmy2\">Opgravingsdocumentatie scheepswrak NC82.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

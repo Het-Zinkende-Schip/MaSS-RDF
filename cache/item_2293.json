@@ -1,0 +1,26 @@
+{
+  "id": "2293",
+  "code": "black-rocks",
+  "name": "Black Rocks",
+  "type": "site",
+  "lat": "17.6147469",
+  "lon": "-63.2395041",
+  "location": "Giles Quarter, Saba, Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": "400",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1950",
+  "lastyearend": null,
+  "country": "Bonaire, Sint Eustatius en Saba",
+  "countrycode": "BQ",
+  "author": "Ryan Espersen",
+  "created_on": "2020-11-07 21:03:42",
+  "modified_on": "2025-07-06 19:15:40",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This site, known as \"Black Rocks\" or \"Compagnie Gut\", is located at the western end of Giles Quarter, just east of the gut that runs along the foot of St. Johns Hill. It is a multi-component site featuring human occupation and use from around 400AD &ndash; 600AD by Amerindians known among archaeologists as the &ldquo;Late-Saladoid people&rdquo;, along with claims by the Dutch West Indies Company and use Saban residents throughout the island&rsquo;s colonial period (1646-1954). Coastal erosion has destroyed the southern extents of the site, and it would have jutted out and sloped down to the shoreline during the colonial and pre-Columbian periods further than it does now.</p></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>During the Late-Saladoid occupation of the site, it served as a sort of &ldquo;satellite&rdquo; area of the main village which was located on top of nearby St. Johns Hill, which is also the location of the contemporary village of St. Johns. During archaeological excavations by Ryan Espersen and Jay Haviser in 2020, over 500 artifacts were recovered, consisting of an even proportions of approximately one-third stone tools (grinding stones, hammer stones, large and small stone/flint blades, and large platform grinding stones); one-third ceramics; and one-third shell tools made from queen conch (Strombus gigas) and West Indian topshell (Cittarium pica). Notable artifacts include basalt net weight anchors, a pierced coral ornament, and flint from southwestern Puerto Rico. The site would have been used as a place to beach their canoes and mend their fishing nets. The types of stone tools found at the site, indicated by their usewear, lend themselves very readily to producing sisal rope from locally-available agave plants (Agave karotto). This rope would have many uses, but would also have been used to make and mend fishing nets. This area is also an excellent staging point for accessing the nearby Saba bank for fishing.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002268.jpg\" alt=\"A black round stone\"> <figcaption class=\"img-description\">Figure 1, showing a basalt net weight recovered from the site.</figcaption> </figure> <p><em>Figure 1, showing a basalt net weight recovered from the site.</em></p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Espersen, Ryan &amp; Haviser, Jay. (2020).<br /><em>Archaeological Mitigation at the Black Rocks Area of Giles Quarter, Saba, Dutch Caribbean.</em><br />Unpublished.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

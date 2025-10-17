@@ -1,0 +1,27 @@
+{
+  "id": "2389",
+  "code": "bertha",
+  "name": "Bertha",
+  "type": "wreck",
+  "lat": "-3.3850226",
+  "lon": "114.2358429",
+  "location": "Kapuas river, Kalimantan, Indonesië",
+  "firstdate": null,
+  "firstyear": "1927",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1945",
+  "lastyearend": null,
+  "country": "Indonesië",
+  "countrycode": "ID",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-28 12:15:59",
+  "modified_on": "2025-06-12 12:41:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1945 gezonken in de Kleine Kapoeas rivier</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Motorvaartuig van de Gewestelijke marine<br>Gebouwd: Palembang, 1927</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "701",
+  "code": "canarie-vogel",
+  "name": "Canari voghel",
+  "type": "wreck",
+  "lat": "22.5003774",
+  "lon": "-85.1791988",
+  "location": "Near Organos Cuba, Gulf of Mexico, Cuba",
+  "firstdate": null,
+  "firstyear": "1621",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1638",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-17 13:44:01",
+  "modified_on": "2025-06-07 13:57:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: small ship, maybe even a chaloupe or smal yacht.<br>Tonnage: 15 last<br>Complement: 18<br>Armament: 4 bronze 4 iron cannons</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>De Laet III. 135.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3167",
+  "code": "wapen-van-zeeland-2",
+  "name": "Wapen van Zeeland",
+  "type": "wreck",
+  "lat": "52.0424129",
+  "lon": "4.1485476",
+  "location": "Ter Heijde, Nederland",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1653-08-10",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-11-06 15:35:01",
+  "modified_on": "2025-06-16 19:21:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het wapen van Zeeland heette De Zeeuwse Leeuw. Cornelis Evertsen de Oude was commandant met de rang schout bij nacht</p> <p>Tijdens de zeeslag bij ter Heijde zonk Het Wapen en raakte Evertsen zwaargewond in Engelse krijgsgevangenschap.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p><strong>Bewapening: 30</strong></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Cornelis Evertsen de Oude</td></tr><tr><th scope=\"row\">Lengte</th><td>116 &frac14; voet (35,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>NIMH scheepsdocumentatie nr 1063.</em></li><li><a href=\"https://archive.org/details/gri_33125011133994/page/n144/mode/1up?view=theater\">Leven en bedrijf van den vermaarde zeeheld Cornelis Tromp, 130.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

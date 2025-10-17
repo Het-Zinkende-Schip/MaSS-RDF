@@ -1,0 +1,27 @@
+{
+  "id": "2808",
+  "code": "elisabeth-ijm-181",
+  "name": "Elisabeth (IJM 181)",
+  "type": "wreck",
+  "lat": "53.5353017",
+  "lon": "4.7356568",
+  "location": "Terschelling 15 mijl NNW van, Nederland",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": "1917-07-11",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2022-03-10 10:40:51",
+  "modified_on": "2022-04-26 12:27:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De stoomtraweler Elisabeth IJM 181 is op 14 juli 15 mijl NNW van Terschelling op een zeemijn gelopen en gezonken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Viss. Mij. 'Elisabeth',dir. M.B. Osendarp en G.F. Haack</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Cramer, J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>11</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.scheveningen-haven.nl/info/schepen/index_ijm.php?nummer=181&amp;lijst=75&amp;af=IJM\">Scheveningen schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

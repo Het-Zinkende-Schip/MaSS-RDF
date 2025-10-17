@@ -1,0 +1,27 @@
+{
+  "id": "2225",
+  "code": "westwoud",
+  "name": "Westwoud",
+  "type": "wreck",
+  "lat": "22.3670558",
+  "lon": "90.6299565",
+  "location": "Houghli, India",
+  "firstdate": null,
+  "firstyear": "1662",
+  "firstyearend": null,
+  "lastdate": "1673-04-16",
+  "lastyear": "1673",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-10 12:21:04",
+  "modified_on": "2025-01-10 16:04:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Westwoud vertrok 11 mei 1663 van Enkhuizen via de Kaap naar Batavia. aankomst 21-12-1663. Daarna werd de fluit ingezet in de Intra-Aziatische handel.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Enkuizen, 1663<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>47</td></tr><tr><th scope=\"row\">Tonnage</th><td>212 ton (106 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92115\">DAS 0998.1.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

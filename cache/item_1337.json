@@ -1,0 +1,27 @@
+{
+  "id": "1337",
+  "code": "schiedam-1644",
+  "name": "Schiedam",
+  "type": "wreck",
+  "lat": "20.4830569",
+  "lon": "87.2015429",
+  "location": "Gahirmatha marine sanctuary, India",
+  "firstdate": null,
+  "firstyear": "1644",
+  "firstyearend": null,
+  "lastdate": "1654-10-10",
+  "lastyear": "1654",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-06 11:17:00",
+  "modified_on": "2025-06-24 23:48:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Schiedam</strong></em> maakte drie retourreizen. Na haar derde reis bleef ze in Azi&euml;. Als retourschepen niet meer in staat geacht werden de reis naar Europa te doorstaan, bleven ze in Azi&euml; dienst doen.</p> <p>Verloren gegaan op 10 oktober 1654:</p> <p><em>3e septb.'\" passado van hier naar Bengalo gevaren, op de</em><br><em>custe van Oricxa tussen d'Moorse stadt Arsapoer ende de Palmeras ongeveer 7 mijl van de wal op een onbekendt rif den 10 october 's nachts met 51 menschen verdroncken. De schipper was met 34 man gered (GM II 796).<br></em></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003413.jpg\" alt=\"De afbeelding toont een historische kaart, waarschijnlijk uit de 17e eeuw\"> <div class=\"img-source\">Fran&ccedil;ois-Valentyn</div> <figcaption class=\"img-description\">Het rode vierkant geeft aan waar De Schiedam is vergaan. De groene streep is de plek waar De Terschelling is vergaan (klik op de afbeelding om te vergroten)</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Werf te Delftshaven, 1644<br>Tonnage: 400 last*<br>Bemanning: 85<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91843\">DAS 0726.3.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=827&amp;accessor=search_in_text&amp;source=2&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26\">Generale missiven Deel II, 814.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

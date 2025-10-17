@@ -1,0 +1,27 @@
+{
+  "id": "2192",
+  "code": "jaarsveld",
+  "name": "Jaarsveld",
+  "type": "wreck",
+  "lat": "43.5706408",
+  "lon": "10.1447296",
+  "location": "Livorno, Italië",
+  "firstdate": null,
+  "firstyear": "1650",
+  "firstyearend": null,
+  "lastdate": "1653-02-09",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-06 11:19:06",
+  "modified_on": "2025-06-06 14:58:56",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De '<em>Jaarsveld'</em> werd gebouwd in 1650. In 1652 werd een eskader van 14 schepen o.l.v. Joris Cats naar de Middellandse zee gestuurd om door Franse kapers genomen schepen terug te vorderen.</p> <p>de havenstad Livorno te blokkeren gericht tegen Engelse handels schepen. De Jaarsveld was zijn vlaggenschip. Cats liet toch een aantal Engelse schepen passeren en werd daarop vervangen door Jan van Galen zijn tweede man.</p> <p>De Jaarsveld was nu het vlaggenschip van Jan van Galen. Op 7 september 1652 versloeg hij een Engelse eskader onder commando van Bideley bij Monte Cristo.</p> <p>De Jaarsveld en Ter Goes vertrokken 9 februari met bestemming Messina om de Engelsen aldaar te bestrijden. De Jaarsveld kwam roemloos ten einde toen ze op 9 februari 1653 vast kwam te zitten op een droogte Vadda geheten bij Livorno.<a href=\"https://www.delpher.nl/nl/boeken/view?query=Van+vlootvoogden+en+zeeslagen&amp;coll=boeken&amp;identifier=MMKB18B:058246000:00245\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Armament: 44 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>32 Amsterdamse&nbsp;voet (9,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Warnsinck, J.C.M. (1940).<br /><a href=\"https://www.delpher.nl/nl/boeken/view?query=Van+vlootvoogden+en+zeeslagen&amp;coll=boeken&amp;identifier=MMKB18B:058246000:00245\">Van vlootvoogden en zeeslagen.</a><br />pp 217.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

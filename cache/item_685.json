@@ -1,0 +1,27 @@
+{
+  "id": "685",
+  "code": "hofvliet",
+  "name": "Hofvliet",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1729",
+  "firstyearend": null,
+  "lastdate": "1744-05-19",
+  "lastyear": "1744",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-16 10:58:48",
+  "modified_on": "2025-02-21 11:56:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De fluit <em>Hofvliet</em> maakte succesvolle 4 retourreizen tussen 1730 en 1745.</p> <p>Haar 5e uitreis begon in Texel 22-11-1742 voor de VOC kamer Enkhuizen.</p> <p>Ze was onderdeel van de retourvloot die vertrok uit Batavia 17-10-1743</p> <p>De Hofvliet kwam bij de Kaap 12-1-1744 en vertrok vandaar 5 maart.</p> <p>Daarna is niets meer vernomen van het schip. De Hofvliet en de Drechterland zijn niet in Patria aangekomen. Aangenomen werd dat de schepen met man en muis verongelukt zijn..</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Gebouwd: Rotterdam, 1729</p> <p>Lengte: 130 ft</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0079?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 76.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

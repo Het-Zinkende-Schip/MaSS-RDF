@@ -1,0 +1,27 @@
+{
+  "id": "919",
+  "code": "lindenhof",
+  "name": "Lindenhof",
+  "type": "wreck",
+  "lat": "-3.2569443",
+  "lon": "106.9131787",
+  "location": "Indonesië",
+  "firstdate": null,
+  "firstyear": "1764",
+  "firstyearend": null,
+  "lastdate": "1766-05-15",
+  "lastyear": "1766",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-12 09:51:30",
+  "modified_on": "2025-05-20 13:43:18",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Lindenhof</em> vertrok op 18 juni 1765 van Texel naar Azie. Het schip kwam op 26 februari 1766 aan in Batavia.</p> <p>Ze vertrok vandaar 11 mei naar Canton China.<a href=\"https://dekok.xyz/htrsearch/browse?scan=98618&amp;archief=VOC\">&sup1;</a></p> <p>Drie dagen na vertrek lag ze geankerd ter hoogte van&nbsp;<em>Boompjes eiland gegiste breedte 4 gr.</em></p> <p>toen er 's nachts ca half drie een schrikkelijk onweder losbarstte werd ze (Straat Banka) getroffen door de bliksem in de Bezaanmast (15 mei 1766). Vuur sloeg in de kajuit en het schip was niet meer te redden.</p> <p>Van de opvarenden kwamen de schipper, die&nbsp;inmiddels is overleden, de opperstuurman en 86 koppen op 22 mei met de scheepsboot&nbsp;te Palembang aan. Zij hadden zich door te zwemmen of anderszins weten te redden. 41<br>Personen, onder wie supercarga Stuart en assistent Teschemaker, zijn omgekomen.&nbsp;De overlevenden kwamen na 9 dagen op zee aan in Palembang.<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=398&amp;accessor=search_in_text&amp;source=14_2&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1219\">&sup2;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94980\">Details of voyage 3929.1 from Texel to Batavia.</a></li><li><a href=\"https://dekok.xyz/htrsearch/transcriptie?scan=98759&amp;query=Lindenhof&amp;varianten=2&amp;archief=VOC\">Dagregister 25-6-1766.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=398&amp;accessor=search_in_text&amp;source=14_2&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D\">Generale missiven Deel 14, 925.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

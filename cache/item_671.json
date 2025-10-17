@@ -1,0 +1,27 @@
+{
+  "id": "671",
+  "code": "velsen-logboat",
+  "name": "Velsen logboat",
+  "type": "wreck",
+  "lat": "52.4384950",
+  "lon": "4.6888361",
+  "location": "Velsen, Nederland",
+  "firstdate": null,
+  "firstyear": "1050",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1100",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-10 13:08:58",
+  "modified_on": "2025-06-07 12:39:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The extended and expanded logboat of Velsen was found in 1974 during excavation work for the construction of a canoe pond.</p> <p>This small boat of the 'Utrecht type' ships has been preserved over a length of 5.78 by 1 meter. The hull is made from one oak tree trunk and is extended with two lapstrake planks attached with wooden pins.</p> <p>The bow and stem of the flat bottom are bent upwards. In the bottom there are a number of cracks sealed with moss fastened with small planks on the outside. Part of the bottom was repaired by a board with pins. The boat has eight short and long frames. Seven are made from oak wood and one from alder wood.A small mast track is provided in approximately one-third of the prow stalk.</p> <p>On the basis of the finds context, the boat is dated to the eleventh century.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>W. Brouwers/E. Jansma/M. Manders.<br /><a href=\"https://www.academia.edu/27529112/Middeleeuwse_scheeps-_resten_in_Nederland\">Middeleeuwse scheeps- resten in Nederland.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

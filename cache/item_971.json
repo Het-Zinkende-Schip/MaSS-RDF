@@ -1,0 +1,27 @@
+{
+  "id": "971",
+  "code": "ritthem-",
+  "name": "Ritthem",
+  "type": "wreck",
+  "lat": "-5.5891068",
+  "lon": "106.9568482",
+  "location": "Indonesië",
+  "firstdate": null,
+  "firstyear": "1634",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1636",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-28 13:41:53",
+  "modified_on": "2025-03-29 13:22:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Ritthem vertrok 27 december 1634 uit Wielingen.</p> <p>DE Ritthem bleef na haar eerste uitreis in Azie dienst doen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: in 1634 werf in Middelburg<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91497\">Details of voyage 0459.1 from Wielingen to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0056?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">1.04.02 4932 uitreisboek.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

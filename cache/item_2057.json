@@ -1,0 +1,27 @@
+{
+  "id": "2057",
+  "code": "ne165",
+  "name": "NE165",
+  "type": "wreck",
+  "lat": "52.6211900",
+  "lon": "5.7697600",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1710",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:06:33",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het wrak gevonden op kavel E165 ten oosten van de Palenweg aan de rand van Schokland, is 19,5 meter lang en 4,3 meter breed. De lading van het schip bestaat uit een omvangrijke hoeveelheid grote kabeljauwen en/of gullen, zonder kop (gekaakt). Waarschijnlijk gaat het om stokvis of klipvis. Om voedsel op zeereizen langer houdbaar te maken werd het vaak gedroogd of gezouten. Gedroogde vis wordt stokvis genoemd en is meestal gemaakt van kabeljauw, maar ook leng kwam voor. Om stokvis te maken wordt de vis ontdaan van kop en ingewanden en aan stokken te drogen gehangen, vandaar de naam. Stokvis werd zeer hard en voordat hij gegeten kon worden, moest de vis eerst enige tijd worden geweekt. Een andere methode om vis langer houdbaar te houden is zouten. Gezouten kabeljauw wordt klipvis genoemd. Klipvis komt oorspronkelijk uit Portugal, waar de vis eerst gezouten en daarna op klippen te drogen werd gelegd. Zowel stokvis als klipvis zijn lang houdbaar, wel meer dan een jaar. Tot de overige vondsten uit het scheepswrak behoren onderdelen van de uitrusting en inventaris, zoals aardewerken kookpotjes, een koperen kandelaar, een elger of palingijzer, enkele schoenen, een paar kwasten, tonnetjes en scheepsblokken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een schip met een lading stokvis, Nagele</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001935.jpg\" alt=\"Een in het scheepswrak gevonden elger of palingijzer.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Een in het scheepswrak gevonden elger of palingijzer.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Gijsbers, W., L. Koehler &amp; J.-M.A.W. Morel (2010).<br /><em>Licht aan boord: Verlichtingsobjecten uit het Nationaal Scheepsarcheologisch Depot in Lelystad.</em><br />Lelystad: Nationaal Scheepsarcheologisch Depot &amp; Rijksdienst voor het Cultureel Erfgoed.</li><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zfw-h9nn\">Opgravingsdocumentatie scheepswrak NE165.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

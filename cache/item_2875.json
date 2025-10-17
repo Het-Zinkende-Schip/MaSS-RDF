@@ -1,0 +1,27 @@
+{
+  "id": "2875",
+  "code": "prins-hendrik-der-nederlanden",
+  "name": "Prins Hendrik der Nederlanden (VL 195)",
+  "type": "wreck",
+  "lat": "52.9166865",
+  "lon": "4.2786253",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1902",
+  "firstyearend": null,
+  "lastdate": "1917-05-07",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-01 06:08:20",
+  "modified_on": "2025-06-15 12:04:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Prins Hendrik der Nederlanden</strong></em> VL 195 was op weg naar huis. Ze had gevist op de Noordzee samen met de VL 199 terug. 's nachts om 4 uur dook de Duitse onderzee&euml;r UB 20 op achter de Prins Hendrik der Nederlanden. Deze begon op de VL 195 te schieten.</p> <p>Verklaring van schipper van der Ent:</p> <p><em>Wij waren (aldus Van der Ent) maandagmorgen 4 uur thuis stoomende, toen een duikboot werd opgemerkt zuid-oost van VL 195. Het schip dook onder en kwam kort daarop achter de 195 weder boven. Onmiddellijk opende toen de onderzee&euml;r een snelvuur op ons en vlogen de granaten in en over het schip. Eerst werd de voorverschansing geraakt en toen kwam een schot terecht in de brug, waarbij een der leden van de bemanning een stuk hiervan tegen het lichaam voelde aankomen, zonder evenwel gewond te worden.</em></p> <p><em>Ook toen de booten werden uitgezet, bleef men door vuren. Juist toen de booten van het schip waren, kwam een schot terecht in de kajuit en ontstond brand aan boord.</em></p> <p><em>Met de booten werd toen naar de duikboot geroeid en de papieren overgegeven die door de commandant werden gehouden. Drie man van den onderzee&euml;r stapten toen in de scheepsboot en legden enige bommen in de VL 195. Enige minuten na de detonatie zonk het schip.</em></p> <p><em>Terwijl dit gebeurde, zeiden de matrozen van de duikboot: ,,Hoera, dat zeemansleven.'' De zelfde procedure werd herhaald bij de VL 199.</em></p> <p>Dit gebeurde ter hoogte van lichtschip Haaks.</p> <p>De MA 20 die in de nabijheid was, moest toen ook volgens de duikbootcommandant tot zinken gebracht worden maar door het smeeken van schipper Van der Ent, die zeide dat dit schip hen naar een behouden haven zou kunnen brengen en de tusschenkomst van een der officieren der duikboot, bleef de MA 20 gespaard en werden de schipbreukelingen daar aan boord genomen.</p> <p>Schipper Van der Ent verklaarde pertinent in vrij water te zijn geweest toen zijn schip tot zinken werd gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Dogger Maatschappij - Hoogendijk A., Vlaardingen<br>Gebouwd: 1911, Smith P. jr. Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Adriaan van der Ent</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>16</td></tr><tr><th scope=\"row\">Lengte</th><td>116 &frac12; voet (35,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>23 voet (7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.scheveningen-haven.nl/info/schepen/index_vl.php?nummer=195&amp;lijst=150&amp;af=VL\">scheveningen-haven.nl/.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Ent&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;page=1&amp;sortfield=date&amp;cql%5B%5D=%28date+_gte_+%2208-05-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2211-05-1917%22%29&amp;coll=ddd&amp;redirect=true&amp;i\">Algemeen Handelsblad  (8-05-1917).</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Ent&amp;cql%5B%5D=%28date+_gte_+%2207-05-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2210-05-1917%22%29&amp;facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&amp;facets%5Btype%5D%5B%5D=artikel&amp;redirect=true&amp;sortfield=date\">Nieuwe Vlaardingsche courant     ( 9-05-1917).</a></li><li><a href=\"https://www.uboat.net/wwi/ships_hit/4930.html\">uboat.net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

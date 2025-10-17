@@ -1,0 +1,27 @@
+{
+  "id": "2495",
+  "code": "schardebull",
+  "name": "Schardebüll",
+  "type": "wreck",
+  "lat": "54.7090926",
+  "lon": "9.0055275",
+  "location": "Schardebüll, Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-1",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-08 13:27:20",
+  "modified_on": "2025-06-14 15:49:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The wreck has not been dated and could be prehistoric or medieval</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Hinz, H. (1954).<br /><em>Vorgeschichte des nordfriesischen Festlandes.</em><br />Neumünster.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

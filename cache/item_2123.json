@@ -1,0 +1,27 @@
+{
+  "id": "2123",
+  "code": "np33",
+  "name": "NP33",
+  "type": "wreck",
+  "lat": "52.6327400",
+  "lon": "5.7787000",
+  "location": "Noordoostpolder, Nederland",
+  "firstdate": null,
+  "firstyear": "1575",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:37:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit schip is in 1957 gevonden op kavel P33 aan het Ru&iuml;nepad in de Noordoostpolder tijdens het leggen van drainage pijpen. In hetzelfde jaar vond een verkenning van het wrak plaats en in 1958 werd het opgegraven. Het scheepswrak is een overnaads gebouwd vissersschip van het type waterschip. Waterschepen waren de grootste en belangrijkste vissersschepen van de Zuiderzee gedurende de 16de en 17de eeuw. Ze zijn voorzien van een bun gevuld met water, waar de gevangen vis levend in vervoerd kan worden. De vroegste types waterschepen werden overnaads gebouwd, maar vanaf het tweede kwart van de zestiende eeuw werden deze schepen karveel gebouwd, dat wil zeggen gladboordig. Op basis van de verstoring van het bodem profiel is de ondergang van het schip gedateerd in het tweede kwart van de 17de eeuw, de bouw is gedateerd in het eerste kwart van de 17de eeuw. Dat is opvallend vanwege het feit dat dit waterschip overnaads gebouwd is. Zoals vermeld werden waterschepen vanaf het tweede kwart van de 16de eeuw over het algemeen karveel gebouwd. Het schip is gebouwd op een kielplank zoals gebruikelijk is bij overnaadse waterschepen. De karveel gebouwde waterschepen waren voorzien van een kielbalk. Het schip heeft een gebogen voorsteven en een rechte achtersteven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een overnaads gebouwd waterschip uit de zeventiende eeuw, Noordoostpolder</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001942.jpg\" alt=\"Overzichtsfoto van een houten wrak\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Overzichtsfoto.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x8p-rnac\">Opgravingsdocumentatie scheepswrak NP33.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

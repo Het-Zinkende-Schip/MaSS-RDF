@@ -1,0 +1,27 @@
+{
+  "id": "1377",
+  "code": "strijen-2",
+  "name": "Strijen",
+  "type": "wreck",
+  "lat": "22.0293624",
+  "lon": "88.1419214",
+  "location": "Haldia, bij, India",
+  "firstdate": null,
+  "firstyear": "1676",
+  "firstyearend": null,
+  "lastdate": "1686-02-24",
+  "lastyear": "1686",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-04 16:19:04",
+  "modified_on": "2025-08-12 20:01:02",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De '<em>Strijen'</em> was een fluitschip gebouwd door de VOC kamer Rotterdam. Ze vertrok 12-4-1677 vanuit Goeree naar Batavia. Het schip bleef vervolgens dienst doen in Azi&euml;.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004508.jpg\" alt=\"Deel van de Ganges monding met de Strijen aangegeven\"> <div class=\"img-source\">NL-HaNA_4.VEL_256</div> <figcaption class=\"img-description\">Deel van de Ganges monding met de Strijen aangegeven</figcaption> </figure> <p>Haar laatste reis voerde van Malakka naar Bengalen. Daar is het schip verongelukt volgens de Generale missiven: <em>op de bank van de Hughly op 24 februari 1686</em>.<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=69&amp;accessor=search_in_text&amp;source=5&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1219&amp;view=imagePane\">&sup1;</a></p> <p>Er zijn meerdere kaarten in het Nationaal archief met daarop aangegeven '<em>Het puntje van Strijen</em>' op de uitsnede van deze kaart is dat het noordelijkste punt van de zandbank.</p> <p>Later werd schipper Jan Frius ondervraagd over een lading van 100 particuliere kisten staaf koper in het ruim die zogenaamd voor rekening van de weduwe van ene Bartholomeus Reijnen aan boord waren.<a href=\"https://dekok.xyz/htrsearch/browse?scan=959255&amp;archief=VOC\">&sup2;</a></p> <p>Dit is waarschijnlijk een voorbeeld van welig tierende sluikhandel praktijken door opvarenden van VOC schepen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf Rotterdam, 1676&nbsp;<br><br><em>De afmetingen van de Strijen zijn volgens de beschrijvinge van, van Dam (p 490)&nbsp;Lengte 132, wyte 32, holte 15 voet. De omrekening van deze tamelijk globale voetmaten naar (nauwkeuriger lijkende) metrieke maten is dubieus, maar het terugrekenen van die metrieke maten naar nergens op berustende, schijnbaar nauwkeurige voetmaten, is principieel onjuist</em></p> <p><em>De lengte is bij de meeste certers van de VOC &ldquo;over stevens&rdquo; , de wyte &ldquo;aan de buitenzijde op zijn wijdst&rdquo; en de holte is de afstand tussen onderkant dekbalken en bovenkant zaadhout in de midscheeps, of de &ldquo;diepte van het ruim&rdquo; Dit laatste is een maat voor het schip in tegenstelling tot de diepgang die uiteraard sterk van deze holte kan afwijken en van reis tot reis varieert met de belading. (bijdrage Menno Leenstra)</em></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Frius, Jan</td></tr><tr><th scope=\"row\">Lengte</th><td>132 Amsterdamse&nbsp;voet (37,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>32 Amsterdamse&nbsp;voet (9,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dam, Pieter van.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/vandam/#page=529&amp;accessor=searchText&amp;view=&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=1\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.1.1  490.</a></li><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92544\">DAS 1484.2.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=69&amp;accessor=search_in_text&amp;source=5&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26i\">Generale missiven Deel 5, 54.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

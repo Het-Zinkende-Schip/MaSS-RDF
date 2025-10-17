@@ -1,0 +1,27 @@
+{
+  "id": "545",
+  "code": "arundo",
+  "name": "Arundo",
+  "type": "wreck",
+  "lat": "39.8000000",
+  "lon": "-73.1000000",
+  "location": "East of New York, Verenigde Staten",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1942-04-28",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2015-09-15 00:00:00",
+  "modified_on": "2025-06-06 15:57:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis met stukgoederen en nitraat van New York naar Alexandri&euml; bij het lichtschip Ambrose, in positie 40&ordm;10' NB en 73&ordm;44' WL, door de Duitse onderzeeboot 'U 136' getorpedeerd en gezonken.</p> <p>Zes van de 43 bemanningsleden komen hierbij om het leven. De overlevenden zijn door een Amerikaanse torpedobootjager aan land gezet in Lewes aan de ingang van de Delaware Bay.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Northumberland Shipbuilding Co (1927) Ltd, Howden-on-Tyne<br>Eigenaar: N.V. Maatschappij Zeevaart, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Troeleman, Adrianus Cornelis</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>43</td></tr><tr><th scope=\"row\">Lengte</th><td>412 &frac12; voet (125,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>55 &frac12; voet (16,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>28 &frac12; voet (8,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>5163 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=643\">Stichting Maritieme Historische Data.</a></li><li><a href=\"https://www.uboat.net/allies/merchants/ship/1570.html\">U boat net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

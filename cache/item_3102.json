@@ -1,0 +1,27 @@
+{
+  "id": "3102",
+  "code": "faam-2",
+  "name": "Faam",
+  "type": "wreck",
+  "lat": "50.5039326",
+  "lon": "-2.3843980",
+  "location": "Portland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1653-02-28",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-07-04 11:57:57",
+  "modified_on": "2025-07-18 20:58:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Faam</strong></em> zonk tijdens de <a href=\"https://mass.cultureelerfgoed.nl/driedaagse-zeeslag\">Driedaagse Zeeslag</a> (28-2 - 2-3-1653).</p> <p>De Faam was een schip van 30 stukken. Het ontplofte op de eerste dag van de slag.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003522.jpg\" alt=\"een gravure van een zeeslag\"> <div class=\"img-source\">Rijksmuseum Amsterdam</div> </figure> <p>Op deze gravure staat de Frisa (E) en de Faam (H) die in brand styaan en zinken. Het is een uitsnede van een gravure over de Driedaagse zeeslag. <a href=\"https://www.rijksmuseum.nl/en/collection/RP-P-OB-81.789\">klik hier voor meer</a>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 30 (4 x 12, 16 x 6, 8 x 4, 2 x 3 ponders)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Swartz. Pieter</td></tr><tr><th scope=\"row\">Lengte</th><td>115 &frac14; voet (35,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>25 voet (7,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender J.A. (2014).<br /><em>Dutch Warships in the Age of Sail 1600 - 1714 p. 68, 72,219.</em></li><li><a href=\"https://www.dbnl.org/arch/jong102gesc04_01/pag/jong102gesc04_01.pdf\">Geschiedenis van Het Nederlandsche Zeewezen, I, 449.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

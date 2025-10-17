@@ -1,0 +1,26 @@
+{
+  "id": "4191",
+  "code": "campo-di-mare",
+  "name": "Campo di Mare",
+  "type": "site",
+  "lat": "41.9726617",
+  "lon": "12.0348266",
+  "location": "Campo di mare, Italië",
+  "firstdate": null,
+  "firstyear": "-100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "50",
+  "lastyearend": "300",
+  "country": "Italië",
+  "countrycode": "IT",
+  "author": "Will Brouwers",
+  "created_on": "2024-06-04 13:28:08",
+  "modified_on": "2025-07-25 15:05:23",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>According to experts, the structure near <strong><em>Campo di Mare</em></strong> is a pavilion belonging to a Roman villa, the extent of which is yet to be uncovered.</p> <p>Excavations by the Underwater Archaeology Service of the Superintendency, in collaboration with CSR Restauro Beni Culturali, have identified two belts of brick walls built with a double layer of triangular bricks and mortar.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004198.webp\" alt=\"Underwater photo of a small section of brick laid in a herringbone floor pattern\"> <div class=\"img-source\">Soprintendenza Archeologia Belle Arti Paesaggio Etruria Meridionale</div> </figure> <p>The team have uncovered opus spicatum (&ldquo;spiked work&rdquo;) flooring, a type of masonry construction of bricks laid in a herringbone pattern. During the Roman period, this pattern was primarily decorative and was typically used for paving, though it was also occasionally employed as infill in walls.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"https://www.heritagedaily.com/2024/06/submerged-roman-structure-found-in-the-waters-near-campo-di-mare/152133\">Heritage daily.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

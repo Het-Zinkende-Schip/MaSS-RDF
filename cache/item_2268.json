@@ -1,0 +1,27 @@
+{
+  "id": "2268",
+  "code": "amor",
+  "name": "Amor",
+  "type": "wreck",
+  "lat": "51.2243516",
+  "lon": "2.6457215",
+  "location": "Westhinder, België",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1940-03-11",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2020-10-23 15:11:25",
+  "modified_on": "2025-06-11 19:59:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Onderweg van West-Indi&euml; naar Nederland. Bij Westhinder op mijn gelopen.<br>Bemanning (35 koppen) gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Steamship, general Cargo<br>Gebouwd: N.V. Werf v/h Rijkee &amp; Co., Rotterdam/Katendrecht, Zuid-Holland, Netherlands<br>Eigenaar: Koninklijke Nederlandsche Stoomboot-Maatschappij N.V., Amsterdam, Noord-Holland, Netherlands<br>Length 1: 95.40 Meters Registered<br>Beam: 12.89 Meters Registered<br>Depth: 5.84 Meters Registered</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Snelheid</th><td>10 knopen ~ 19 km/u (12 mijl per uur)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2325 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=349\">Amor.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

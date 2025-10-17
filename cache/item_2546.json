@@ -1,0 +1,27 @@
+{
+  "id": "2546",
+  "code": "karl-808",
+  "name": "Karl (808)",
+  "type": "wreck",
+  "lat": "53.0745008",
+  "lon": "8.8057351",
+  "location": "Bremen, Duitsland",
+  "firstdate": null,
+  "firstyear": "808",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "850",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-04-26 11:56:10",
+  "modified_on": "2025-07-11 14:01:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><figure class=\"img-wrapper\"><img src=\"/photos/l/00002547.jpg\" alt=\"The image shows a map of the Hanseatic city of Bremen, Germany, with a focus on the Weser River and the surrounding city.\"> <div class=\"img-source\">Daniel Zwick + Geoinformation Bremen</div> </figure> <p>&nbsp;In March 1989, a well preserved wreck of an early medieval river-barge was discovered in the excavation pit at Martinistra&szlig;e-Wachtstra&szlig;e at a distance of ca. 75 metres from the present river embankment. In the Early Middle Ages, the river courses of both Weser and the former tributary Balge have been dramatically different to today, which explains the terrestrial find location. The historical river courses can be still detected in the urban layout and several street names.</p> <p>The excavation was stopped at the request of G&uuml;tha Klonk (State Archaeology Department of Bremen) and the wood-conservator Dr. Per Hoffmann (German Maritime Museum). The developer facilitated a swift salvage of the wreck.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><figure class=\"img-wrapper\"><img src=\"/photos/l/00002549.jpg\" alt=\"photo of an excavated inland vessel\"> <div class=\"img-source\">Hoffmann 2002</div> </figure> <p>The wreck has survived to a length of 11,5 metre, but is estimated to have once measured between 16 - 20 metres. The bottom-planking is flush-laid and the side planking joined in the lapstrake fashion, held together with treenails. No iron nails or rivets were used. The vessel features L-shaped chine girders at the turn of the bilge. Half-frames were added in pairs in an alternating fashion. The seams were caulked with moss.</p> <p>Pottery fragments from the first half of the 9th century were discovered in the vessel. A fairly precise date was yielded by a dendrochronological sample with sapwood inclusion of 808 AD. As the wreck fell into the reign of Charlemagne (in German: Karl der Gro&szlig;e), the wreck was dubbed \"Karl\".</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>37 &frac34; voet (11,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>9 &frac34; voet (3 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>&nbsp;The wreck was conserved at the German Maritime Museum (DSM) in Bremerhaven, where it is on display.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Hoffmann, P., Ellmers, D.  (1991).<br /><a href=\"https://brema.suub.uni-bremen.de/content/pageview/801175\">Ein Frachter aus der Zeit Karls des Großen.</a><br />Bremer Archäologische Blätter NF 1990/91.<br />pp 33-37.</li><li>Hoffmann, P. (2002).<br /><em>Konservierung und Präsentation des Flußschiffes KARL im Deutschen Schiffahrtsmuseum.</em><br />Häfen, Schiffe, Wasserwege: Zur Schiffahrt des Mittelalters (= Schriften des Deutschen Schiffahrtsmuseums, vol. 58).<br />pp 86-96.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

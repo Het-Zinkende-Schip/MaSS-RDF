@@ -1,0 +1,27 @@
+{
+  "id": "1314",
+  "code": "oostereem",
+  "name": "Oostereem",
+  "type": "wreck",
+  "lat": "51.3119449",
+  "lon": "1.4625549",
+  "location": "Goodwin Sands, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1771",
+  "firstyearend": null,
+  "lastdate": "1783-01-21",
+  "lastyear": "1783",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-05-15 09:57:00",
+  "modified_on": "2024-07-26 11:02:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Venus</em> voer onder Pruisische vlag en werd in 1771 door de VOC Amsterdam ingehuurd. Het schip vertrok voor haar eerste reis naar de Oost in december 1773. Ze bleef er tot 1778. Bij terugkeer in Texel in 1780 werd ze opgelegd i.v.m. de vierde Engelse oorlog (1780 tot 1783).<br>Tot <em><strong>Oostereem</strong></em> hernoemd, vertrok zij op 17 januari 1783 van Texel voor haar tweede reis naar de Oost met bestemming China. Vier dagen na vertrek liep het schip aan de grond op de beruchte Goodwin Sands (Kent UK) en is vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: retourschip<br>Gebouwd: Amsterdam, 1771<br>Eigenaar:&nbsp;gehuurd VOC kamer Amsterdam<br>Lengte: 150<br>Tonnage: 575 last<br>Bemanning: 331<br>Kapitein: Axel Land</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95457\">DAS 4406.2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

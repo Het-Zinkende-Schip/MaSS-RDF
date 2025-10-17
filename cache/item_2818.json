@@ -1,0 +1,27 @@
+{
+  "id": "2818",
+  "code": "palembang-1911",
+  "name": "Palembang",
+  "type": "wreck",
+  "lat": "51.5886750",
+  "lon": "1.7413330",
+  "location": "Galloper Shoal, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1916-03-18",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-03-31 13:28:06",
+  "modified_on": "2025-06-15 11:27:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De SS Palembang vertrok 17 maart om 12 uur middernacht met een lading stukgoederen van Rotterdam met bestemming Batavia. Ze koerste naar Londen waar nog meer lading zou worden ingenomen. <br>Op 18 maart 1916 om 11.30 uur 's morgens op 1&frac12; mijl ten noorden van de Galloper Buoy werden ze genaderd door een Engelse torpedobootjager die op een halve mijl afstand van de Palembang bleef liggen om een gedetecteerde zeemijn tot ontploffing te brengen.De Palembang liep daarbij lichte schade op aan de boeg.</p> <p>Meteen daarop vond er tweede explosie plaats, waarop het achterschip begon te zinken. Toen de 55 leden van de bemanning en de 2 passagiers bezig waren het schip te verlaten, vond midscheeps een derde ontploffing plaats.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003110.png\" alt=\"foto van de zijkant van een vrachtschip\"> <div class=\"img-source\">Stichting Maritiem historische databank</div> </figure> <p>Toen zonk het schip razendsnel. Alles speelde zich in slechts zeven minuten af. De opvarenden werden door de Britse torpedojager H.M.S. Mansfield gered en te Harwich geland. &eacute;&eacute;n opvarende, een Javaanse bediende, bleek vermist.</p> <p>De overige 56 personen kwamen veilig aan land. De Palembang was op twee mijnen gelopen, die op 17 maart 1916 door de Duitse onderzeeboot UC 10 waren gelegd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type : stoomschip. Het heeft drie doorlopende stalen dekken, waarvan het bovenste met teakhout is bekleed.</p> <p>Gebouwd: Bonn &amp; Mees, Rotterdam/Katendrecht (NL)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Visser, C.W.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>57</td></tr><tr><th scope=\"row\">Lengte</th><td>432 voet (131,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>54 &frac12; voet (16,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>34 voet (10,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>6674 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22SS+Palembang%22&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1916%7C&amp;page=1&amp;sortfield=date&amp;coll=ddd&amp;identifier=MMKB23:001514102\">Het torpederen van de SS Palembang.</a><br />Het Vaderland, 7-4-1916.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

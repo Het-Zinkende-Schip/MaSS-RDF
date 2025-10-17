@@ -1,0 +1,27 @@
+{
+  "id": "2096",
+  "code": "zq4",
+  "name": "ZQ4",
+  "type": "wreck",
+  "lat": "52.3503200",
+  "lon": "5.4835200",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1950",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-01-30 12:45:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 26 februari 1974 is er een scheepswrak aangetroffen op kavel Q4 aan de Bosruiterweg. Na de melding heeft er in hetzelfde jaar een korte verkenning plaatsgevonden. De locatie van de vindplaats ligt tussen de Spiekweg en de Gelderseweg. Het betreft een vrij recente ijzeren boot die tijdens het afmaaien van het riet is aangetroffen. De boot stak met het voor- en achterschip en de beide boorden ongeveer 40 cm boven het maaiveld uit. De boot was 7 meter lang, 2,30 meter breed en 0,90 meter diep. Vermoedelijk heeft de boot dienst gedaan als roei- of werkboot bij een baggermolen. Op het kleine voordek is een merkteken van de eigenaar aangetroffen. Het merkteken van de eigenaar is een ronde cirkel met daarin de letters V en C die boven elkaar staan. De boot was voorzien van twee roeibanken. Omdat het om een zeer recente ijzeren boot ging, is er tijdens de verkenning besloten om geen nader onderzoek te doen naar het bootje. De datering is onbekend.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een roei- of werkboot van vrij recente datum, Zeewolde</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z74-uub7\">Opgravingsdocumentatie scheepswrak ZQ4.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

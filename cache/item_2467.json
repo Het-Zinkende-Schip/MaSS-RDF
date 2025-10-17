@@ -1,0 +1,27 @@
+{
+  "id": "2467",
+  "code": "pecio-de-rodas",
+  "name": "Pecio de Rodas",
+  "type": "wreck",
+  "lat": "42.2178300",
+  "lon": "-8.8986120",
+  "location": "Playa de Rodas, Cíes Islands, Vigo, Spanje",
+  "firstdate": null,
+  "firstyear": "1589",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1589",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "David Rafael Ruiz Blanco",
+  "created_on": "2021-02-25 11:26:12",
+  "modified_on": "2025-06-14 15:27:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Several guns recovered in the sixties of XX century. Some informations about hull remains buried on sand in this area.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

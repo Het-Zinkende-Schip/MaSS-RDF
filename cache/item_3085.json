@@ -1,0 +1,27 @@
+{
+  "id": "3085",
+  "code": "daarlerveen",
+  "name": "Daarlerveen",
+  "type": "wreck",
+  "lat": "52.4402444",
+  "lon": "6.5663493",
+  "location": "Daarlerveen, Nederland",
+  "firstdate": null,
+  "firstyear": "800",
+  "firstyearend": "900",
+  "lastdate": null,
+  "lastyear": "800",
+  "lastyearend": "900",
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-05-25 11:54:51",
+  "modified_on": "2025-06-15 21:10:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De boomstamboot van Daarlerveen is aangetroffen in het beekdal van de Linderbeek. De boomstamboot werd aangetroffen tijdens ijzeroerwinningsactiviteiten in de Linderbeek in 1953. Volgens de aanwezigen bevond de boomstamboot zich onder de oerlaag, maar dit is niet meer na te gaan omdat de boot al gelicht was. De enige reconstructie die van de context gemaakt kan worden is dat de boomstamboot zich bevond in de afzettingen van de Linderbeek.</p> <p>Het was gebouwd uit een eiken boomstam en had een zeer gelijkmatige wanddikte.<br>Er zaten nog gaten in van de houten pennetjes. Deze waren aangebracht om de wanddikte te kunnen bepalen tijdens het weghakken van het hout. De voor- en achtersteven waren verdwenen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De boomstamboot is niet geheel bewaard gebleven; desondanks is wel vast te stellen dat het een kleine vaartuig betreft. Op basis van C14-dateringen is vastgesteld dat de boomstamboot dateert uit 1285&plusmn;65 BP.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Heide, G.D. van der (1974).<br /><em>Scheepsarcheologie, 116.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

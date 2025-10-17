@@ -1,0 +1,27 @@
+{
+  "id": "796",
+  "code": "ouwerkerk-1728",
+  "name": "Ouwerkerk",
+  "type": "wreck",
+  "lat": "-6.5891321",
+  "lon": "110.6402862",
+  "location": "Jepara, Indonesië",
+  "firstdate": null,
+  "firstyear": "1706",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1728",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-07-04 11:12:58",
+  "modified_on": "2025-06-23 12:24:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Ouwerkerk </strong></em>was in gebruik van 1707 tot 1728. Het is vergaan bij Japara:</p> <p><em>Het schip Ouwerkerk, dat leedig tot het inneemen van houtwerken na Rembang moest voortseylen, is door het breeken van dies ankertouw in een travaat op het bekende riff van Poelo Sawalan ) off het soogenaamde Visserseyland niet verre van Japara tot ons leetwesen verongelukt.</em></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003374.jpg\" alt=\"landkaart met de locatie van het Visserseiland onderstreept\"> <div class=\"img-source\">NL-HaNA_4.VEL_372</div> <figcaption class=\"img-description\">Met de locatie van het Visserseiland onderstreept</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: in 1706 <br>Laadvermogen: 658 ton<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=227&amp;accessor=search_in_text&amp;source=8&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26\">Generale missiven Deel VIII, 216.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2600",
+  "code": "botter-wrak",
+  "name": "Botter wrak",
+  "type": "wreck",
+  "lat": "52.2534320",
+  "lon": "5.3894310",
+  "location": "Nijkerkernauw, Nederland",
+  "firstdate": null,
+  "firstyear": "1880",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1950",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Vossail",
+  "created_on": "2021-06-22 11:18:55",
+  "modified_on": "2025-06-14 17:04:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De grootste vloot van Spakenburg ligt niet in de Oude Haven, maar ten oosten en westen van de pieren in het Eemmeer en Nijkerkernauw. Bij een telling in 2005 waren aan de oostkant nog 25 wrakken zichtbaar. Aannemelijk is dat een gedeelte van de 209 tellende vloot hier is terecht gekomen, andere zijn verkocht of gesloopt op de wal.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>13 voet (4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.dedarp.nl/wvs/\">wrakken van Spakenburg.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

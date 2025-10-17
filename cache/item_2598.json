@@ -1,0 +1,27 @@
+{
+  "id": "2598",
+  "code": "klein-warmont",
+  "name": "Klein Warmont",
+  "type": "wreck",
+  "lat": "24.0660268",
+  "lon": "118.4985352",
+  "location": "Taiwan strait, China",
+  "firstdate": null,
+  "firstyear": "1630",
+  "firstyearend": null,
+  "lastdate": "1633-10-22",
+  "lastyear": "1633",
+  "lastyearend": null,
+  "country": "China",
+  "countrycode": "CN",
+  "author": "Will Brouwers",
+  "created_on": "2021-06-07 22:53:06",
+  "modified_on": "2025-07-11 17:46:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Klein Warmont</strong></em> was een Chinese jonk die door de VOC-fluit <em>Warmont</em> was veroverd en daarom Klein Warmont was genoemd. Ze werd bemand door 18 Nederlandse en een aantal Chinese zeelieden. De jonk nam deel aan de Slag in de Liaoluo Baai van 22 oktober 1633.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00002780.jpg\" alt=\"kaart van de baai van Xiamen\"> <div class=\"img-source\">RCE</div> </figure> <p class=\"figcaption\">Baai van Xiamen (<a title=\"Xiamen\" href=\"https://cultureelerfgoed.info/mass/?file=00000098.pdf\" target=\"_blank\" rel=\"noopener\">pdf versie groot</a>)<br><br></p> <p><strong>Slag in de Liaoluo Baai</strong><br>Het eskader van gouverneur Putman lag voor anker in de baai van Liaoluo toen Zheng Zilong met zijn vloot verscheen. Putman werd verslagen door de Chinese vloot die wat Europese technieken had overgenomen. Zheng zette grote oorlogsjonken in als vuurschepen. De Hollanders verwachtten dit niet en reageerden te laat. De <em>Broekerhaven</em> en de <em>Sloterdijk</em> werden zo in brand gestoken en gingen verloren. De <em>Klein Warmont</em> kapseisde op de terugtocht naar Taiwan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>20</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/taiwan/#page=0&amp;accessor=toc&amp;view=imagePane\">Dagregister Zeelandia I p 137.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

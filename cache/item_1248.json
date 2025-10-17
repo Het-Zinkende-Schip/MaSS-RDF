@@ -1,0 +1,27 @@
+{
+  "id": "1248",
+  "code": "molenaar",
+  "name": "Molenaar",
+  "type": "wreck",
+  "lat": "8.7823693",
+  "lon": "78.1818695",
+  "location": "Thoothukudi, India",
+  "firstdate": null,
+  "firstyear": "1669",
+  "firstyearend": null,
+  "lastdate": "1682-02-22",
+  "lastyear": "1682",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-24 10:01:42",
+  "modified_on": "2025-07-01 19:25:25",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Molenaar</em> </strong>vertrok op 6 september 1669 vanuit Holland, aankomst Batavia op 13 juni 1670. De Molenaar werd in het Engels Kanaal aangevallen door twee Turkse kapers, maar wist ze af te schudden. Het schip bleef in Azi&euml; dienst doen en is vergaan bij Tutcorin, de havenstad van Tamil Nadu, op de Coromandel kust.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001756.jpg\" alt=\"Tuticorin\"></figure> <p>Tuticorin</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Delfshaven, 1669.(Van Dam, 486)<br><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>80 Amsterdamse&nbsp;voet (22,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>20 Amsterdamse&nbsp;voet (5,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>90 ton (45 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92228\">DAS 1145.1.</a></li><li>Dam, Pieter van.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=527&amp;accessor=toc&amp;source=1&amp;view=\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.1.1  488.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

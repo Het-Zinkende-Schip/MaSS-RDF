@@ -1,0 +1,27 @@
+{
+  "id": "477",
+  "code": "bleijenburg",
+  "name": "Bleijenburg",
+  "type": "wreck",
+  "lat": "-17.2382232",
+  "lon": "61.9951146",
+  "location": "Indian Ocean",
+  "firstdate": null,
+  "firstyear": "1719",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1722",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Annaliese Dempsey",
+  "created_on": "2014-10-29 00:00:00",
+  "modified_on": "2024-06-11 10:32:24",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Bleijenburg</strong></em> vertrok op 21 juli 1720 voor haar eerste uitreis naar Azi&euml;.</p> <p>Ze kwam op 24 april 1721 in Batavia aan en ging door naar Coromandel kust en Bengalen (India) waar ze op 31 mei aan kwam.&nbsp;<br><br>Ze vertrok op 22 september 1721 van Batavia voor de terugreis naar Nederland. Bij vertrek bestond de retourvloot uit de schepen Bleijenburg, Magdalena, <a href=\"https://mass.cultureelerfgoed.nl/raadhuis-van-middelburg\">Raadhuis van Middelburg</a>, Purmerlust en <a href=\"https://mass.cultureelerfgoed.nl/rijnestein\">Rijnestein</a>.</p> <p>Op 22 november 1721 kwamen de Magdalena en de Purmerlust aan bij de Kaap. De rest van de retourvloot werd vermist en kwam nooit meer aan.</p> <p><a href=\"https://resources.huygens.knaw.nl/bgb/voyage/16426\">De ladingslijst van de Bleijenburg</a></p> <p>Er wordt vermeld dat haar kapitein, Jan Lindeboom, met zijn schip ten onder ging, hoewel een deel van de bemanning het overleefde en werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan Lindeboom</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>141</td></tr><tr><th scope=\"row\">Lengte</th><td>160 Amsterdamse&nbsp;voet (45,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1100 ton (550 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000174.jpg\">Lijst van alle zoodanige Schepen.</a></li><li>NA 1.04.02 invnr 5756.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/5756/file/NL-HaNA_1.04.02_5756_0001?eadID=1.04.02&amp;unitID=5756&amp;query=\">Grootboek 1721 Bleijenburg.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

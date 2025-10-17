@@ -1,0 +1,27 @@
+{
+  "id": "2906",
+  "code": "remke",
+  "name": "Remke",
+  "type": "wreck",
+  "lat": "52.5161988",
+  "lon": "2.6905280",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": "1918-08-02",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-02 09:48:07",
+  "modified_on": "2025-07-18 16:44:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Met een lading gloeilampoen van Rotterdam naar Londen onderweg aangehouden door de UC met kanonvuur tot zinken gebrachty.</p> <p>De bemann9ing kon ongedeerd Engeland bereiken.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003229.jpg\" alt=\"tekst: DE NEDERL, ZEILSCHEPEN REMKE EN FLEVO X GETORPEDEERD. De Nederlandsche zeilschepen Remke en Flevo X, die 3 dezer van Rotterdam naar Lon-den vertrokken zijn met een lading gloeilam-pen, zijn getorpedeerd en gezonken. De be-manningen zijn gered en in een Engelsche haven geland. De Remke was een gaffelschoener, 197 bruto en 157 netto tons groot, in in 1900 1900 gel gebouwd en behoorende aan de Scheepvaart-Maatschappij Piet Hein te Rotterdam. De Flevo X was een vrachtlogger, 111 bruto en 95 netto tons groot, in 1916 gebouwd en behoorende aan de Scheepvaart-Maatschappij Flandrin (dir, J. W. Lensen) te Rotterdam,\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Gaffel Schoener<br>Eigenaar: Mij. Piet Hein, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Joannes Jonk</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Delpher.nl.<br /><em>Vaderland 10-8-1918.</em></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5161\">MarHisData.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

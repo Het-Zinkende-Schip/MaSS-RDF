@@ -1,0 +1,27 @@
+{
+  "id": "3093",
+  "code": "gouda-2",
+  "name": "Gouda",
+  "type": "wreck",
+  "lat": "53.4816334",
+  "lon": "5.6706934",
+  "location": "Ameland, Nederland",
+  "firstdate": null,
+  "firstyear": "1692",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1697",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-06-13 07:16:19",
+  "modified_on": "2023-06-13 07:24:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Gouda strandde in oktober 1692 in een hevige storm bij Ameland Slechts 3 opvarenden werden gered. De rest waaronder kptz. Arnold Manard verdronk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Manard, A.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>400</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>NIMH scheepsdocumentatie nr 309.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

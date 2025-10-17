@@ -1,0 +1,27 @@
+{
+  "id": "2779",
+  "code": "atlas-1906",
+  "name": "Atlas",
+  "type": "wreck",
+  "lat": "28.4242562",
+  "lon": "-13.1945801",
+  "location": "T.o.v. Fuerteventura, Spanje",
+  "firstdate": null,
+  "firstyear": "1906",
+  "firstyearend": null,
+  "lastdate": "1918-01-11",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-28 14:50:44",
+  "modified_on": "2025-06-14 21:53:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>11 januari 1918 op reis van Bisssao naar Rotterdam, op de Atlantische Oceaan ter hoogte van de Canarische eilanden door de Duitse 'U 156' aangehouden en tot zinken gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Passagiers Vrachtschip met beperkte passagiersaccomodatie, accomodatie voor 4 passagiers en 73 dekpassagiers,</p> <p>Gebouwd: Nederlandsche Scheepsbouw Maatschappij, Amsterdam-Nederland.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>31</td></tr><tr><th scope=\"row\">Lengte</th><td>295 &frac12; voet (90,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 voet (12,2 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>21 voet (6,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1815 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Uboat.net.<br /><a href=\"https://uboat.net/wwi/ships_hit/533.html\">Atlas.</a></li><li>kroonvaarders.com.<br /><a href=\"https://www.kroonvaarders.com/alfabet/aschepen/atlas.htm\">SS Atlas.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

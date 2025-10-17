@@ -1,0 +1,27 @@
+{
+  "id": "543",
+  "code": "mark",
+  "name": "Mark",
+  "type": "wreck",
+  "lat": "56.9500000",
+  "lon": "4.7305872",
+  "location": "Lyngby, Denemarken",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1939-09-09",
+  "lastyear": "1939",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2015-09-15 00:00:00",
+  "modified_on": "2025-06-22 13:52:35",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>SS Mark</strong></em> was onderweg van Ulou (Finland) naar Rotterdam met een lading hout, onder kapitein A.G. van Dam, op de Noordzee circa 120 mij ten westen van Vorup&oslash;r op een Duitse mijn gelopen.</p> <p>De 'Mark' was het eerste Nederlandse koopvaardijschip, dat ondanks de neutraliteit van Nederland, direct na het uitbreken van de Tweede Wereldoorlog verloren ging. Er vielen hierbij geen slachtoffers.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004273.jpg\" alt=\"De krantenkop en het artikel beschrijven het zinken van een Nederlands schip\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: N.V. Houtvaart, Rotterdam,</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>A.G. van Dam</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>22</td></tr><tr><th scope=\"row\">Lengte</th><td>244 voet (74,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>38 &frac34; voet (11,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1514 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4076\">marhisdata id 4076.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Mark&amp;cql%5B%5D=%28date+_gte_+%2201-09-1939%22%29&amp;cql%5B%5D=%28date+_lte_+%2211-09-1939%22%29&amp;redirect=true&amp;identifier=ddd:010664802:mpeg21:a0007&amp;resultsidentifier=ddd:010664802:mpeg21:a0007&amp;rowid=\">volledige artikel AH 11-9-1939.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

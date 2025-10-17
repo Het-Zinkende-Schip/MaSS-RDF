@@ -1,0 +1,27 @@
+{
+  "id": "2910",
+  "code": "annetta",
+  "name": "Annetta",
+  "type": "wreck",
+  "lat": "52.5008244",
+  "lon": "3.7850947",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1917-05-18",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-05 14:31:17",
+  "modified_on": "2023-11-07 08:59:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Annetta</strong></em> vertrok van IJmuiden met een zeer hoge verzekerde lading cacaoboter bestemd voor de Zwitserse regering naar Le Havre. Nog op dezelfde ochtend werd zij op 40 mijl west ten noorden van IJmuiden door de Duitse UC 71 met bommen tot zinken gebracht . Het schip ging verloren. De 6 bemanningsleden bleven ongedeerd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: motorschoener<br>Gebouwd: Niestern, Gebr. &amp; Co. - Scheepvs. Mij. Farsum,&nbsp;Delfzijl<br>Eigenaar: Brouwer J.,&nbsp;Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hoek, E.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>6</td></tr><tr><th scope=\"row\">Lengte</th><td>101 &frac12; voet (30,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>21 &frac34; voet (6,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>177 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=493\">marhisdata.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

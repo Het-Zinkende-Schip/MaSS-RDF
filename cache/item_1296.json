@@ -1,0 +1,27 @@
+{
+  "id": "1296",
+  "code": "groenendaal",
+  "name": "Groenendaal",
+  "type": "wreck",
+  "lat": "8.5466322",
+  "lon": "81.2208118",
+  "location": "Trincomalee, Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1770",
+  "firstyearend": null,
+  "lastdate": "1782-01-11",
+  "lastyear": "1782",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-20 12:38:31",
+  "modified_on": "2025-06-24 23:40:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Groenendaal</em> maakte drie retour reizen naar Azi&euml; en terug.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004326.png\" alt=\"De afbeelding toont een historische kaart van de baai van Trincomalee, gelegen aan de oostkust van Sri Lanka. \"> <div class=\"img-source\">KB Den Haag</div> </figure> <p>5 juni 1780 vertrok het schip voor de 4e uitreis naar Azi&euml;. Volgens missiven van het schip Huis te Spijk van Ceylon aan de Kaap gekomen op 15-7-1782.</p> <p>Het rij kbeladen schip De <em>Groenendaal</em> is samen met de&nbsp;<em>Kanaan</em> in Engelse handen gevallen 11-1-1782 bij de bestorming en verovering van het VOC steunpunt Tricomale (Ceylon).<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/133/file/NL-HaNA_1.11.06.18_133_0149?eadID=1.11.06.18&amp;unitID=133&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Oostenburg, Amsterdam, 1770<br>Lengte: 150 vt<br>Tonnage: 575 last<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/133/file/NL-HaNA_1.11.06.18_133_0149?eadID=1.11.06.18&amp;unitID=133&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap kolonie  NA_1.11.06.18_133_0149.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2726",
+  "code": "tanimbar",
+  "name": "Tanimbar",
+  "type": "wreck",
+  "lat": "38.0030890",
+  "lon": "7.2949219",
+  "location": "Middellandse Zee",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1942-06-14",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-02 14:27:46",
+  "modified_on": "2025-06-14 20:57:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 14 juni 1942 was de <em><strong>Tanimbar</strong></em> onderweg van Glasgow naar het Midden oosten in het Britse konvooi WS 19Z. Ze werd aangevallen en gebombardeerd door Italiaanse torpedovliegtuigen (Savoia-Marchetti SM.79). De Tanimbar kreeg twee voltreffers, waarvan &eacute;&eacute;n door de machinekamerkap achter de hoofdmotor. Een explosie volgde en brand brak uit. De Tanimbar begon snel te zinken en de overlevenden verlieten het schip.</p> <p>Bij de ramp verloren 23 opvarenden het leven.</p> <p><strong>Konvooi WS 19Z</strong><br>Het konvooi was bedoeld om het Britse leger op Malta te bevoorraden. (operation Harpoon). Het konvooi vertrok uit Glasgow op 5 juni 1942.</p> <p>Het bestond uit de vrachtschepen: Burdwan,Chant,Orari, Tanimbar en de Troilus. <br>En de marine schepen: Britse kruisers Kenya, Liverpool en de destroyers Badworth, Bedouin, Blankney, Escapade, Icarus, Kujawiak, Marne, Matcheless, Middleton en de Onslow.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Caledon Shipbuilding &amp; Engineering Company Ltd., Dundee (UK)</p> <p>Eigenaar: N.V. Stoomvaart Maatschappij Nederland, Amsterdam (NL)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Broere, H.</td></tr><tr><th scope=\"row\">Snelheid</th><td>15 knopen ~ 28 km/u (17 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>489 &frac34; voet (149,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>62 &frac14; voet (19 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>36 voet (11 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>8169 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 191.</em></li><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=6396\">Tanimbar - ID 6396.</a></li><li>http://naval-history.net.<br /><a href=\"http://naval-history.net/xAH-WSConvoys05-1942A.htm\">convoy WS19.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3107",
+  "code": "alhena",
+  "name": "Alhena",
+  "type": "wreck",
+  "lat": "55.3588209",
+  "lon": "-5.2235751",
+  "location": "Firth of Clyde, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1922",
+  "firstyearend": null,
+  "lastdate": "1942-09-10",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-07-10 16:05:28",
+  "modified_on": "2025-06-15 21:23:33",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <strong><em>Alhena</em></strong> was in konvooi varende van Liverpool naar Port Said en Haifa onderweg. De lading bestond uit legermateriaal en post voor het Britse leger in Noord-Afrika. De Alhena kwam niet ver. Ze strandde tijdens dichte mist bij South Rock lichtschip (Paddy Rock, oostkust Noord-Ierland).</p> <p>Het schip werd door de bemanning en passagiers verlaten op 30 januari 1942. De lading werd geborgen. De Alhena werd maanden later vlot gekregen. Ze werd vervolgens naar de schotse haven Troon gesleept. Ze zonk echter nog tijdens de sleepreis van Portaferry in de Firth of Clyde op 10 september 1942.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Deutsche Werft A.G., Hamburg (D)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>416 voet (126,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>53 &frac34; voet (16,4 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>30 &frac14; voet (9,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>4930 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=232\">marhisdata id 222.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

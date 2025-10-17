@@ -1,0 +1,27 @@
+{
+  "id": "2707",
+  "code": "amazone-2",
+  "name": "Amazone",
+  "type": "wreck",
+  "lat": "27.3422276",
+  "lon": "-79.9694824",
+  "location": "Port st Lucie, Florida, Verenigde Staten",
+  "firstdate": null,
+  "firstyear": "1922",
+  "firstyearend": null,
+  "lastdate": "1942-05-06",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-11-26 12:12:44",
+  "modified_on": "2025-06-14 20:42:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Amazone vertrok 29 april 1942 van Cura&ccedil;ao naar New York.</p> <p>In de vroege ochtend van 6 Mei werd het schip aan bakboordzijde door een torpedo van de U 333 getroffen. Het schip zonk razendsnel. In 4 minuten tijd was het schip in de diepte verdwenen. <br>Negen man wisten zich op een omgeslagen sloep te redden. Doordat de SE. reddingboot ten gevolge van het snelle zinken van het schip vol water was geslagen, moesten anderen zich op de vlotten redden.</p> <p>Nadat app&egrave;l gehouden was bleken 20 opvarenden nog in leven te zijn. Deze werden door de Amerikaanse duikbootjager P.C. 404 opgepikt.<br><br>Er waren 32 bemanningsleden en 2 passagiers aan boord.</p> <p>14 opvarenden verloren bij deze ramp het leven (<a href=\"https://www.oorlogsgravenstichting.nl/zoeken?object=persoon&amp;filter[0]=overlijdensplaats&amp;value[0]=Atl.+Oceaan+a%2Fb+s.s.+Amazone#zoeken-form\">oorlogsgraven stichting</a>).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: N.V. Kon. Ned. Stoomboot Mij. Amsterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Giltay,  Johannes Pieter</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>34</td></tr><tr><th scope=\"row\">Snelheid</th><td>10 knopen ~ 19 km/u (12 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>266 &frac34; voet (81,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>36 &frac34; voet (11,2 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>13 &frac12; voet (4,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1294 ton</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

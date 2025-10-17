@@ -1,0 +1,27 @@
+{
+  "id": "4228",
+  "code": "horstendaal",
+  "name": "Horstendaal",
+  "type": "wreck",
+  "lat": "52.9514650",
+  "lon": "4.7177564",
+  "location": "Huisduinen , Nederland",
+  "firstdate": null,
+  "firstyear": "1739",
+  "firstyearend": null,
+  "lastdate": "1742-10-16",
+  "lastyear": "1742",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2024-12-02 14:02:04",
+  "modified_on": "2024-12-02 18:55:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Horstendaal</em> werd gebouwd 1739 in Amsterdam. Ze vertrok van Texel 2 oktober 1639 voor de VOC kamer Amsterdam naar Batavia (aankomst 16-6-1740). 19-1-1742 ging het schip terug naar Nederland.</p> <p>Op 18 september 1742 is de Horstendaal, zo goed als thuis, bij het aanlopen van Texel door een fout van de loodsboot aan de grond gelopen tussen Callantsoog en Huisduinen. Opvarenden en een groot deel van de lading kon worden gered.(<a href=\"https://resources.huygens.knaw.nl/bgb/voyage/10805\">ladinglijst</a>)</p> <p>Het leek er op dat het schip in eerste instantie redelijk ongeschonden was gebleven . Een paar dagen later maakte de Oprechte Haarlemse courant melding dat de toestand was verslechterd en de Horstendaal erg lek was geworden .[<a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=schip&amp;cql%5B%5D=%28date+_gte_+%2228-09-1742%22%29&amp;cql%5B%5D=%28date+_lte_+%2230-09-1742%22%29&amp;redirect=true&amp;identifier=ddd:011229053:mpeg21:p002&amp;resultsidentifier=ddd:011229053:mpeg21:a0003&amp;rowid=1\">Oprechte Haarlemse Courant 29-9</a>]</p> <p>Het schip kwam toch weer vlot maar werd op 16 oktober alsnog tijdens een storm op het strand aan stukken geslagen.[<a href=\"https://www.delpher.nl/nl/kranten/view?query=schip&amp;page=1&amp;cql%5B%5D=%28date+_gte_+%2216-10-1742%22%29&amp;cql%5B%5D=%28date+_lte_+%2219-10-1742%22%29&amp;coll=ddd&amp;redirect=true&amp;identifier=ddd:011229061:mpeg21:p002&amp;resultsidentifier=ddd:011229061:mpeg21:a0004&amp;rowid=1\">idem 18-10-1742</a>]</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Lengte: 145 vt</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan Kelder</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>115</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0081?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01_551_008.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/6095/file/NL-HaNA_1.04.02_6095_0007?eadID=1.04.02&amp;unitID=6095&amp;query=Horstendaal\">Grootboek Horstendaal.</a></li><li>Lemmers, G.L.<br /><a href=\"https://studenttheses.universiteitleiden.nl/access/item%3A2606611/view\">thesis, Responsabiliteit van het Redden, p 45 e.v. Leiden  2017.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

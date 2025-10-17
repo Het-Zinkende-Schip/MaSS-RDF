@@ -1,0 +1,27 @@
+{
+  "id": "1548",
+  "code": "houten-boomstamboot",
+  "name": "Houten, boomstamboot",
+  "type": "wreck",
+  "lat": "52.0585493",
+  "lon": "5.1647758",
+  "location": "Houten, Nederland",
+  "firstdate": null,
+  "firstyear": "-500",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "10",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-18 10:44:22",
+  "modified_on": "2020-08-18 10:46:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

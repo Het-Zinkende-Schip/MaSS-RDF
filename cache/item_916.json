@@ -1,0 +1,27 @@
+{
+  "id": "916",
+  "code": "duinenburg",
+  "name": "Duinenburg",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Atlantic Ocean",
+  "firstdate": "1770-01-01",
+  "firstyear": "1770",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1773",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-12 08:52:15",
+  "modified_on": "2024-09-26 12:34:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het VOC spiegelretourschip <em><strong>De Duinenburg</strong></em> maakte tussen 1759 en 1773 vijf retourreizen.<br>Voor haar laatste thuisreis vertrok De Duinenburg uit Batavia op 30 januari 1773.</p> <p>De Duinenburg arriveerde aan de Kaap op 3 mei 1773. Daar vertrok ze op 26 mei 1773 voor de lange etappe over de Atlantische Oceaan naar Europa.</p> <p>Van De Duinenburg werd daarna niets meer vernomen. Ze is waarschijnlijk verongelukt tijdens een storm ergens op de Atlantische Oceaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd : Middelburg, 1757<br>Tonnage: 550 last (<a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/98728\">DAS</a>)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>150 voet (45,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/98728\">DAS 7883.5.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0200?eadID=1.04.02&amp;unitID=4935&amp;query=4935\">NL-HaNA_1.04.02_4935_0200.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000244.jpg\">NA 1.04.11.01.01. 551-41, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

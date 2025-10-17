@@ -1,0 +1,27 @@
+{
+  "id": "1239",
+  "code": "stadhuis-van-delft",
+  "name": "Stadhuis van Delft",
+  "type": "wreck",
+  "lat": "-5.9888992",
+  "lon": "105.7479330",
+  "location": "Selat Sunda, Indonesië",
+  "firstdate": null,
+  "firstyear": "1718",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1731",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-22 11:25:08",
+  "modified_on": "2024-10-15 10:13:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Nadat het schip samen met de Langerode en Vliegend Hert op 21 augustus 1731 van Batavia was vertrokken op weg naar Suratte, is de <em><strong>Stadhuis van Delft</strong></em> op 22 augustus vergaan in Straat Soenda.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Delfshaven, 1718<br>Lengte: 130 vt<br>Tonnage: 300 last<br>Bemanning: 100 <br>Schipper: Marten Harting</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93617\">DAS 2579.3.</a></li><li><a href=\"https://www.vocsite.nl/schepen/detail.html?id=10243\">VOC site Delft, Stadhuis van,</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

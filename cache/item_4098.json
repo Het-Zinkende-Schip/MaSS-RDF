@@ -1,0 +1,27 @@
+{
+  "id": "4098",
+  "code": "on45",
+  "name": "ON45",
+  "type": "wreck",
+  "lat": "52.5570280",
+  "lon": "5.7934490",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1675",
+  "lastyearend": "1725",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-24 12:35:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1957 werd het wrak van een groot vaartuig verkend op kavel N45 in Oostelijk Flevoland, bestemd voor een bosperceel. Hierbij werd tevens een rood aardewerken doofpot geborgen. In 1984 vond een herverkenning plaats. Het bleek te gaan om een karveel gebouwd vrachtschip met een lengte van 36 meter en een breedte van maar liefst 11,5 meter, die echter te danken is aan de naar buiten uitgeklapte boorden als gevolg van het wrakvormingsproces. De ondergangdatering wordt rond 1700 geplaatst. Bij de herverkenning werden verder twee aardewerken scherven gevonden. Het scheepswrak is een jaar later ingekuild, om een grondwaterstand te realiseren die gunstig is voor het behoud van het scheepshout. Tijdens deze werkzaamheden werden nog eens twee scherven en ook een netverzwaarder aangetroffen. Staatsbosbeheer werd verzocht om wildgroei op en rondom het scheepswrak te verwijderen. Het wrak is gereserveerd voor toekomstig nader onderzoek.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xpz-jj4y\">Opgravingsdocumentatie scheepswrak ON45.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

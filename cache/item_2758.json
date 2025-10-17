@@ -1,0 +1,27 @@
+{
+  "id": "2758",
+  "code": "blitar",
+  "name": "Blitar",
+  "type": "wreck",
+  "lat": "60.1874198",
+  "lon": "-31.0253906",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1923",
+  "firstyearend": null,
+  "lastdate": "1943-04-05",
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-08 15:03:52",
+  "modified_on": "2025-06-14 21:23:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het s.s. <em><strong>Blitar</strong></em> vertrok 29 Maart 1943 in konvooi HX 231 van New York naar Liverpool. Op 5 April werd de \"Blitar\" door de Duitse onderzee&euml;r <a href=\"https://uboat.net/allies/merchants/ship/2852.html\">U 632</a> aangevallen. De aanval werd met kanonvuur afgeslagen. Daarna werd voortdurend gezigzagd, bovendien werd in de vond na het donker worden, 30&deg; van koers veranderd. Ondanks deze voorzorgsmaatregelen werd om 23.55 uur een zware explosie aan stuurboord waargenomen. Ieder begaf zich daarop naar de reddingboten. Daarna volgden nog 2 explosies, waarop de Blitar in twee&euml;n brak en zonk.</p> <p>Bij de ramp verloren 26 van de 80 opvarenden het leven (<a href=\"https://uboat.net/allies/merchants/crews/ship2852.html\">Lijst Uboat.net</a>). </p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Maatschappij Voor Scheeps- &amp; Werktuigbouw Fijenoord, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Knip, W.E.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>80</td></tr><tr><th scope=\"row\">Lengte</th><td>446 &frac14; voet (136 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>54 &frac12; voet (16,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>34 voet (10,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>7065 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=1004\">Blitar - ID 1004.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

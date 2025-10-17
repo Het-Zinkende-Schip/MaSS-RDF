@@ -1,0 +1,27 @@
+{
+  "id": "2547",
+  "code": "mountbatten",
+  "name": "Mountbatten",
+  "type": "wreck",
+  "lat": "53.4856504",
+  "lon": "9.9567246",
+  "location": "Hamburg-Moorburg, Duitsland",
+  "firstdate": null,
+  "firstyear": "1935",
+  "firstyearend": null,
+  "lastdate": "1951-03-08",
+  "lastyear": "1951",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Daniel Zwick",
+  "created_on": "2021-04-26 12:32:02",
+  "modified_on": "2025-06-14 16:28:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This wreck is associated with the British steam trawler MOUNTBATTEN, which was built by Cochrane &amp; Sons Shipbuilders Ltd. and was operated by Trawlers Ltd. when it stranded in Rodoy Fjord, Norway. The ship was refloated by a Norwegian salvage company and sold to Germany, where it was brought under tow. On its way to Hamburg in March 1951, the vessel developed a list in the Elbe estuary in heavy weather and foundered. It was salvaged again and brought to a scrapping yard in the industrial port district of Hamburg-Moorburg nearby the coal plant.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002550.jpg?modifiedon=1619432063\" alt=\"photo of a harbor, with a sunken fishing vessel in Germany\"> <div class=\"img-source\">Wikimedia Commons</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Snelheid</th><td>12 knopen ~ 22 km/u (14 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>161 voet (49,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>16 &frac34; voet (5,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>441 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The vessel was never scrapped and has become a biotope. It is not considered a navigation hazard by the Hamburg Port Authority and therefore there are no plans for the wreck's removal.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Mayes, G. &amp; Thompson, M. (2019).<br /><em>Cochrane Shipbuilders, vol. 2: 1915-1939.</em><br />South Glamorgan, Bernard McCall.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1577",
+  "code": "sint-laurens-1675",
+  "name": "Sint Laurens",
+  "type": "wreck",
+  "lat": "16.2398080",
+  "lon": "-22.9422056",
+  "location": "Boa Vista, Kaapverdië",
+  "firstdate": null,
+  "firstyear": "1675",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1676",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-27 10:51:43",
+  "modified_on": "2024-10-15 08:51:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De fluit <em><strong>St. Laurens</strong></em> was eind 1675 voor f 12.500 gehuurd door de VOC kamer Amsterdam omdat er te weinig laadvermogen was om alle vereiste benodigdheden naar de Kaap kolonie over te brengen.</p> <p>Het was de bedoeling dat de fluit vanaf de Kaap naar Nederland zou terugkeren. Zo ver kwam het echter niet. Na het vertrek van Texel op 13 januari 1676 was de vloot, waarvan de St. Laurens deel uitmaakte, door de weersomstandigheden gedwongen Duyns (Downs VK) binnen te lopen.</p> <p>Na het vertrek van Duyns raakten de schepen elkaar kwijt. De fluit arriveerde nooit aan de Kaap.</p> <p>In de vergadering van de Heren XVII op 1 juni 1676 werd een brief uit London van Pieter van Rhijn Jacobss gewezen assistent op het fluitschip St. Laurens voorgelezen.</p> <p><em>dat het voornoemde schip in het gesicht van het eijlant bona Vista is verseijlt, en op bijgelege gronden aen Stucken gestoten, sonder dat etwes van desselfs ladinge heeft connen geborgen werden.</em></p> <p>Een Engels schip meldde nog dat er bij de ramp vier man waren omgekomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92396\">DAS 1313.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/240/file/NL-HaNA_1.04.02_240_0208?eadID=1.04.02&amp;unitID=240&amp;query=240\">NL-HaNA_1.04.02_240_0208.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

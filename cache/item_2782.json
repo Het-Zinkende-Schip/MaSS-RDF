@@ -1,0 +1,27 @@
+{
+  "id": "2782",
+  "code": "amstelstroom",
+  "name": "Amstelstroom",
+  "type": "wreck",
+  "lat": "52.0000000",
+  "lon": "3.4112549",
+  "location": "begin van de Eurogeul, Nederland",
+  "firstdate": null,
+  "firstyear": "1910",
+  "firstyearend": null,
+  "lastdate": "1917-03-27",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-30 17:48:57",
+  "modified_on": "2025-06-14 21:53:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1914 beschikte de rederij over elf schepen, waarvan er vijf verloren gingen tijdens de oorlog. De lijndienst naar Groot-Brittanni&euml; was extreem bemoeilijkt door de gevaren op zee.</p> <p><strong>Einde van de Amstelstroom</strong><br>Dat bleek voor de Amstelstroom fataal. Op reis met een lading stukgoederen van Amsterdam naar Londen werd het schip op 23 maart 1917 kort na middernacht, aangevallen door drie Duitse torpedoboten (torpedo boten V44, G86 and G87. Twee van de torpedoboten openden om 0.45 uur het vuur. Dat was op 40 mijl ten noord westen van IJmuiden. Er werd ook een torpedo gelanceerd. <br>De bemanning verliet de zwaar gehavende Amstelstroom onder grote moeilijkheden. Later bleken van de 24 opvarenden vier man vermist. Alle overigen werden na enige tijd door twee Nederlandse vissersvaartuigen sloepen gered.</p> <p>De Amstelstroom weigerde echter te zinken. E&eacute;n van de vermiste personen werd later nog door een Britse onderzeeboot van het wrak gehaald; de drie overige vermisten zijn omgekomen.</p> <p>Dagen later op 27 maart werd de Amstelstroom nog steeds drijvend aangetroffen door de Duitse onderzeeboot '<em><strong>UB 10</strong></em>' op 20 mijl oost noordoost van het lichtschip &lsquo;Noord Hinder&rdquo; en met een torpedo tot zinken gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Maatschappij voor Scheeps- en Werktuigbouw Fijenoord N.V., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Swart, Tjebbe</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>24</td></tr><tr><th scope=\"row\">Tonnage</th><td>1413 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=396\">Amstelstroom ID 396.</a></li><li>Uboat.net.<br /><a href=\"https://uboat.net/wwi/ships_hit/268.html\">Amstelstromm.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

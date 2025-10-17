@@ -1,0 +1,27 @@
+{
+  "id": "4005",
+  "code": "na77",
+  "name": "NA77",
+  "type": "wreck",
+  "lat": "52.8064130",
+  "lon": "5.7199230",
+  "location": "Rutten, Nederland",
+  "firstdate": null,
+  "firstyear": "1550",
+  "firstyearend": "1600",
+  "lastdate": null,
+  "lastyear": "1617",
+  "lastyearend": "1650",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:21:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Dit wrak werd gevonden op kavel A77 in de Noordoostpolder, nabij het huidige Rutten. Hoewel schijnbaar in de jaren '40 van de 20ste eeuw al door Pieter (P.J.R.) Modderman bekeken en door hem niet de moeite van het opgraven waard geacht, stond (maritiem) archeoloog Gerrit (G.D.) van der Heide hier anders in. In 1947 stelde hij vast dat het ging om een groot, vermoedelijk ongeveer 45 meter lang schip van zwaar eikenhout. In het achterschip werden ballaststenen aangetroffen. Tijdens de opgraving ontving hij bezoek van o.a. het Nederlands Historisch Scheepvaart Museum (thans het Scheepvaartmuseum te Amsterdam), het Maritiem Museum Prins Hendrik (thans het Maritiem Museum Rotterdam) en het Openluchtmuseum Arnhem (thans het Nederlands Openluchtmuseum). Uit de opgraving werd duidelijk dat het schip een lengte had over de kiel van 33 meter.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zh6-p5zr\">Opgravingsdocumentatie scheepswrak NA77.</a></li><li>Leo Kaan (2023).<br /><em>Gouden Eeuw, Zuiderzee en Oostzee: Het wrak op kavel A, sectie 77.</em><br />Rondom Schokland.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

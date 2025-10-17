@@ -1,0 +1,26 @@
+{
+  "id": "83",
+  "code": "pavlopetri",
+  "name": "Pavlopetri",
+  "type": "site",
+  "lat": "36.4620000",
+  "lon": "22.9330000",
+  "location": "Peloponnessos, Griekenland",
+  "firstdate": null,
+  "firstyear": "2000",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1200",
+  "lastyearend": null,
+  "country": "Griekenland",
+  "countrycode": "GR",
+  "author": "Will Brouwers",
+  "created_on": "2010-02-01 00:00:00",
+  "modified_on": "2019-12-09 16:27:46",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Pavlopetri is the world's oldest submerged town. Ceramics were found here dating back to the Late Neolithic. Discovery of these ceramics suggests that Pavlopetri, off the southern Laconia coast of Greece, was occupied some 5,000 years ago. And that's at least 1,200 years earlier than archaeologists originally thought when the city was discovered and surveyed in 1967 by Nick Flemming of the University of Cambridge.</p> <p>The site was occupied throughout the Bronze Age - from at least 2800 BC to 1100 BC. This fresh information puts the world's oldest submerged town well over a millennium older than was previously thought.</p> <p>The Pavlopetri Underwater Archaeology Project is an international team, that was given special permission to dive by the Greek government. The team carried out a detailed digital underwater survey and study of the structural remains, which were thought to belong to the Mycenaean period around 1600 to 1000 BC. The survey surpassed all their expectations.</p> <p>Their investigations revealed another 150 square metres of new buildings as well as ceramics that suggest the site was occupied throughout the Bronze Age - from at least 2800 BC to 1100 BC.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000091.jpg\" alt=\"Pavlopetri\" /></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Submerged town in the south of Greece.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000090.jpg\" alt=\"Large rectangular great hall, Megaron, from the early Bronze Age period.\" height=\"300\" /><figcaption class=\"img-description\">Large rectangular great hall, Megaron, from the early Bronze Age period.</figcaption></figure></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

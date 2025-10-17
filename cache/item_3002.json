@@ -1,0 +1,27 @@
+{
+  "id": "3002",
+  "code": "noordzee",
+  "name": "Noordzee",
+  "type": "wreck",
+  "lat": "51.5445802",
+  "lon": "2.2924677",
+  "location": "Noordzee ",
+  "firstdate": null,
+  "firstyear": "1905",
+  "firstyearend": null,
+  "lastdate": "1917-05-02",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-20 08:11:54",
+  "modified_on": "2025-07-18 16:58:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Noordzee</strong></em> was 1 mei vertrokken met een lading melk van Rotterdam naar Le Havre. Op de Noordzee, bij het lichtschip Noord Hinder werd ze beschoten door de UC 63. De lading werd in beslag genomen en De Noordzee tot zinken gebracht. De bemanning werd uit de sloep opgepikt en in Goederede aan land gezet.<br><br></p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003342.jpg\" alt=\"tekst: De Noordzee&quot;. Woensdagmiddag om 12.15 is de sjalla Noordzee&quot;, metende 220 ton, geladen met gecondenseerde melk in blikjes, bestemd voor Frankrijk, door een onderzee&euml;r aangehou-den. De onderzee&euml;r lostte 20 granaten op bet schip, daarna gooide bij bommen in het schip, waarop de tjalk in drie minuten zonk. De kapitein werd aan de hand gewond. De bemanning werd opgepikt door de blazer-schuit, Noordzee&quot; en te Goedereede aan wal gebracht. Donderdag zijn zij mes cen ma-rinovaartuig naar Hellevoetsluis vertrokken, waarna zij om 1 uur naar Rotterdam zijn gegaan.\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Barkmeijer Gebr. , Noordhorn<br>Eigenaar: J. Buismar, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Visser</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>4</td></tr><tr><th scope=\"row\">Lengte</th><td>83 &frac34; voet (25,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>19 &frac14; voet (5,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>8 &frac12; voet (2,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>136 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4736\">marhisdata id 4736.</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/4423.html\">uboat.net.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Noordzee&amp;cql%5B%5D=%28date+_gte_+%2202-05-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2204-05-1917%22%29&amp;redirect=true&amp;sortfield=datedesc&amp;page=2&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;identifier=ddd:01046927\">De tribune : soc. dem. weekblad    (04-05-1917).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

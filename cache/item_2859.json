@@ -1,0 +1,27 @@
+{
+  "id": "2859",
+  "code": "poseidon-i-vl-98",
+  "name": "Poseidon I (VL 98)",
+  "type": "wreck",
+  "lat": "55.2782288",
+  "lon": "3.2801512",
+  "location": "Dogger bank",
+  "firstdate": null,
+  "firstyear": "1902",
+  "firstyearend": null,
+  "lastdate": "1917-05-06",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-27 14:36:08",
+  "modified_on": "2025-06-15 11:55:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Poseidon I, was een vissersvaartuig zeilboot. Op 6 mei 1917 werd het schip door de Duitse UC 31 , 9 mijl ten noorden van de Dogger Bank North lightvessel tot zinken gebracht. De opvarenden overleefden de aanval.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Scheepswerf 'De Zeil', Leiderdorp <br>Eigenaar: Visscherijhandels Mij 'Poseidon', Vlaardingen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>98 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Poseidon+I%22&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;page=1&amp;sortfield=date&amp;coll=ddd&amp;identifier=ddd:010035470:mpeg21:a0006&amp;resultsidentifier=ddd:010035470:mpeg21:a0006&amp;rowid=10\">Nieuwe Rotterdamsche Courant    08-05-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

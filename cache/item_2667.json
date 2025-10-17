@@ -1,0 +1,27 @@
+{
+  "id": "2667",
+  "code": "meiboom",
+  "name": "Meiboom",
+  "type": "wreck",
+  "lat": "15.7931786",
+  "lon": "73.6441040",
+  "location": "Vengurla, India",
+  "firstdate": null,
+  "firstyear": "1660",
+  "firstyearend": null,
+  "lastdate": "1672-11-02",
+  "lastyear": "1672",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-10-11 10:04:46",
+  "modified_on": "2025-04-13 12:51:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het (advies) jacht&nbsp;<em>Meiboom</em> is gebouwd voor de VOC kamer Rotterdam in 1660.</p> <p>Het is na het eerste vertrek in 1661 &eacute;&eacute;n keer in Nederland terug geweest en in 1663 definitief naar Azi&euml; vertrokken, waar het werd ingezet voor reizen naar diverse bestemmingen.</p> <p><em>De Meiboom k</em>wam ter hoogte van Wingurla begin november 1672 4 Engelse schepen tegen. Ze deden zich eerst vriendschappelijk voor. Ze onthulde dat er in Europa oorlog was uitgebroken tussen de Republiek en o.a. Engeland en dat ze de Meiboom in beslag namen:<br><em><br>... \"sijnde ontrent primo 9ber passado bij cabo de Rama voorschreven bodem [de Meiboom] aldaer int retourneren van coudewaer naer wingusrla seijlende dog geen andre goederen inhebbende als 45 pagoden tibbeloijs en weijnige provisie van persia voor coutchin.\"<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1295/file/NL-HaNA_1.04.02_1295_0751?eadID=1.04.02&amp;unitID=1295&amp;query=1295\">&sup1;</a></em></p> <p>Zo viel de Meiboom in Engelse handen.</p> <p>Wingurla was een VOC loge van 1637 tot ca 1693 op de west kust van India.</p> <div class=\"img-wrapper\">&nbsp;</div></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Rotterdam, , 60 last<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/150/file/NL-HaNA_1.04.02_150_1467?eadID=1.04.02&amp;unitID=150&amp;query=151\">&sup2;</a><br>Tonnage: Het staat in de navale machten voor 100 last.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan Binder</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>.R. Bruijn, F.S. Gaastra, I. Schöffer.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92124\">DAS 1007.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1295/file/NL-HaNA_1.04.02_1295_0751?eadID=1.04.02&amp;unitID=1295&amp;query=1295\">NL-HaNA_1.04.02_1295 751.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

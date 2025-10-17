@@ -1,0 +1,27 @@
+{
+  "id": "4079",
+  "code": "nm107",
+  "name": "NM107",
+  "type": "wreck",
+  "lat": "52.7106070",
+  "lon": "5.8069590",
+  "location": "Emmeloord, Nederland",
+  "firstdate": null,
+  "firstyear": "1339",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1380",
+  "lastyearend": "1380",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 16:06:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gevonden nabij het huidige Markenesse. Moment van melding onbekend, opgegraven in 1944 en daarna herbegraven naast de oorspronkelijke vindplaats. Het bleek te gaan om het allereerste wrak van een kogge dat ooit archeologisch herkend en onderzocht was, en was geladen met 5.000 kloostermoppen (19 ton). Gezien deze reputatie werd het schip al gauw geassocieerd met de opgravende archeoloog, Pieter (P. J.R.) Modderman, waardoor men het in de wandelgangen 'de kogge van Modderman' begon te noemen. Hij was als assistent aangesteld van de bekende Albert van Giffen, directeur van het Biologisch Archaeologisch Instituut te Groningen. Ook was het de eerste archeologische opgraving in Nederland waarbij mechanisch materiaal werd ingezet, namelijk een kraan. Verder was het onderzoek naar het wrak een vroeg voorbeeld van het gebruik van modelbouw om tot een reconstructie van een scheepswrak te komen. Dirk Huismans, destijds verbonden aan het Openluchtmuseum Arnhem, vervaardigde van het vaartuig in 1946 een houten halfmodel op schaal. Daarnaast werd nog een ander model vervaardigd, vermoedelijk door W. Pul, die tijdens de oorlog ondergedoken zat in de Noordoostpolder. Dit model is terecht gekomen in de collectie van het Noorder Scheepvaartmuseum te Groningen, thans Museum aan de A.</p> <p>In 2008 is het herbegraven wrak opnieuw opgegraven, als onderdeel van de International Fieldschool for Maritime Archaeology Flevoland (IFMAF). Onder leiding van prof. dr Andr&eacute; (A.F.L.) van Holk van de Rijksuniversiteit Groningen werd het wrak nader bestudeerd en met moderne middelen opgemeten, ter beantwoording van nieuwe onderzoeksvragen. Tevens is onderzocht of de bodemcondities op de vindplaats nog wel geschikt waren voor behoud van het wrak. De bovenste 50 centimeter van het wrak bleek regelmatig boven de grondwaterspiegel uit te komen en wordt dan aan zuurstof blootgesteld. Het laadvermogen is berekend op basis van het digitaal ingemeten halfmodel van het schip. Hieruit bleek dat het schip erg zwaar beladen was, hetgeen een rol kan hebben gespeeld bij de ondergang. Verder werd de chemische samenstelling van de stenen uit wrak NM107 vergeleken met die van een andere kogge, wrak NT25. Deze bleek meetbaar te verschillen tussen de beide schepen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xv4-x9qf\">Opgravingsdocumentatie scheepswrak NM107.</a></li><li>Koen Blok (2014).<br /><a href=\"https://research.rug.nl/nl/publications/de-verdwenen-kogge-van-modderman-een-kogge-achtig-scheepswrak-in-\">De verdwenen 'Kogge van Modderman' - een kogge-achtig scheepswrak in de bodem van Flevoland.</a><br />Groningen: Groninger Instituut voor Archeologie (GIA).</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

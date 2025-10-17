@@ -1,0 +1,27 @@
+{
+  "id": "791",
+  "code": "amsterdam",
+  "name": "Amsterdam",
+  "type": "wreck",
+  "lat": "59.7630347",
+  "lon": "-1.1326904",
+  "location": "Shetland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1740",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1742",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-07-03 11:09:18",
+  "modified_on": "2025-06-20 09:34:57",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Amsterdam</strong></em> vertrok op 27 oktober 1740 vanuit Texel naar Batavia en kwam daar op 22 mei 1741 aan.</p> <p>Op 7 november 1741 vertrok ze uit Batavia via de Kaap naar Nederland. De Amsterdam was het admiraalschip van de retourvloot met aan boord de afgetreden gouverneur-generaal admiraal Adriaan Valkenier.*</p> <p>De Kaap werd op 25 januari 1742 aan gedaan. Ze vertrok van daar uit op 25 februari 1742 voor de laatste etappe naar Nederland. Bij aankomst in Europese wateren werd de route achterom genomen.</p> <p>&nbsp;Ze is ter hoogte van de Shetland Eilanden vergaan.*<a title=\"A 5\" href=\"https://cultureelerfgoed.info/mass/?file=00000111.jpg\" target=\"_blank\" rel=\"noopener\">*</a></p> <p><a href=\"https://resources.huygens.knaw.nl/bgb/voyage/10797\">Lading lijst boekjaar 1741/42</a></p> <p class=\"note\">* Aan de kaap werd Valkenier gearresteerd voor zijn rol in <em>de Chinese moorden</em> in Batavia 1740. Hij werd terug gestuurd naar Batavia.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd in 1740 voor de Kamer van Amsterdam op de VOC werf in Amsterdam<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pieter Visser</td></tr><tr><th scope=\"row\">Lengte</th><td>145 Amsterdamse&nbsp;voet (41,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98023\">DAS 7130.1.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000111.jpg\">Lijst van alle zoodanige Schepen in soorten als bij de Generale Oostindische Compagnie zijn gemaekt oft gekocht als gehuurt alsmede waer oft de zelfde zijn agter gebleven ofte verongelukt als genoomen en verbrand, vermist.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

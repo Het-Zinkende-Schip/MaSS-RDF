@@ -1,0 +1,27 @@
+{
+  "id": "699",
+  "code": "amstelland-1661",
+  "name": "Amstelland",
+  "type": "wreck",
+  "lat": "53.4507287",
+  "lon": "5.6031990",
+  "location": "Terschelling, Nederland",
+  "firstdate": null,
+  "firstyear": "1661",
+  "firstyearend": null,
+  "lastdate": "1665-10-25",
+  "lastyear": "1665",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-17 12:30:56",
+  "modified_on": "2025-08-04 15:58:58",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong>Route achterom</strong><br>De VOC retourvloot o.l.v. Pieter de Bitter vertrok op 1e Kerstdag 1664 vanaf de rede van Batavia. Onderweg hoorde De Bitter dat oorlog was uitgebroken met Engeland. En dat de Nederlandse vloot een zware nederlaag had geleden in de slag bij Lowestoft. In nieuwe instructies van de Staten-Generaal stond dat De Bitter in een neutrale haven voor anker moest gaan en moest wachten tot de oorlogsvloot weer op oorlogssterkte was en hem naar huis kon escorteren.</p> <p>De Bitter koos de langere maar veilige route 'achterom'. Deze route vermijd het Engelse Kanaal voert dan ten en westen van Ierland om ten noorden van Schotland naar de Noordzee af te buigen.</p> <p><strong>Slag bij Bergen</strong><br>Hij zocht zijn toevlucht in de neutrale haven van Bergen in Noorwegen. Daar lagen toen ca. 60 Nederlandse koopvaarders waaronder de VOC schepen.</p> <p>Een Engels eskader o.l.v. Thomas Teddiman schond de neutraliteit van de haven en vielen op 12 augustus 1665 aan. De Bitter wist de aanval af te slaan. Op 19 augustus kwam een hulpvloot onder De Ruiter aan en op 23 augustus verliet de vloot Bergen richting Nederland.</p> <p><strong>Vergaan</strong><br>Maar niet de Amstelland deze keerde terug naar Bergen. Pas in oktober vertrok ze weer naar Nederland en kwam op 25 oktober 1665 in het Amelandse gat in moeilijkheden.</p> <p>NA 1.04.02 (VOC) 237 Res K Amst 10-11-1665 scan 506 heeft enige verklaringen over de stranding in het Amelander Gat en het bergen van goederen, gedeeltelijk op Ameland.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/237/file/NL-HaNA_1.04.02_237_0503\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gijsbertsz., Theunis</td></tr><tr><th scope=\"row\">Lengte</th><td>142 Amsterdamse&nbsp;voet (40,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>33 Amsterdamse&nbsp;voet (9,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>700 ton (350 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/237/file/NL-HaNA_1.04.02_237_0503\">NA 1.04.02 (VOC) 237 scan 503 e.v.</a></li><li>Bruijn J.R. de, Gaastra F.S., Schöffer I.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/96433\">DAS 5523.1.</a></li><li>Dam, Pieter van.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=519&amp;accessor=toc&amp;source=1\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.1.1  480.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

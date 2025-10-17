@@ -1,0 +1,27 @@
+{
+  "id": "738",
+  "code": "canarie-vogel-2",
+  "name": "Kanarievogel",
+  "type": "wreck",
+  "lat": "51.3155070",
+  "lon": "2.1494752",
+  "location": "North Sea",
+  "firstdate": null,
+  "firstyear": "1672",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1672",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-01 19:29:36",
+  "modified_on": "2024-07-10 11:10:33",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Kanarievogel</strong></em> was een hoeker. Ze vertrok op 8 oktober 1672 uit Goeree.&nbsp;Twee dagen later werd ze veroverd door de Engelsen.(<a title=\"C-01_551\" href=\"https://cultureelerfgoed.info/mass/?file=00000222.jpg\" target=\"_blank\" rel=\"noopener\">1</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92315\">Details of voyage 1232.1 from Goeree.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000222.jpg\">NA 1.04.01.01. 551, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

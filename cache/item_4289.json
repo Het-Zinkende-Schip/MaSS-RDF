@@ -1,0 +1,27 @@
+{
+  "id": "4289",
+  "code": "raadhuis-van-haarlem",
+  "name": "Raadhuis van Haarlem",
+  "type": "wreck",
+  "lat": "54.9397246",
+  "lon": "3.6593526",
+  "location": "Noordzee, Doggersbank",
+  "firstdate": null,
+  "firstyear": "1693",
+  "firstyearend": null,
+  "lastdate": "1696-06-18",
+  "lastyear": "1696",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-06-21 14:01:39",
+  "modified_on": "2025-06-26 13:36:24",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het '<em>Raadhuis van Haarlem</em>' was een fregat gebouwd in Amsterdam in 1693.</p> <p>In het voorjaar van 1696 was Het Raadhuis onder commando van Rutger Bucking vlaggenschip van een smaldeel van vijf Nederlandse fregatten dat een konvooi koopvaarders begeleidde van de Sont en Noorwegen naar Nederland.</p> <p>Het konvooi werd opgewacht en aangevallen door een Frans eskader onder admiraal Jean Bart. Hij wist het Nederlandse smaldeel te overmeesteren en tot overgave te dwingen. Het nu weerloze konvooi stond op het punt in Franse handen te vallen . (La Ronci&egrave;re, 220)</p> <p>Het Raadhuis vocht ca. 3 uur tegen Bart. Toe ze werd ge&euml;nterd en overmeesterd. Bucking raakte zwaar gewond en overleed later.<br><a href=\"https://mass.cultureelerfgoed.nl/doggersbank-slag-1696\">(Zie de slag bij Doggersbank)</a></p> <p>In de slag bij Texel, twee jaar eerder was Bucking ook al betrokken in een gevecht met Jean Bart. Hij was toen commandeur van het fregat Zeerijp. Toen moest hij zich ook overgeven en belandde in gevangenschap.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1688 (<a title=\"DeJonge III,731\" href=\"https://cultureelerfgoed.info/mass/?file=00000294.pdf\" target=\"_blank\" rel=\"noopener\">De Jonge III,731</a>)<br>Bewapening: 64</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Bucking, Rutger</td></tr><tr><th scope=\"row\">Lengte</th><td>145 Amsterdamse&nbsp;voet (41,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>La Roncière, Charles de.<br /><a href=\"https://archive.org/details/histoiredelamari06laro/page/218/mode/2up\">Histoire de la marine française.</a></li><li>De Jonge,  J.C.<br /><a href=\"https://www.dbnl.org/arch/jong102gesc07_01/pag/jong102gesc07_01.pdf\">Geschiedenis van Het Nederlandsche Zeewezen, III, 500.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

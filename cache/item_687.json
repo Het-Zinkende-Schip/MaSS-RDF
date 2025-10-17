@@ -1,0 +1,27 @@
+{
+  "id": "687",
+  "code": "kleine-aeolus",
+  "name": "Kleine Aeolus",
+  "type": "wreck",
+  "lat": "-5.3336568",
+  "lon": "102.0701688",
+  "location": "Palua Enggano, Sumatra, Indonesië",
+  "firstdate": null,
+  "firstyear": "1613",
+  "firstyearend": null,
+  "lastdate": "1616-08-17",
+  "lastyear": "1616",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-16 11:32:16",
+  "modified_on": "2025-06-07 13:41:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Kleine Aeolus</em></strong> kwam in Indi&euml; aan op 31 oktober 1614. De Kleine Aeolus bleef in Azi&euml; dienst doen . Onderweg van Coromandel (India) liep ze op een rif bij Enggano West Sumatra op 17 augustus 1616. Een gedeelte van de lading kleden is aan land gebracht. Evenals de bemanning. Daar overleed de schipper, stuurman en 34 bemanningsleden van <em>enckele noot ende misere.<br></em><em>Het wrak werd in brand gestoken en ontplofte door eigen kruit.</em></p> <p>De lading bestond uit 427 pakken kleden uit India.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004417.png\" alt=\"landkaart met roze gebied in het midden\"> <div class=\"img-source\">NA_4.VEL_354</div> </figure> <p>Deel van Sumatra met eiland Engano terhoogt van zuidwest Sumatra.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: in Rotterdam 1613<br>Tonnage: 120 last&nbsp;<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91206\">Details of voyage 0168.1 from Maas to Bantam.</a></li><li>Colenbrander, H.T.<br /><a href=\"https://archive.org/details/janpieterszcoenb01coen/page/236/mode/2up\">Bescheiden Coen dl 1, 236.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

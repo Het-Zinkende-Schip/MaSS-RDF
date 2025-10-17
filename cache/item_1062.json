@@ -1,0 +1,27 @@
+{
+  "id": "1062",
+  "code": "juno-1771",
+  "name": "Juno",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1771",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1780",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-16 12:44:39",
+  "modified_on": "2025-04-01 11:35:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Juno werd gebouwd voor de VOC kamer Rotterdam. Het schip maakte 2 retourreizen .</p> <p>Tijdens haar derde reis naar Azi&euml; is De Juno op de Atlantischr Oceaan vermist.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Rotterdam, 1771<br>Lengte: 140<br>Tonnage: 425 last<br>Bemanning: 186<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hendriksz., Hubert Hendrik</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95424\">Details of voyage 4373.3 from Rammekens.</a></li><li><em>Scheepsboek Juno 1775 14047.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

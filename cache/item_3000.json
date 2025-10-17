@@ -1,0 +1,27 @@
+{
+  "id": "3000",
+  "code": "tasman-1913",
+  "name": "Tasman",
+  "type": "wreck",
+  "lat": "46.2790627",
+  "lon": "-13.5926849",
+  "location": "Atlantische Oceaan ",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": "1918-09-16",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Zwitserland",
+  "countrycode": "CH",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-18 12:55:04",
+  "modified_on": "2025-06-15 14:46:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Tasman</strong></em> werd in maart 1918 in Brisbane (AUS) door de Britten in beslag genomen.</p> <p>De Tasman was onderweg van London naar Calcutta met een lading stukgoederen. Ze werd op 21 september 1918 op de Atlantische Oceaan door de U 46 getorpedeerd en tot zinken gebracht.</p> <p>13 (merendeel Australische) bemanningsleden en de kapitein kwamen om. <a href=\"https://rmhistorical.com/DAPShowGraveFile.php?id=1712\">Sidney Thomas Newbery</a> was 1 van de slachtoffers</p> <p>De rest (114) kon zich redden in 5 reddingsboten. Ze werden 17 sept opgepikt door de USS Talbot en veilig aan land gebracht in Brest (F).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: The Shipping Controller (Federal Steam Nav. Co., Ltd.,), London (1918)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>392 voet (119,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>49 voet (14,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>5023 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Münching, L.L. (1981).<br /><em>De verliezen van de Nederlandse koopvaardij in de Eerste Wereldoorlog 1914-1918 p.48.</em><br />Haarlem, De Boer Maritiem.</li><li><a href=\"https://uboat.net/wwi/ships_hit/5915.html\">uboat.net U 46.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6417\">marhisdata id 6417.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

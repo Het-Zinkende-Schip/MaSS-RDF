@@ -1,0 +1,27 @@
+{
+  "id": "1572",
+  "code": "bark",
+  "name": "Bark",
+  "type": "wreck",
+  "lat": "52.6863727",
+  "lon": "4.4879150",
+  "location": "Noord Zee",
+  "firstdate": null,
+  "firstyear": "1666",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1692",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-26 21:27:31",
+  "modified_on": "2020-09-03 13:57:22",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Vergaan in 1692.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 24 stukken</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Vreugdenhil, A. (1938).<br /><em>Ships of the United Netherlands, 1648-1702.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

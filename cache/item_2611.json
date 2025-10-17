@@ -1,0 +1,27 @@
+{
+  "id": "2611",
+  "code": "cap-del-vol",
+  "name": "Cap del Vol",
+  "type": "wreck",
+  "lat": "42.3614222",
+  "lon": "3.1753917",
+  "location": "Port de la Selva (Cataluña), Spanje",
+  "firstdate": null,
+  "firstyear": "-15",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-10",
+  "lastyearend": null,
+  "country": "Spanje",
+  "countrycode": "ES",
+  "author": "Sergio José López Martín",
+  "created_on": "2021-06-29 13:43:19",
+  "modified_on": "2024-12-03 13:26:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Een scheepswrak dat bekend staat als <em>Cap del Vol</em> bevindt zich in de gemeente Port de la Selva, in Alt Empord&agrave; in Cataloni&euml;. Het werd aan het eind van de jaren '60 van de twintigste eeuw geplunderd door Duitse duikers. Zij namen een aanzienlijke hoeveelheid amfora's mee die zich waarschijnlijk in handen van priv&eacute; verzamelaars bevinden.</p> <p>Aan het eind van de jaren '70 groeven X. Nieto and F. Foerster het wrak gedeeltelijk op. Tijdens dit werk werden verscheidene karakteristieken van het wrak opgetekend, zoals een unieke manier om de spanten aan de huid te bevestigen. In 2011 besloot CASC (het Centrum voor Onderwaterarcheologie van Cataloni&euml;) om de opgraving van <em>Cap del Vol </em>te hervatten - het was slechts gedeeltelijk opgegraven - om meer kennis te verkrijgen over de bouwwijze.</p> <p>Het schip vervoerde wijn in Pascual 1 amfora's die gemaakt waren in Baetulo (bij het huidige Barcelona) en was vermoedelijk onderweg naar Narbonne in Frankrijk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Het wrak heeft binnen- en buitenbeplanking. Het schip had specifieke bouwkenmerken, waarschijnlijk door haar bouw rond Conventus Tarraconensis (in het Romeinse deel van oostelijk Spanje). De opgravingswerkzaamheden documenteerden een unieke manier om de spanten aan de huid te bevestigen, die geen overeenkomsten met andere vindplaatsen hadden. Vanaf 1991 werden een groep scheepswrakken in Frankrijk opnieuw bestudeerd die een specifieke manier hadden om de spanten aan de huid te bevestigen die bekend is als de zogenaamde 'internal laced technique' . Van deze groep scheepswrakken werd door Pomey vastgesteld dat ze specifiek bouwkundige kenmerken hadden en de <em>Cap del Vol</em> werd hier ook toe gerekend.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002771.png?modifiedon=1705654445\" alt=\"frames on the seabed\"><div class=\"img-source\">MAC-CASC</div><figcaption class=\"img-description\">Spanten op de zeebodem.</figcaption></figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>39 &frac14; voet (12 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>13 voet (4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Vivar Lombarte, Gustau; De Juan Fuertes, Carlos; Geli Mauri, Rut. (2013).<br /><a href=\"https://www.academia.edu/11300698/Cap_del_Vol_Un_producto_un_barco_y_un_comercio_del_Conventus_Tarraconensis_en_%C3%A9poca_de_Augusto\">Cap del Vol. Un producto, un barco y un comercio del Conventus Tarraconensis en época de Augusto.</a><br />I Congreso de Arqueología Náutica y Subacuática Española, I:  97-108. Ministerio de educación, cultura y deporte.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

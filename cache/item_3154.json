@@ -1,0 +1,27 @@
+{
+  "id": "3154",
+  "code": "betsy-and-sarah",
+  "name": "Betsy and Sarah",
+  "type": "wreck",
+  "lat": "-33.7684000",
+  "lon": "26.4863000",
+  "location": "West of Cannon Rocks, Eastern Cape, South Africa, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1837",
+  "firstyearend": null,
+  "lastdate": "1839-04-19",
+  "lastyear": "1839",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-16 00:40:13",
+  "modified_on": "2025-06-16 19:13:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het fregat <em><strong>Betsy en Sara</strong></em> was vanuit Batavia op weg naar Nederland met een lading suiker, arak, koffie en stukgoed. Het schip kreeg te maken met een zware storm en dreef naar <em>Bird Island</em>, kwam van daaruit weer vrij en dreef naar het vasteland. Helaas verdronken de kapitein en 18 bemanningsleden tijdens de schipbreuk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Werf De Zwarte Rave, Jan Knol, Amsterdam<br>Eigenaar: firma Trakranen &amp; Co., Amsterdam (Partenrederij)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>B. Blaauwpot</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>51</td></tr><tr><th scope=\"row\">Lengte</th><td>130 &frac12; voet (39,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>22 voet (6,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>660 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Bergingswerkzaamheden werden uitgevoerd door M Saunders in 1986 tot 1987. De locatie werd gelokaliseerd met een magnetometer. Er werd een groep van ongeveer 13 kanonnen en een groot anker gevonden, allemaal bij elkaar liggend.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li> La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stories and Archives.</a><br />SAHRA.</li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=9987\">marhisdata id 9987.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1252",
+  "code": "naarden",
+  "name": "Naarden",
+  "type": "wreck",
+  "lat": "16.2371345",
+  "lon": "-22.7425232",
+  "location": "Boa Vista, Kaapverdië",
+  "firstdate": null,
+  "firstyear": "1620",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1623",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-24 11:09:24",
+  "modified_on": "2025-04-12 18:27:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het VOC jacht Naarden vertrok voor haar tweede uitreis 20-1-1623 uit Texel.<br>Vermeld in uitreisboek :<em> int uitgaan op 't eiland Boa vista gebleven.gebleven&nbsp;</em><br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Ge&euml;quipeerd door VOC kamer Amsterdam.<a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/11353/file/NL-HaNA_1.04.02_11353_0006?eadID=1.04.02&amp;unitID=11353&amp;query=11353\">&sup1;</a><br>Niet op een lijst van timmeringen dus waarschijnlijk aangekocht in opdracht.<br><br>Tonnage:90 last (idem)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91332\">DAS 0294.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0037?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">NL-HaNA_1.04.02_4932_0037.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

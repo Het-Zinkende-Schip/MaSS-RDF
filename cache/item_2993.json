@@ -1,0 +1,27 @@
+{
+  "id": "2993",
+  "code": "merwede",
+  "name": "Merwede",
+  "type": "wreck",
+  "lat": "55.5474409",
+  "lon": "-1.4895601",
+  "location": "Beadnell, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1917",
+  "firstyearend": null,
+  "lastdate": "1918-01-26",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-15 08:46:28",
+  "modified_on": "2025-06-15 14:41:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>&nbsp;<strong><em>De Merwede</em></strong> werd in oktober 1917 opgeleverd en is slechtsa drie maanden in de vaart geweest. Haar eerste reis voerde van Rotterdam naar Leith (UK). Zer was op de terugreis op reis met een lading van 850 ton steenkolen, bestemd voor de Nederlandse Regering, toen op 26 januari 1918 om 06..00 uur in de ochtend op 5 mijl ten oosten van Longstone een hevige ontploffing plaatsvond.</p> <p>Het schip werd aan stuurboord bij Ruim I in het voorschip getroffen en zonk in zes minuten. Na een tijd in een van de sloepen te hebben doorgebracht werden alle 17 opvarenden uiteindelijk gered door de Britse bewapende trawler Patapiko en te Newcastle on Tyne aan land gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>&nbsp;Type: stoomschip<br>Gebouwd: J. &amp; A. van der Schuyt Scheepswerf en Machinefabriek, Papendrecht,</p> <p>Eigenaar: N.V. Scheepsexploitatie Maatschappij 'Navis', Sliedrecht</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Smit, A.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>17</td></tr><tr><th scope=\"row\">Lengte</th><td>180 voet (54,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>744 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4255\">marhisdata id 4255.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Merwede&amp;cql%5B%5D=%28date+_gte_+%2231-01-1918%22%29&amp;cql%5B%5D=%28date+_lte_+%2228-03-1918%22%29&amp;redirect=true&amp;sortfield=date&amp;page=10&amp;identifier=MMKB27:017873107:mpeg21:a00045&amp;resultsidentifier=MMK\">De avondpost 28-02-1918.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

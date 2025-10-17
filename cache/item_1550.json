@@ -1,0 +1,27 @@
+{
+  "id": "1550",
+  "code": "nigtevecht",
+  "name": "Nigtevecht",
+  "type": "wreck",
+  "lat": "52.2697761",
+  "lon": "5.0212508",
+  "location": "Nigtevecht, Nederland",
+  "firstdate": null,
+  "firstyear": "-700",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-600",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-19 18:17:25",
+  "modified_on": "2025-10-17 08:56:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De boomstamboot van '<em>Nigtevecht</em>' is in 1987 opgegraven door provinciaal-archeoloog van Utrecht Van Tent, R. Reinders en R. van Heeringen. De boomstamboot was gelegen op een dikke kleipakket met een laag plantenresten. Deze kleilaag bevond zich bovenop een pakket zand met humeuze lagen. Volgens Reinder en Van Heeringen is de boomstamboot dus achtergelaten &ldquo;langs de oever van een kreek die later is opgevuld met zand&rdquo;.</p> <p>De boomstamboot is gemaakt van eikenhout en een fragment van 8,5 meter lang en 100 centimeter breed is bewaard gebleven. Op basis van dendrochronologisch onderzoek van het eikenhout is vastgesteld dat deze dateert uit 2745&plusmn;20 BP. Het houtskoolmonster daarentegen dateert uit 2420&plusmn;25 BP. In andere woorden, de boomstamboot dateert mogelijk uit de 10e of 9e eeuw (late bronstijd/vroege IJzertijd) voor Christus.</p> <p>De conclusie van Reinders en Van Heeringen (1998, 82) was als volgt: &ldquo;Het is verleidelijk te veronderstellen dat mensen met de boomstamkano de Rijn zijn afgezakt en via de Vecht en het Oer IJ op weg waren naar Assendelft.</p> <p>Hoewel deze veronderstelling ondersteund wordt door het rivier gebonden verspreidingsgebied van de gevonden maalstenen, gaat het voorbij aan de interpretatie van de aard van de vindplaats.&nbsp;<br>We kunnen ook te maken hebben met een nederzetting waarvan de boomstamboot onderdeel uitmaakte&rdquo;.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Fragment van een boomstamboot van eikenhout.<br>De boomstamboot zelf kon niet worden geborgen: wel werden aardewerkscherven uit de Vroege IJzertijd die in de kano lagen, bewaard.</p> <p>8,5 m</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Reinders, H.R., &amp; R. van Heeringen,  (1995).<br /><em>Een ijzertijdboomstamboot te Nigtevecht. In R. Reinders, T. Fruithof en A. van Holk: Kleine houten vaartuigen. Inleidingen gehouden tijdens het achtste Glavimans symposion, Enkhuizen, 2 november 1995.</em></li><li><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-za4-cc9q\">DANS Data Station Archaeology.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

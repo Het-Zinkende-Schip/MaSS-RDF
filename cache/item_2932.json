@@ -1,0 +1,27 @@
+{
+  "id": "2932",
+  "code": "berendina-1909",
+  "name": "Berendina",
+  "type": "wreck",
+  "lat": "53.5337631",
+  "lon": "2.5167580",
+  "location": "Noordzee ",
+  "firstdate": null,
+  "firstyear": "1910",
+  "firstyearend": null,
+  "lastdate": "1916-10-20",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-31 14:36:44",
+  "modified_on": "2022-07-31 14:40:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Algemeen Handelsblad 06-02-1917: In zake den schoener <em><strong>Berendina</strong></em> die vermoedelijk op de reis van Blyth naar Corseuilles (in Frankrijk) welke reis den 20ste October 1916 werd aangevangen, met man en muis is vergaan, kan door het ontbreken van alle gegevens de oorzaak van de ramp niet worden vastgesteld. De vier opvarenden kwamen om het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Zichterman</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>4</td></tr><tr><th scope=\"row\">Lengte</th><td>101 &frac34; voet (31 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>21 &frac34; voet (6,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>8 &frac12; voet (2,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>137 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=903\">marhisdata.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

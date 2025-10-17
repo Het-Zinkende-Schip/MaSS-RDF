@@ -1,0 +1,26 @@
+{
+  "id": "656",
+  "code": "mataro-shipmodel",
+  "name": "Mataró shipmodel",
+  "type": "other",
+  "lat": "51.9151135",
+  "lon": "4.4817438",
+  "location": "Maritiem Museum, Rotterdam, Nederland",
+  "firstdate": null,
+  "firstyear": "1430",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1450",
+  "lastyearend": null,
+  "country": "Spanje",
+  "countrycode": "ES",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-08 10:15:08",
+  "modified_on": "2025-06-07 12:25:58",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The ship model of Matar&oacute; was discovered in 1929 in an antique gallery in New York. Because it turned out to be unsellable in the US, it came (back) to Europe, to Munich. The model was eventually purchased by van Beuningen and came on loan to the Maritime Museum Rotterdam collection. According to the antique dealer in America it was once set up (as a votive, ex voto for a safe voyage?) In a chapel at Matar&oacute; in Catalonia, Spain.</p> <p>Depending on the scale, the model for a real ship stands around 16-22 m long. Probably a two master. Equipped with a main mast with a straight sail and a smaller mast on the aft deck of Latin rigged (triangle sail). The ship had a load capacity of 50 to 150 tons.</p> <p>In front of and behind, a small elevation had a so-called castle. That was used in defense against pirates. The crow's nest in the main mast was also partly in defense.</p> <p>&nbsp;The model is the oldest 3-dimensional ship model of a late medieval ship in Europe. Hence also important as a source for ship historical research.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: The Matar&oacute; ship was a Cocca, a Mediterranean Iberian variant of the Northern European Kog.</p> <p>The cog was the trade ship between about 1250-1450 used by the Hanseatic cities. In the 14th century the Cog was taken, among other things, in Catalunia. (You can compare this a bit with the car industry nowadays, models and innovations are adopted and adapted). Local adjustments lead to the Coccha. (Important adjustments were the extra Latin triangular sail on a second mast. And the car lots (cold against each other) of the skin planks. In Northern Europe the skin planks were overlapped (overlapped as roof tiles).</p> <p>In the 2nd half of the 15th century, Iberian shipbuilders experimented intensively in sailing power and scaling up. Bigger ships means more cargo. The new armament with cannons also required a different construction of the hull. The cog and Coccas no longer met the requirements of the new age.</p></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Preserved on display in the Maritiem Museum (Maritime Museum) in Rotterdam.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>Maritime Museum Rotterdam.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

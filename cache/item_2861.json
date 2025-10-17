@@ -1,0 +1,27 @@
+{
+  "id": "2861",
+  "code": "rijnland-1915",
+  "name": "Rijnland",
+  "type": "wreck",
+  "lat": "52.7287519",
+  "lon": "3.6749264",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1905",
+  "firstyearend": null,
+  "lastdate": "1915-05-27",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-28 06:31:48",
+  "modified_on": "2025-07-17 10:51:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Rijnland verliet de haven van Ijmuiden 27 mei 1915. Er daarna nooit meer iets van het schip vernomen.</p> <p>De omgekomen stoker van de Rijnland werd opgevist door de Clyvia. Een ander vissersschip vond twee mijnen in de buurt. De man had brandwonden. Daardoor concludeerde men dat de Rijnland op een mijn was gelopen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003183.jpg\" alt=\"Het laatst werd het vaartuig gezien door den stoomtrawler Clyvia, die dezer dagen binnenkwam. Drie voorvallen maken nu de veronderstel-ling, dat de Rijnland Woensdag op een mijn is geloopen mogelijk. Ten eerste, dat nabij den trawler Thor, die in de nabijheid vischte van de Rijnland, een mijn ontplofte; ten tweede dat de trawler Zaanstroom 1, die ook bij de Rijnland, gevischt had, twee mijnen ophaalde en te IJmuiden aanbracht; ten derde dat het lijk van den stoker juist op Woensdag door den trawler Olyvią werd opgevischt, terwijl men nog korten tijd te voren samen had gevischt zonder dat het vermissen van den stoker was gerapporteerd, zooals bij bijzondere voorvallen onder zeevis- schers gebruikelijk is. Natuurlijk is een ketelontploffing niet uit-\"> <div class=\"img-source\">Delpher</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>wrecksite.eu.<br /><a href=\"https://www.wrecksite.eu/wreck.aspx?201362\">Rijnland FV.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=trawler+Rijnland&amp;coll=ddd&amp;sortfield=date&amp;page=2&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1915%7C&amp;identifier=MMCODA01:000155079:mpeg21:a0035&amp;resultsidentifier=MMCODA01:000155079:mpeg21:a0035&amp;row\">Nieuwe Apeldoornsche courant  05-06-1915.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

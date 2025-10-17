@@ -1,0 +1,27 @@
+{
+  "id": "1014",
+  "code": "bilderdijk",
+  "name": "Bilderdijk",
+  "type": "wreck",
+  "lat": "57.3565588",
+  "lon": "-20.3027322",
+  "location": "North Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1922",
+  "firstyearend": null,
+  "lastdate": "1940-10-19",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-06 11:22:26",
+  "modified_on": "2025-06-09 12:53:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De<strong><em>Bilderdijk</em> </strong>was een stoomschip<strong> </strong>behoorde toe aan de N.V. Holland Amerika Lijn te Rotterdam, vertrok, op 8 oktober 1940 in konvooi van Halifax naar Liverpool.</p> <p>Op zaterdag, 19 oktober, werd het schip rond 21:20 door een torpedo getroffen in ruim I aan stuurboordzijde, waarna het voorschip snel begon te zinken.</p> <p>Nadat de gezagvoerder ter plaatse een onderzoek had ingesteld en daarbij gebleken was, dat het schip niet meer te redden was, gaf hij order het schip te verlaten. De gehele bemanning werd ongeveer 20 minuten later, zonder dat iemand verwondingen had opgelopen, door een Brits marine-vaartuig opgepikt. Inmiddels was de <em>Bilderdijk</em> in de diepte verdwenen.</p> <p>Op 24 oktober 1940 werden de leden der bemanning te Methil aan land gezet.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Steam merchant<br>Tonnage: 6,856 tons<br>Built: C. van der Giessen &amp; Zonen Scheepswerven NV, Krimpen aan den IJssel, 1922<br>Owner: Holland Amerika Lijn, Rotterdam<br>Master: Munnik, J.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=972\">marhisdata id 972.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

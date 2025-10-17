@@ -1,0 +1,27 @@
+{
+  "id": "3182",
+  "code": "nederlandsche-vlag",
+  "name": "Nederlandsche Vlag",
+  "type": "wreck",
+  "lat": "-34.1860000",
+  "lon": "24.5726000",
+  "location": "Tsitsikamma Point/ Slang River, Eastern Cape, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1870-07-22",
+  "lastyear": "1870",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2024-02-09 14:29:07",
+  "modified_on": "2024-02-09 14:29:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The <strong><em>Nederlandsche Vlag</em></strong> wrecked 35 miles west of Cape St Franscis in a south-westerly gale. Sadly, the captain and 12 men drowned. However, not much more is known about this wreck.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>H Van der Broek</td></tr><tr><th scope=\"row\">Lengte</th><td>132 voet (40,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>24 &frac12; voet (7,5 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 &frac14; voet (5,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>George Lourens Kiers.<br /><a href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/George_Lourens_Kiers_-_Een_gestrand_barkschip_-_S.4069%28a%29_-_Het_Scheepvaartmuseum.jpg/640px-George_Lourens_Kiers_-_Een_gestrand_barkschip_-_S.4069%28a%29_-_Het_Scheepvaartmuseum.jpg\">Een Gestrand Barkschip.</a></li><li><em>SAHRA Database.</em></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

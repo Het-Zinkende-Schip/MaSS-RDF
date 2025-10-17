@@ -1,0 +1,16 @@
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+PREFIX schema: <https://schema.org/>
+
+CONSTRUCT {
+  ?ship schema:additionalType ?subtype ;
+     schema:discovered ?discovery .
+} WHERE {
+  SERVICE <x-sparql-anything:cache/list_nl.json> {
+    ?root xyz:id ?id .
+    OPTIONAL { ?root xyz:subtype ?subtype . }
+    OPTIONAL { ?root xyz:discovery ?discovery . }
+
+    BIND(IRI(CONCAT("https://mass.cultureelerfgoed.nl/id/", ?id)) AS ?ship)
+  }
+}
+

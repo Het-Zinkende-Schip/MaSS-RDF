@@ -1,0 +1,27 @@
+{
+  "id": "2919",
+  "code": "hestia",
+  "name": "Hestia",
+  "type": "wreck",
+  "lat": "52.1439803",
+  "lon": "3.3538847",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1917-03-31",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-13 09:28:03",
+  "modified_on": "2025-07-18 16:48:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis in ballast van Rotterdam naar London werd de HESTIA op 31 maart 1917 om 03.50 uur des nachts op 32 mijl ten westen van het lichtschip Maas beschoten door de Duitse onderzeeboot &lsquo;UB 23&rsquo;. Dit schieten hield aan en men kreeg van de onderzeeboot geen seinen om het schip te verlaten. De HESTIA werd tijdens de beschieting door de opvarenden verlaten. De &lsquo;UB 23&rsquo; vuurde vervolgens een torpedo af. Een hevige ontploffing vond plaats en de HESTIA begon snel te zinken. De stuurboordsloep, liggend langzij van de HESTIA met 14 bemanningsleden, werd door een granaat getroffen en vernield, waardoor 13 man het leven verloren en slechts een persoon bij daglicht kon worden gered. Bij het aanbreken van de dag was de HESTIA nog niet gezonken en de Duitse onderzeeboot begon weer te schieten totdat het schip op 31 maart 1917 zonk en verloren was.</p> <p>Van de 26 opvarenden hadden bovengenoemde 13 man het leven verloren, de overigen werden gered.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003249.jpg\" alt=\"tekst: De &bdquo;Hestia&quot;. Men meldt ons uit IJmuiden: Bij de tor-pedeering van het tankstoomschip Hestia&quot; zijn waarschijnlijk gedood of verdronken, doch in ieder geval vermist de stuurlieden Laf&egrave;vre, de Waard en Minderhoud, de eer-ste machinist Cupido, de heer van Rees, de assistent-machinist Karsyens en 7 Chineezen.\"> <div class=\"img-source\">Nieuwe Apeldoornsche courant 02-04-1917</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Gebr. Pot, Bolnes, Zuid-Holland, Netherlands<br>&nbsp;Eigenaar: N.V. Nederlandsch-Indische Tankstoomboot Maatschappij</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>26</td></tr><tr><th scope=\"row\">Tonnage</th><td>958 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2827\">marhisdata 2827.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

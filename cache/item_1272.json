@@ -1,0 +1,27 @@
+{
+  "id": "1272",
+  "code": "valk-1785",
+  "name": "Valk",
+  "type": "wreck",
+  "lat": "50.6610038",
+  "lon": "-1.5135727",
+  "location": "Yarmouth, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1785",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1791",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-31 14:54:12",
+  "modified_on": "2024-12-17 10:34:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Valk vertrok voor haar tweede uitreis naar Indie uit Texel 11 oktober 1790..</p> <p>Strandde 27 februari 1791 op de zandbanken bij Yarmouth</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: in Amsterdam, 1785 gekocht<br>Tonnage: 300 last<br>Complement: 75<br>Kapitein/Master: George Gottlieb Hebner</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Huygens ING.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95720\">DAS 4682.2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

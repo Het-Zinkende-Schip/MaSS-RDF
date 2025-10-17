@@ -1,0 +1,27 @@
+{
+  "id": "2113",
+  "code": "oh71",
+  "name": "OH71",
+  "type": "wreck",
+  "lat": "52.5708000",
+  "lon": "5.6642200",
+  "location": "Swifterbant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1875",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-01-30 12:41:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1962 is tijdens drainagewerkzaamheden op kavel H71 in Oostelijk Flevoland, aan de Tarpanweg, een scheepswrak aangetroffen. In hetzelfde jaar is door het voormalige Centrum voor Scheepsarcheologie een verkennend onderzoek uitgevoerd. Het betreft een scheepswrak van een platboomd karveel gebouwde praam met een lading puin of stadsvuil. Het schip is ernstig beschadigd door landbouwmachines en aangetast door de paalworm. De praam is 15,5 meter lang en 3,5 meter breed. Het schip is volledig uit eikenhout vervaardigd. De bewegering is niet helemaal tot bovenaan doorgetrokken, en is op verschillende plaatsen met grenenhout gerepareerd. Aan een van de boorden is een 2,1 meter lange zwaardklamp bevestigd van ongeveer 7,5 cm dik en 10 cm breed. Er zijn voornamelijk in het voor- en achterschip verschillende vondsten aangetroffen. De ijzeren haardplaten in het achterschip wijzen erop dat daar het woongedeelte is geweest. In het voorschip zijn diverse aanwijzingen gevonden dat daar de berging voor het gereedschap is geweest. Na het onderzoek en de documentatie is het schip verwijderd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een platboomd karveel gebouwde praam uit het midden van de negentiende eeuw, Swifterbant</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zuc-p9ta\">Opgravingsdocumentatie scheepswrak OH71.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

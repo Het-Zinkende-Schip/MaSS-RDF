@@ -1,0 +1,27 @@
+{
+  "id": "4159",
+  "code": "gaasterkerk",
+  "name": "Gaasterkerk",
+  "type": "wreck",
+  "lat": "-34.3340245",
+  "lon": "18.2696706",
+  "location": "Kaap de goede Hoop, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1922",
+  "firstyearend": null,
+  "lastdate": "1942-10-08",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2024-02-07 19:38:00",
+  "modified_on": "2025-06-16 20:41:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip <strong><em>Gaasterkerk</em></strong> was onderweg van Alexandri&euml; via Aden naar Kaapstad.</p> <p>Zo'n 15 mijl van Kaap de Goede Hoop werd ze op 8 Oktober 1942 om 3.52 door een torpedo van de Duitse U 68 ter hoogte van de machinekamer getroffen. Waardoor deze onmiddellijk vol liep en alle lichten uitgingen.<br>Om 3.57 uur hadden alle leden van de bemanning in de reddingboten plaats genomen en werd van het zinkende schip weg geroeid.</p> <p>Om 4.00 uur werd het achterschip van de <em>Gaasterkerk</em> door een tweede torpedo getroffen, waardoor de kruitkamer van de explodeerde en het gehele achterschip weg sloeg. (Het schip was bewapend met 1 4.7 inch kanon 2 20mm en 4 machine geweren)<br>Op 9 Oktober 1942 landde de bemanning veilig te Kaapstad.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd : in Oktober 1922 als <em>Gaasterdijk</em> voor NV Nederlandsche-Amerikaansche Stoomvaart Mij, Rotterdam</p> <p>&nbsp;In 1931 herdoopt in Gaasterkerk</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Maas , F.</td></tr><tr><th scope=\"row\">Lengte</th><td>465 &frac34; voet (142 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>58 &frac14; voet (17,8 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>31 &frac34; voet (9,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>8373 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2352\">marhisdata id 2352.</a></li><li><a href=\"https://uboat.net/allies/merchants/ship/2246.html\">Uboat.net U  68.</a></li><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 225.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

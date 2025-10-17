@@ -1,0 +1,27 @@
+{
+  "id": "4259",
+  "code": "makassar",
+  "name": "Makassar",
+  "type": "wreck",
+  "lat": "-2.5570588",
+  "lon": "107.0900533",
+  "location": "Banka selat, Indonesië",
+  "firstdate": null,
+  "firstyear": "1928",
+  "firstyearend": null,
+  "lastdate": "1942-02-15",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-03-13 13:04:14",
+  "modified_on": "2025-03-13 13:37:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De pakketboot Makassar was op weg van Rengat (Indragiri, Sumatra) naar Palembang in Straat Banka.</p> <p>In straat Banka werd het schip aangehouden door twee Japanse schepen, de kruiser YURA en de torpedobootjager ASAGIRI. Kapitein <a href=\"https://oorlogsgravenstichting.nl/personen/53973/gerard-johannes-groeneveld\">Gerard Groeneveld </a>beval zijn bemanning het schip te verlaten. Vervolgens stak hij het schip in brand waarbij hij zelf omkwam.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Groeneveld, Gerard</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>12</td></tr><tr><th scope=\"row\">Lengte</th><td>165 voet (50,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>537 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>marhisdata.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=3936\">schip id 3936.</a></li><li><a href=\"https://web.archive.org/web/20120210041801/http://www.theshipslist.com/ships/lines/kpm.htm\">Koninklijke Paketvaart Maatschappij 1888-1967.</a></li><li>E. Melis en W. van Wamel (1985).<br /><em>Nederlandse zeemansgraven Deel I,</em><br />pp 205.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

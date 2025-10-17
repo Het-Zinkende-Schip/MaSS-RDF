@@ -1,0 +1,27 @@
+{
+  "id": "1381",
+  "code": "vredejaar",
+  "name": "Vredejaar",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1769",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1771",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-09 16:07:23",
+  "modified_on": "2025-01-10 11:36:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Vredejaar vertrok 12 januari 1771 voor haar eerste uitreis van Texel naar Kanton in China. Van het schip is daarna nooit meer iets vernomen. Het is nooit aan de Kaap aangekomen.&nbsp;Het schip is vermist ergens op de Atlantische Oceaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf Enkhuizen, 1769</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Arie Arkebout</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95151\">DAS 4100.1.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

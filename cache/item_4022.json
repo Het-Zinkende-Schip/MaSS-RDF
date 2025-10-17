@@ -1,0 +1,27 @@
+{
+  "id": "4022",
+  "code": "od41",
+  "name": "OD41",
+  "type": "wreck",
+  "lat": "52.4545500",
+  "lon": "5.5085320",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1840",
+  "lastyearend": "1860",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:35:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1967 werd een verkenning verricht op kavel D41, waar een greppelfrees scheepshout had geraakt. Dit bleek deel uit te maken van een zo goed als compleet schip, waarvan de opboeisels en de voor- en achterplecht nog bijna helemaal aanwezig zijn. Ook zeilbalk en mastkoker waren te zien; de luiken waren echter verdwenen. Het wrak loopt voor en achter puntig toe. Het is 18 meter lang bij een breedte van 4,5 meter. De lading bestond uit schelpen en de hogere delen van het wrak staken boven het maaiveld uit. Het werd herverkend in 1994 en daarna weer toegedekt.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xka-9rwx\">Opgravingsdocumentatie scheepswrak OD41.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

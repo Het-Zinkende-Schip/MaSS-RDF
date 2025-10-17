@@ -1,0 +1,27 @@
+{
+  "id": "588",
+  "code": "donkervliet",
+  "name": "Donkervliet",
+  "type": "wreck",
+  "lat": "-6.5777490",
+  "lon": "120.4137546",
+  "location": "Pulau Selayar, Indonesië",
+  "firstdate": "1696-12-10",
+  "firstyear": "1696",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1718",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2018-01-04 00:00:00",
+  "modified_on": "2024-06-13 13:04:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Donkervliet</em></strong> werd in 1696 gebouwd voor de VOC kamer Zeeland. Vervolgens maakte ze zeven succesvolle retourreizen naar Azi&euml;. Haar laatste uitreis begon in Texel op 11 januari 1711 en was voor de VOC kamer Amsterdam. Ze bleef vervolgens dienst doen in Azi&euml;.</p> <p><strong>Laatste reis <br></strong>De Donkervliet vertrok op 10 april 1718 uit Makassar naar Batavia. De Donkervliet kwam in een storm terecht die op 29 april 1718 nabij Selayar werd gemeld. Door het schip De Oppas werden wrakstukken waargenomen van een Hollands schip waarvan men vermoedde dat het de Donkervliet was. Van dit schip of de bemanning is nooit meer iets vernomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93192\">DAS 2132.7.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000103.jpg\">NA 1.04.01.01. 551-37, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

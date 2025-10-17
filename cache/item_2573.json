@@ -1,0 +1,27 @@
+{
+  "id": "2573",
+  "code": "kayt",
+  "name": "Kayt",
+  "type": "wreck",
+  "lat": "54.4893330",
+  "lon": "10.2653330",
+  "location": "Kieler Bucht, Duitsland",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-26 15:29:21",
+  "modified_on": "2025-06-14 16:45:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Not much is known about this wreck, which was investigated by the Federal Maritime and Hydrographic Agency of Germany (BSH: <em>Bundesamt f&uuml;r Seeschifffahrt und Hydrographie</em>), recreational wreck-divers and scientific divers of the University of Kiel.</p> <p>A sample taken from a pine frame was dendrochronologically analysed and yielded a felling date of around/after 1913. The provenance appears to be the western Mecklenburg region.</p> <p>During World War II, KAYT was operated in the Kiel Bay to saveguard submarines and other navy vessels. An anti-air gun was mounted on KAYT's deck.</p> <p>Eventually, KAYT hit a sea mine and sunk. The wreck's midship section is in the most fragmentary state, which probably reflects the damage sustained by the mine explosion.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Several parts of the ship were observed like a radiator, a water-tank and several rudder-pintles.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>114 &frac34; voet (35 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>32 &frac34; voet (10 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck is in a state of advanced deterioration due to controlled demolitions and damage through trawling. Apparently, trawling nets have torn the forecastle into two parts. The stern section is much better preserved.</p> <p>The wreck is situated in a marine traffic separation scheme near Kiel lighthouse at a depth of 18-19 metres, leading to Kiel Canal, one of the world's most frequented waterways. Due to maritime traffic, diving at this site requires special permission.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Peter Klink (bubblewatcher.de).<br /><a href=\"http://www.bubblewatcher.de/kayt/\">Kayt.</a></li><li>Baehr, S. (1995).<br /><em>Wracktauchen in der Ostsee: westliche Ostsee und kleiner Belt.</em><br />Hamburg: Jahr-Verlag.</li><li>Huber, F. (2014).<br /><em>Unterwasserarchäologische, nicht-invasive Prospektions- und Dokumentationsverfahren in schwierigen maritimen und limnischen Gewässern (=Dissertation).</em><br />Christian-Albrechts-Universität zu Kiel.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

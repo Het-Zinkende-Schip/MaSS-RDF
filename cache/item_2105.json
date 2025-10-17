@@ -1,0 +1,27 @@
+{
+  "id": "2105",
+  "code": "zh9",
+  "name": "ZH9",
+  "type": "wreck",
+  "lat": "52.3875900",
+  "lon": "5.3603300",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:56:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het schip dat op kavel H9 in Zuidelijk Flevoland in 1979 is aangetroffen, is door het toenmalige Centrum voor Scheepsarcheologie in hetzelfde jaar verkend. Het wrak is onder lichte slagzij in de klei afgezonken, en verkeerde in zeer goede staat. Het betreft een zwaar karveel gebouwd vissersschip uit de zeventiende eeuw. Het waterschip was 18 meter lang en 6 meter breed. Bij de verkenning zijn verschillende vondsten aangetroffen waaronder een ijzeren haardplaats. Na de verkenning is het wrak in 1980 ingekuild. De vindplaats is ingedeeld in de categorie 'terrein met zeer hoge archeologische waarde'. Vlakbij kavel H9 zijn in de berm, vlakbij de kruising van de Dodaarsweg en de Ibisweg, enige tijd na het onderzoek fragmenten van een roer gevonden. De fragmenten zijn meegenomen voor nader onderzoek. Het vermoeden bestaat dat deze fragmenten afkomstig zijn van het ingekuilde vissersschip. De fragmenten van het roer zijn op schaal getekend en geconserveerd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een zwaargebouwd vissersschip uit de zeventiende eeuw, Zeewolde</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002035.jpg\" alt=\"Rode bakstenen die op een schot zijn vastgemaakt.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Rode bakstenen die op een schot zijn vastgemaakt.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002033.jpg\" alt=\"Deel van een opgegraven boot met houten planken\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">De proefsleuf geeft een kijk op het vergane vaartuig.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002034.jpg\" alt=\"Het onderste deel van een houten schip die uit de grond wordt getrokken\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het onderste deel van de voorsteven.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-23q-vbyt\">Opgravingsdocumentatie scheepswrak ZH9.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

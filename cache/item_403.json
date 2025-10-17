@@ -1,0 +1,26 @@
+{
+  "id": "403",
+  "code": "hummeren",
+  "name": "Hummeren",
+  "type": "wreck",
+  "lat": "56.4300000",
+  "lon": "12.6370000",
+  "location": "Torekov, Zweden",
+  "firstdate": null,
+  "firstyear": "1620",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": "Denemarken",
+  "countrycode": "DK",
+  "author": "Cor Born",
+  "created_on": "2013-04-19 00:00:00",
+  "modified_on": "2018-03-15 10:25:13",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The ship was set aground on the beach of Torekov - near the island of Hallands V&auml;der&ouml; (now Sweden, then Denmark) in december 1637. Shipbuilders from Bremerholm were sent to dismantle the vessel. Nowadays, there may be only few items left from the ship on the spot.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><h2>Type</h2> <div>Light frigate, built by the Scottish master shipbuilder David Balfour in the Royal shipyard of Bremerholm, Copenhagen. Contracted in 1623 (original contract is preserved). The ship was also represented on a shipbuilding drawing (also preserved).</div> <div>Length: 35 m. <p>Armament: 22 cannons.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000939.jpg\" alt=\"Original drawing, ca. 1623.\" width=\"1024\" height=\"370\" /><figcaption class=\"img-description\">Original drawing, ca. 1623.</figcaption></figure> </div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

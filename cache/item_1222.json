@@ -1,0 +1,27 @@
+{
+  "id": "1222",
+  "code": "sloten-17",
+  "name": "Sloten",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indian Ocean",
+  "firstdate": null,
+  "firstyear": "1704",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1711",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-18 11:54:16",
+  "modified_on": "2025-01-09 15:48:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Sloten </strong></em>is na haar vertrek van Ceylon voor haar tweede thuisreis vermist in de Indische Oceaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Amsterdam, 1704<br>Lengte: 130<br>Breedte:&nbsp;<br>Tonnage: 305<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/97133\">DAS 4246A.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,2 +1,18 @@
 # MaSS
-Conversie van Maritime Stepping Stones (MaSS) database (via API) naar RDF.
+
+Conversie van de Maritime Stepping Stones (MaSS) database via harvesting van https://mass.cultureelerfgoed.nl/api/ en omzetting naar RDF via SPARQL Anything.
+De JSON die via de API wordt geharvest wordt in verband met throttling opgeslagen in de cache directory.
+De mass.rq bevat the SPARQL CONSTRUCT die de JSON omzet naar RDF. Vanwege missende data worden ook vanuit de lijst via mass-list.rq triples gemaakt.
+Het script convert.sh voert alle bovengenoemde stappen uit en resulteert in het bestand all_mass.nt.
+
+# Requirements
+
+- Bash
+- Python 3
+- (SPARQL-Anything)[https://github.com/SPARQL-Anything/sparql.anything/releases]
+
+# Commentaar API data	
+
+- In https://mass.cultureelerfgoed.nl/api/v1/list/nl/ komen de properties `discovery` en `subtype` voor, die ontbreken in https://mass.cultureelerfgoed.nl/api/v1/get/nl/{id}. 
+- In de HTML GUI komen de properties `Status`, `Protectie`, `Processtap`, `Nationaliteit` en `Eigenaar` voor, die komen niet terug in de API!
+- Data van https://mass.cultureelerfgoed.nl/api/v1/references/ zijn niet verwerkt, lijkt te lopen via `backlinks` property (die url gebruikt i.p.v. numerieke code).

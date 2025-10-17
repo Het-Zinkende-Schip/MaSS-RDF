@@ -1,0 +1,27 @@
+{
+  "id": "952",
+  "code": "delfshaven-",
+  "name": "Delfshaven",
+  "type": "wreck",
+  "lat": "-6.0663850",
+  "lon": "106.7831268",
+  "location": "Teluk Jakarta, Indonesië",
+  "firstdate": null,
+  "firstyear": "1621",
+  "firstyearend": null,
+  "lastdate": "1633-11-12",
+  "lastyear": "1633",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-24 10:30:18",
+  "modified_on": "2024-06-13 12:04:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>'Het schip Delffshaeven hier ter reede (Batavia, Jacarta) leggende ende wel te passe van alle sijne voorschreven aengebragte goederen ende coopmanschappen uijtgesondert alleen 150220 lb gerafineerden salpeter ontlost sijnde is op den 12en November voorleden van sijn eijgen cruijt soo subietelyck en wel clackeloos opgesprongen, t&rsquo;eenemael aen flarden gesmeten [38] ende soodanich geruineert dat van het selve niet als gebroocken stengen rees luijcken ende spaenders ende thien geberchde stucken overgebleven sijn'.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Delfshaven in 1621</p> <p>Schipper: Meeuwes Sandersen<br>Laadvermogen: 200 last (400 ton)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>112 &frac34; voet (34,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/91395\">DAS 0357.3.</a></li><li><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/1107/file/NL-HaNA_1.04.02_1107_0143?query=1107&amp;start=0&amp;search-type=item_code\">NA 1.04.02 (VOC) 1107, II p. 37/38 [scan 143/4].</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

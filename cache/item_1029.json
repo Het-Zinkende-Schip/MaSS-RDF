@@ -1,0 +1,27 @@
+{
+  "id": "1029",
+  "code": "dolfijn-1766",
+  "name": "Dolfijn",
+  "type": "wreck",
+  "lat": "51.0254674",
+  "lon": "1.7894669",
+  "location": "Calais, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1738",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1766",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-08 12:55:34",
+  "modified_on": "2025-06-09 13:14:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "526",
+  "code": "landman",
+  "name": "Landman",
+  "type": "wreck",
+  "lat": "6.0289570",
+  "lon": "80.2219373",
+  "location": "Galle, Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1676",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1679",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2015-05-25 00:00:00",
+  "modified_on": "2025-08-04 16:17:29",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Landman</em> was een fluit en gebouwd in Amsterdam. Ze vertrok uit Texel op 14 december 1676 en kwam in Batavia aan op 4 oktober 1677. De Landman bleef dienst in het intra-Aziatisch handelsnetwerk van de VOC.</p> <p>De Landman is op 19 december 1679 verbrand in de haven van Galle<strong><a title=\"Lantman DG 1680 81\" href=\"https://cultureelerfgoed.info/mass/?file=00000042.pdf\">.2</a></strong><br>Ze was geladen met 1200 zakken salpeter en 800 zakken suiker.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>65</td></tr><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 Amsterdamse&nbsp;voet (7,9 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92420\">DAS 1337.1.</a></li><li>Haan F. de (1912).<br /><em>Dagregisters Batavia 1680.</em><br />pp 81.</li><li>Dam, Pieter van.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=521&amp;accessor=toc&amp;view=&amp;source=1\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.1.1  482.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

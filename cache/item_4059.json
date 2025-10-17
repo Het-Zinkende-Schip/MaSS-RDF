@@ -1,0 +1,27 @@
+{
+  "id": "4059",
+  "code": "nj76",
+  "name": "NJ76",
+  "type": "wreck",
+  "lat": "52.6661590",
+  "lon": "5.7308340",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": "2000",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:07:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1951 kwam de melding binnen dat er zich een scheepswrak bevond op kavel J76 in de Noordoostpolder. Nog datzelfde jaar is het onderzocht en werd duidelijk dat het om een vletje met een autoband ging, een zeer jonge scheepsrest dus. Het werd derhalve niet van belang geacht voor een gehele opgraving en er werd toestemming verleend om het scheepje uit te graven. Daarbij werden geen bijzondere vondsten gedaan, afgezien van een nummerplaatje met naar verluid de cijfers 862 (vondstnummer Z1952-VIII77). Dit plaatje bevindt zich thans echter niet meer in het Nationaal Scheepsarcheologisch Depot te Lelystad.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x4k-qtp4\">Opgravingsdocumentatie scheepswrak NJ76.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

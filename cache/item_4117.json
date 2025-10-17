@@ -1,0 +1,27 @@
+{
+  "id": "4117",
+  "code": "oq106",
+  "name": "OQ106",
+  "type": "wreck",
+  "lat": "52.4492300",
+  "lon": "5.7891490",
+  "location": "Biddinghuizen, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1850",
+  "lastyearend": "1950",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:34:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bij een verkenning op 29 mei 1957 werden op het latere kavel Q106 in Oostelijk Flevoland resten onderzocht van een scheepswrak. Het bleek te gaan om om een jong, gedeeltelijk met plaatijzer beslagen wrak van een vissersschip met nog aanwezige bun. Het werd voor verder onderzoek van geen belang geacht, maar wel werd een aantal vondsten geborgen zoals een jampot met knopen, een emaillen kachelketel en nog een aantal visserijbenodigdheden. Na een tweede verkenning in 1963 werd nogmaals bevestigd dat het inmiddels ontgraven wrak verwijderd kon worden. De kavel is inmiddels bebost.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xjq-8axe\">Opgravingsdocumentatie scheepswrak OQ106.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1398",
+  "code": "prins-maurits-1652",
+  "name": "Prins Maurits",
+  "type": "wreck",
+  "lat": "52.9512857",
+  "lon": "4.5296624",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1652-11-19",
+  "lastyear": "1652",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-21 11:04:20",
+  "modified_on": "2025-06-10 16:14:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Amsterdam directie schip. Eerst genoemd 1652. Gezonken door een navigatie fout.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Armament: 34</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>With, Nicolaes de</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>125</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>29 &frac34; voet (9,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><br /><em>NIMH scheepsdocumentatie nr 752.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

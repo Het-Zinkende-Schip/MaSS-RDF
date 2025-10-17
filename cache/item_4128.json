@@ -1,0 +1,27 @@
+{
+  "id": "4128",
+  "code": "nr1-ii",
+  "name": "NR1-II",
+  "type": "wreck",
+  "lat": "52.7778650",
+  "lon": "5.8461650",
+  "location": "Kuinre, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": "1600",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:44:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1948 kwam een melding binnen van een tweede wrak op kavel R1 in de Noordoostpolder. Samen met het eerdere wrak NR1-I en het later aangetroffen derde wrak NR1-III werd het in 1949 opgegraven door Gerrit (G.D.) van der Heide. Dit bracht een zwaar gehavend wrak van een platboomd, overnaads gebouwd schip zonder kiel of scheg aan het licht, vermoedelijk met staande stevens, zonder zeilwerk, dat op andere wijze dan door zeilen voortbewogen moet zijn geweest (gesleept of geboomd). Blijkens het onderzoek in de grondprofielen moet het wrak v&oacute;&oacute;r de 17de eeuw vergaan zijn. Net als in het eerste wrak werden ook hier weer diverse aardewerkresten aangetroffen, zelfs een klein grijs kogelpotje in het wrak, maar de kans werd groot geacht dat deze door inspoeling in het wrak waren geraakt.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zyd-y9t8\">Opgravingsdocumentatie scheepswrak NR1-II.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2356",
+  "code": "afrika-1673",
+  "name": "Afrika",
+  "type": "wreck",
+  "lat": "-34.6845365",
+  "lon": "46.6463639",
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1673",
+  "firstyearend": null,
+  "lastdate": "1684-04-25",
+  "lastyear": "1684",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-02 13:00:46",
+  "modified_on": "2025-05-27 10:23:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Afrika </strong></em>vertrok op 8-2-1684 van Batavia naar Nederland. Het was de tweede retour vloot, onder commando van Jorephas Vos. De vloot bestond uit de schepen Afrika, Wapen van Alkmaar, Ridderschap van Holland, Burcht van Leiden, Eiland Mauritius, Oostenburg en de Vrije Zee.</p> <p>In een hevige storm 300 mijl uit de kust van Afrika raakte het schip haar boegspriet en fokkenmast kwijt. Ze raakte lek en kon zelfs met pompen niet meer gered worden. De opvarenden werden met veel moeite door de overige schepen gered. De Afrika bleef nog drie dagen drijven en werd vervolgens in brand gestoken.<br><br><em>t wrack, daer noch 3. dagen naer &lsquo;tverlies van sijn ronthouten waren by geweest te verlaten, en in brant steeken, sijnde doenmaals naar haar gissinge ontrent 300. mijlen buijten de wal.</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Op VOC werf in Rotterdam, 1673</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Vos, Christoffel de</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>116</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Leenstra, M. , transcriptie.<br /><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/1404/file/NL-HaNA_1.04.02_1404_1257\">Missive van 21-5 van de Caap, ontvangen Batavia 26-7-1684.</a><br />NL-HaNA 1.04.02 1404, 1257.</li><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/96691\">DAS 5782.4.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

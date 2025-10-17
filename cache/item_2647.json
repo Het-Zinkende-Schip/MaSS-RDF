@@ -1,0 +1,27 @@
+{
+  "id": "2647",
+  "code": "wrakken-zeelandbrug",
+  "name": "Wrakken Zeelandbrug",
+  "type": "wreck",
+  "lat": "51.6082000",
+  "lon": "3.8666500",
+  "location": "Colijnsplaat, Oosterschelde, Nederland",
+  "firstdate": null,
+  "firstyear": "1857",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Liselore Muis",
+  "created_on": "2021-09-20 14:17:01",
+  "modified_on": "2025-06-14 18:18:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Een scheepsramp op de Oosterschelde...</p> <p>Het onderzoek van Dhr. Sterkendries en zijn team begon aan de hand van een schilderijtje uit het museum Zierikzee waarop een scheepsramp staat afgebeeld.</p> <p>Door de aanwezigheid van de vierkante toren van Zierikzee op het schilderij kon zo de duiklocatie van de ramp bepaald worden, niet ver weg van de Zeelandbrug. Met behulp van eigen Sidescansonar apparatuur zijn ze de locatie gaan zoeken. Door de sonaropnamen met een Multibeamopname van de RCE te vergelijken werd vastgesteld dat minstens twee wrakken op de locatie aanwezig waren, die aan de hand van gevonden artefacten gedateerd kunnen worden in de periode 1857-1900.</p> <p>Tijdens het onderwateronderzoek zijn duidelijke structuren van een wrak of meerdere wrakken moeilijk te onderscheiden. Wel is duidelijk dat er meerdere wrakken uit verschillende periodes liggen. Door de jaren heen zijn er verschillende wrakken op deze locatie vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p><iframe src=\"https://www.youtube-nocookie.com/embed/IDdTwIhNFuU\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2719",
+  "code": "vejby",
+  "name": "Vejby",
+  "type": "wreck",
+  "lat": "56.0847573",
+  "lon": "12.1199799",
+  "location": "Vejby Strand, Denemarken",
+  "firstdate": null,
+  "firstyear": "1372",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1377",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-11-30 20:46:53",
+  "modified_on": "2025-06-14 20:50:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The wrecksite was discovered in 1975 by an apnoe diver who reported his find to the Danish National Museum. The wrecksite contained a treasure of English gold nobles, so the initial survey and ensuing underwater excavations had to be carried out under great safety precautions and in secrecy. The campaigns were directed by Dr. Ole Crumlin-Pedersen.</p> <p>The wrecksite's artefact assemblage is particularly noteworthy. Aside from the aforementioned English gold nobles (109 pieces) minted between 1351-1377, there were also silver and copper coins from Flanders and the Teutonic Order on board. Other artefact categories were ceramics, cordage, leather products, metal fittings, textiles, wooden objects, and faunal remains.</p> <p>The date and origin was in part established by the coins placed into the mast-step as talisman (a Prussian hollow-penny and Toruń <em>halbschoter</em>, minted between 1360-1365). The dendrochronological analysis yielded a <em>terminus post quem</em> of 1372 and a provenance in the Gdansk (Danzig) area, which was one of the most important towns from were timber was transshipped and exported. The coins in the mast-step gave the decisive cue to dismiss the possibility of import-timber though and to conclude that this must have been a ship built in the same general area from which the timber was sourced (i.e. what had been the territory of the Teutonic Order).</p> <p>The timber-documentation and find assemblage was later studied and contextualised by Mikkel Thomsen who published the research results in his PhD thesis.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The wreck was identfied as a \"cog\", as it matched all features defined for the Bremen-type, like the straight-raking stem and stern posts, stem hooks, lapstrake planks for the sides fastened with double-bend nails, flush-laid bottom planks, the use of moss as caulking material, held in place with laths and <em>sintels</em> (caulking clamps).</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The ship-timbers were relocated to the Danish National Museum&rsquo;s long-term storage for waterlogged timber. A conservation treatment for later display was considered too costly at the time.</p> <p>Most of the artefacts have undergone conservation treatment and are curated by the Danish National Museum in Copenhagen.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Bonde, N., Jensen, J. S. (1995).<br /><em>The dating of a Hanseatic cog-find in Denmark. What coins and tree rings can reveal in maritime archaeology.</em><br />pp 103-122.<br />Roskilde.</li><li>Thomsen, M. H. (2002).<br /><em>The Shipwreck from Vejby Strand (= doctoral dissertation).</em><br />Aarhus Universitet.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

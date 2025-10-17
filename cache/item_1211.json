@@ -1,0 +1,27 @@
+{
+  "id": "1211",
+  "code": "moerkapelle",
+  "name": "Moerkapelle",
+  "type": "wreck",
+  "lat": "-2.3586961",
+  "lon": "105.0671139",
+  "location": "Palembang, Indonesië",
+  "firstdate": null,
+  "firstyear": "1684",
+  "firstyearend": null,
+  "lastdate": "1703-08-09",
+  "lastyear": "1703",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-13 15:38:07",
+  "modified_on": "2024-11-19 19:10:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>Moerkapelle</em> is op een zandplaat gelopen in de mond van de Musi rivier (voormalige Palembang) op Sumatra. De lading werd er uitgehaald . Het gebarsten wrak moest worden achtergelaten.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Jacht, Pinas<br>Gebouwd: VOC-werf in Rotterdam, 1684<br>Lengte: 135 voet<br>Breedte: 35 voet<br><br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=256&amp;accessor=search_in_text&amp;source=6&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Generale missiven Deel 6, 241.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

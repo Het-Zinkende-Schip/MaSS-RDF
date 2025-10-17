@@ -1,0 +1,27 @@
+{
+  "id": "2895",
+  "code": "mecklenburg-1909",
+  "name": "Mecklenburg",
+  "type": "wreck",
+  "lat": "51.6750951",
+  "lon": "1.6211161",
+  "location": "Galloper Noordzee, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1909",
+  "firstyearend": null,
+  "lastdate": "1916-02-27",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-23 11:30:44",
+  "modified_on": "2025-06-15 11:52:57",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het passagiersschip<em><strong> ss. Mecklenburg</strong></em> was op weg van Tilbury naar Vlissingen. Ze liep bij het lichtschip 'Galloper' op een door de Duitse onderzeeboot <em><strong>UC 7</strong></em> gelegde mijn en zonkt.</p> <p>Binnen een maand verloor de SMZ maar liefst twee schepen. Aan boord van de 'Mecklenburg' bevonden zich 49 passagiers en 75 bemanningsleden. Ze werden allen gered door drie schepen die in de buurt voeren; het ss. 'Westerdijk' van de HAL, de 'Prins der Nederlanden' van de KWIM en de 'Samarinda' van de Rotterdamsche Lloyd.</p> <p>Ze liep om 11.46 uur bij het lichtschip Galloper op een mijn en zonk binnen een half uur.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>&nbsp;Gebouwd: Fairfield Shipbuilding &amp; Engineering Company Ltd., Govan, Glasgow</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Oderwald, J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>124</td></tr><tr><th scope=\"row\">Lengte</th><td>349 &frac34; voet (106,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>42 &frac34; voet (13 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>16 &frac12; voet (5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2885 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4170\">Stichting Maritieme Historische Data.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

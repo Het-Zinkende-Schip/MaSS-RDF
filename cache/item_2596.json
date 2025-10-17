@@ -1,0 +1,27 @@
+{
+  "id": "2596",
+  "code": "katwijk-1630",
+  "name": "Katwijk",
+  "type": "wreck",
+  "lat": "23.6460919",
+  "lon": "117.2855976",
+  "location": "Yuanquiang, China",
+  "firstdate": null,
+  "firstyear": "1630",
+  "firstyearend": null,
+  "lastdate": "1633-10-06",
+  "lastyear": "1633",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-06-04 16:27:26",
+  "modified_on": "2025-06-14 17:01:35",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Gestrand na storm op de kust van China op 6 oktober 1633.</p> <p>Het jacht maakte deel uit van een eskader onder gouverneur Putmans van Taiwan om de baai van Xiamen te blokkeren. Ze vertrokken 9 juli 1633 uit Taiwan.*</p> <p>12 juli werd door Putmans een deel van de Chinese vloot die deels op land was getrokken bij Amoy vernietigd.</p> <p>Op 6 oktober lagen de schepen bij het eiland Gosu toen een storm het eskader teisterde. De Katwijk en Bovenkarspel spilden van hun ankers en stranden op de kust van het eiland. Van de Katwijk werd de lading en 16 kanonnen geborgen voordat het schip op 10 oktober in brand werd gestoken.<a href=\"https://resources.huygens.knaw.nl/retroboeken/taiwan/#page=153&amp;accessor=search_in_text&amp;source=1&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Ftaiwan%2Fsearch_in_text%2Findex_html%3Fpage%3D153%26source%3D1%26id%3Dsearch_in_text&amp;size=971\">&sup1;</a></p> <p class=\"note\">* [...] ende sullen het schip Middelburch, de jachten Texcel, Weesp, Couckercke, Catwijck, Zeeburch en Salm, Kemphaen met de joncque Tancoya naar de rivier Chincheo ende Aimoy vertrecken omme 't vaartuigen aldaar van gelijcken te devaliseeren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>&nbsp;Gebouwd: Amsterdam 1630</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>70</td></tr><tr><th scope=\"row\">Tonnage</th><td>100 ton (50 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91441\">DAS 0403.1.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/taiwan/#page=153&amp;accessor=toc&amp;source=1\">Dagregister Zeelandia Deel I, p. 133, 134.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

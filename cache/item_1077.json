@@ -1,0 +1,27 @@
+{
+  "id": "1077",
+  "code": "griffioen-1663",
+  "name": "Griffioen",
+  "type": "wreck",
+  "lat": "-6.0352509",
+  "lon": "106.7363398",
+  "location": "Pulau Onrust, Indonesië",
+  "firstdate": null,
+  "firstyear": "1647",
+  "firstyearend": null,
+  "lastdate": "1663-11-16",
+  "lastyear": "1663",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-21 16:37:21",
+  "modified_on": "2025-06-09 15:56:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In mei 1647 vertrok <em><strong>D</strong><strong>e Griffioen</strong></em> uit Texel naar Azi&euml;. Het schip werd ingezet op inter-Aziatische routes.</p> <p>De Griffioen is uiteindelijk afgezonken aan het eiland Onrust nadat het vaartuig daar enige tijd als \"timmerschip en onderlegger\" was gebruikt.*</p> <p>Het vaartuig is in 1646 gekocht door de VOC kamer Amsterdam. De tonnage 280 last wordt een aantal keren vermeld voor het jacht de Griffioen in de navale machten.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004259.jpg\" alt=\"Abraham Stork (1699)\"> <div class=\"img-source\">Rijksmuseum, Amsterdam. SK-A-739</div> </figure> <p>Het eilandje Onrust in de baai van Djakarta was door de VOC ingericht als onderhoud- en reparatiewerf. Schilderij Abraham Stork ca. 1699</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Tonnage: 100-280 last</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91796\">DAS 0679.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0080?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">NL-HaNA_1.04.02_4932_0080.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7612/file/NL-HaNA_1.04.02_7612_0849?eadID=1.04.02&amp;unitID=7612&amp;query=7612\">NL-HaNA_1.04.02_7612_0849.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

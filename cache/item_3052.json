@@ -1,0 +1,27 @@
+{
+  "id": "3052",
+  "code": "immingham",
+  "name": "Immingham",
+  "type": "wreck",
+  "lat": "52.8735246",
+  "lon": "4.6485280",
+  "location": "Callantsoog, Nederland",
+  "firstdate": null,
+  "firstyear": "1936",
+  "firstyearend": null,
+  "lastdate": "1939-12-10",
+  "lastyear": "1939",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-02-11 09:31:37",
+  "modified_on": "2025-06-15 20:52:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Immingham</strong></em> vertrok op 8 december uit het Schotse Goole met een lading steenkool, bestemming Harlingen. Op 10 december in de ochtend liep ze - op twee mijl ten noorden van Callandsoog - in dichte mist op een mijn. Het schip ging verloren. Vijf opvarenden konden zich met de sloep redden. Twee matrozen belanden i zee maar werden door een marine verkenningsvliegtuig gezien en gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Scheepswerf v/h. Jan Smit Czn., Alblasserdam<br>Eigenaar: Internationale Kustvaart Maatschappij N.V., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Groot de</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>7</td></tr><tr><th scope=\"row\">Lengte</th><td>168 &frac34; voet (51,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>25 &frac14; voet (7,7 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>11 &frac34; voet (3,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>398 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=3015\">marhisdata id 3015.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

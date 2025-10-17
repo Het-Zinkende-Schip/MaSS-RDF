@@ -1,0 +1,27 @@
+{
+  "id": "2988",
+  "code": "maria-adriana-1900",
+  "name": "Maria Adriana",
+  "type": "wreck",
+  "lat": "50.0834395",
+  "lon": "-2.4273501",
+  "location": "English Channel",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": "1917-02-25",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-11 10:02:20",
+  "modified_on": "2022-09-11 10:39:35",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De tjalk <em><strong>Maria Adriana was onderweg </strong></em>van Le Havre naar Teignmouth om daar pijpaarde te laden voor Rotterdam. Ze werd in het Engelse Kanaal door de Duitse onderzee&euml;r UB 40 aangehouden en met bommen tot zinken gebracht. <br>De bemanning ging in de scheepsboot en werd door de onderzee&euml;r op sleeptouw genomen en bij Kaap Antifer losgegooid. Ze kwamen na 5 uur in Fecamp aan land.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Naam: Ze werd door de eerste eigenaar Agathe gedoopt. In 1906 werd ze verkocht en hernoemd <em><strong>Margaretha. </strong></em>In 1914 kreeg ze de naam Maria Adriana.<br>Gebouwd: Scheepswerf Kornelis Hortsing, De Poffert (Oostwold)<br>Laatste eigenaar: Tamme Tammes, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan Pieter Klugkist</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>4</td></tr><tr><th scope=\"row\">Tonnage</th><td>88 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=109\">marhisdata.</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/3917.html\">uboat.net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

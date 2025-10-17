@@ -1,0 +1,27 @@
+{
+  "id": "1185",
+  "code": "valkenbos",
+  "name": "Valkenbos",
+  "type": "wreck",
+  "lat": "33.1626402",
+  "lon": "126.7890608",
+  "location": "Jeju, Zuid-Korea",
+  "firstdate": null,
+  "firstyear": "1719",
+  "firstyearend": null,
+  "lastdate": "1722-08-14",
+  "lastyear": "1722",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-03 12:19:30",
+  "modified_on": "2025-06-10 11:31:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Valkenbosch was een VOC schip gebouwd in Rotterdam.</p> <p>De Valkenbos en Hillegonda vertrokken samen van Batavia naar Japan 19-6-1722.<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=630&amp;accessor=search_in_text&amp;source=7&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;view=\">&sup1;</a></p> <p>Aan boord van de Valkenbos was het nieuwe opperhoofd Joannes van Baten. Tot Kaap Nombo voer de Hillegonda samen met de Valkenbos; een hevige storm scheidde beide schepen. De schipper van de Hillegonda vreesde dat de Valkenbos vergaan was bij Quelpart Eiland (Jeju, Korea).*</p> <p>De Hillegonda kwam in Decima aan 28 augustus.</p> <p class=\"note\">*) In 1653 strandde het VOC schip De <a href=\"https://mass.cultureelerfgoed.nl/sperwer\">Sperwer</a> op Jeju. Hendrik Hamel gaf het de naam Quelpart of Quelpaert.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>gebouwd in 1719 op de VOC-werf in Rotterdam<br>Lengte: 145 voet<br>Laadvermogen: 400 last (800 ton)<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93470\">DAS 2422.1.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=653&amp;accessor=search_in_text&amp;source=7&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Generale missiven Deel 7, 640.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

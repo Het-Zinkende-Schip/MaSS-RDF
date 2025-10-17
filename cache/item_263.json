@@ -1,0 +1,27 @@
+{
+  "id": "263",
+  "code": "yassi-ada-wreck-1",
+  "name": "Yassi Ada Byzantine wreck",
+  "type": "wreck",
+  "lat": "40.8670000",
+  "lon": "28.9250000",
+  "location": "Yassi Ada, Turkije",
+  "firstdate": null,
+  "firstyear": "600",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "625",
+  "lastyearend": null,
+  "country": "Turkije",
+  "countrycode": "TR",
+  "author": "Will Brouwers",
+  "created_on": "2011-04-03 00:00:00",
+  "modified_on": "2024-04-06 11:16:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Ontdekking</h2> <p>Dit Byzantijnse wrak werd in 1958 gemeld aan de journalist Peter Throckmorton door een sponsduiker uit Bodrum. Het werd tussen 1961 en 1964 opgegraven door een team onder leiding van George Bass, die toen voor de Universiteit van Pennsylvania werkte. Het wrak bevindt zich bij het eiland Yassıada, een klein Turks eiland dat een reputatie als schepenkerkhof heeft door de soms moeilijke vaaromstandigheden in de omgeving. Het bleek te gaan om een wrak van een Byzantijns schip dat een grote hoeveelheid informatie over de 7e eeuw n.Chr. bevatte.</p> <h2>Vondsten en lading</h2> <p>Een kast bij de kombuis bevatte waardevolle goederen: gouden en koperen munten en een aantal artefacten zoals gereedschappen, lampen en gewichten voor een weegschaal. Er bevond zich ook een balans in de kast waar de naam Georgios ingegraveerd was, die waarschijnlijk toebehoorde aan de kapitein/priester van het schip.</p> <p>De lading van het schip bestond uit ca. 900 amforen die aan de binnenkant met pek bedekt waren en wijn vervoerden. Op sommige van deze stond graffiti of markeringen die aangaven dat ze eerder gebruikt waren voor het opslaan van olijven en linzen, wat dus suggereert dat ze hergebruikt waren.</p> <p>Een reconstructie van het schip werd later gemaakt door het Bodrum Museum voor Onderwaterarcheologie.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004162.jpg\" alt=\"(partial) reconstruction of the Yassiada shipwreck from Byzantine times (7th c.), St. Peter's castle; Bodrum, Turkey\"><div class=\"img-source\">Georges Jansoone/Wikimedia Commons</div><figcaption class=\"img-description\">Een reconstructie van het Byzantijnse wrak in het Bodrum Museum.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Byzantijns koopvaardijschip.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000477.jpg\" alt=\"Artist immpression of the ship's construction.\"><div class=\"img-source\">G. F. Bass/H.F. van Doorninck</div><figcaption class=\"img-description\">Een impressie van de bouw van het schip.</figcaption></figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>62 &frac14; voet (19 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak ligt op een diepte van rond de 32 tot 39 meter. Tijdens de opgravingen werd een opnamesysteem gebruikt dat details over de bouwwijze van het wrak gaf wat er later voor zorgde dat er een gehele reconstructie van het schip gemaakt kon worden. In totaal werden in dit gebied drie wrakken opgegraven en dit wrak werd door de onderzoekers ook Yassi Ada 1 genoemd.</p> <p>Het bleek dat het schip anders gebouwd was dan voorgaande Griekse en Romeinse schepen. Het was groffer gebouwd dan in voorgaande tijden, wat erop wijst dat de bouwers voor kostenbesparing in plaats van schoonheid gekozen hebben. Andere verschillen met eerdere bouwtradities zijn de kleinere pen-gat verbindingen. Dit houdt in dat de sterkte van de romp moet komen uit de spanten en niet uit de beplanking. Het lijkt erop dat het schip gebouwd is gebruik makend van een mengeling van de romp-eerst en spanten-eerst methodes, wat het op een belangrijk overgangspunt in de ontwikkeling van de scheepsbouwkunst in de Middellandse Zee plaatst. Nog een uniek kenmerk dat in dit wrak gevonden werd, was het dak van de kombuis, dat dakpannen en een schoorsteen had. In deze kookruimte werden waterkruiken, ketels, potten en ander kookgerei gevonden, naast servies.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004163.jpg\" alt=\"Divers lifting amphorae\"><div class=\"img-source\">Institute of Nautical Archaeology</div><figcaption class=\"img-description\">Duikers hijsen amforen op tijdens de opgravingen.</figcaption></figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Institute of Nautical Archaeology.<br /><a href=\"https://nauticalarch.org/projects/yassiada-byzantine-shipwreck-excavation/\">Yassıada Roman Shipwreck Excavation.</a></li><li>Van Doorninck, Frederick (2005).<br /><em>&quot;The Ship of Georgios, Priest and Sea Captain: Yassýada, Turkey,&quot; in &quot;Beneath the Seven Seas,&quot; edited by George F. Bass, pp. 92-99.</em><br />New York and London.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

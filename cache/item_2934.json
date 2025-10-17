@@ -1,0 +1,27 @@
+{
+  "id": "2934",
+  "code": "bestevaer",
+  "name": "Bestevaer",
+  "type": "wreck",
+  "lat": "51.9552999",
+  "lon": "3.6804550",
+  "location": "Hoek van Holland, 6 nm van , Nederland",
+  "firstdate": null,
+  "firstyear": "1879",
+  "firstyearend": null,
+  "lastdate": "1917-07-04",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-01 10:12:55",
+  "modified_on": "2025-06-15 14:07:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip <em><strong>Bestevaer</strong></em> Op reis met een lading stukgoederen van London naar Rotterdam is de Bestevaer op 4 juli 1917 des nachts te 2.00 uur op 6 mijl ten westen van Hoek van Holland door een hevige explosie in het achterschip getroffen en begon zo snel te zinken, dat door het zuigen van het zinkende schip de bakboordsloep beklemd raakte en de stuurboordsloep omsloeg.</p> <p>Na enige uren in het water aan de stuurboordsloep te hebben gehangen werden negen man gered door de <em><strong>SCH 482</strong></em>&rsquo;, terwijl &eacute;&eacute;n man, die zich drijvende wist te houden, na 12 uur werd gered door de GO 12.</p> <p>Slachtoffers<br>Van de 18 opvarenden verloren 8, waaronder de gezagvoerder, het leven. De Bestevaer was getorpedeerd door de Duitse onderzeeer UC 21.</p> <p>De oorspronkelijke gezagvoerder Geertsema had verzocht deze reis aan land te mogen blijven. Tijdelijk gezagtvoerder in zijn plaats werd eerste stuurman Kok.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Sir James Laing, Sunderland,<br>Eigenaar: N.V. Stoomvaart Maatschappij Bestevaer</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kok</td></tr><tr><th scope=\"row\">Lengte</th><td>224 &frac34; voet (68,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>32 &frac14; voet (9,8 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>17 &frac12; voet (5,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1044 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=940\">marhisdata.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Bestevaer&amp;facets%5Btype%5D%5B%5D=artikel&amp;page=2&amp;sortfield=date&amp;cql%5B%5D=%28date+_gte_+%2207-07-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2201-08-1917%22%29&amp;coll=ddd&amp;redirect=true&amp;identifier=MMKB19:000167113:mpe\">Dagblad van Zuid-Holland en 's-Gravenhage  07-07-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

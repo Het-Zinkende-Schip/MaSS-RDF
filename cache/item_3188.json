@@ -1,0 +1,27 @@
+{
+  "id": "3188",
+  "code": "astrea-2",
+  "name": "Astrea",
+  "type": "wreck",
+  "lat": "29.0547619",
+  "lon": "-65.3907516",
+  "location": "Atlantische oceaan",
+  "firstdate": null,
+  "firstyear": "1921",
+  "firstyearend": null,
+  "lastdate": "1942-03-06",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-11-13 14:09:56",
+  "modified_on": "2023-11-13 14:22:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op weg van Trinidad naar New York, onder kapitein W. v.d. Heuvel, op de Atlantische Oceaan (op positie 29.12&deg; N / 64.29&deg; W) door de Italiaanse onderzeeboot '<a href=\"https://en.wikipedia.org/wiki/Italian_submarine_Enrico_Tazzoli_(1935)\">Enrico Tazzoli'</a> met geschutsvuur tot zinken gebracht. Alle opvarenden konden worden gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Lobithsche Scheepsbouw Maatschappij v/h Gebrs. Bodewes,</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>W. v.d. Heuvel</td></tr><tr><th scope=\"row\">Tonnage</th><td>1406 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=660\">marhisdata id 660.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1008",
+  "code": "stad-schiedam",
+  "name": "Stad Schiedam",
+  "type": "wreck",
+  "lat": "45.3511153",
+  "lon": "-30.1816385",
+  "location": "Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1940-09-16",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-04 16:05:22",
+  "modified_on": "2023-09-16 09:19:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip <em><strong>Stad Schiedam</strong></em>&nbsp;vertrok 13 September 1940 van Bermuda naar Halifax. De reis werd zonder escorte ondernomen. Op 16 September werd de Stad Schiedam door slecht weer genoodzaakt de machine te stoppen. Diezelfde dag werden een hevige explosie en enkele lichtere explosies in luik 3 waargenomen en in 5 minuten zonk het schip. 20 bemanningsleden kwamen om. Een gedeelte van de bemanning redde zich op vlotten. Na 5 dagen rondgezwalkt te hebben, werden de schipbreukelingen door het schip de <em>White Crest</em> opgepikt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type:Stoomschip<br>Eigenaar: N.V. Halcyon Lijn te Rotterdam<br>Dimensions: 415.0 x 55.5 x 26.6 Feet <br>Tonnage: 5918.00 Gross tonnage</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=6146\">Stad Schiedam ID 6146.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

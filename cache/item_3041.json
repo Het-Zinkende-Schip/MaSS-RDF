@@ -1,0 +1,27 @@
+{
+  "id": "3041",
+  "code": "ruiter",
+  "name": "Ruiter",
+  "type": "wreck",
+  "lat": "51.4959812",
+  "lon": "0.0667771",
+  "location": "Woolwich, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1665",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1665",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-01-06 16:38:09",
+  "modified_on": "2025-06-15 20:46:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het jacht <em><strong>De Ruiter</strong></em> was oorspronkelijk gebouwd voor de VOC kamer Amsterdam, maar werd overgedragen aan de admiraliteit van Amsterdam in het voorjaar 1665. De tweede Nederlands-Engelse oorlog was aan de gang (1665-1667)</p> <p><strong>Lowestoft<br></strong>Het jacht <strong><em>De Ruiter</em></strong> (kapitein Jan de Vogel) werd ingedeeld in het 4e eskader o.l.v. luitenant-admiraal van Stellingwerf (Sevenwolde) in actie in de zeeslag bij Lowestoft. De Ruiter werd veroverd en weggesleept na eern gevecht met de <strong><em>Dolfin</em></strong>.</p> <p>In Britse dienst gekomen als flyboat <strong><em>The Horseman</em></strong>. Afgezonken als blokkade schip bij Woolwich 13 juni 1667. Als bescherming van Londen tijdens Michiel De Ruiter' tocht naar Chatham (juni 1667).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 18 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Vogel, Jan</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>80</td></tr><tr><th scope=\"row\">Lengte</th><td>95 &frac14; voet (29 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>24 &frac12; voet (7,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=4783\">Three Decks  site.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/aitzema/#page=398&amp;accessor=toc&amp;source=5\">Zaken van staat en oorlog, XXXXV, 381.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

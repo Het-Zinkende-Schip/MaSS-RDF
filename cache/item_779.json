@@ -1,0 +1,27 @@
+{
+  "id": "779",
+  "code": "hercules-2",
+  "name": "Hercules",
+  "type": "wreck",
+  "lat": "-8.6520475",
+  "lon": "119.2232289",
+  "location": "Selat Sape, Indonesië",
+  "firstdate": null,
+  "firstyear": "1743",
+  "firstyearend": null,
+  "lastdate": "1763-02-19",
+  "lastyear": "1763",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-18 19:10:46",
+  "modified_on": "2025-06-07 16:04:15",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Hercules maakte vier volledige retourreizen tussen Nederland en Azi&euml;.</p> <p>Haar eerste reis begon in 1745.&nbsp;Haar vijfde uitreis begon in Rammekens (Zeeland) op 18-10-1757.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0083?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup1;</a> Vervolgens bleef ze in Azi&euml; dienst doen. Haar laatste reizen maakte zie in de relatief kalme Indonesische archipel.</p> <p><strong>Verongelukt <br></strong>&nbsp;De Hercules was op op 19 februari 1763 op weg naar Timor met rijst en baar geld Ze liep op een rif in de straat Sapi op het Rotten eiland.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004374.jpg\" alt=\"landkaart van gebied waar het schip Hercules is vergaan\"> <div class=\"img-source\">NL-HaNA_4.VEL_449-groot</div> </figure> <p class=\"figcaption\">Links boven op de kaart ligt straat Sappi, waar de Hercules is vergaan. (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/4.VEL/invnr/449/file/NL-HaNA_4.VEL_449?eadID=4.VEL&amp;unitID=449&amp;query=kaarten\">kaart groot</a>)</p> <p><em>Op 19 februari 1763 is de Hercules in zwaar weer en door sterke stroming op het rif bij het zogenaamde tweede eiland in Straat Sape met 2 matrozen vergaan.<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=380&amp;accessor=search_in_text&amp;source=14_1&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1120\">*</a></em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd in Middelburg in 1743<br>Lengte: 136 vt<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kemp</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0083?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen , fol. 80.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=380&amp;accessor=search_in_text&amp;source=14_1&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D\">Generale missiven Deel 14, 367.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2705",
+  "code": "hms-birkenhead",
+  "name": "HMS Birkenhead",
+  "type": "wreck",
+  "lat": "-34.6523944",
+  "lon": "19.2979016",
+  "location": "Gansbaai, Zuid-Afrika",
+  "firstdate": "1845-12-30",
+  "firstyear": "1845",
+  "firstyearend": null,
+  "lastdate": "1852-02-26",
+  "lastyear": "1852",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Luke Tandy",
+  "created_on": "2021-11-26 12:49:50",
+  "modified_on": "2025-06-14 20:41:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De HMS <em>Birkenhead </em>gaf aanleiding tot het idee van de regel \"Vrouwen en kinderen eerst\" die in het maritiem recht wordt gebruikt. De <em>Birkenhead </em>had in een stormachtige nacht een rots geraakt. Soldaten op het schip werden door een hoge officier met getrokken zwaard bevolen op het dek te staan en te wachten tot vrouwen en kinderen als eersten zouden vertrekken. Eenmaal vertrokken naar de wal werd de troepen opgedragen te springen en zichzelf te redden. Velen stierven zwemmend naar de kust of door het vacu&uuml;m van het schip. Alle vrouwen en kinderen werden gered.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003052.jpg\" alt=\"Painting of the soldiers waiting calmly for the women and children to get off.\"> <div class=\"img-source\">Thomas Hemy/Williamson Art Gallery &amp; Museum</div> <figcaption class=\"img-description\">Een sc&egrave;ne van het zinken van Birkenhead.</figcaption> </figure> <p>Vandaag herdenken veel Zuid-Afrikanen de moed van de soldaten en de strenge discipline in die noodlottige nacht.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003053.jpg\" alt=\"Captain of the Birkenhead Robert Salmond\"> <figcaption class=\"img-description\">Aan kapitein Robert Salmond wordt toegeschreven dat hij tijdens deze ramp het precedent heeft geschapen van \"Vrouwen en kinderen eerst\" op zinkende schepen.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Captain Robert Salmond</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>643</td></tr><tr><th scope=\"row\">Vermogen</th><td>564 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>10 knopen ~ 19 km/u (12 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>210 voet (64 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>15 voet (4,6 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>37 voet (11,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1400 ton</td></tr><tr><th scope=\"row\">Deplacement</th><td>1918 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De site is talloze malen opgegraven en onderzocht. De site is verdeeld in sites met ketels en bakboordpeddels samen, terwijl de motor en het anker ge&iuml;soleerd zijn.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003054.png\" alt=\"Wreckage site of the HMS Birkenhead\"> <figcaption class=\"img-description\">De locatie van het wrak van HMS Birkenhead.</figcaption> </figure></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "691",
+  "code": "alida",
+  "name": "Alida",
+  "type": "wreck",
+  "lat": "-6.0646325",
+  "lon": "106.8256989",
+  "location": "Batavia, Indonesië",
+  "firstdate": null,
+  "firstyear": "1690",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1698",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-16 15:51:53",
+  "modified_on": "2025-06-07 13:45:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Hired by the VOC from 1690.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type Galliot, Galjoot</p> <p>Built in Amsterdam.</p> <p>Master: Jan Nobel</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92664\">Details of voyage 1604.1 from Texel to The Cape.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

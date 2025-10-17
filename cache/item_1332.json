@@ -1,0 +1,27 @@
+{
+  "id": "1332",
+  "code": "raadhuis-van-enkhuizen",
+  "name": "Raadhuis van Enkhuizen",
+  "type": "wreck",
+  "lat": "53.0320195",
+  "lon": "4.8864784",
+  "location": "Oudeschild, Texel, Nederland",
+  "firstdate": null,
+  "firstyear": "1709",
+  "firstyearend": null,
+  "lastdate": "1721-12-22",
+  "lastyear": "1721",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-05 10:27:53",
+  "modified_on": "2025-06-10 13:42:04",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het <em><strong>Raadhuis van Enkhuizen</strong></em> is gebouwd in 1709 en maakte vier retourreizen naar Azi&euml;.</p> <p>Op 22 december 1721 vertrok ze voor haar vijfde uitreis naar Azi&euml;. Het raadhuis kwam bij het verlaten van de rede van Texel in moeilijkheden en verongelukte.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003417.jpg?modifiedon=1672910427\" alt=\"schilderij van de zijkant van een zeilschip, met drie masten\"></figure> <p>Het Raadhuis werd vervangen door de net nieuw gebouwde Agatha.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Enkhuizen<br>Schipper: Tijmen Potter</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>150</td></tr><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>R. Bruijn, F.S. Gaastra, I. Schöffer,<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97354\">DAS 6489.4.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0109\">NL-HaNA_1.04.02_4935_0109.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

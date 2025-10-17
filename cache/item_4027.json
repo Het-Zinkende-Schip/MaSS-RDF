@@ -1,0 +1,27 @@
+{
+  "id": "4027",
+  "code": "oe34",
+  "name": "OE34",
+  "type": "wreck",
+  "lat": "52.4403500",
+  "lon": "5.5322150",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": "1540",
+  "firstyearend": "1553",
+  "lastdate": null,
+  "lastyear": "1572",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:40:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Als gevolg van een mondelinge melding werd in 1975 de vindplaats van een wrak verkend op kavel E34 in Oostelijk Flevoland, aan de Vogelweg bij het huidige Lelystad. De vindplaats werd afgeprikt om de afmetingen van de scheepsresten bij benadering te kunnen vaststellen, maar vondsten die een mogelijke datering zouden kunnen verschaffen werden op dat moment niet aangetroffen. Wel werd geconcludeerd dat het wrak bewaard moest blijven voor toekomstig systematisch onderzoek. In 2003 werd de site opnieuw verkend, dit keer ook om een houtmonster te nemen voor dendrochronologisch onderzoek. Dit leverde een kapdatum van het hout op in de 2de helft van de 16de eeuw, en bevestigde daarmee de hoge archeologische waarde van de vindplaats. Definitieve opgraving vond uiteindelijk plaats in de zomers van 2011 en 2012, in het kader van de International Fieldschool for Maritime Archaeology Flevoland (IFMAF). Het bleek te gaan om een middelgroot vrachtschip (L: 16,6 x B: 5,6 x H: ca. 2 meter), dat actief was in de vaart op onder andere de Oostzee. Onder de inventaris bevond zich een geringe hoeveelheid wapentuig: drie rapieren, een lans en een stok- of steekwapen. Deze militaire uitrusting heeft mogelijk toebehoord aan een bewapende escorte om schip en bemanning te vrijwaren van aanvallen van watergeuzen. Op grond van vorm- en constructiekenmerken is het goed mogelijk dat het scheepswrak tot het type wijdschip behoort. Tevens in 2011 werd de vindplaats onderzocht met grondradar als onderdeel van een pilot-studie naar de prospectie van scheepswrakken met toepassing van geofysische methoden. Zie voor meer informatie het rapport van RAAP: 'Gezonken, maar weer boven water - Pilot-studie naar prospectie van scheepswrakken met geofysische methoden in provincie Flevoland (grondradar en magnetometer), door G. de Boer, W.B. Verschoof en J.A. Schenk uit 2012.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xuc-hhn9\">Opgravingsdocumentatie scheepswrak OE34.</a></li><li>A.F.L. van Holk (2017).<br /><a href=\"https://pure.rug.nl/ws/portalfiles/portal/53556355/Grondsporen_26.pdf\">Een Wijdschip, Watergeuzen en Wolfsklingen - Opgraving van een scheepswrak aan de Vogelweg (gem. Lelystad), vergaan in 1572.</a><br />Groningen: Groninger Instituut voor Archeologie (GIA).</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

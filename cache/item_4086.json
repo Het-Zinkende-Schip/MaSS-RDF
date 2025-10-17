@@ -1,0 +1,27 @@
+{
+  "id": "4086",
+  "code": "nm30",
+  "name": "NM30",
+  "type": "wreck",
+  "lat": "52.7436170",
+  "lon": "5.7885130",
+  "location": "Emmeloord, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1875",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:57:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Over deze wrakvondst is weinig bekend. Het dossier bevat een schijnbaar achteraf ingevuld kaartje met daarop de vermelding dat er een mondelinge mededeling is geweest over een wrak op kavel M30 in de Noordoostpolder. Qua vondsten wordt aan het wrak slechts &eacute;&eacute;n object toegeschreven, een handzaag met houten handvat. Uit het inventarisnummer van deze vondst kan worden afgeleid dat het is uitgegeven in 1951, maar de verdere notities over het wrak, onder andere dat het laat 19de-eeuws zou zijn, zijn opgetekend in 1955. Gaan we terug naar de handgeschreven vondstenboekjes, dan lijkt de letter 'N' van een wrak N30 daarin wat onduidelijk te zijn geschreven, op een manier die aangezien zou kunnen zijn voor een 'M'. Het lijkt daarom niet ondenkbaar dat dit 'spookwrak' hierdoor is ontstaan, al in of voor 1955. Het is dan mogelijk dat dat de vondst toegeschreven moet worden aan wrak NN30-31, een wrak dat al in 1946 was aangetroffen en dus een reeds bekende vindplaats indertijd.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xzh-sfwy\">Opgravingsdocumentatie scheepswrak NM30.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3005",
+  "code": "noordzee-1892",
+  "name": "Noordzee",
+  "type": "wreck",
+  "lat": "51.6018347",
+  "lon": "1.5200000",
+  "location": "Noordzee, Galloper lightship, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1892",
+  "firstyearend": null,
+  "lastdate": "1916-04-26",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-26 12:09:18",
+  "modified_on": "2025-06-15 16:50:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Noordzee</strong></em> vertrok op 24 april 1916 uit Duinkerken, met op sleeptouw het door een mijn explosie beschadigde Nederlandse <em><strong>s.s. Maashaven</strong></em>, met bestemming Rotterdam.</p> <p>op 26 april 1916 des morgens om 11.00 uur liep de NOORDZEE op deze reis bij lichtschip <em><strong>Galloper</strong></em> in positie 51ᴼ 50ʼ 23ʼʼ NB en 01ᴼ 52ʼ 51ʼʼ OL op een mijn, en zonk in weinige ogenblikken. Twee leden van de bemanning kwamen hierbij om het leven. De overige negen man werden door de sleepboot <em><strong>Oostzee</strong></em> gered. Ook de Maashaven liep opnieuw op een mijn, doch kon in zinkende toestand bij Harwich aan de grond worden gezet.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: L. Smit &amp; Co.'s Sleepdienst N.V., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>11</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4735\">marhisdata.nl id 4735.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Noordzee&amp;cql%5B%5D=%28date+_gte_+%2225-04-1916%22%29&amp;cql%5B%5D=%28date+_lte_+%2227-04-1916%22%29&amp;facets%5Btype%5D%5B%5D=artikel&amp;redirect=true&amp;sortfield=datedesc&amp;identifier=MMKB08:000121931:mpeg21:\">Delftsche Courant (27-4-1916).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

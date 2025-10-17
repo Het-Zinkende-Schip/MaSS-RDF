@@ -1,0 +1,27 @@
+{
+  "id": "2933",
+  "code": "berkelstroom",
+  "name": "Berkelstroom",
+  "type": "wreck",
+  "lat": "51.8696982",
+  "lon": "2.3163534",
+  "location": "Gabbard Buoy NO van , Noordzee",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1916-04-24",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-01 09:51:34",
+  "modified_on": "2025-06-15 14:06:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip <em><strong>Berkelstroom</strong></em> was op reis van Amsterdam naar London met een lading van 541 ton stukgoederen, voornamelijk strobord en papier.</p> <p>De Berkelstroom werd 's nachts om 4.45 uur op 16 mijl oost-noord van de Outer Gabbard boei aangehouden door de Duitse onderzeeboten &lsquo;UB.18&rsquo; en &lsquo;UB.29&rsquo;.</p> <p>De Duitsers achtten de lading contrabande. De 18 leden van de bemanning van de Berkelstroom gingen in de sloepen, die door de UB 18 op sleeptouw werden genomen. Intussen werd de Berkelstroom om 8.45 uur op 24 april 1916 door de UB 29 opgeblazen. Ze zonk vrijwel meteen. Op de nadering van een Brits vliegtuig gooide de UB.18 de sleeptros met de sloepen los en voer weg. Om 10.45 uur werden alle opvarenden van de Berkelstroom gered door de Britse kruiser <em><strong>H.M.S. Penelope</strong></em>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kalishoek, P.J.H.</td></tr><tr><th scope=\"row\">Lengte</th><td>185 voet (56,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>29 &frac14; voet (8,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>12 &frac14; voet (3,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>736 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=913\">marhisdata.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

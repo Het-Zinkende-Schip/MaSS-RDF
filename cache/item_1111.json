@@ -1,0 +1,27 @@
+{
+  "id": "1111",
+  "code": "prins-willem-ii",
+  "name": "SS Prins Willem II",
+  "type": "wreck",
+  "lat": "60.5970368",
+  "lon": "-26.2089822",
+  "location": "North Atlantic",
+  "firstdate": null,
+  "firstyear": "1939",
+  "firstyearend": null,
+  "lastdate": "1941-08-04",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-03 16:23:41",
+  "modified_on": "2025-06-09 16:26:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het <em><strong>s.s. Prins Willem II</strong></em>, voer in konvooi HX-117 met een lading suiker van Georgetown naar London. Het bleef achter en werd op 8 April 1941 om 23.00 uur getorpedeerd door de U98 en zonk in enkele minuten. De bemanning trachtte zich in de reddingboten te redden; 12 man hadden plaats genomen in de SB. boot, 7 man in de BB. boot. Drie leden van de bemanning werden later opgepikt.<br><br>De wind was op 9 April aangewakkerd tot storm. In de morgen werd weer een duikboot waargenomen op &plusmn; 1/2 mijl afstand.In de namiddag<br>nam de wind af en maakte plaats voor een dikke mist, zodat de reddingboten elkaar uit het oog verloren.</p> <p>Op 11e April werd het Zweedse schip <em><strong>m.s. Klipparen</strong></em> gezien, welk schip de overlevenden van de motorreddingboot overnam. Door de <em><strong>Klipparen</strong></em> werd nog lange tijd gezocht naar de 2e boot, doch zonder resultaat. Naderhand bleek, dat de overlevenden in de tweede boot na acht dagen door de Brits <em><strong>Tuscan Star</strong></em> werden gered. De negen inzittenden in werden in Buenos Aires aan wal gezet.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Stoom<br>Gebouwd: Frederiksstad Mekaniske Verksted A/S, Frederikstad, Norway<br>Eigenaar: Maatschappij Zeetransport N.V., Rotterdam<br>Dimensies: 78.64 (Loa) x 12.86 x 7.59 Meters Registered<br>Tonnage: 1304 <br>Voortstuwing: Steam, Double Compound,4, 1350 pk<br>Snelheid: 12<br>Bemanning: 25<br>Kapitein: J.W. van Eijck</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Vermist worden:<br>C. v. d. Pot, bootsman<br>A. Dessaulnier, stoker (Can.)<br>D. v.d. Vegt, matroos</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

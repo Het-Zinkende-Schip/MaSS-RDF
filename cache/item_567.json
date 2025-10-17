@@ -1,0 +1,27 @@
+{
+  "id": "567",
+  "code": "ghostship",
+  "name": "Ghostship",
+  "type": "wreck",
+  "lat": "58.3290000",
+  "lon": "19.4940000",
+  "location": "East of Gotska Sandon island, Zweden",
+  "firstdate": null,
+  "firstyear": "1630",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": null,
+  "country": "Zweden",
+  "countrycode": "SE",
+  "author": "Will Brouwers",
+  "created_on": "2017-07-22 00:00:00",
+  "modified_on": "2025-06-22 13:58:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 2003 doorzocht het Zweedse bedrijf Deep Sea Productions een DC 3 van de Zweedse luchtmacht die op 13 juni 1952 werd neergeschoten door de Sovjet Unie ergens in de Oostzee. Ze wisten niet alleen het vliegtuig te vinden, maar ontdekten ook de plaats van een houten scheepswrak, opmerkelijk goed bewaard gebleven op een diepte van ca. 130 m.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001896.jpg\" alt=\"De achterzijde van het schip met mooi uitgesneden versiering van het hennegat. Helaas is het hakkebord (spiegel) verdwenen\"></figure> <p class=\"figcaption\">De achterzijd van het schip met mooi uitgesnelden versiering van het hennegat.<br>Helaas is het hakkebord (spiegel) verdwenen. (bron:RCE)</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001898.jpg\" alt=\"De ROV (Remote Operating Vehicle) wordt te water gelaten\"> <figcaption class=\"img-description\">De ROV (Remote Operating Vehicle) wordt te water gelaten. (bron: RCE)</figcaption> </figure> <p>Pas in 2007 konden er meer gedetailleerde afbeeldingen worden gemaakt. Het leek op een 17e eeuws Nederlands vrachtschip, een fluyt. Het jaar daarop (november) moest een internationaal team van wetenschappers het wrak in detail onderzoeken met een ROV en houtmonsters nemen voor dendrochronologische analyses.</p> <p>Betrokken instituten: Deep Sea Production S&ouml;dert&ouml;rn (S), Zweedse Maritieme Musea (S), Southampton University (VK), Instituut voor Nautische Archeologie (VS), Rijksmuseum Amsterdam (NL), Universiteit van Amsterdam (NL), De Bataviawerf (NL) , Stichting RING (NL), Rijksdienst voor het Cultureel Erfgoed (NL).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001897.jpg\" alt=\"Bron: RCE\"> <figcaption class=\"img-description\">De boegzijde met anker gat en geschutspoort. (bron: RCE)</figcaption> </figure> <p>De fluit is waarschijnlijk in Nederland gebouwd. Het buitengewoon goed bewaard gebleven schip staat op de zeebodem en is een van de best bewaarde 17e-eeuwse fluytschepen die ooit zijn teruggevonden.</p> <p>Hoewel het schip wat klein is voor een fluit, zoals we het kennen uit historische bronnen, heeft het alle kenmerken van het type. Misschien was het een kleinere versie en had het galjoot kunnen heten.</p> <p>Ornamenten en type specificatie suggereren dat het schip ergens tussen 1630-1650 dateert.</p> <p><strong>Dendrologisch onderzoek</strong><br>Een plank die op het dek lag, werd door een ROV (onde4rwater robot) opgehaald. Analyse toonde aan dat het sparren (pinus) waren die na 1632 waren gekapt en afkomstig waren van het eiland Gotland. De plank maakte echter geen deel uit van de scheepsbouw. Om erachter te komen waar het is gebouwd, is een monster van de romp nodig.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak is extreem goed bewaard gebleven, diep gelegen en door de afwezigheid van de teredo navalis of scheepsworm in dit deel van de Oostzee. Door klimaatverandering rukt de scheepsworm op en sinds kort ook in de Baltische zee.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Niklas Eriksson (2014).<br /><a href=\"https://www.academia.edu/8205845/Eriksson_N._2014._Urbanism_under_Sail_An_Archaeology_of_fluit_ships_in_early_modern_everyday_life\">Urbanism under Sail. An Archaeology of fluitship.</a><br />Södertörn University.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

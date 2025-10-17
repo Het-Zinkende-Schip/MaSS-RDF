@@ -1,0 +1,27 @@
+{
+  "id": "2963",
+  "code": "energie",
+  "name": "Energie",
+  "type": "wreck",
+  "lat": "58.6168023",
+  "lon": "2.6114193",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1918",
+  "firstyearend": null,
+  "lastdate": "1918-11-03",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-12 12:06:17",
+  "modified_on": "2025-06-15 14:24:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Energie</strong></em> is op 3 november 1918 van Haugesund naar Rotterdam vertrokken, geladen met haring. Sindsdien is het schip vermist. De 17 opvarenden moeten hierbij om het leven zijn gekomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Haarlemsche Scheepsbouw Maatschappij, Haarlem,<br>Eigenaar: N.V. Nederlandsche Scheepvaart Maatschappij Ruwaard, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>17</td></tr><tr><th scope=\"row\">Lengte</th><td>201 &frac12; voet (61,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 &frac14; voet (9,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>843 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2053\">marhisdata id 2053.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

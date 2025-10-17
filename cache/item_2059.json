@@ -1,0 +1,27 @@
+{
+  "id": "2059",
+  "code": "zp37-ii",
+  "name": "ZP37-II",
+  "type": "wreck",
+  "lat": "52.3176000",
+  "lon": "5.5203700",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1750",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:07:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Vermoedelijk is dit scheepswrak &eacute;&eacute;n van de eerste scheepswrakken die na het droogvallen van Zuidelijk Flevoland is aangetroffen. In 1970 volgde een eerste verkenning. In 1984 is het wrak op kavel P37, bij de aanleg van het cunet voor een fietspad langs de Spiekweg opnieuw 'ontdekt' en aansluitend verkend. Het bleek te gaan om de restanten van een karveel gebouwd, tjalkachtig vrachtschip waarvan het voorschip en een groot deel van het ruim bewaard waren gebleven. De nog resterende lengte bedroeg ongeveer 13,5 meter (schatting oorspronkelijke lengte 18 m), de oorspronkelijke breedte ongeveer 4 meter. Het schip was voornamelijk geladen met bouwpuin bestaande uit brokstukken van kloostermoppen en kalkspecie. Tussen het bouwpuin bevonden zich ook enkele IJsselsteentjes, beschadigde dakpannen en enkele achttiende-eeuwse plavuizen. Puin werd in de eerste helft van de negentiende eeuw gebruikt om wegen mee te verharden. Straatwegen waren nog schaars, maar de hoofdverbindingen werden geleidelijk met steenslag, grind, puin of schelpen verhard. Dit materiaal werd vaak per schip aangevoerd. Het schip is waarschijnlijk tussen 1800 en 1825 n. Chr. vergaan. Na het onderzoek zijn de restanten toegedekt met grond.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Scheepje geladen met bouwpuin, Zeewolde</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002079.jpg\" alt=\"foto van een weg, met tuinen eromheen\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Gijsbers, W., L. Koehler &amp; J.-M.A.W. Morel (2010).<br /><em>Licht aan boord: Verlichtingsobjecten uit het Nationaal Scheepsarcheologisch Depot in Lelystad.</em><br />Lelystad: Nationaal Scheepsarcheologisch Depot &amp; Rijksdienst voor het Cultureel Erfgoed.</li><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xbg-cjzx\">Opgravingsdocumentatie scheepswrak ZP37-II.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

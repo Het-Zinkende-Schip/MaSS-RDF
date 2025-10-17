@@ -1,0 +1,27 @@
+{
+  "id": "2219",
+  "code": "bonte-koe-1639",
+  "name": "Bonte Koe",
+  "type": "wreck",
+  "lat": "53.3877513",
+  "lon": "5.1295280",
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1632",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1639",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-09 13:11:17",
+  "modified_on": "2025-06-11 19:12:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Type: west-Indi&euml;vaarder<br>Gebouwd: werf te Amsterdam, ca. 1653<br>Eigenaar: WIC kamer Amsterdam<br>Dimensies:<br>Tonnage: <br>Opvarenden: bemanning, soldaten<br>Kapitein:<br>Bewapening: brons, ijzer</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: west-India man<br>Built: yard, Amsterdam, ca. 1632<br>Owner: WIC chamber Amsterdam<br>Complement: crew, soldiers <br>Armament: bronze , 14 iron, stone</p> <p>Type: west-Indi&euml;vaarder<br>Gebouwd: werf te Amsterdam, ca. 1632<br>Eigenaar: WIC kamer Amsterdam<br>Dimensies:<br>Tonnage: <br>Opvarenden: bemanning, soldaten<br>Kapitein:<br>Bewapening: brons, 14 ijzer</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>74</td></tr><tr><th scope=\"row\">Tonnage</th><td>300 ton (150 last)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

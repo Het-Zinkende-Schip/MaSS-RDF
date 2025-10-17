@@ -1,0 +1,27 @@
+{
+  "id": "2844",
+  "code": "bertha-elisabeth",
+  "name": "Bertha Elisabeth (IJM 11)",
+  "type": "wreck",
+  "lat": "52.7444396",
+  "lon": "3.9814452",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1917-08-01",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-30 12:03:36",
+  "modified_on": "2025-07-17 10:48:33",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Bertha Elisabeth verliet op 1 augustus de haven van Ijmuiden daarna is niets meer vernomen van het vissersvaartuig.</p> <p>Alle 9 opvarenden kwamen om.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003274.jpg\" alt=\"de tekst: De bemanning van de Bertha Elisabeth, IJM 11, bestond uit D. Groen, schi per, van Castricum, T. Groen, stuurman, van Egmond a Zee en de matrozen A. Mink, van Noordwijk Binnen, T. Sloot en E Prins van Egmond a. Zee, C. de Ruiter van Scheveningen, A. de Graaf, kok, van Castricum, J. Ott, le machinist, van Velseroord, A. v. d. Kooi, 2e machinist, van Vlaardingen, D. A. v. d. Zwan van Scheveningen en A. Verweij, tremmer, van Amsterdam. Wel wordt de IJmuider visschersvloot ernstig getroffen. C C\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Groen,  D.</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.wrecksite.eu/wreck.aspx?207312\">Wrecksite.eu.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

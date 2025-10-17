@@ -1,0 +1,27 @@
+{
+  "id": "1224",
+  "code": "rijnland",
+  "name": "Rijnland",
+  "type": "wreck",
+  "lat": "-6.0940274",
+  "lon": "106.8132877",
+  "location": "Teluk Jakarta, Indonesië",
+  "firstdate": null,
+  "firstyear": "1662",
+  "firstyearend": null,
+  "lastdate": "1666-05-05",
+  "lastyear": "1666",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-18 12:27:43",
+  "modified_on": "2025-03-30 15:48:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Rijnland</strong></em> kwam op 24-3-1666 aan op de rede van Batavia.&nbsp;Aan boord waren 157 opvarenden. 84 zeevarenden, 68 soldaten 1 vrouw en 4 kinderen.<a href=\"https://babel.hathitrust.org/cgi/pt?id=mdp.39015020146083&amp;ui=embed&amp;seq=44&amp;q1=Rynlant\">&sup1;</a></p> <p>Op 5 mei. raakte het schip door een ongeluk in brand. DE kok was bezig ws te smelten voor kaarsen. De ketel stroomde door te hoog vuur over en het want en schip vatte vlam. Het vuur was niet te stuiten. Toen het vuur bij de kruitkamer kwam ontplofte het schip met daverend geweld. 8 mensen werden vermist en zijn omgekomen door de ontploffing.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Amsterdam, 1662<br>Lengte 150 voet<br>Breedte 36 voet<br><br>Laadvermogen: 397 last<br>Complement: 94, 114<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92143\">DAS 1026.2.</a></li><li><a href=\"https://babel.hathitrust.org/cgi/pt?id=mdp.39015020146083&amp;ui=embed&amp;seq=72&amp;q1=Rijnland\">Dagregister Batavia 5-5-1666.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

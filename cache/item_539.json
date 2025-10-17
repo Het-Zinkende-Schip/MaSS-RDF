@@ -1,0 +1,27 @@
+{
+  "id": "539",
+  "code": "oegstgeest-logboat",
+  "name": "Oegstgeest logboat",
+  "type": "wreck",
+  "lat": "52.1690577",
+  "lon": "4.4497037",
+  "location": "Nieuw-Rhijngeest Zuid. Oegstgeest, Nederland",
+  "firstdate": null,
+  "firstyear": "612",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "620",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2015-09-09 00:00:00",
+  "modified_on": "2025-10-16 10:23:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><a title=\"Middeleeuwse scheepsresten in Nederland\" href=\"https://cultureelerfgoed.info/mass/?file=00000086.pdf\" target=\"_blank\" rel=\"noopener\">ll</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brouwers, Jansma, Manders  (2015).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000086.pdf\">Middeleeuwse scheepsresten in Nederland, de vroege middeleeuwen 500-1050.</a><br />Archeo, 2015 (3).</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

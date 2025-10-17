@@ -1,0 +1,27 @@
+{
+  "id": "2182",
+  "code": "catharina-1667",
+  "name": "Catharina",
+  "type": "wreck",
+  "lat": "51.4582855",
+  "lon": "0.7834625",
+  "location": "Sheerness, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1667",
+  "firstyearend": null,
+  "lastdate": "1667-06-22",
+  "lastyear": "1667",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-02 16:33:19",
+  "modified_on": "2025-06-11 18:46:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Bij de tocht naar Chattam vergaan.<br><br>bron: NIMH</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

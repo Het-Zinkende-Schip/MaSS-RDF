@@ -1,0 +1,27 @@
+{
+  "id": "864",
+  "code": "bronstee-1755",
+  "name": "Bronstee",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indische oceaan",
+  "firstdate": null,
+  "firstyear": "1755",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1763",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-24 10:34:50",
+  "modified_on": "2025-02-20 16:47:00",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <strong><em>Bronstee</em></strong> vertrok voor haar eerste uitreis op 7 december 1756 vanuit Texel onder schipper Willem Klump.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0181?eadID=1.04.02&amp;unitID=4935&amp;query=\"><strong>&sup1;</strong></a> Ze voer op verschillende routes in Azi&euml; voordat ze op 10 mei 1763 uit Batavia vertrok met een lading bestemd voor de VOC kamer Enkhuizen. Admiraal van de vloot was Roelof Blok uit Enkhuizen.</p> <p>De Bronstee kwam nooit aan in de Kaap kolonie, de vaste tussenstop op de route van Batavia naar Nederland. Ze is vergaan tussen Batavia en Kaap de Goede Hoop.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: op een werf in Amsterdam, 1755</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>125 Amsterdamse&nbsp;voet (35,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94749\">DAS 3687.1.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000179.jpg\">Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

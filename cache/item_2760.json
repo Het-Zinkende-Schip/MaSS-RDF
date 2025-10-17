@@ -1,0 +1,27 @@
+{
+  "id": "2760",
+  "code": "merope",
+  "name": "S.S. Merope",
+  "type": "wreck",
+  "lat": "37.0604376",
+  "lon": "4.0649414",
+  "location": "T.h.v. Dellys, Algerije",
+  "firstdate": null,
+  "firstyear": "1918",
+  "firstyearend": null,
+  "lastdate": "1943-04-27",
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-09 10:33:45",
+  "modified_on": "2025-06-14 21:35:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het s.s. <em><strong>Merope</strong></em>, vertrok 27 april 1943 van Bougie met bestemming Algiers. Om 14.30 werd een zware explosie waargenomen midscheeps, waarvan de oorzaak niet kon worden vastgesteld. De Merope bleek door een torpedo te zijn geraakt. Deze was afgevuurd door de U 371. De Merope begon onmiddellijk zware slagzij te maken en zonk binnen luttele minuten. Door de snelle ondergang kon van de reddingsboten geen gebruik worden gemaakt en was de bemanning genoodzaakt over boord te springen.<br>De drenkelingen werden gered, door het Franse schip <em>Cevennes</em> en de <em>HMS Ronaldsay</em> (T 149). Na telling bleken 10 leden van de 32 opvarenden vermist te zijn:</p> <table>  <tr> <td>C. P. Dekker</td> <td>&nbsp;gezagvoerder</td> </tr> <tr> <td>L.M.v.Dijk</td> <td>&nbsp;1e stuurman</td> </tr> <tr> <td>A. Huxtable</td> <td>&nbsp;marconist (Eng.)</td> </tr> <tr> <td>J. M. Schuszler</td> <td>hofmeester</td> </tr> <tr> <td>J.Spek</td> <td>bediende</td> </tr> <tr> <td>H. Visser</td> <td>bootsman</td> </tr> <tr> <td>W.Melvin</td> <td>&nbsp;matroos (Eng.)</td> </tr> <tr> <td>&nbsp;W.Hayden</td> <td>matroos (Eng.)</td> </tr> <tr> <td>&nbsp;S. Martin</td> <td>kanonnier (Eng.)</td> </tr> <tr> <td>&nbsp;A. Johns</td> <td>kanonnier (Eng.)</td> </tr>  </table></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Dekker, C.P.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>34</td></tr><tr><th scope=\"row\">Vermogen</th><td>1162 pk</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 265.</em></li><li>Uboat.net.<br /><a href=\"https://uboat.net/allies/merchants/ship/2886.html\">Merope.</a></li><li>Münching, L.L. . 25.<br /><em>e Nederlandse koopvaardijvloot in de Tweede Wereldoorlog. Deel 1 p 25.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

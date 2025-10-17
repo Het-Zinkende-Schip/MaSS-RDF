@@ -1,0 +1,27 @@
+{
+  "id": "528",
+  "code": "loeri",
+  "name": "Loeri",
+  "type": "wreck",
+  "lat": "6.9930129",
+  "lon": "79.8632684",
+  "location": "Colombo, Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1671",
+  "firstyearend": null,
+  "lastdate": "1677-12-15",
+  "lastyear": "1677",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2015-05-26 00:00:00",
+  "modified_on": "2025-08-04 16:10:52",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De hoeker '<em>Loeri'</em> verliet de Republiek op 16 april 1672 en arriveerde op 25 december 1672 in Ceylon. Daar bleef de hoeker dienst doen.</p> <p>15 december 1677 was de hoekerboot : <em>door zwaar weder voor Colombo gestrand en gebleven. </em>(<a href=\"https://archive.org/details/daghregistergeh00hullgoog/page/53/mode/2up?q=Loery\">dagregister 1678</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam 1671 als Loery <br>Tonnage: 90 tons.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>78 Amsterdamse&nbsp;voet (22,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>20 Amsterdamse&nbsp;voet (5,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://archive.org/details/daghregistergeh00hullgoog/page/53/mode/2up?q=Loery\">daghregister 1-2-1678.</a></li><li>Dam, Pieter van.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=521&amp;accessor=toc&amp;view=&amp;source=1\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.1.1  482.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

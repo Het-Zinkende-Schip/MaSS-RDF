@@ -1,0 +1,27 @@
+{
+  "id": "3120",
+  "code": "proselyte-shipwreck",
+  "name": "Proselyte Shipwreck",
+  "type": "wreck",
+  "lat": "17.9773313",
+  "lon": "-63.0437749",
+  "location": "Man-O-War Shoal, Sint Maarten",
+  "firstdate": null,
+  "firstyear": "1770",
+  "firstyearend": null,
+  "lastdate": "1801-09-02",
+  "lastyear": "1801",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Leon Derksen",
+  "created_on": "2023-08-08 17:13:47",
+  "modified_on": "2025-06-16 18:45:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>All photos by T. Bervoets. Text contributed by Jay Haviser, Director of Sint Maarten Archaeological Center (SIMARC):</p> <p>This is an 18th century Dutch War Frigate shipwreck site, situated atop a sandbar directly out from Great Bay harbor. The original Dutch ship was named &ldquo;Jason&rdquo; in 1770, but was taken by the British and renamed &ldquo;Proselyte&rdquo; in 1796. The Proselyte sank on the reef outside Great Bay on September 2, 1801.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003553.jpg\" alt=\"Proselyte anchor and site\"> <div class=\"img-source\">T. Bervoets</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The site is in about 50 feet water depth on a coral reef, with numerous cannon, ballast, barrel hoops and anchors present. The site is currently used as a tourists dive location and important harbor buoy marker location.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003551.jpg\" alt=\"Proselyte anchor\"> <div class=\"img-source\">T. Bervoets</div> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Archaeological research was done on this site by K. Bequette in 1994-1995, with a publication in 1996, and by Wil Nagelkerken in the 2000s. This site was officially declared a protected area, under the name of the sea-mount on which it rests, 'Man-O-War Shoal' as a protected nature/culture area of the Sint Maarten National Marine Park.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003552.jpg\" alt=\"Proselyte iron cannons\"> <div class=\"img-source\">T. Bervoets</div> </figure></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

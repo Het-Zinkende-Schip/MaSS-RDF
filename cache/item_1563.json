@@ -1,0 +1,27 @@
+{
+  "id": "1563",
+  "code": "holland-1761",
+  "name": "Holland",
+  "type": "wreck",
+  "lat": "55.0888624",
+  "lon": "6.3982284",
+  "location": "Noordzee Doggerbank (known last position), Nederland",
+  "firstdate": null,
+  "firstyear": "1761",
+  "firstyearend": null,
+  "lastdate": "1781-08-05",
+  "lastyear": "1781",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-25 14:50:37",
+  "modified_on": "2025-07-03 10:21:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het linieschip <em><strong>Holland</strong></em> raakte tijdens de slag van de Doggersbank 5-8-1781 zwaar beschadigd. In de nacht werd eerst het geschut over boord gezet. Dat hielp niet toen werd het schip verlaten en zonk de Holland. De bemanning waaronder 50 gewonden gingen over op het adviesjacht <em>De Spion</em>.</p> <p><strong>Slag bij Doggersbank</strong></p> <p>De Slag bij de Doggersbank was een zeeslag tussen Nederland en het Groot-Brittanni&euml; tijdens de Vierde Engels-Nederlandse Oorlog.<br>De slag vond plaats op 5 augustus 1781 in de buurt van de Doggersbank. (<a href=\"https://mass.cultureelerfgoed.nl/doggersbank-slag\">Slag bij de Doggersbank, 1781</a>)</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003491.jpg\" alt=\"Tekening van verschillende schepen naast elkaar op zee.\"> <div class=\"img-source\">RP-P-OB-85.135</div> <figcaption class=\"img-description\">.</figcaption> </figure> <p>De slag werd in de Republiek als een grote overwinning gevierd. Feitelijk was de marine vleugellam .</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: adm. werf Amsterdam 1761</p> <p>Dimensies:&nbsp;167,5 x 46 3/11<br>Bewapening: 64</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Dedel, S.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>450</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>NIMH.</em></li><li>De Jonge,  J.C (1862).<br /><em>Geschiedenis van Het Nederlandsche Zeewezen, IV, 516.</em></li><li><a href=\"https://books.google.nl/books?id=qT09AAAAYAAJ&amp;printsec=frontcover&amp;dq=editions:0GCN1b52LGLN76&amp;lr=#v=onepage&amp;q&amp;f=false\">Nieuwe Nederlandsche jaerboeken 1514 e.v.</a><br />Nieuwe Nederlandsche jaerboeken.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

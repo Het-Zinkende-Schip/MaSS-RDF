@@ -1,0 +1,27 @@
+{
+  "id": "883",
+  "code": "tajandoen",
+  "name": "MV Tajandoen",
+  "type": "wreck",
+  "lat": "48.5515010",
+  "lon": "-5.1004028",
+  "location": "Ouessant, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1931",
+  "firstyearend": null,
+  "lastdate": "1939-12-07",
+  "lastyear": "1939",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-11-12 10:01:05",
+  "modified_on": "2025-06-07 21:26:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis van Amsterdam naar Batavia werd de Tajandoen op 7 december 1939 in de vroege ochtend op ongeveer 35 mijl ten noorden van Ouessant (F) zonder enige waarschuwing getorpedeerd door de Duitse onderzeeboot U 47.</p> <p>De Tajandoen werd aan stuurboordzijde getroffen, brak doormidden en zonk binnen 15 minuten. Van de opvarenden - 14 passagiers en 54 bemanningsleden &ndash; verloren zes leden van de bemanning het leven.</p> <p>De overlevenden werden gered door het Belgische stoomschip Louis Scheid en het Italiaanse stoomschip Giorgio Ohlsen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: passagierschip / motorvrachtschip van de T-klasse</p> <p>Gebouwd: Amsterdam, 1931<br>Eigenaar: N.V. Stoomvaartmaatschappij Nederland, Amsterdam</p> <p>Afmetingen: 149,4 x 19 x 9,9 m<br>Tonnage:&nbsp;8159 grt</p> <p>Voortstuwing: 1 x 8 cyl. Sulzer 2 SCDA Diesel engine, single shaft, 1 screw, 1 double boiler</p> <p>Snelheid: 14,5</p> <p>Bemanning: 54<br>Passagiers: 14<br>Kapitein: J.B. Roeterink</p> <p>6 slachtoffers</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6380\">Maritiem Historische Data 6380.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

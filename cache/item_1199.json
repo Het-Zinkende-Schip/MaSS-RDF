@@ -1,0 +1,27 @@
+{
+  "id": "1199",
+  "code": "rijnenburg",
+  "name": "Rijnenburg",
+  "type": "wreck",
+  "lat": "60.6928181",
+  "lon": "-0.8297253",
+  "location": "Mu Nes, Unst, Shetland islands, Scotland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1704",
+  "firstyearend": null,
+  "lastdate": "1713-03-15",
+  "lastyear": "1713",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-10 11:52:07",
+  "modified_on": "2025-03-30 15:16:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Rijnenburg vertrok 9 maar 1713 uit Texel.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Amsterdam, 1704 <br>Lengte: 130 vt<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97154\">DAS 6267.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0090?eadID=1.04.02&amp;unitID=4935&amp;query=\">NA 4935 uitgezeilde schepen, scan 90.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

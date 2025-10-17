@@ -1,0 +1,26 @@
+{
+  "id": "1303",
+  "code": "ijmuiden",
+  "name": "Ijmuiden",
+  "type": "site",
+  "lat": "52.4677759",
+  "lon": "4.5593262",
+  "location": "IJmuiden, Nederland",
+  "firstdate": null,
+  "firstyear": "1876",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "2000",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-23 12:53:08",
+  "modified_on": "2025-06-10 13:17:35",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Toen het Noordzee kanaal werd geopend in 1876 konden schepen direct vanuit de Noordzee naar de haven van Amsterdam varen.&nbsp;Daarvoor&nbsp;voer men via het Noord Holland kanaal (1824) van Den Helder naar Amsterdam. Voordat het Noord Holland kanaal werd geopend in 1824 was de rede van Texel de ankerplaats voor de route naar Amsterdam. Dat was omslachtig en ver om reizen, omdat men via de Zuiderzee en over pampus naar Amsterdam moest worden getrokken.</p> <p>Sinds 1776 was er voor de VOC schepen bij het Nieuwediep een anker plaats en hospitaal met speciale quarantaine arts ingericht.</p> <p>Al vroeg werden schepen die van 'risico' gebieden kwamen gecontroleerd door artsen. Indien nodig werden schepen in quarantaine geplaatst en voorzien van een gele quarantaine vlag. Geen man mocht van boord totdat zeker was dat er geen gevaar (meer) bestond.</p> <p>Lang niet altijd verliep het soepel. De krant De Standaard schreef dat eind 1876 een schip dat afkomstig was uit de Verenigde Staten niet binnen kon varen bij IJmuiden, omdat daar geen quarantaine&nbsp;arts was.</p> <p>Nu moest de loods eerst orders vragen aan de inspecteur van het loodswezen in Nieuwediep (bij Den Helder) wat te doen. De beslissing was dat het schip, omdat het van een medisch gesproken verdachte bestemming kwam, koers moest zetten naar de Nieuwediep.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Jan Maarten Pekelharing.<br /><a href=\"https://onh.nl/verhaal/met-de-gele-quarantainevlag-in-top\">Met de gele quarantaine vlag in top, 2020.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2460",
+  "code": "victoria-2",
+  "name": "Victoria",
+  "type": "wreck",
+  "lat": "43.1954280",
+  "lon": "-9.1740360",
+  "location": "Punta o Boi, Galicia, Spanje",
+  "firstdate": null,
+  "firstyear": "1500",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "David Rafael Ruiz Blanco",
+  "created_on": "2021-02-25 10:40:01",
+  "modified_on": "2025-06-14 15:21:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Some pottery and metalic remains</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Remains are scattered on a rocky bottom.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "688",
+  "code": "honselaarsdijk",
+  "name": "Honselaarsdijk",
+  "type": "wreck",
+  "lat": "-6.0861639",
+  "lon": "106.8327496",
+  "location": "Teluk Jakarta, Indonesië",
+  "firstdate": null,
+  "firstyear": "1679",
+  "firstyearend": null,
+  "lastdate": "1698-08-15",
+  "lastyear": "1698",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-16 11:41:11",
+  "modified_on": "2025-06-07 13:42:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Honselaarsdijk </em>was in gebruik voor de intra-Aziatische handel.</p> <p>Haar laatste reis ging van Batavia naar Patara om hout te halen (12-6-1698). <br>Bij terugkomst 15-8-zonk het schip op de rede van Batavia (Jakarta).<br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/96764\">DAS 5855.3.</a></li><li><a href=\"https://www.vocsite.nl/schepen/10469/\">VOC site.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

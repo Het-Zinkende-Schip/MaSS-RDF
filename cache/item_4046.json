@@ -1,0 +1,27 @@
+{
+  "id": "4046",
+  "code": "ng45",
+  "name": "NG45",
+  "type": "wreck",
+  "lat": "52.7450280",
+  "lon": "5.7372430",
+  "location": "Emmeloord, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1250",
+  "lastyearend": "1850",
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-03-20 10:18:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Betreft de vondst van kleine scheepsresten in het tochttalud van kavel G45 in de Noordoostpolder. Correspondentie van(maritiem) archeoloog Gerrit (G.D.) van der Heide vermeldt dat deze resten als 'zijnde van geen archeologische waarde' zijn opgegeven, maar er zijn wel enige schetsen van gemaakt. Er zijn geen objecten uit het wrak opgenomen in het Nationaal Scheepsarcheologisch Depot te Lelystad.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

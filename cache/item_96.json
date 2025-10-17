@@ -1,0 +1,26 @@
+{
+  "id": "96",
+  "code": "mfp-920",
+  "name": "MFP 920",
+  "type": "wreck",
+  "lat": "51.5500000",
+  "lon": "3.6710000",
+  "location": "Veerse Meer, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Albert Zandstra",
+  "created_on": "2010-02-01 00:00:00",
+  "modified_on": "2019-12-05 11:39:25",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>MFP (Marine-F&auml;hrprahme). Ca. 700 landing crafts called Marine f&auml;hrprahm have been built for German Kriegsmarine. The properties of these vessels, mainly the small drought were suitable for versatility operations. Otherwise high waves restricting operation at sea. The type has been built at several different ship yards. Maybe this is the reason for many variants of equipment and weapons.</p> <p>Length: 49.80 m.<br />Beam: 6.60 m.<br />Drought: 1.20 m.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000130.gif\" alt=\"MFP 920\" /><figcaption class=\"img-description\">MFP type D.</figcaption></figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck was removed / salvaged by the ministry of infrastructure and environment (RWS) because of safety reasons. As a relict of a second world war military ship, the presence of ammunition was considered high. Diving on the site was forbidden, but still continued. To ensure no accidents would happen, RWS decided to remove the wreck.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000129.jpg\" alt=\"MFP 920\" /><figcaption class=\"img-description\">Impression of the MFP 920 (source: Wrakduikstichting de Roompot).</figcaption></figure> <p><iframe src=\"https://player.vimeo.com/video/8702556\" width=\"440\" height=\"248\" frameborder=\"0\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" allowfullscreen=\"true\"></iframe></p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"http://www.deutschekriegsmarine.de/\">Deutsche Kriegsmarine.</a></li><li><a href=\"http://www.wdsr.nl\">Website Wrakduikstichting de Roompot.</a></li><li><a href=\"https://www.wdsr.nl/wp-content/uploads/008-publicatie-MFP-920-DM-wie-een-kuil-graaft-versie-1.2.pdf\">MFP 920 DM &quot;Wie een kuil graaft&quot; (WDSR publicatie 0008, mei 2013).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

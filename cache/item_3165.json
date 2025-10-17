@@ -1,0 +1,27 @@
+{
+  "id": "3165",
+  "code": "bill-s",
+  "name": "Bill S",
+  "type": "wreck",
+  "lat": "50.9072111",
+  "lon": "1.0005708",
+  "location": "Dungeness, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1937",
+  "firstyearend": null,
+  "lastdate": "1940-07-10",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-11-06 12:19:37",
+  "modified_on": "2025-06-16 19:20:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong>De Bill-S </strong>vluchtte bij het uitbreken van de oorlog naar Engeland.<strong> </strong>Ze<strong> </strong>overgenomen door de Netherlands Shipping &amp; Trading Committee, Londen.</p> <p>Op 10 juli 1940 tijdens een reis in konvooi CW 3 ge&euml;scorteerd door de <em>HMS Versatile</em> aangevallen door de Duitse Luftwaffe en zwaar beschadigd. Even later zonk het schip. De bemanning werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Boele's Scheepswerven &amp; Machinefabriek</p> <p>Eigenaar 1: N.V. Zeevaart Maatschappij 'Bill', Rotterdam<br>Eigenaar 2: Netherlands Shipping &amp; Trading Committee, Londen (1940)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>169 voet (51,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>26 &frac14; voet (8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>466 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=974\">marhisdata id 974.</a></li><li><a href=\"https://www.naval-history.net/xDKWW2-4007-20JUL01.htm\">NAVAL EVENTS, JULY 1940 (Part 1 of 2).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4134",
+  "code": "nr4",
+  "name": "NR4",
+  "type": "wreck",
+  "lat": "52.7728530",
+  "lon": "5.8545740",
+  "location": "Luttelgeest, Nederland",
+  "firstdate": null,
+  "firstyear": "1587",
+  "firstyearend": "1637",
+  "lastdate": null,
+  "lastyear": "1593",
+  "lastyearend": "1600",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-24 12:28:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 2004 werd losgescheurd scheepshout inclusief een kanon aangetroffen op kavel R4 in de Noordoostpolder. Tevens trof men op de nabijgelegen kavel N3 een kanon aan, waarvan op basis van de datering een relatie met de scheepsresten op kavel R4 werd vermoed. Daar werden de resten aangetroffen van een vrachtschip. Nader onderzoek in het kader van de International Fieldschool for Maritime Archaeology Flevoland (IFMAF) in 2009 zou uitwijzen dat het vermoedelijk verging tussen 1593 en 1600, op basis van de vondsten van een baardmankruik, een duit en een Driestedenplak. Bij de aanleg van drainagebuizen in de jaren '50 en '70 van de 20ste eeuw was het wrak helaas behoorlijk beschadigd, maar het (karveel gebouwde) vlak resteerde en er kon worden vastgesteld dat de boorden overnaads waren geweest. Ook gaf de opgraving uitsluitsel over de op de kavels R3 en R4 gevonden kanons/kruitkannen: die hebben niet aan het opgegraven wrak toebehoord.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2cf-7mwq\">Opgravingsdocumentatie scheepswrak NR4.</a></li><li>André van Holk, Yftinus van Popta, Adriana Spiekhout, K. Blok, J.P.F. Verweij.<br /><a href=\"https://research.rug.nl/nl/publications/zwaar-gehavend-wrak-voor-de-kust-van-kuinre-definitief-onderzoek-\">Zwaar gehavend wrak voor de kust van Kuinre: Definitief onderzoek van scheepswrak op kavel R 4 in de Noordoostpolder.</a><br />Groningen: Groninger Instituut voor Archeologie (GIA).</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4067",
+  "code": "zk5",
+  "name": "ZK5",
+  "type": "wreck",
+  "lat": "52.3046860",
+  "lon": "5.3293220",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1750",
+  "lastyearend": "1800",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:15:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Tijdens graafwerkzaamheden voor het aanleggen van een waterleiding naar het steunpunt Stichtse brug op kavel K5 in Zuidelijk Flevoland werd ca. 1990 en 1999 de vondst van scheepshout gemeld. In het jaar 2000 werd de vindplaats afgeprikt en kon worden bepaald dat het om een scheepswrak ging van 9,1 bij 4 meter. In het daarop volgende jaar vond een verkenning plaats om meer over het schip te weten te komen. Het bleek te gaan om een 19de-eeuws wrak met een vlakke bodem met daarop leggers geplaatst. Het werd waarschijnlijk gebruikt om vracht mee te vervoeren, al werden bij de verkenning nog geen sporen van een lading aangetroffen. Alleen het vlak en een kimgang zijn van het wrak bewaard gebleven, en waarschijnlijk is een deel verwijderd met het graven van een sloot. De waterleiding is waarschijnlijk ook door het schip aangelegd. Omdat het schip in een bosgebied ligt werden maatregelen geadviseerd om aantasting van de resterende scheepsdelen te voorkomen, in de hoofdzaak het verwijderen van bomen boven het wrak. Op basis van dendrochronologisch onderzoek is een veldatum van het scheepshout vastgesteld op 1765 AD +/- 8 jaar. Enkele vondsten gedaan tijdens de verkenning waren een koperen scharnier, scherven aardewerken en een pijpenkop.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z36-7m6u\">Opgravingsdocumentatie scheepswrak ZK5.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4080",
+  "code": "nm10",
+  "name": "NM10",
+  "type": "wreck",
+  "lat": "52.7547800",
+  "lon": "5.8089080",
+  "location": "Bant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": "1825",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:46:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1942 werd een scheepswrak gevonden en deels opgegraven op kavel M10 in de Noordoostpolder. Een scheepstype werd niet vastgesteld, maar volgens de documentatie betrof het een 'smal, vrij lang wrak in het uiterste zuiden van kavel M10'. De ondergang werd gesteld op circa 1800-1825 op basis van gedane vondsten.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zw5-cxdz\">Opgravingsdocumentatie scheepswrak NM10.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

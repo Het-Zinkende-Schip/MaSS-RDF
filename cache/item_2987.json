@@ -1,0 +1,27 @@
+{
+  "id": "2987",
+  "code": "marchiena",
+  "name": "Marchiena",
+  "type": "wreck",
+  "lat": "50.6477474",
+  "lon": "0.4511874",
+  "location": "Engelse kanaal ter hoogte van Beachy Head, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1912",
+  "firstyearend": null,
+  "lastdate": "1917-05-09",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-10 11:22:41",
+  "modified_on": "2025-06-15 14:38:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Eerste eigenaar H. van der Laan verkocht de Marchiena in 1916 aan de Deense <em>Soegaarde rederi. </em>De levering van het schip kon niet worden uitgevoerd Deze kreeg geen verlof tot uitvaren.</p> <p>T0en werd op verzoek van de rederi Marchiena verkocht aan A. Muller boekhouder vande Dense rederij op 27 juli 1917.</p> <p>Nu kon de Marchiena uitvaren . Ze verliet Maassluis op 15 januari 1917 met een lading glas bestemd voor Le Havre. Retour lading was</p> <p><strong>Vermist</strong><br>De Machiena vertrok vanuit Le Havre 28 maart. 5 mei verstuurde kapitein Veninga nog een telegram van Saint Valery. Daarna werd niets meer vernomen van het schip of bemanning.</p> <p><strong>Lot</strong><br>Pas na de oorlog werd duidelijk dat ze in het Engelse Kanaal 30 mijl zo van Beachby Head tot stoppen werd gedwongen door de Duitdse UC 17. Ze werd met kanonvuur tot zinken gebracht. De bemanning had het schip verlaten in de reddingsboot maar werd niet meer gevonden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Tweemaster gaffel schoener<br>Gebouwd: Vierverlaten</p> <p>Eigenaar 1: Hendrik van der Laan, Groningen (1912-1916)<br>Eigenaar 3: Adrianus Johannes Muller, Stad aan het Haringvliet vanaf</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Veninga, C.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>5</td></tr><tr><th scope=\"row\">Lengte</th><td>101 &frac12; voet (30,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>22 voet (6,7 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>2 &frac12; voet (0,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>169 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=3970\">marhisdata ID 3970.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Marchiena&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1918%7C&amp;page=1&amp;coll=ddd&amp;identifier=MMKB08:000189628:mpeg21:a0004&amp;resultsidentifier=MMKB08:000189628:mpeg21:a000\">Uitspraken van den Raad voor de Scheepvaart (24-4-1918).</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/3891.html\">uboat.net UC 17.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2922",
+  "code": "vechtstroom",
+  "name": "Vechtstroom",
+  "type": "wreck",
+  "lat": "53.5726904",
+  "lon": "0.1650479",
+  "location": "Humber, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1941-09-23",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-16 09:57:29",
+  "modified_on": "2022-07-16 10:17:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 22 september 1941 vertrok de Vechtstroom van Grimsby naar London met een lading steenkolen. Nog dezelfde dag werd zij voorbij het lichtschip &lsquo;HUMBER&rsquo;, bij boei D, door Duitse vliegtuigen aangevallen en door een luchttorpedo zo ernstig beschadigd, dat zij op 23 september 1941 in de Humber-Monding, in positie 53&deg;42&rsquo;NB. en 00&deg;33&rsquo;OL. zonk en verloren ging. Alle opvarenden konden worden gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2054\">marhisdata.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

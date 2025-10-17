@@ -1,0 +1,27 @@
+{
+  "id": "2215",
+  "code": "kat-1623",
+  "name": "Kat",
+  "type": "wreck",
+  "lat": "53.3758055",
+  "lon": "5.1175117",
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1623",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1633",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-09 12:21:30",
+  "modified_on": "2025-06-11 19:09:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Jacht<br>Gebouwd: werf te Amsterdam, 1621<br>Eigenaar: WIC kamer Amsterdam<br>Tonnage: 90<br>Opvarenden: 52 bemanning, 21 soldaten (1629)<br>Opvarenden: 4 bemanning, 48 soldaten (1633)<br>Kapitein:Jacob Barentsz<br>Bewapening: 14 ijzeren stukken (1629), 16 (1633)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>180 ton (90 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Laet (1644).<br /><em>Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, zedert haer begin, tot het eynde van 't jaer sesthien-hondert ses-en-dertich; begrepen in derthien boecken.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

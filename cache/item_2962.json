@@ -1,0 +1,27 @@
+{
+  "id": "2962",
+  "code": "driebergen",
+  "name": "Driebergen",
+  "type": "wreck",
+  "lat": "48.6146264",
+  "lon": "-6.0807551",
+  "location": "English Channel",
+  "firstdate": null,
+  "firstyear": "1910",
+  "firstyearend": null,
+  "lastdate": "1917-02-17",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-12 11:12:04",
+  "modified_on": "2025-06-15 14:23:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het vrachtschip ss. <em><strong>Driebergen</strong></em> op weg van Port Talbot naar Huelva (Spanje), werd in Het Engels Kanaal, 40 mijl ten westen van Quessant, door de Duitse onderzeeboot 'UC 66' aangehouden en met een springlading tot zinken gebracht.</p> <p>De Driebergen had, toen het tot zinken werd gebracht een lading steenkool aan boord en was, na lossing daarvan, bestemd om te Baltimore graan voor de Nederlandse Regering te halen.<br><br>De opvarenden werden gered door het Franse stoomschip <em><strong>Charles le Cour</strong></em> en in Brest aan wal gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Irvine&rsquo;s SB. &amp; DD. Co., Ltd., West Hartlepool</p> <p>Eigenaar: N.V. Stoomv. Mij. Hollandia (N.V. Furness Scheepv. en Agentuur Mij.), Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>278 &frac34; voet (85 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 voet (12,2 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 &frac14; voet (5,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1884 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://uboat.net/wwi/ships_hit/1716.html\">Uboat.net UC  66.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=1808\">marhisdata 1808.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4072",
+  "code": "ok84-i",
+  "name": "OK84-I",
+  "type": "wreck",
+  "lat": "52.5238660",
+  "lon": "5.6911510",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1550",
+  "lastyearend": "1600",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:41:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1958 werd naar aanleiding van een telefonische melding een scheepswrak werkend in het kanaaltalud van kavel K84 in Oostelijk Flevoland, 24 meter uit sloot K84/85. Het bleek te gaan om een vrij compleet vrachtschip van ca. 18,5 bij 4,5 meter en werd aangemerkt voor verder onderzoek. E&eacute;n van de plechten was wellicht nog aanwezig, wat werd afgeleid uit enkele vlakliggende planken, een mogelijke mastkoker en enkele afgeronde zware inhouten aan weerszijde van de mastbank tegen de boorden. De ouderdom kon op dat moment echter nog niet vastgesteld worden. Het wrak was van binnen enigszins vergraven door de dragline toen het was ontdekt. In 1964 vond er een herverkenning plaats. Van een in de 22ste drain op dezelfde kavel gevonden stuk scheepswand kon niet worden bepaald, of het tot dit schip zou hebben kunnen behoord. Een notitie uit 1981 in het archeologisch dossier vermeldt dat er van het wrak slechts \"een fragment van 5 &agrave; 6 meter lengte (scheepseind)\" over zou zijn. Of dit destijds is vastgesteld na een herverkenning of opgraving wordt uit de documentatie echter niet duidelijk. Er lijkt maar weinig informatie over deze scheepsvondst te zijn opgetekend.</p> <p>In 1964 werd geconstateerd dat zich op kavel K84 nog een tweede scheepswrak bevond, te weten een eind 16de-eeuws waterschip (een type vissersschip), dat daarom werd aangeduid als OK84-II.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xhx-akhn\">Opgravingsdocumentatie scheepswrak OK84-I.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

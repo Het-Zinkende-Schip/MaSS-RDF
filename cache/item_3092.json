@@ -1,0 +1,27 @@
+{
+  "id": "3092",
+  "code": "gouda",
+  "name": "Gouda",
+  "type": "wreck",
+  "lat": "50.7664135",
+  "lon": "1.5767845",
+  "location": "Boulogne-sur-Mer, Frankrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1628-10-08",
+  "lastyear": "1628",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-05-24 16:27:27",
+  "modified_on": "2025-06-15 21:15:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Gouda</strong></em> was een schip ingedeeld bij de blokkade vloot voor de Vlaamse kust. Het schip hoorde toe aan de Admiraliteit van Amsterdam.</p> <p>De Gouda was 170 last groot, had een bemanning van 95 koppen en stond onder het bevel van kapitein Cornelis van Oijen. Op 8 of 9 oktober 1628 liep het aan de grond tijdens een achtervolging van een Duinkerker kaper. Het schip werd door golfslag en wind stuk gebeukt.</p> <p>Voor het zover was, kon de bemanning alle kanonnen en levensmiddelen aan land brengen. De plaatselijke bevolking ging met het eten en alles wat los, vast en niet te zwaar was aan de haal. Kapitein van Oijen maakte expliciet melding van plundering en mishandeling door de Franse bevolking ter plaatse.</p> <p>De repatri&euml;ring van de kanonnen zou in 1629 zijn gebeurd, na enige diplomatieke demarches bij de Franse autoriteiten.</p> <p>Een bijdrage van Roel Slachmuylders</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Tonnage: 170 last<br>Bewapening: 24 stukken (6 bronzen, 18 ijzeren)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Cornelis van Oijen</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>95</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.01.46/invnr/1374/file/NL-HaNA_1.01.46_1374_0177?eadID=1.01.46&amp;unitID=1374&amp;query=\">NL-HaNA_1.01.46_1374_0177 vergadering 7 nov. 1628.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

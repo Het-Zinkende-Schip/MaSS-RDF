@@ -1,0 +1,27 @@
+{
+  "id": "2877",
+  "code": "hibernia",
+  "name": "Hibernia (IJM 182)",
+  "type": "wreck",
+  "lat": "52.6625023",
+  "lon": "3.5621335",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1915-11-08",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-01 06:52:02",
+  "modified_on": "2025-07-17 10:59:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Hibernia is op 8 november 1918 vertrokken uit Ijmuiden. Daarna is nooit meer iets van hety schip gehoord. De Hibernia is met man en muis vergaan.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003202.jpg\" alt=\"tekst: De Hibernia. De reederij van den stoomtreiler Hibernia, te IJmuiden, schijnt dat schip nu te hebben opgegeven en neemt aan dat het is verloren gegaan. De bemanning bestond uit elf koppen: den schipper B. van der Plas, den machinist C. Koelemey, den stuurman B. Konijn, den twee-den machinist W. Bragt, den stoker C. Ruyg-rok, den tremmer W. de Jong, de matrozen G. van der Vegt, B. van der Vegt, E. Koper, A. Groen en den kok G. Hollaer.\"> <div class=\"img-source\">Delpher.nl</div> </figure> <p><em> Het nieuws van den dag 25-11-1915</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: rederij Shamrock, Ijmuiden</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Plas, B. van der</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>11</td></tr><tr><th scope=\"row\">Tonnage</th><td>191 ton (96 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Hibernia&amp;coll=ddd&amp;sortfield=date&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1915%7C&amp;page=17&amp;identifier=MMSAVL02:000481198:mpeg21:a00064&amp;resultsidentifier=MMSAVL02:000481198:mpeg21:a00064&amp;rowid=1\">Nieuwe Vlaardingsche courant  24-12-1915.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

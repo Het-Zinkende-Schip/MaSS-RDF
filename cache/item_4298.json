@@ -1,0 +1,27 @@
+{
+  "id": "4298",
+  "code": "wakende-boei-2",
+  "name": "Wakende Boei",
+  "type": "wreck",
+  "lat": "53.0163434",
+  "lon": "4.8143846",
+  "location": "Zuidwal, Texel, Nederland",
+  "firstdate": null,
+  "firstyear": "1692",
+  "firstyearend": null,
+  "lastdate": "1697-10-02",
+  "lastyear": "1697",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-07-09 10:21:31",
+  "modified_on": "2025-07-13 12:12:44",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het fregat '<em>Wakende Boeij</em>' was een konvooier op de Noordzee in dienst van de admiraliteit van Amsterdam. Van juni 1692 tot april 1993 maakte ze deel uit van een Brits - Nederlandse eskader om Duinkerken af te grendelen. Het Nederlandse deel bestond uit 18 schepen onder kapitein van Zijl.<a href=\"https://www.delpher.nl/nl/kranten/view?query=%22wakende+boey%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=1%7C17e_eeuw%7C1690-1699%7C&amp;identifier=ddd:011226751:mpeg21:a0005&amp;resultsidentifier=ddd:011226751:mpeg21:a0005&amp;rowid=2\">&sup1;</a></p> <p>Commandeur van de Wakende Boeij was tot 1697 Corle de Neptunis. 13 -4-1697 meld de Amsterdamsche Courant dat Cortenbos kapitein op de Wakende Boey werd. Corle werd kapitein op het schip Groene Wijf.<a href=\"https://www.delpher.nl/nl/kranten/view?query=%22wakende+boey%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=1%7C17e_eeuw%7C1690-1699%7C&amp;identifier=MMSAA06:166472045:mpeg21:a00003&amp;resultsidentifier=MMSAA06:166472045:mpeg21:a00003&amp;rowid=9\">&sup2;</a></p> <p>2 oktober 1697 is De Wakende Boeij in een storm op de Zuid wal (Moscovische rede) bij Texel gestrand. Op dat moment werd nog gemeld dat de schade gering was.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004497.jpg\" alt=\"stuk tekst: ''Muys in't Tellel binnen gekomen; hebbende het gemelde Ichip van den Admirael alle fijn Maften, Ankers en Touwen verlooren, en het lacrfte gekapt. 't Schip de Wakende Bocy, Commandeur Cor tenbos, is, aen de Zuydwal fittende, geborften. 't Schip de Jafistia,''\"> <div class=\"img-source\">Amsterdamse courant 24-10-1697</div> </figure> <p>Op 24 -10 zat het schip nog vast en was inmiddels onherstelbaar beschadigd. Er wordt gemeld dat het schip gebarsten is.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1692<br>Bewapening : 26 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Cortenbosch</td></tr><tr><th scope=\"row\">Lengte</th><td>105 Amsterdamse&nbsp;voet (29,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Vreugdenhil, A.<br /><a href=\"https://nla.gov.au/nla.obj-33239056/view?partId=nla.obj-82159935#page/n48/mode/1up\">Lists of men-of-war, 1650-1700.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22wakende+boey%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=1%7C17e_eeuw%7C1690-1699%7C&amp;identifier=ddd:011226751:mpeg21:a0005&amp;resultsidentifier=ddd:011226751:mpeg21:a0005&amp;rowid=2\">Oprechte Haerlemsche courant 28-06-1692.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Cortenbos%22&amp;coll=ddd&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=0%7C17e_eeuw%7C&amp;identifier=MMSAA06:166472128:mpeg21:p00002&amp;resultsidentifier=MMSAA06:166472128:mpeg21:a00004&amp;rowid=2\">Amsterdamse courant 24-10-1697.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

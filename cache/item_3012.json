@@ -1,0 +1,27 @@
+{
+  "id": "3012",
+  "code": "wageningen",
+  "name": "Wageningen",
+  "type": "wreck",
+  "lat": "56.7238226",
+  "lon": "2.9395064",
+  "location": "Noordzee?",
+  "firstdate": null,
+  "firstyear": "1917",
+  "firstyearend": null,
+  "lastdate": "1919-01-09",
+  "lastyear": "1919",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-30 13:22:37",
+  "modified_on": "2022-10-04 11:01:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Wageningen vertrok 7 januari 1919 van Rotterdam naar Kopenhagen met een lading van 170 ton stukgoederen. Er werd daarna niets meer van het schip vernomen.Ze is vermoedelijk op een mijn gelopen. Alle 9 bemanningsleden zijn omgekomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Van der Eb &amp; Dresselhuys' Scheepvaart Maatschappij N.V., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>9</td></tr><tr><th scope=\"row\">Lengte</th><td>115 &frac34; voet (35,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>22 &frac14; voet (6,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>316 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=7155\">marhisdata id 7155.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Wageningen&amp;cql%5B%5D=%28date+_gte_+%2231-01-1919%22%29&amp;cql%5B%5D=%28date+_lte_+%2220-02-1919%22%29&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;redirect=true&amp;sortfield=date&amp;p\">Het vaderland    31-01-1919.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

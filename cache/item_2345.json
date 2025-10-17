@@ -1,0 +1,27 @@
+{
+  "id": "2345",
+  "code": "zwarte-raaf",
+  "name": "Zwarte Raaf",
+  "type": "wreck",
+  "lat": "51.4014771",
+  "lon": "0.5584374",
+  "location": "Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1640",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1654",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-28 18:56:08",
+  "modified_on": "2025-06-12 11:57:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Zwarte Raaf</strong></em> was een schip van het zogenaamde directoraat van Amsterdam. Het was een gehuurd schip.</p> <p>De Zwarte Raaf werd veroverd tijdens de 'Driedaagse Zeeslag slag' (28-2 tot 3-3- 1653). Ze werd in Britse dienst genomen als <em>Black Raven</em>.</p> <p>Vermoedelijk is ze gesloopt in Engeland na juli 1653.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 38</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Samuel Dickenson</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>150</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=13989\">British Fourth Rate ship 'Zwarte Raaf' (1653).</a></li><li>Bender, J. (2014).<br /><em>Dutch warships in the age of sail (1600-1714) p. 167.</em><br />Seaforth Publishing.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

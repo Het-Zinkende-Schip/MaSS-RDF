@@ -1,0 +1,27 @@
+{
+  "id": "945",
+  "code": "ceylon",
+  "name": "Ceylon",
+  "type": "wreck",
+  "lat": "-36.5274600",
+  "lon": "77.9635492",
+  "location": "Ile amsterdam",
+  "firstdate": null,
+  "firstyear": "1673",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1680",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-23 14:14:42",
+  "modified_on": "2024-06-11 13:29:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Ceylon</strong></em> maakte twee succesvolle retour reizen. Ze vertrok op 24 januari 1675 voor haar eerste reis naar Azi&euml; van Texel naar Batavia (aankomst 12-9-1675). Op 15 september 1676 was ze terug in Nederland.&nbsp;<br>De tweede reis begon 14 december 1676 met bestemming Colombo in Ceylon (aankomst 13-10-1677). Ze was terug in Texel 8 augustus 1679.</p> <p><strong>Laatste reis<br></strong>De Ceylon vertrok voor haar derde uitreis op 26 februari 1680 van Texel naar Batavia. Ze kwam aan op de rede van Kaapstad op 12 juli 1680 en verliet de Kaap op 21 juli, samen met het schip Zilverstein. De schepen kwamen op 13 augustus terecht in een zware storm. Dat was het laatste wat van De Ceylon werd gezien.</p> <p>t <em>Schip Ceylon maar alle apparentie en volgens de rapporten uijt het schip Silversteijn in augusti 1680 op de herwaarts reijse uijt het vaderland tusschen de Caap en India () op de breete 36 graden met volk en al gesonken. (NA 1.04.02, 1354, 763)<br></em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Amsterdam, 1673<br>Opvarenden: 250-270<br>Tonnage In het uitreis boek wordt een lastmaat van 260 opgegeven (NL-HaNA_1.04.02_4932_0147)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>145 voet (44,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 &frac12; voet (10,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92449\">Dutch-Asiatic Shipping ID 1389.3.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1354/file/NL-HaNA_1.04.02_1354_0051?query=1354&amp;start=0&amp;search-type=item_code\">NA 1.04.02  1354, 763.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0147?query=4932&amp;start=0&amp;search-type=item_code\">NL-HaNA_1.04.02_4932_0147.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

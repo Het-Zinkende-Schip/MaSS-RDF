@@ -1,0 +1,27 @@
+{
+  "id": "790",
+  "code": "catharina",
+  "name": "Catharina",
+  "type": "wreck",
+  "lat": "25.3694640",
+  "lon": "120.6755135",
+  "location": "Taiwan Strait",
+  "firstdate": null,
+  "firstyear": "1717",
+  "firstyearend": null,
+  "lastdate": "1719-08-14",
+  "lastyear": "1719",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-07-03 10:54:04",
+  "modified_on": "2024-12-07 14:23:50",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Catharina</strong></em> vertrok op 5 mei 1718 uit Texel voor haar eerste uitreis naar Indi&euml;. Ze kwam aan in Batavia op 28 januari 1718.</p> <p>Op 30 juni 1719 vertrok ze samen met De Meeroog uit Batavia met bestemming Deshima, Japan. Aan boord was het nieuwe opperhoofd Christiaan van Vrijbergh.</p> <p>Op 14 augustus werden de drie VOC schepen&nbsp;<a href=\"https://mass.cultureelerfgoed.nl/meeroog\">Meeroog</a>, <a href=\"https://mass.cultureelerfgoed.nl/slot-van-capelle-1717\">Slot van de Capelle</a> en De Catharina overvallen door een storm in de straat van Taiwan. Een Portugees schip bracht 8 overlevenden van Slot van de Capelle &eacute;n dit bericht in januari 1720 naar Batavia.(<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=480&amp;accessor=search_in_text&amp;source=7&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1081\">GM 7, 467</a>)</p> <p>'Gebleven met alt volk op seijn reijs na Japan 1719.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0032?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: op een werf in Amsterdam 1717<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>145 Amsterdamse&nbsp;voet (41,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93397\">Details of voyage 2349.1 from Texel to Batavia.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=480&amp;accessor=search_in_text&amp;source=7&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Generale missiven Deel 7, 467.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0032?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">NA-1.11.01.01-551, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

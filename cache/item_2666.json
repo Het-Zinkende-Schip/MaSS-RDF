@@ -1,0 +1,27 @@
+{
+  "id": "2666",
+  "code": "gier",
+  "name": "Gier",
+  "type": "wreck",
+  "lat": "53.4939282",
+  "lon": "6.1344910",
+  "location": "Schiermonnikoog, Nederland",
+  "firstdate": null,
+  "firstyear": "1794",
+  "firstyearend": null,
+  "lastdate": "1796-05-15",
+  "lastyear": "1796",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-10-08 10:59:07",
+  "modified_on": "2025-06-14 18:42:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Door Engelsen op strand gejaagd bij Schiermonnikoog.</p> <p>16-8- 1795 in smaldeel o.l.v. W.G. Gaymans kruisen Noordzee voor de Deense kust (DJ V 227). Op 19-8, 4 Engelse koopvaarders opgebracht, in totaal 15 koopvaarders opgebracht tijdens de missie.</p> <p>De Gier moet overwinteren in Christiaanstad. Op de terugreis wordt ze samen met de Echo nagezeten door een Engels eskader.Ze probeert het gevecht te ontlopen maar wordt beschoten door een Engels fregat. Lt. Hidde Bok zet de Gier op een zandbank bij Schiermonnikoog . (DJ V 335) De Engelsen kunnen er niet bij komen en laten de Gier aan haar lot over. Door storm wordt het schip stuk geslagen. 3 matrozen verdrinken daarbij. Commandant Bok raakt gewond.</p> <p>Masten, tuigage en kanonnen worden geborgen. Casco verkocht voor 266,- (4-7-1796).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002840.jpg\" alt=\"schilderij van een zeilschip met twee masten\"> <div class=\"img-source\">Marinemuseum Den Helder inv: A/002/307</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 12 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Bok, Hidde</td></tr><tr><th scope=\"row\">Lengte</th><td>100 voet (30,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 &frac34; voet (9,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jonge,  J.C (1858).<br /><em>Geschiedenis van het  Nederlandsche Zeewezen.</em></li><li>Glavimans,<br /><a href=\"https://rjb.x-cago.com//GARJB/1900/12/19001231/GARJB-19001231-0129/story.pdf\">appendix schepen op de admiraliteitswerf gebouwd.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

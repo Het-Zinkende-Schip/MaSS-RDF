@@ -1,0 +1,27 @@
+{
+  "id": "2991",
+  "code": "nieuwland-3",
+  "name": "Nieuwland",
+  "type": "wreck",
+  "lat": "53.5055106",
+  "lon": "0.4596188",
+  "location": "Humber, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1914",
+  "firstyearend": null,
+  "lastdate": "1914-10-03",
+  "lastyear": "1914",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-13 11:55:36",
+  "modified_on": "2022-09-13 12:12:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het gloednieuwe vrachtvaarder Nieuwland was net &eacute;&eacute;n maand in de vaart toen ze met een lading steenkolen op 3 oktober 1914 onderweg was van Goole naar Harlingen. Het ging mis toen de Nieuwland in de monding van de Humber op een mijn liep. Ze zonk binnen 20 minuten na de mijn explosie. <br>Alle 17 opvarenden werden uit de reddingsboot, waarin zij zich hadden gered, veilig opgenomen door de logger <em><strong>Wilhelmina IV</strong></em>, (KW 148). De mijn was op 26 augustus 1914 gelegd door het Duitse oorlogsschip S.M.S NAUTILUS.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Drayer, H.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>17</td></tr><tr><th scope=\"row\">Lengte</th><td>228 voet (69,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 voet (10,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>927 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4653\">marhisdata ID 4653.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

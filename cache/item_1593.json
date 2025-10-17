@@ -1,0 +1,27 @@
+{
+  "id": "1593",
+  "code": "zeebloem",
+  "name": "Zeebloem",
+  "type": "wreck",
+  "lat": "8.7070151",
+  "lon": "78.1732178",
+  "location": "op de kust van Madura, India",
+  "firstdate": null,
+  "firstyear": "1662",
+  "firstyearend": null,
+  "lastdate": "1662-09-14",
+  "lastyear": "1662",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-04 16:24:30",
+  "modified_on": "2024-11-26 10:21:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het kleine jacht <em>Zeebloem</em> is vergaan op de kust van Madura (Zuid India ). Een deel van de bemanning is daarbij omgekomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Resources Huygens ING.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=459&amp;accessor=search_in_text&amp;source=3&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26i\">Generale missiven van gouverneurs-generaal en raden aan heren XVII der Verenigde Oostindische Compagnie.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

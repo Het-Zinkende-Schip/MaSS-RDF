@@ -1,0 +1,27 @@
+{
+  "id": "2862",
+  "code": "plejaden-ijm44",
+  "name": "Plejaden (IJM44)",
+  "type": "wreck",
+  "lat": "53.4309191",
+  "lon": "2.5891100",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1916-01-24",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2022-05-28 06:55:29",
+  "modified_on": "2025-06-15 11:58:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Verliet de haven van Ijmuiden 24 januari 1916 om te gaan vissen. Sindsdien is de Plejaden vermist.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Cook, Welton &amp; Gemmell Ltd., Beverley (Hull) <br>Eigenaar 1: Bowman, George Walter, Hull (18)<br>Eigenaar 2 : Praxis (1911-1916)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>wrecksite.eu.<br /><a href=\"https://www.wrecksite.eu/wreck.aspx?170449\">Plejaden.</a></li><li>visserijschepen van Scheveningen.<br /><a href=\"https://www.scheveningen-haven.nl/info/schepen/index_ijm.php?nummer=44&amp;lijst=0&amp;af=IJM\">IJmuiden 44.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

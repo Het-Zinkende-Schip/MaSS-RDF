@@ -1,0 +1,27 @@
+{
+  "id": "2551",
+  "code": "becks",
+  "name": "Becks",
+  "type": "wreck",
+  "lat": "53.0772388",
+  "lon": "8.7900925",
+  "location": "Bremen, Duitsland",
+  "firstdate": null,
+  "firstyear": "1444",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-04-29 19:17:55",
+  "modified_on": "2025-07-17 10:22:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Wrak onder een brouwerij</h2> <p>Tijdens opgravingswerkzaamheden bij de Beck's Brouwerij in Bremen in 1989 werd een deel van de boeg van een houten rivierpraam gevonden op 150 meter afstand van de huidige rivieroever. Het wrak lag op een grindrug in wat ooit een toevoerwater van de rivier de Weser was, de Balge geheten. Het wrak werd naar de brouwerij vernoemd.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002559.jpg\" alt=\"De afbeelding toont een kaart van de Hanzestad Bremen, Duitsland, met een focus op de rivier de Weser en de omgeving. \"> <div class=\"img-source\">Daniel Zwick + Geoinformation Bremen</div> <figcaption class=\"img-description\">Locatie van het wrak.</figcaption> </figure> <p>De documentatie over de opgraving (niet gepubliceerd) onthult dat het wrak van positie veranderd moet zijn, wat blijkt uit de veranderde stratigrafie in het wrak en bij de grofheid van het sediment, wat wijst op een harde stroming tijdens het zinken. De lokale geoloog Dr. Dieter Ortlam reconstrueerde de middeleeuwse rivierloop op basis van grondmonsters en de plaatsen van scheepswrakken.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002558.jpg?modifiedon=1705654433\" alt=\"een opgegraven scheepswrak, met mannen ernaast\"> <div class=\"img-source\">Landesarch&auml;ologie Bremen</div> <figcaption class=\"img-description\">Foto genomen tijdens de opgraving (zie Zwick 2012).</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Het boegdeel is 3.7 meter lang. Ten tijde van de ontdekking werd een enkel monster van een plank gedateerd op 1489 d.m.v. dendrochronologie. Een ander monster werd uit de kielplank genomen in 2009 wat een eerdere datum van 1444 onthulde. Dat kan betekenen dat de plank een late reparatie is. Het wrak laat inderdaad tekenen van reparatie zien: De sponning van de achtersteven is opnieuw uitgekapt om een nieuwe bootsklamp te plaatsen, wat aangeeft dat de kopstukken losgekomen moeten zijn.</p> <p>Het schip had een platte bodem, d.w.z. dat de bodem gebouwd is uit erg brede, dosse gezaagde en karveel geplaatste planken, terwijl de boordgangen overnaads geplaatst zijn. Halve wrangen (asymmetrische vloerspanten) [nr. 1] onderoplangers [nr. 6] en een zijn om en om geplaatst.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002557.jpg\" alt=\"schets van de doorsnede van een spant\"> <div class=\"img-source\">Zwick 2012</div> <figcaption class=\"img-description\">Doorsnede van een spant.</figcaption> </figure> <p>Nauwelijks bewerkt gestoomd hout werd voor de spanten gebruikt met nog veel spinthout eraan [nr. 3]. Alleen de verbindende delen werden geschaafd. Dit wrak heeft een L- vorminge knikspant [nr. 5], een kenmerk dat ook bekend is uit rivierpramen uit het gebied rond de Rijn sinds de Romeinse tijd. In Bremen is dit specifieke kenmerk ook gevonden in het wrak van de <em>Karl</em> uit 808 en dit laat dus 650 jaar doorlopende lokale bouwtraditie zien. Het is ook gevonden in wrakken in de Vistula rivier uit de hoge en late middeleeuwen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het fragment van het wrak werd geborgen en geconserveerd en is ten toon gesteld in het Focke Museum (het gemeentelijke historische- en kunstmuseum van Bremen).</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.focke-museum.de/\">Focke Museum.</a></li><li>Ortlam, D. (1996).<br /><em>Das mittelalterliche Flusssystem der Weser im Bremer Becken. Die Balge als Hauptstrom der Werra/Weser.</em><br />Der Aufbau 51.<br />pp 28-32.</li><li>Rech, M. (2004).<br /><em>Gefundene Vergangenheit. Archäologie des Mittelalters in Bremen (= Bremer Archäologische Blätter, Beiheft 3.</em><br />Bremen.</li><li>Zwick, D. (2012).<br /><em>Variationen in der mittelalterlichen Schiffbautechnik anhand von Wrackfunden in Bremen.</em><br />Holzbau in Mittelalter und Neuzeit (= Mitteilungen der Deutschen Gesellschaft für Archäologie des Mittelalters und der Neuzeit 24).<br />pp 283-298.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

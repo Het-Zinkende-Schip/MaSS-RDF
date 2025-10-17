@@ -1,0 +1,27 @@
+{
+  "id": "851",
+  "code": "hrms-balder",
+  "name": "Hr.Ms. Balder",
+  "type": "wreck",
+  "lat": "51.8916555",
+  "lon": "4.5819227",
+  "location": "Bolnes, Nederland",
+  "firstdate": null,
+  "firstyear": "1879",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-17 14:49:40",
+  "modified_on": "2025-06-07 20:57:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Van 1909 tot 1910 is het schip omgebouwd tot mijnenlegger en in 1910 als zodanig opnieuw in dienst genomen.</p> <p>In de meidagen van 1940 lag de&nbsp;Balder&nbsp;voor onderhoud op een&nbsp;scheepswerf&nbsp;in&nbsp;Bolnes. Op 14 mei 1940 is het schip daar in Duitse handen gevallen die het naar alle waarschijnlijkheid hebben laten verschroten.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type:&nbsp;rivierkanonneerboot van de Thorklasse. In 1910 omgebouwd tot mijnenveger<br>Gebouwd: Christie, Nolet &amp; Kuiper in Delfshaven. 1878<br>Commisioned: 1879<br>Afmeting: 27,8 x 8,5 x 2,2 m<br>Waterverplaatsing: 272 ton</p> <p>Bemanning: 34</p> <p>Machine: 121 pk<br>Snelheid: 7,5 knts<br>Bewapening: 2 x 5 cm kanon, 1 x 12,7 mm mitrailleur</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

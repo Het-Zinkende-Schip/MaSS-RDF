@@ -1,0 +1,27 @@
+{
+  "id": "951",
+  "code": "delftland",
+  "name": "Delfland",
+  "type": "wreck",
+  "lat": "50.8892935",
+  "lon": "1.6460615",
+  "location": "Tussen Calais en Boulogne sur mere, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1664",
+  "firstyearend": null,
+  "lastdate": "1668-02-14",
+  "lastyear": "1668",
+  "lastyearend": null,
+  "country": "Spanje",
+  "countrycode": "ES",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-24 10:01:39",
+  "modified_on": "2024-06-13 12:02:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Volgens de resoluties van de H XVII van 15-4-1665 [NA 1.04.02 (VOC) 105, scan 564] was het grote Spaanse schip Nostra Signora del Rosario ingekocht, nu genaamd&nbsp;<em><strong>Delfland</strong></em>.<a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/105/file/NL-HaNA_1.04.02_105_0564?query=105&amp;start=0&amp;search-type=item_code\">*</a></p> <p><strong>In dienst van 's Lands vloot 1665<br></strong>Vervolgens werd het schip aan de Admiraliteit verhuurd om de vloot aan te vullen in de net uitgebroken oorlog met Engeland. De Delfland nam deel aan de slag bij Lowestoft op 13 juni 1665 tijdens de Tweede Engelse Oorlog, onder commando van Juriaan Juriaansz. Poel.&nbsp;<br><br>Vanaf 11 augustus is de Delfland het vlaggenschip van de nieuw benoemde vlo0tvoogd Michiel de Ruiter. Aan boord bevindt zich ook de raadspensionaris Johan de Witt. Daarop werd 's Lands vloot uitgestuurd om de VOC retourvloot op te halen die was uitgeweken naar Bergen, Noorwegen.</p> <p>Op 14 februari 1668 strandt De Delfland op de kust tussen Calais en Boulogne.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>153 voet (46,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>37 voet (11,3 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92172\">Details of voyage 1089.1.</a></li><li><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0011.php#3914\">Leven en bedryf van den heere Michiel de Ruiter VIII 405.</a></li><li><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/105/file/NL-HaNA_1.04.02_105_0564?query=105&amp;start=0&amp;search-type=item_code\">NA 1.04.02 (VOC) 105, scan 56.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

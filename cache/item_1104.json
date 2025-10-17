@@ -1,0 +1,27 @@
+{
+  "id": "1104",
+  "code": "overschie-1653",
+  "name": "Overschie",
+  "type": "wreck",
+  "lat": "17.8897772",
+  "lon": "83.4568391",
+  "location": "Bheemunipatnam, Coromandel, India",
+  "firstdate": null,
+  "firstyear": "1643",
+  "firstyearend": null,
+  "lastdate": "1653-12-21",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-28 18:03:35",
+  "modified_on": "2025-06-30 18:00:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Overschie</strong></em> was een fluitschip, waarschijnlijk in 1642/43 door de VOC gekocht.</p> <p>De Overschie arriveerde op 27 mei in Batavia met 104 opvarenden waarvan 23 soldaten (<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=247&amp;accessor=search_in_text&amp;source=2&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1010\">Gen. Mis. 2, 3</a>92) en doet vervolgens dienst op handelsroutes in Azi&euml;.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003465.jpg?modifiedon=1677840650\" alt=\"De afbeelding toont een gedetailleerde weergave van een oude kaart, waarschijnlijk een kustlijn of een deel van een eiland\"> <div class=\"img-source\">4VEL-255-det</div> </figure> <p>De fluit Overschie is vergaan op 21 december 1653 voor Bimlipatam. (<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=775&amp;accessor=search_in_text&amp;source=2&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1010\">Gen.Mis. 2,762</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Delfshaven 1643<br>Tonnage: 180 last , 360 ton</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=775&amp;accessor=search_in_text&amp;source=2&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Generale missiven Deel 2, 763.</a></li><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/91737\">DAS 0620.1.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

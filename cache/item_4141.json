@@ -1,0 +1,27 @@
+{
+  "id": "4141",
+  "code": "nt103",
+  "name": "NT103",
+  "type": "wreck",
+  "lat": "52.6516830",
+  "lon": "5.9627870",
+  "location": "Kraggenburg, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": "1850",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:56:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1942 werd de vondst gemeld van een vermoedelijke vissersschuit op kavel T103 in de Noordoostpolder. Nader onderzoek door Pieter (P. J.R.) Modderman leverde op dat het schip ongeveer 20 m lang was, maar een bevestiging van een scheepstype werd niet gegeven en helaas werd het ook niet getekend. Wel werd opgemerkt dat in het wrak zeer veel pijpenkoppen werden aangetroffen. Als vondsten werden daar drie exemplaren van geborgen, naast nog een versierd houten staafje, een houten mesheft en drie aardewerken scherven (thans nog twee aanwezig in het Nationaal Scheepsarcheologisch Depot te Lelystad).</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xf9-8aeb\">Opgravingsdocumentatie scheepswrak NT103.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

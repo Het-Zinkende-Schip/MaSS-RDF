@@ -1,0 +1,27 @@
+{
+  "id": "3138",
+  "code": "bare",
+  "name": "Barentsz",
+  "type": "wreck",
+  "lat": "-7.7471520",
+  "lon": "109.0699093",
+  "location": "Indonesië",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1942-03-05",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-10-10 08:32:47",
+  "modified_on": "2023-10-10 08:43:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>&nbsp;De Barentsz. 1915-12-18:<br>Vertrek uit Nederland, Februari 1916 in dienst in Indi&euml;.<br><br>Met de oorlogsdreiging in Azie werd de Barentsz door het Gouvernement van Nederlands-Indi&euml; gevorderd. In Soerabaja bij het Marine Establissement verbouwd tot werk- en voorraadschip en op 28 december 1941 als zodanig in dienst gesteld van de Koninklijke Marine.<br>&nbsp;<br>&nbsp;Het schip was tijdens de Japanse invasie gevlucht naar havenstad Tjilatjap (Cilacap). Tijdens een Japanse luchtaanval werd het in brand geschoten en is gezonken en verloren gegaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Nederlandsche Scheepsbouw-Maatschappij, Amsterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>383 &frac12; voet (116,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>48 &frac12; voet (14,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>4819 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=812\">marhisdat id 812.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

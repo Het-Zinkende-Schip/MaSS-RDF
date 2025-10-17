@@ -1,0 +1,27 @@
+{
+  "id": "2120",
+  "code": "oy96",
+  "name": "OY96",
+  "type": "wreck",
+  "lat": "52.4188300",
+  "lon": "5.7112100",
+  "location": "Biddinghuizen, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1950",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-01-30 12:41:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens grondwerkzaamheden op kavel Y96 in Oostelijk Flevoland, tussen de Nonnetjesweg en de Gooiseweg, werd in maart 1962 een scheepswrak aangetroffen. In hetzelfde jaar werd door de Oudheidkundige afdeling van de Rijksdienst voor de IJsselmeerpolders een verkennend onderzoek uitgevoerd. Twee jaar later werd een herverkenning uitgevoerd. Het betreft een zwaargebouwd vissersschip. Het wrak is 12 meter lang, 3,5 meter breed en 1,2 meter diep. Verschillende delen van het schip staken tijdens de verkenning boven het maaiveld uit. De bovenste delen van het wrak zijn hierdoor beschadigd. De bun, die uit drie delen bestaat, is intact aangetroffen. De bakboordzijde is sterk beschadigd. Van het voorschip is het bovenste gedeelte, inclusief de voorplecht, verdwenen. De mast- of zeilbalk lijkt op het schip te ontbreken. Het schip is voor en achter met plaatijzer bekleed. De inventaris, bestaande uit een aantal emaillen voorwerpen, is van jonge datering. Tijdens de herverkenning zijn een aantal lepels, vorken en een wekker aangetroffen. E&eacute;n van de lepels was voorzien van het opschrift 'Vlekvrij Foreign May'. Een exacte datering kon niet worden vastgesteld. Na de documentatie is het wrak in 1964 verwijderd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een zwaargebouwd vissersschip, datering onbekend, Biddinghuizen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zc7-bacx\">Opgravingsdocumentatie scheepswrak OY96.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

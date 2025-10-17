@@ -1,0 +1,27 @@
+{
+  "id": "3211",
+  "code": "hero-1886",
+  "name": "Hero (+1886)",
+  "type": "wreck",
+  "lat": "12.5525505",
+  "lon": "-69.9627176",
+  "location": "Puente/Andicuri, Aruba",
+  "firstdate": null,
+  "firstyear": "1886",
+  "firstyearend": null,
+  "lastdate": "1886-08-17",
+  "lastyear": "1886",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Gendra Lacle",
+  "created_on": "2023-12-23 22:52:37",
+  "modified_on": "2025-06-16 20:25:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Duitse brik <em><strong>Hero</strong></em>, met een lading geelhout van Maracaibo op reis naar Cura&ccedil;ao, is aan de boca van Antikoeri des avond van de 17e uiteengeslagen. Van de bemanning, bestaande uit zes personen, is alleen de stuurman gered.</p> <p>De lijken van de kapitein en van twee andere slachtoffers zijn aan de boca, waar zij aanspoelden, ter aarde besteld. Schip en lading zijn verloren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>6</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Hero&amp;coll=ddd&amp;sortfield=date&amp;facets%5Bperiode%5D%5B%5D=2%7C19e_eeuw%7C1880-1889%7C1886%7C&amp;page=13&amp;identifier=KBDDD02:000208251:mpeg21:a0013&amp;resultsidentifier=KBDDD02:000208251:mpeg21:a0013&amp;rowid=8\">Algemeen Handelsblad  (22-09-1886).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

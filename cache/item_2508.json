@@ -1,0 +1,27 @@
+{
+  "id": "2508",
+  "code": "type-xxvii-submarine-ff",
+  "name": "Type XXVII submarine",
+  "type": "wreck",
+  "lat": "54.8265618",
+  "lon": "9.7098541",
+  "location": "Flensburger Förde, Duitsland",
+  "firstdate": null,
+  "firstyear": "1944",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1945",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-11 18:17:38",
+  "modified_on": "2025-07-08 18:03:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This is the wreck of an - as yet - unidentified submarine of the <em>Seehund</em>-type (or alternatively XXVII-type) built by Nazi Germany during World War II. It is one of the few examples of a midget submarine in German waters, which is exceptionally well preserved.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002477.jpg?modifiedon=1615482953\" alt=\"photo of a shipwreck on the bottom of the sea, with a diver next to it\"> <div class=\"img-source\">Steffen Schmitt</div> <figcaption class=\"img-description\">photo of a shipwreck on the bottom of the sea, with a diver next to it</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002478.jpg\" alt=\"photo of a shipwreck on the bottom of the sea, with green water\"> <div class=\"img-source\">Steffen Schmitt</div> </figure> <p>It can be surmised that it was scuttled in the context of <em>&lsquo;Operation Regenbogen&rsquo;</em>, an order given by the admiralty in the early hours of 5th May 1945 to scuttle navy vessels, only to be revoked few minutes later. The order was still executed by 87 vessels, mostly by submarine commanders in the nearby Gelting Bay (41 vessels) and in Flensburg (13 vessels). The hatch &ndash; marked by the still intact glass dome &ndash; is reportedly closed and appears to have been locked from the outside.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002584.jpg\" alt=\"The image shows a Biber, a German midget submarine used by the Kriegsmarine during World War II\"> <div class=\"img-source\">Oleksiy Konovalov</div> </figure> <p>Most of the wrecks of this type were later salvaged and broken up, especially in the 1950's and early 1960's (cf. photo below), so this wreck is one of the very few to have survived both the war and the ensuing salvage operations.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002479.jpg\" alt=\"The image probably shows a German U-boat being lifted out of an area devastated by war actions, possibly after World War II.\"> <div class=\"img-source\">Jahrbuch des Heimatvereins der Landschaft Angeln 59, 1995, 39</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The <em>Seehund</em>-type is the last stage of development of midget submarines of the German Navy in the closing months of World War II, built between 1944 and 1945. They were notorious for carbon monoxide poisoning, in which many submariners found an early grave. Salvaged <em>Seehund</em>-type submarines or cross-sections thereof are today on display in several museums, e.g. in the International Maritime Museum (Hamburg), the Bundeswehr Museum of Military History (Dresden), the German Navy Museum (Wilhelmshaven), the Maritime Museum of Kiel, the Mus&eacute;e National de la Marine (Brest, France), and the United States Naval Shipbuilding Museum (Quincy, Massachusetts, U.S.A.).</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>2</td></tr><tr><th scope=\"row\">Vermogen</th><td>60 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>7 knopen ~ 13 km/u (8 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>39 &frac14; voet (12 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>5 voet (1,5 m)</td></tr><tr><th scope=\"row\">Deplacement</th><td>17 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The site is known in the wreck-diving community, although diving is not encouraged by the authorities, as there is no conclusive evidence on the wreck's status as possible war grave. For this reason, the wreck's exact location is not fully disclosed here.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Mattes, K. (1995).<br /><em>Die Seehunde. Klein-U-Boote. Letzte deutsche Initiative im Seekrieg 1939–1945.</em><br />Hamburg: Mittler.</li><li>Oppelt, I. (2019).<br /><em>Wracktauchen: Die schönsten Tauchplätze der Ostsee.</em><br />Wetnotes.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

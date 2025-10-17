@@ -1,0 +1,27 @@
+{
+  "id": "1249",
+  "code": "monster",
+  "name": "Monster",
+  "type": "wreck",
+  "lat": "25.8419804",
+  "lon": "120.4034986",
+  "location": "Chinese Zee",
+  "firstdate": null,
+  "firstyear": "1704",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1708",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-24 10:18:11",
+  "modified_on": "2024-12-16 13:23:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Monster</strong></em> vertrok naar Japan op 30 juni 1708 en ging tijdens de terugreis van Japan naar Batavia verloren. In het Dagregister van Batavia wordt de vermissing op 8 december 1708 vermeld. De Gen. Missiven vermelden op 15 januari 1709 dat men vreest dat De Monster tijdens een zware storm in de Chinese Zee is vergaan. Een inwoner van Nagasaki berichtte dat hij ter hoogte van het Chinese Fu-tsjou een mastloos schip had zien drijven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Rotterdam, 1704<br>Lengte: 130<br>Tonnage: 286 last<br>Complement: 107 bemanning, 54 soldaten, 2 passagiers (1705)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=6&amp;page=593&amp;accessor=toc\">Generale missiven Deel 6, 579.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

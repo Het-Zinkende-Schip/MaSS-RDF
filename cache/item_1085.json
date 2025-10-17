@@ -1,0 +1,27 @@
+{
+  "id": "1085",
+  "code": "mecklenburg",
+  "name": "Mecklenburg",
+  "type": "wreck",
+  "lat": "51.4435477",
+  "lon": "3.5999107",
+  "location": "Vlissingen, Nederland",
+  "firstdate": null,
+  "firstyear": "1922",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1960",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-22 13:04:26",
+  "modified_on": "2025-06-09 16:03:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het s.s. \"Mecklenburg\", uit Vlissingen, lag in de haven van Portsmouth afgemeerd. In de nacht van 11 Maart 1941 tijdens een luchtaanval werd een bom geworpen nabij het schip. De kwartiermeester F. C. Meijer werd direct door bomscherven dodelijk getroffen. De olieman J. Polderman is later aan verwondingen in het ziekenhuis te Portsmouth overleden. Het schip kon weer gerepareerd worden en bleef tot 1959 in de vaart. Het werd in 1960 gesloopt in Vlissingen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Er zijn twee bemanningsleden omgekomen: <br>J. Polderman, F.C. Meijer</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

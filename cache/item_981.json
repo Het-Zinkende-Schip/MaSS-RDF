@@ -1,0 +1,27 @@
+{
+  "id": "981",
+  "code": "gouda-1620",
+  "name": "Gouda",
+  "type": "wreck",
+  "lat": "-21.6655946",
+  "lon": "51.2841797",
+  "location": "In between Madagascar and Mauritius",
+  "firstdate": null,
+  "firstyear": "1620",
+  "firstyearend": null,
+  "lastdate": "1625-03-18",
+  "lastyear": "1625",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-30 14:38:44",
+  "modified_on": "2025-06-23 12:43:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Gouda</em> vertrok samen met De Middelburg en De Hollandia op 28 januari 1625 van Batavia. Ze kwamen tussen Madagaskar en Mauritius in een hevige storm. De Hollandia en De Middelburg konden zwaar beschadigd Madagascar bereiken.</p> <p><em>'t Schip Gouda, dat het swakste was, hadden sy daags na den storm niet vernomen; ook is 't selve met volk en al gebleven, immers noyt te voorschijn gekomen.</em> (Van Dam)</p> <p><strong>Storm</strong></p> <p>Bontekoe geeft een levendige beschrijving van de storm in zijn journaal:</p> <p><em>Deze onstuimige harde wind, die men een orkaan noemt, duurde ongeveer zes &agrave; acht glazen; toen begon de wind weer af te nemen. Toen het op zijn hardst waaide, was het water zo glad als een spiegel, omdat het niet omhoog kon komen, maar toen de wind afnam werd de zee zo woest dat het leek alsof het schip ondersteboven zou gaan door het hevige rollen.</em></p> <p><em><strong>Gouda verdwenen</strong></em><br><em>De volgende morgen keken we uit naar onze twee kameraden, we misten er &eacute;&eacute;n, namelijk de Gouda, maar de Middelburg lag aan onze loefzijde. Deze was al zijn masten kwijt, met boegspriet, galjoen en al, behalve zijn bezaansmast. Waren dus alle twee nogal toegetakeld.</em> (Bontekoe 61)</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003075.jpg\" alt=\"De tekst beschrijft een passage uit de reis van W.I. Bontekoe, waarschijnlijk uit zijn scheepsjournaal of reisverslag\"> <div class=\"img-source\">Bontekoe</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, in 1620<br>Tonnage: 400 last (800 ton)<br>Master: In de resoluties van Batavia van 21-1-1625 [NA 1.04.02 (VOC) 659, fol 106 (scan 215)] wordt Pieter Doeckes als schipper genoemd en Abraham Vogelaer als oppercoopman.</p> <p><br>Complement: Volgens deze resoluties had het schip 120 man aan boord.</p> <p>Bewapening: Volgens Buchelius was de Gouda bij het eerste vertrek uit Nederland uitgerust met 22 yseren en 2 metale stucken geschuts.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Pieter van Dam.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/vandam/#page=49&amp;accessor=searchText&amp;view=htmlPane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=2\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.2.68 p. 40.</a></li><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95996\">DAS 5168.2.</a></li><li><em>NA 1.04.02 (VOC) 659, fol 106 (scan 215).</em></li><li>Bontekoe, Willem Ysbrantsz.<br /><a href=\"https://www.dbnl.org/tekst/nijg001jour01_01/nijg001jour01_01_0023.php#23\">Journael ofte gedenkwaardige beschrijving van de oostindische reise van Willem Ysbrandtsz. Bontekoe van Hoorn.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

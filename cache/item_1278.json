@@ -1,0 +1,27 @@
+{
+  "id": "1278",
+  "code": "schakerloo",
+  "name": "Schakerloo",
+  "type": "wreck",
+  "lat": "36.5414832",
+  "lon": "-6.2567825",
+  "location": "Cadiz, Spanje",
+  "firstdate": null,
+  "firstyear": "1661",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1674",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-01 13:24:34",
+  "modified_on": "2025-06-12 18:29:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong>Staat van dienst</strong></p> <p>4 daagse Zeeslag 1 -6- 1666<br>St James Day Battle 25- 7- 1666&nbsp;<br>&nbsp;in New York met emigranten aan boord aug. 1673<br>Cadiz , veroverd door de Engelse Tiger 22- 2 -1674</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: fregat 5th rate <br>Gebouwd: Veere, Zeeland<br>Eigenaar:/Owner: adm. Zeeland<br>Complement: 105 crew, 30 soldaten<br>Master: Jan Krijnsen (1661-1673), Passchier de Witte (1673-74)<br>Armament: 30</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Three deck forum.<br /><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=12080\">Dutch Fifth Rate ship 'Schakerloo' (1661).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

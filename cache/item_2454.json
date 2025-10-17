@@ -1,0 +1,27 @@
+{
+  "id": "2454",
+  "code": "el-burrero",
+  "name": "El Burrero",
+  "type": "wreck",
+  "lat": "27.9095840",
+  "lon": "-15.3850240",
+  "location": "Playa del Burrero, Gran Canaria, Spanje",
+  "firstdate": null,
+  "firstyear": "1700",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1750",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "David Rafael Ruiz Blanco",
+  "created_on": "2021-02-24 13:16:54",
+  "modified_on": "2025-06-14 15:19:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Escribano Cobo, Gabriel; Mederos Martín, Alfredo; Chinea Díaz, Domingo  (1999).<br /><a href=\"https://www.academia.edu/1193636/Prospecci%C3%B3n_y_sondeo_subacu%C3%A1tico_en_la_playa_de_El_Burrero_Ingenio_Gran_Canaria_Islas_Canarias_\">Prospección y sondeo subacuático en la playa de El Burrero (Ingenio, Gran Canaria, Islas Canarias).</a><br />Investigaciones Arqueológicas en Canarias, 6: 361-381. Dirección General de Patrimonio Histórico. Gobierno de Canarias. ISSN-1132-2446.</li><li>Escribano Cobo, Gabriel; Mederos Martín, Alfredo (2003).<br /><a href=\"https://www.academia.edu/1195031/Arqueolog%C3%ADa_Subacu%C3%A1tica_en_Canarias_1994_1998_\">Arqueología Subacuática en Canarias (1994-1998).</a><br />Cuadernos de Arqueología Marítima, 6: 171-195. Centro Nacional de Investigaciones Arqueológicas Submarinas. Cartagena. ISSN-1133-5645.</li><li>Guillén Medina, José; Benítez Cabrera, Vicente (2007).<br /><a href=\"https://www.academia.edu/12294098/Prospecci%C3%B3n_Subacu%C3%A1tica_en_la_Bah%C3%ADa_de_Gando_Telde\">Prospección subacuática en la bahía de Gando. Telde.</a><br />Boletín de Patrimonio Histórico. Nº 5. pp. 14-21.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

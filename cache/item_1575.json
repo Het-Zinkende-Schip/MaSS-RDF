@@ -1,0 +1,27 @@
+{
+  "id": "1575",
+  "code": "vrijheid-1740",
+  "name": "Vrijheid",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Vermist tussen Batavia en de Kaapkolonie ",
+  "firstdate": null,
+  "firstyear": "1740",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1748",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-27 10:38:46",
+  "modified_on": "2025-04-05 14:25:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Vrijheid maakte twee reizen naar Azi&euml; tussen 1741 en 1747. Ze vertrok voor haar tweede thuisreis samen met de Domburg en Rooswijk 11 -11-1747 uit Batavia.<a href=\"https://dekok.xyz/htrsearch/transcriptie?scan=76211&amp;query=Rooswijk&amp;varianten=2&amp;archief=VOC\">&sup1;</a> De Vrijheid kon niet met de oorspronkelijke vloot mee omdat ze geheel gelost en opnieuw beladen moest worden.</p> <p>Eerder waren de Haarlem, Overschie, Voorzichtigheid en De Hoop vertrokken . Deze schepen kwamen januari 1748 aan bij de Kaap.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/99/file/NL-HaNA_1.11.06.18_99_0011?eadID=1.11.06.18&amp;unitID=99&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">&sup2;</a></p> <p>De Domburg, Rooswijk en Vrijheid zijn daar nooit aangekomen.</p> <p>Vermist tussen Batavia en de Kaap kolonie.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Rotterdam<br>Schipper: Kornelis Mangelaar</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98168\">DAS 7275.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0199?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 196.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

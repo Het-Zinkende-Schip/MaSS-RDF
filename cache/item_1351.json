@@ -1,0 +1,27 @@
+{
+  "id": "1351",
+  "code": "saksenburg",
+  "name": "Saksenburg",
+  "type": "wreck",
+  "lat": "-34.8941000",
+  "lon": "20.1361000",
+  "location": "Cape Agulhas, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1723",
+  "firstyearend": null,
+  "lastdate": "1730-01-09",
+  "lastyear": "1730",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-12 12:57:32",
+  "modified_on": "2024-10-02 11:11:54",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Saksenburg</strong></em> vertrok voor haar eerste uitreis naar Batavia op 10 februari 1724 uit Texel. Ze was op 19 oktober 1726 terug in Nederland</p> <p>Voor haar tweede uitreis vertrok ze op 2 november 1727 uit Texel. Ze kwam in Batavia aan op 12 augustus 1728. Ze werd ingezet als provisieschip naar Tigal om rijst te halen.</p> <p>Ondergang<br>In de nacht van 8 op 9 januari 1730 liep de Saksenburg op een rif bij Kaap Agulhas, het zuidelijkste punt van Afrika. Op zeven man na kwamen alle opvarenden om (zes Europeanen en &eacute;&eacute;n zwarte jongen). (<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=9&amp;page=70&amp;view=imagePane&amp;accessor=search_in_text&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D16%26source%3D1%26id%3Dsearch_in_text&amp;size=968\">GM 57</a>)</p> <p>Geruchten over te zwaar beladen met rijst als oorzaak van het op de klippen.(<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=9&amp;page=205&amp;view=&amp;accessor=search_in_text&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D16%26source%3D1%26id%3Dsearch_in_text\">GM 192</a>)<br>De equipagemeester Coenraat Mels moet zich verantwoorden<br>voor gepleegde malversaties en verwaarlozing bij het repareren en laden van schepen in verband met het verlies van de 's-Graveland en Saksenburg. (<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=9&amp;page=209&amp;view=&amp;accessor=search_in_text&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D16%26source%3D1%26id%3Dsearch_in_text\">GM 196</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf Oostenburg, Amsterdam, 1723<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan de Haan</td></tr><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>610 ton (305 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De site van een mogelijke wrak locatie is door Charlie Shapiro op 22 May 2001 middels GPS via magnetometer onderzoek aangeleverd.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93793\">DAS 2711.2.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=205&amp;accessor=search_in_text&amp;source=9&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Generale missiven Deel 9.</a></li><li> La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives.</a><br />SAHRA.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

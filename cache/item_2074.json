@@ -1,0 +1,27 @@
+{
+  "id": "2074",
+  "code": "za115",
+  "name": "ZA115",
+  "type": "wreck",
+  "lat": "52.3453300",
+  "lon": "5.1545600",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": "1855",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1925",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:39:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het wrak dat in 1972 aangetroffen is op kavel A115 in Zuidelijk Flevoland is in hetzelfde jaar verkend door het Centrum voor Scheepsarcheologie. In 1980 is door hetzelfde instituut een herverkenning uitgevoerd. De locatie van het scheepswrak is in het Olympiakwartier, 25 meter ten westen van de Montenegrostraat en 50 meter ten noorden van de Kroatiekade. Het betreft een overnaads gebouwde, open werk- of vissersboot, van het type Hollandse boot. Het wrak heeft een praamachtig uiterlijk maar vertoont door de oplopende voor- en achtersteven afwijkingen van de reguliere bouwwijze van dit type. De grootste afmetingen zijn ca. 10,5 meter bij ca. 2,60 meter. Omdat er tijdens de verkennende onderzoeken geen vondsten zijn aangetroffen, is de datering gebaseerd op de opbouw van het bodemprofiel. Uit het bodemprofiel wordt afgeleid dat het schip vermoedelijk in het eerste kwart van de twintigste eeuw is vergaan en onder lichte slagzij over bakboord is afgezonken. Als deze datering juist is, vertegenwoordigt dit wrak het einde van de houten Nederlandse scheepsbouw waar nog weinig van bekend is. Het wrak verkeerde tijdens de herverkenning in 1980 in goede staat. Alleen de hoger gelegen delen van het schip waren gedeeltelijk vergaan door verdroging en de aantasting door schimmels. Doordat de later gelegen delen zich in het klei bevinden, verkeerden deze in zeer goede staat. Na het herverkennende onderzoek is het schip toegedekt om verdere beschadiging van landbouwwerktuigen en uitdroging te voorkomen en het te reserveren voor onderzoeken in de (verre) toekomst.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een open werk- of vissersboot uit het eerste kwart van de twintigste eeuw, Almere</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002024.jpg\" alt=\"Een gegraven gat met daarin een deel van een oud schip\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het voorschip, gezien van stuur- naar bakboord.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002021.jpg\" alt=\"Twee mannen die in de aarde aan het graven zijn\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Tijdens de verkenning van het scheepswrak werden de drie proefsleuven volledig gedocumenteerd (gezien van voor- naar achterschip).</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002023.jpg\" alt=\"Opgegraven middenschip\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het middenschip zoals deze zichtbaar was in de middelste proefsleuf.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zdn-3c5y\">Opgravingsdocumentatie scheepswrak ZA115.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

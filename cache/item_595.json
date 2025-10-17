@@ -1,0 +1,27 @@
+{
+  "id": "595",
+  "code": "edwin-fox",
+  "name": "Edwin Fox",
+  "type": "wreck",
+  "lat": "-41.2868854",
+  "lon": "174.0058776",
+  "location": "Nieuw-Zeeland",
+  "firstdate": null,
+  "firstyear": "1853",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1967",
+  "lastyearend": null,
+  "country": "Nieuw-Zeeland",
+  "countrycode": "NZ",
+  "author": "Kurt Bennett",
+  "created_on": "2018-06-24 12:21:01",
+  "modified_on": "2025-06-06 22:18:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

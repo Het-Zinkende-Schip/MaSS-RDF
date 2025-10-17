@@ -1,0 +1,27 @@
+{
+  "id": "2358",
+  "code": "europa-1688",
+  "name": "Europa",
+  "type": "wreck",
+  "lat": "50.1344865",
+  "lon": "-1.9138205",
+  "location": "English Channel",
+  "firstdate": null,
+  "firstyear": "1688",
+  "firstyearend": null,
+  "lastdate": "1689-11-19",
+  "lastyear": "1689",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-04 11:16:33",
+  "modified_on": "2025-06-12 12:09:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Europa was aangekocht door de admiraliteit van Friesland. Ze vertrok in oktober vanuit het Engelse Spithead in het eskader van Kapt. Teding v. Berkhout in een gecombineerde Engels- Nederlands vloot eskader.</p> <p>In het Kanaal vermist tijdens zware storm (16-19 november 1689)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: koopvaarder uitgerust voor gevechtstaken<br>Gebouwd: Op een werf in Amsterdam 1688<br>Eigenaar: verkocht aan de admiraliteit van Friesland <br>Bewapening: 46-48</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Vries, Hidde</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>170</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J. (2014).<br /><em>Dutch warships in the age of sail (1600-1714) p. 310.</em><br />Seaforth Publishing.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2958",
+  "code": "jan-sch-170",
+  "name": "Jan (SCH 170)",
+  "type": "wreck",
+  "lat": "52.3787653",
+  "lon": "4.3620959",
+  "location": "Noordzee, t.h.v. van Zandvoort, Nederland",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1917-07-27",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-11 16:37:15",
+  "modified_on": "2025-06-15 14:21:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 27 juli werd op de Noordzee zo'n 19 mijl uit de kust ter hoogte van Zandvoort 6 visserschepen uit Scheveningen tot zinken gebracht door een Duitse U boot.</p> <p>Het waren:<a href=\"https://mass.cultureelerfgoed.nl/president-commisaris-van-den-berg-sch-134\"> President Commisaris van den Berg</a> (SCH 134), <a href=\"https://mass.cultureelerfgoed.nl/sterna-iii-sch-136\">Sterna III</a> (SCH 136), <a href=\"https://mass.cultureelerfgoed.nl/dirk\">Dirk</a> (SCH 382), <a href=\"https://mass.cultureelerfgoed.nl/majoor-thomson-sch-23\">Majoor Thomson</a> (SCH 23), Jan (SCH 170). Dirk van Duijne (SCH 254).</p> <p>De bemanning werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: logger geheel gedekte kiel</p> <p>Gebouwd: Werf Uitdenboogaard, G.H. Werf 'Hollandsch Trouw' (Maassluis</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>F. Bronsveld</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>8</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Zuiderzee collectie.<br /><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40018015\">Centraal_Visserijregister-40018015.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

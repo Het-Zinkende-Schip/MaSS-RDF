@@ -1,0 +1,27 @@
+{
+  "id": "3056",
+  "code": "den-helder",
+  "name": "Den Helder",
+  "type": "wreck",
+  "lat": "22.2047594",
+  "lon": "88.1107646",
+  "location": "Hooghly monding, India",
+  "firstdate": null,
+  "firstyear": "1684",
+  "firstyearend": null,
+  "lastdate": "1692-07-19",
+  "lastyear": "1692",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-02-13 11:01:00",
+  "modified_on": "2025-07-18 20:40:25",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>Den Helder</strong></em> was een fluitschip van de VOC kamer Amsterdam.</p> <p>Op 14 juli 1692 komende van Ceylon op weg naar het VOC hoofdkwartier Tjutura Houghly in Bengalen bij het binnenzeilen van de rivier Houghly door stroming en tegenwind op de oostwal van de delta vastgeraakt.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004244.png\" alt=\"een oude kaart met handgeschreven aantekeningen en een rode stip die een specifieke plaats markeert\"> <div class=\"img-source\">NL-HaNA_4.VELH_120</div> </figure> <p class=\"figcaption\"><br><br>Detail van kaar NL-HaNA_4.VELH_120 (Bengalen) De locatie van de Den Helder op de splitsing van de Oude Gijns en Houghly rivier. Boven is zuid en onder noord is de vaarroute naar de Hollandse Loge in Houghly.</p> <p>De fluit kwam evenwel weer los en voer verder stroom opwaarts tot aan de splitsing van de&nbsp;<em>Oude Gijns</em> en<em> de Houghly rivier</em>. Daar kon ze door tegen stroom niet verder. De Den Helder ankerde op de hoek en raakte weer vast.&nbsp;<br>Vervolgens is de romp, die al eerder bij de stranding had geleden, gebarsten en ontzet en vergaan.</p> <p>De bemanning, lading (24.000 Suratse roepia's en 45892 lb. arekanoten) en inventaris werd voor het grootste gedeelte gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd : Amsterdam 1684<br>Tonnage: In de navale macht van 1689 staat de fluit voor 340 last; dat laatste is het meest waarschijnlijke laadvermogen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>NL-HaNA_1.04.02.<br />Missive van Bengalen naar Batavia 6-9-1692.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7968/file/NL-HaNA_1.04.02_7968_0121?eadID=1.04.02&amp;unitID=7968&amp;query=7968\">7968 scan 121.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

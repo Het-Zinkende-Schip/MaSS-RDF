@@ -1,0 +1,27 @@
+{
+  "id": "1502",
+  "code": "ss-sint-annaland",
+  "name": "SS Sint Annaland",
+  "type": "wreck",
+  "lat": "51.4647170",
+  "lon": "2.4849500",
+  "location": "België",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1940-03-17",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Martijn Heijink",
+  "created_on": "2020-07-31 11:24:56",
+  "modified_on": "2025-06-10 16:43:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 2 maart 1940 lag SS Sint Annaland, samen met zes andere Nederlandse schepen, in de monding van de Tyne nabij Newcastle. De kleine vloot werd onverwachts aangevallen door Duitse bommenwerpers, die de Nederlandse schepen met bommen en mitrailleurvuur bestookten. De Sint Annaland liep wat lichte schade op, maar dat belemmerde de reis niet. Op 17 maart vertrok de Sint Annaland wederom met een lading steenkool uit Newcastle naar Sluiskil. Ze voer samen met de schepen SS Schieland, SS Nieuwland en SS Schokland, allen van de Scheepvaart- en Steenkolenmaatschappij te Rotterdam. De vier schepen voeren in kiellinie, steeds met 500 meter tussenruimte, met de Schieland vooraan en de Sint Annaland als laatste. Tussen de Fairey Bank en de Westhinder, raakte de Sint Annaland een mijn. Deze was op 9 maart gelegd door de Duitse mijnenlegger Ulm. Het schip verging in korte tijd, maar de 21 opvarenden konden nog een reddingsboot laten zakken en werden door de andere schepen aan boord genomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>C. Vinke</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>21</td></tr><tr><th scope=\"row\">Vermogen</th><td>1200 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>10 knopen ~ 19 km/u (12 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>272 voet (82,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>21 voet (6,4 m)</td></tr><tr><th scope=\"row\">Deplacement</th><td>2247 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak van SS Sint Annaland ligt volledig omgedraaid op een maximale bodemdiepte van 34 meter. Het is op drie plaatsen gebroken en bevat vele grote gaten, overal liggen brokken steenkool verspreid.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Agentschap Onroerend Erfgoed.<br /><a href=\"http://www.maritieme-archeologie.be/WK_Ship_GenView.aspx?ObjCId=2074&amp;type=1&amp;utype=guest\">Sint Annaland SS.</a></li><li>Stichting Maritiem-Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=5914\">Sint Annaland - ID 5914.</a></li><li>Dirk Termote en Tomas Termote (2009).<br /><em>Schatten en scheepswrakken: boeiende onderwaterarcheologie in de Noordzee.</em><br />z.p., Schuyt.</li><li>L.L. von Münching (1978).<br /><em>De Nederlandse koopvaardijvloot in de Tweede Wereldoorlog.</em><br />Bussum en Middelburg, De Boer Maritiem.</li><li>K.W.L. Bezemer (1986).<br /><em>Geschiedenis van de Nederlandse Koopvaardijvloot in de Tweede Wereldoorlog.</em><br />Amsterdam, Elsevier.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4084",
+  "code": "nm20",
+  "name": "NM20",
+  "type": "wreck",
+  "lat": "52.7521210",
+  "lon": "5.7930790",
+  "location": "Bant, Nederland",
+  "firstdate": null,
+  "firstyear": "1800",
+  "firstyearend": "1815",
+  "lastdate": null,
+  "lastyear": "1815",
+  "lastyearend": "1825",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:50:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Als gevolg van drainagewerkzaamheden werd op kavel M20 in de Noordoostpolder, nabij het huidige Bant, een scheepswrak aangetroffen. Dit werd opgegraven volgens de kwadrantenmethode in 1946. Het tjalkachtige vrachtschip vervoerde een lading boekweitdoppen, die deels in de verspoeling buiten het wrak terecht was gekomen. Het had een lengte van bijna 19 meter lang en een breedte van ruim 4,5 meter. Twee opgevulde ijzeren monden van kanons zouden als contragewicht voor een strijkbare mast gediend kunnen hebben. Vele vondsten werden in het wrak aangetroffen, waarvan de meeste lagen in het voor- en achterschip. Enige houvast voor een ondergangsdatering geeft een klein loden medaillon met een uitgesneden buste te geven, voorzien van de letters P.V.O.W.D.I: Prins van Oranje Willem de Eerste. Daarnaast kwam uit het wrak een een kleipijp met versiering over het verslaan van Napoleon in de slag bij Waterloo in 1815. Mede daardoor wordt de ondergang van het wrak ergens tussen 1815 en 1825 gesteld. Verder was de vondst van onder andere een paar damessloffen een aanwijzing voor een huishouden aan boord samen met de vrouw van de schipper. Andere opvallende vondsten zijn een kniepertjestang uit 1731, een porseleinen tuitpotje of kendi uit de 17de eeuw, en een korte gekromde sabel met koperen gevest en leren schede.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xsn-r5gj\">Opgravingsdocumentatie scheepswrak NM20.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

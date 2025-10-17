@@ -1,0 +1,27 @@
+{
+  "id": "1213",
+  "code": "castel-del-rey",
+  "name": "Castel del Rey",
+  "type": "wreck",
+  "lat": "40.6102667",
+  "lon": "-74.0381527",
+  "location": "Brooklyn, Bay Ridge AreaNew York, Verenigde Staten",
+  "firstdate": null,
+  "firstyear": "1700",
+  "firstyearend": null,
+  "lastdate": "1705-12-19",
+  "lastyear": "1705",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-15 09:30:42",
+  "modified_on": "2025-06-10 11:48:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Bij het uitvaren van New York liep de Castel del Rey aan de grond bij New Utrecht, Bay area. In eerste instantie kon een reddingsboot vanuit de kust het schip naderen. Maar het weer verslechterde het vroor dat het kraakte en sneeuwstormen beletten verdere reddingspogingen. Een dag later kon men het schip bereiken. Van de 145 opvarenden waren toen nog 4 man in leven.</p> <p>Eerder waren 9 man gered. De rest was bevroren, Inclusief kapitein Otto van Tuyl. Afkomstig uit Gameren. Hij moest in 1663 met zijn jonge gezin naar New York vluchten. Hij had iemand neergestoken in een caf&eacute; gevecht in Tuil. (Tuyl p. 173). Het schip was waarschijnlijk te zwaar beladen in combinatie met het slechte weer werd dat fataal.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: privateer<br>Dimensions: ca. 80 x 19 x 12 ft<br>Tonnage: 60 last, 120 tns<br>Complement: 145 (1705)<br>Master: Adriaan Claver, (1704), Otto van Tuyl (1705)<br>Armament: 18</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>R. L. Van Tuyl and J. N. A. Groenendijk.<br /><a href=\"https://books.google.nl/books?id=K49YAAAAMAAJ&amp;printsec=frontcover&amp;redir_esc=y#v=onepage&amp;q=Claver&amp;f=false\">A van Tuyl Chronicle, 650 Years in the History of a Dutch-American Family.</a></li><li>Marx, Robert F., (1971).<br /><em>Shipwrecks in the Americas.</em><br />New York.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

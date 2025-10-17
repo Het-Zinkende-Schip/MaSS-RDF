@@ -1,0 +1,26 @@
+{
+  "id": "2321",
+  "code": "giles-quarter-cannons",
+  "name": "Giles Quarter cannons",
+  "type": "other",
+  "lat": "17.6140000",
+  "lon": "-63.2385000",
+  "location": "Giles Quarter, Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": "1650",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1850",
+  "lastyearend": null,
+  "country": "Bonaire, Sint Eustatius en Saba",
+  "countrycode": "BQ",
+  "author": "Ryan Espersen",
+  "created_on": "2020-11-20 22:26:52",
+  "modified_on": "2025-06-12 11:44:46",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>During a maritime survey of the area offshore of Black Rocks, a pair of ship cannons were found, crossed over each other. The cannon both measure 242cm long, and approximately 100cm in diameter near the base ring. There is no evidence for a shipwreck in the surrounding area, and the area was not a historic anchorage due to the prevailing easterly currents. It appears that these cannon were intentionally discarded.</p></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The cannons are located within the area of a proposed harbour development in Giles Quarter. Under the Malta Agreement, the developer (Rijkswaterstaat) will be required to ensure that they are responsibly mitigated ahead of development.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

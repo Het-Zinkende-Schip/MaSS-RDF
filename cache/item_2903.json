@@ -1,0 +1,27 @@
+{
+  "id": "2903",
+  "code": "gerard-ijm-167",
+  "name": "Gerard (IJM 167)",
+  "type": "wreck",
+  "lat": "53.4538298",
+  "lon": "5.6132168",
+  "location": "Bornrif, Ameland, Nederland",
+  "firstdate": null,
+  "firstyear": "1910",
+  "firstyearend": null,
+  "lastdate": "1915-11-07",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-01 12:54:45",
+  "modified_on": "2022-07-01 16:03:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Gestrand bij Born rif Ameland. De Gerard zat vast. Negen bemanningsleden konden na veel moeite pas twee dagen later gered worden. Een bemaningslid kwam om.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: NV Nationale stoomvischerij, Ijmuiden</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Zuiderzee collectie.<br /><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40031752\">Centraal Visserijregister.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Gerard+%28IJM+167%29&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1915%7C&amp;identifier=MMTRES04:211305132:mpeg21:a00004&amp;resultsidentifier=MMTRES04:211305132:mpeg21:a000\">Nieuwe Harlinger courant  10-11-1915.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

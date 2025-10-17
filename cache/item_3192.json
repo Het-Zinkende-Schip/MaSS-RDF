@@ -1,0 +1,27 @@
+{
+  "id": "3192",
+  "code": "antares",
+  "name": "Antares",
+  "type": "wreck",
+  "lat": "54.5800000",
+  "lon": "10.5700000",
+  "location": "Denemarken",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1942-06-02",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-11-16 19:31:24",
+  "modified_on": "2025-06-16 20:12:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In de Tweede Wereldoorlog bleef de <strong><em>Antares</em></strong> met de eigenaar onder Duits toezicht varen. Op 2 juni 1942, onderweg van Zweden naar Nederland, in de Store Belt bij Traneker Lichtschip (Denemarken) op een mijn gelopen en gezonken in pos. 54.58.N. - 10.57.O. <br><br>Een bemanningslid, stuurman J. Koopman, kwam om het leven, de andere 4 bemanningsleden werden gered door een Duits vrachtschip en in Holtenau aan wal gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Scheepsbouw- &amp; Reparatiewerf J. Vos &amp; Zoon, Groningen</p> <p>Eigenaar: Lukas Boerma, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>L. Boerma</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>5</td></tr><tr><th scope=\"row\">Lengte</th><td>113 &frac34; voet (34,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>20 &frac34; voet (6,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>197 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=511\">marhisdata id 511.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

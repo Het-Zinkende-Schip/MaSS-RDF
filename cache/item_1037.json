@@ -1,0 +1,27 @@
+{
+  "id": "1037",
+  "code": "zeeland-1685",
+  "name": "Zeeland",
+  "type": "wreck",
+  "lat": "50.9319786",
+  "lon": "1.0450745",
+  "location": "The Downs, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1685",
+  "firstyearend": null,
+  "lastdate": "1690-10-30",
+  "lastyear": "1690",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-09 13:26:29",
+  "modified_on": "2025-06-26 12:51:54",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Zeeland (Zeelandia) werd gebouwd in Amsterdam.</p> <p>Het schip maakre deel uit van de invasie vloot van Willem III in 1688.<br>27-9-1690 in eskader van admiraal Callenberg ingezet bij de blokkade van Duinkerken. Later dat jaar bij binnenlopen van de rede van Downs vergaan op de zandbanken bij Goodwin Sands. (<a title=\"Zeeland NIMH 1114\" href=\"https://cultureelerfgoed.info/mass/?file=00000291.png\" target=\"_blank\" rel=\"noopener\">NIMH</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1685<br>Bewapening: 64</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Decker</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>290</td></tr><tr><th scope=\"row\">Lengte</th><td>145 Amsterdamse&nbsp;voet (41,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>38 Amsterdamse&nbsp;voet (10,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000291.png\">NIMH 1114.</a></li><li><a href=\"https://historiek.net/linieschip-250-jaar-ruggengraat-elke-vloot/37466/\">Historiek, artikel linieschepen.</a></li><li><a href=\"http://www.bbc.co.uk/history/british/civil_war_revolution/glorious_revolution_01.shtml\">BBC history glorious revolution.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

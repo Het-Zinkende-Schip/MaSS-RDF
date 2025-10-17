@@ -1,0 +1,27 @@
+{
+  "id": "4031",
+  "code": "oe48",
+  "name": "OE48",
+  "type": "wreck",
+  "lat": "52.4262030",
+  "lon": "5.5400340",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1768",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:20:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1967 werd door de landbouwkundig opzichter de vondst van een scheepswrak gemeld op kavel E48 in Oostelijk Flevoland, dat kort daarop werd verkend. Het wrak was waarneembaar in het talud van de sloot en dus geraakt geweest bij het graven van de sloot. Enkele aardewerken scherven wezen in de richting van een ondergangsdatum ergens in de 18de of 19de-eeuw. Er werd besloten het wrak voor verder onderzoek in de toekomst te reserveren. Het daaropvolgende jaar, echter, bleek het wrak opnieuw te zijn geraakt bij het graven van een tocht, met een vernield voorschip als gevolg. Aan het uitgetrokken scheepshout kon worden opgemaakt dat het om een licht gebouwd, platboomd (vracht)schip ging. Er werd besloten het nog aanwezige deel van het schip uit te graven voordat een tweede dragline de reeds gegraven sleuf zou gaan verbreden. Dit keer werden meer objecten geborgen, waaronder roodbakkend aardewerk, veel touw en schoenen. Een lading ontbrak, maar de ondergangsdatering kon nu worden aangescherpt naar de 19de eeuw. Qua type vertoonde de constructie overeenkomsten met wrak OU105, maar OE48 was kleiner.</p> <p>Door de opgravers is aangenomen dat een cluster van in 1969 aangetroffen vondsten op de in de buurt gelegen kavel E32 (Oostelijk Flevoland) afkomstig zou kunnen zijn van wrak OE48 (aangetroffen zonder verlichtingselementen). Waarschijnlijk zijn deze vondsten tijdens de ondergang van het schip overboord geslagen. De vondst van OE32 betrof namelijk alleen een concentratie losse objecten en geen scheepsresten.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x6m-773u\">Opgravingsdocumentatie scheepswrak OE48.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

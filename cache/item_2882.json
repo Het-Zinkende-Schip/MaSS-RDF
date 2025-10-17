@@ -1,0 +1,27 @@
+{
+  "id": "2882",
+  "code": "sirra",
+  "name": "Sirra",
+  "type": "wreck",
+  "lat": "61.1290927",
+  "lon": "-0.0252689",
+  "location": "Unst, 70 mijl NO van ",
+  "firstdate": null,
+  "firstyear": "1902",
+  "firstyearend": null,
+  "lastdate": "1917-07-19",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-06 12:10:46",
+  "modified_on": "2025-06-15 12:07:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Sirra was het eerste in Nederland gebouwd zeilschip uitgerust met een hulpmotor.</p> <p>De motorschoener Sirra, vertrokken 14 juni van Rotterdam in ballast naar New York. Door motorpech gedwongen zette de Sirra koers naar Stavanger. Na reparatie voer ze 19 juli richting New York. Nabij de Shetland eilanden werd ze zonder waarschuwing beschoten door de U 71 en tot zinken gebracht. De bemanning kon zich redden in de reddingsboot. Na het tot zinken brengen van het neutrale Nederlandse schip verdweem de onderzeeer. De bemanning aan hun lot overlatende. Na 12 uur zeilen bereikte de reddingsboot Unst een der Shetland eilanden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Schoener met hulpmotor (Aux. Sailing Vessel)<br>Gebouwd: A. Vuyk &amp; Zonen, Capelle aan den IJssel<br>Eigenaar 1: Andreas Hammerstein, Dordrecht (1907-1916) <br>Eigenaar 2: J.C. van Dongen (graanhandelaar), Rotterdam<br>Rederij de firma Soetemeer en Fekkes (1917)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Visser, G.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>8</td></tr><tr><th scope=\"row\">Tonnage</th><td>222 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>G.J. Mulder.<br /><em>Soetermeer, Fekkes' Cargadoorskantoor 1916 - 2001.</em><br />Uitg. Pirola.</li><li>Staatscourant.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Sirra&amp;coll=ddd&amp;sortfield=datedesc&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;identifier=MMKB08:000189519:mpeg21:p032&amp;resultsidentifier=MMKB08:000189519:mpeg21:a0012&amp;rowid=2\">Uitspraken van den Raad voor de Scheepvaart en uitspraken in beroep van den voorzitter van dien raad   26-09-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

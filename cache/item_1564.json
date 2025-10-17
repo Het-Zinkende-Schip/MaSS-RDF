@@ -1,0 +1,27 @@
+{
+  "id": "1564",
+  "code": "hertog-van-york",
+  "name": "Hertog van York",
+  "type": "wreck",
+  "lat": "11.1770546",
+  "lon": "-60.7394600",
+  "location": "Scarborough, Trinidad en Tobago",
+  "firstdate": null,
+  "firstyear": "1667",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1677",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-25 15:21:35",
+  "modified_on": "2025-07-03 10:22:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Hertog van York was oorspronkelijk een Engels schip.</p> <p><strong>Tocht naar Chattam</strong><br>Maakte deel uit van de vloot onder Michiel de Ruiter die in juni 1667 de Engelse vloot in haar thuis haven aanviel en deels vernietigde. Ingericht als brander tijdens de tocht naar Chattam.</p> <p><strong>Slag Tobago 1677</strong><br>In de vloot van Binckes was de York een bevoorradingsschip. In <a href=\"/battle-of-scarborough\">slag bij Scarrborough</a> 3-3-1677 Tobago door de Franse vloot in brand geschoten en ontploft.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003411.png\" alt=\"Schilderij van de slag bij Scarrborough\"> <div class=\"img-source\">Rijksmuseum Amsterdam RP-P-OB-79.438</div> <figcaption class=\"img-description\">slag bij Scarrborough</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 26</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Sweers Frederick</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>35</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

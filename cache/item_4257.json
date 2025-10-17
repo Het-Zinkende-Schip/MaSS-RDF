@@ -1,0 +1,27 @@
+{
+  "id": "4257",
+  "code": "zonnewijk",
+  "name": "Zonnewijk",
+  "type": "wreck",
+  "lat": "57.4024160",
+  "lon": "21.3363360",
+  "location": "Ventspils tw van , Letland",
+  "firstdate": null,
+  "firstyear": "1928",
+  "firstyearend": null,
+  "lastdate": "1944-10-08",
+  "lastyear": "1944",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Will Brouwers",
+  "created_on": "2025-03-13 10:48:56",
+  "modified_on": "2025-03-13 11:16:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>&nbsp;De <em>SS Zonnewijk</em> was een vrachtschip</p> <p>De <em>Zonnewijk</em> van de Wijklijn (rederij Erhardt &amp; Dekkers) werd in augustus 1940 door de Duitsers in beslag en als 'R.O. 24' weer in dienst gesteld.</p> <p>De RO 24 werd in de Baltische Zee ten westen van Ventspil (Windau) in Letland door de Russische onderzee&euml;r&nbsp;<em>USSR ShCh-310</em> getorpedeerd en tot zinken gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Stoomschip vrachtschip<br>Gebouwd: The Clyde Shipbuilding &amp; Engineering Company Ltd., Port Glasgow,</p> <p>Eigenaar 1: Firma Erhardt &amp; Dekkers, Rotterdam<br>Eigenaar 2: Deutsche Kriegsmarine</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>383 &frac34; voet (117 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>52 &frac34; voet (16,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>4499 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Marhisdata.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=7492\">ID 7492.</a></li><li>uboat.net.<br /><a href=\"https://uboat.net/allies/warships/ship/5057.html\">RO 24.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

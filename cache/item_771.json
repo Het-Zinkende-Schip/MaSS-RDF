@@ -1,0 +1,27 @@
+{
+  "id": "771",
+  "code": "duivenbrug",
+  "name": "Duivenbrug",
+  "type": "wreck",
+  "lat": "29.0878568",
+  "lon": "-14.1105651",
+  "location": "Lanzarote, Spanje",
+  "firstdate": null,
+  "firstyear": "1766",
+  "firstyearend": null,
+  "lastdate": "1777-05-15",
+  "lastyear": "1777",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-18 16:58:20",
+  "modified_on": "2024-06-17 15:47:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Duivenbrug maakte drie retourreizen naar Azi&euml;.</p> <p>Haar laatste reis begon op 9 november 1776 uit Batavia met bestemming Nederland. Ze kwam op 9 januari 1777 bij de Kaap aan. <a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/128/file/NL-HaNA_1.11.06.18_128_0004?eadID=1.11.06.18&amp;unitID=128&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">[1]</a></p> <p>Ze vertrok van daar op 3 februari 1777. Door een grote storm is zij met man en muis bij de Canarische eilanden vergaan rond 15 mei dat jaar.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98797\">Details of voyage 7977.3 from Batavia.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000244.jpg\">NA 1.04.11.01.01. 551-41, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

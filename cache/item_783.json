@@ -1,0 +1,27 @@
+{
+  "id": "783",
+  "code": "overduin",
+  "name": "Overduin",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1774",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1784",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-07-02 11:53:09",
+  "modified_on": "2024-12-23 13:48:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Overduin</strong></em> vertrok op 18 november 1784 van de rede van Batavia met bestemming Nederland.<br><br><em>Verongelukte schepen moeten wij tot ons leetwesen brengen de vrouwe Everhardina, d&rsquo;Harmonie, Overduin en Zeeduin welcke den 25e Junij, 6, 18, 20 Nov: en 20 Dec van deeze rheede na Japan en de Caap zijn gestevend waar van wij tot op heeden [31-12-1785] geen bericht hoegenaamd hebben ontvangen. [<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/3683/file/NL-HaNA_1.04.02_3683_1370?eadID=1.04.02&amp;unitID=3683&amp;query=3683\">NA_1.04.02_3683_1370</a>]&nbsp;</em><br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98947\">Details of voyage 8127.2 from Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/3656/file/NL-HaNA_1.04.02_3656_0757?eadID=1.04.02&amp;unitID=3656&amp;query=3656\">officieren en passagierslijst (16-11-1784) 1.04.023656 0757.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/3683/file/NL-HaNA_1.04.02_3683_1370?eadID=1.04.02&amp;unitID=3683&amp;query=3683\">NA_1.04.02_3683_1370.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

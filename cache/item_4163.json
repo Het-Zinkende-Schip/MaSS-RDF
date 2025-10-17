@@ -1,0 +1,27 @@
+{
+  "id": "4163",
+  "code": "henca",
+  "name": "Henca",
+  "type": "wreck",
+  "lat": "49.7295198",
+  "lon": "-2.0488751",
+  "location": "English Channel",
+  "firstdate": null,
+  "firstyear": "1936",
+  "firstyearend": null,
+  "lastdate": "1942-09-09",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Will Brouwers",
+  "created_on": "2024-02-15 16:44:02",
+  "modified_on": "2025-06-16 20:43:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Henca was een kustvaarder gebouwd in 1936 door Firma Gebr. Niestern &amp; Co., Delfzijl, Groningen. De eigenaar was Hendrik Johannes Antonius Krijt uit Heemstede.</p> <p>Het schip werd ion mei 1940 door de Duitsers gevorderd en ingedeeld bij de bevoorrading van de Kanaaleilanden (<em>Kanalinselversorger</em>).</p> <p>Het schip is op 9 september 1942 in Duitse dienst verloren gegaan. Het werd aangevallen door een Brits vliegtuig tussen Cherbourg en Alderney. (Whirlwind jachtbommenwerper van het RAF Sq. 263.)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>133 &frac12; voet (40,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>24 voet (7,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>305 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2771\">marhisdata id 2771.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

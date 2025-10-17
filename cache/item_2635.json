@@ -1,0 +1,27 @@
+{
+  "id": "2635",
+  "code": "riga-3",
+  "name": "Riga 3",
+  "type": "wreck",
+  "lat": "56.9469123",
+  "lon": "24.1174364",
+  "location": "Riga, Letland",
+  "firstdate": null,
+  "firstyear": "1200",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1300",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-08-31 11:55:27",
+  "modified_on": "2025-07-12 13:02:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>To this date, three medieval wrecks have been discovered in Riga's earliest harbour in the Rige River, which probably all date into the 13th century: The first discovery was already made in 1554 and was described in the alderman book of the great guild of Riga as being located at the former waterfront between the sand and lime gates. The second wreck was unearthed during archaeological excavations in 1938, about which little is known, except that it was heavily built and probably fell victim to a fire, as indicated by scorch marks. Henry of Livonia describes frequent attacks on Riga and ships moored in the Riga River outside the town wall could have become a vulnerable target. Only the third discovery of a ship &ndash; Riga 3 &ndash; was in a relatively well-preserved state and for the standards of a 1939 excavation well documented.</p> <p>The wreck has been associated with the historical cog-type (in archaeological terms known under the more neutral term \"Bremen type\"). Although some charactericts do indeed confirm this association, there are also other features.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><figure class=\"img-wrapper\"><img src=\"/photos/l/00002809.png\" alt=\"black and white photo of the remains of a wooden ship\"> <div class=\"img-source\">Caune 1994</div> </figure> <p>These are the Bremen-type characteristics of the Riga 3 wreck:</p> <ul> <li>hook-scarfs connecting keel and stem and sternpost at sharp angles, 120&deg; (stem) and 110&deg; (sternpost) respectively, joined with iron bolts</li> <li>greater sided (12-17cm) than moulded (8-9cm) height of the floor-timbers</li> <li>great plank widths (34-45 cm) and thickness (2.5-3 cm) indicating tangential conversion</li> </ul> <p>Characteristics non-specific to a building tradition include:</p> <ul> <li>assembled frames joined to planks with wedged treenails of 3cm diameter</li> <li>stringers, or probably rather ceiling planks (widths 11-18 cm, thickness 2.5 cm)</li> <li>T-shaped keel, with a length of 9.19 m, heigt of 15 cm and an upper width of 20 cm amidships, tapering to 11 cm towards both ends</li> </ul> <p>And, finally, characteristics that can be brought in connection with a Scandinavian tradition &ndash; although not exclusively &ndash; include:</p> <ul> <li>use of clinker-nails (rivets)</li> <li>caulking material: animal hair treated with tar, as well as cords and cloth</li> </ul><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck was carefully disassembled and prepared for preservation and further study, but fell victim to a fire through artillery bombardment during WWII and most of the wreck was lost.</p> <p>A reconstruction-model of this ship as well as some of the few surviving remains of the wreck are on display in the \"Museum of the History of Riga and Navigation\" (<em>Rīgas vēstures un kuģniecības muzejs</em>).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002935.png\" alt=\"A reconstruction-model of this ship as well as some of the few surviving remains of the wreck are on display\"> <div class=\"img-source\">Daniel Zwick</div> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Caune, A. (1994).<br /><em>Die rigische Kogge.</em><br />Zeitschrift für Ostforschung 43.4.<br />pp 481-495.</li><li>Caune, A. (1996).<br /><em>Kaianlagen des Rigaer Hafens im 12.-13. Jahrhundert.</em><br />Slowianszczyzna w Europie sredniowiecznej 2.<br />pp 97-102.</li><li>Mäss, V. (1991).<br /><em>Prospects for Underwater Archaeology in the Eastern Baltic.</em><br />The International Journal of Nautical Archaeology 20.4.<br />pp 313-320.</li><li>Zwick, D. (2017).<br /><em>Maritime Logistics in the Age of the Northern Crusades (=doctoral thesis).</em><br />University of Kiel.</li><li><a href=\"https://www.rigamuz.lv\">Museum of the History of Riga and Navigation.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "393",
+  "code": "uc-14",
+  "name": "UC-14",
+  "type": "wreck",
+  "lat": "51.3162300",
+  "lon": "3.0844500",
+  "location": "North Sea",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Johan Opdebeeck",
+  "created_on": "2013-03-21 00:00:00",
+  "modified_on": "2020-02-03 13:43:33",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The UC-14 was a mine-laying submarine of the UCI-class, built in 1915 in Hamburg. The ship was 37 meters long, 3,5 meters wide and had a displacement of 168 tons surfaced and 183 tons submerged. Speed: 6.2 knots on the surface and 5.2 knots submerged. The ships range was 750 miles on the surface and 50 miles submerged. There were no guns or torpedoes on the sub. It was able to carry 12 &acute;UC120&acute;mines. On board were 14 crew members.</p> <p>On October 3rd 1917, the sub ran into a mine on the way home after a mission on the English coast. The submarine was under the command of reserve officer Feddersen (F Flotilla).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000918.jpg\" alt=\"UC-14\" /><figcaption class=\"img-description\">Sonar image.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type/Class: GermanU boat: SM UC 14</p> <p>Navy: KaiserlicheMarine</p> <p>Length: 37 m</p> <p>Beam: 3.5 m</p> <p>Draugth: 3 m</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000917.gif\" alt=\"Type UC 1.\" width=\"500\" height=\"162\" /><figcaption class=\"img-description\">Type UC 1.</figcaption></figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"https://uboat.net/wwi/boats/?boat=UC+14\">Uboat.net.</a><br />uboat.net.</li><li><a href=\"https://en.wikipedia.org/wiki/SM_UC-14\">Wikipedia.</a><br />Wikipedia.</li><li><a href=\"https://www.wrecksite.eu/wreck.aspx?53\">Wrecksite.eu.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

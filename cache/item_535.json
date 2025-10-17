@@ -1,0 +1,27 @@
+{
+  "id": "535",
+  "code": "kleine-erasmus",
+  "name": "Kleine Erasmus",
+  "type": "wreck",
+  "lat": "32.6480000",
+  "lon": "129.7890000",
+  "location": "Nagasaki bay, Nagasaki pref., Japan",
+  "firstdate": null,
+  "firstyear": "1621",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1634",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Leon Derksen",
+  "created_on": "2015-06-01 00:00:00",
+  "modified_on": "2025-06-06 15:54:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Kleine Erasmus</strong></em> was een jacht gebouwd in Rotterdam.</p> <p>De Kleine Erasmus vertrok 22 april 1622 vanuit Goeree naar Azi&euml;. Ze kwam 23 januari 1623 in Batavia aan.</p> <p>Tijdens de Affaire Pieter Nuyts is de Erasmus, toen zij op 26 juli 1628 in Nagasaki aankwam met aan boord een vijftal Japanse gijzelaars, door de Japanse autoriteiten aan de ketting gelegd.</p> <p>Het schip werd gestript en zonder masten in een speciaal hiervoor gegraven geul gevaren waarna de geul door een zware palissade werd afgesloten. De Erasmus ging snel achteruit. Na twee jaar was ze slooprijp.</p> <p><em>Zoodanigh is mede vant sloopen vant jacht Erasmus, waer van den overloop gans vergaen het hol altijjt vol water staet ende de berckhouten dagelijcx bij stucken affvallen&nbsp;</em></p> <p><em>D</em>esalniettemin bleef ze nog tot zeker 24 november 1634 in het dok liggen. Nicolaas Coeckebacker opperhoofd vanaf mei 1633 schrijft aan de raad in Batavuia op 24 11-1634</p> <p><em>Hoe mett het Jacht Erasmus in Nangasacq- aende wall leggende souden handelen, tsij het selve te sloopen ofte in sijn gheheel te laeten hadden wel behooren u Ed.ts naerder ordre daer op te verwachten dogh alsoo uijt den Coopman francoijs Caron verstonden, eeniger onser vrunden te Hoove over het in Esse laten desselffs seer waeren verwondert, ende niet conden bevroeden tot watt eijnde sulcx geschieden [...]</em></p> <p><em>Het casco werd uiteindelijk verkocht..</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>240 ton (120 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.21/invnr/483/file/NL-HaNA_1.04.21_483_0043?eadID=1.04.21&amp;unitID=483&amp;query=483\">NA 1.04.21  483, p 79 [scan 43] Missive Couckebacker 24-11-1634.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

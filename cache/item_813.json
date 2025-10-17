@@ -1,0 +1,27 @@
+{
+  "id": "813",
+  "code": "motorloodsboot-nr-1",
+  "name": "Motorloodsboot nr 1",
+  "type": "wreck",
+  "lat": "51.4009922",
+  "lon": "3.5695752",
+  "location": "Breskens, Nederland",
+  "firstdate": null,
+  "firstyear": "1938",
+  "firstyearend": null,
+  "lastdate": "1940-05-15",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-09-09 10:18:12",
+  "modified_on": "2025-07-06 17:10:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Motorloodsboot nr. 1 is op 15 Mei 1940 op een mijn gelopen en gezonken.</p> <p>Adri But (1914-1995) was als loodskwekeling aan boord toen het schip Motorloodsboot No.1 op 15 mei 1940, tijdens een tocht naar een ankerplaats ten oosten van Breskens, op een magnetische mijn liep. Hij raakte zwaar gewond maar overleefde de ramp.</p> <p>Er waren twee slachtoffers: eerste stoker <a href=\"https://oorlogsgravenstichting.nl/personen/18532/willem-cornelis-bosselaar\">W. Bostelaar</a> en machinedrijver Blind.&nbsp;Later door bezetter opgehaald en tot Rode Kruis vaartuig bestemd.</p> <p>Een loodsboot vaart op zee, op een vaste positie, men noemt dit kruispost. De loodsboot kon tevens dienstdoen als hulp-mijnenveger. Het loodswezen viel onder de Koninklijke Marine.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: loodsboot / hulpmijnenveger</p> <p>Gebouwd: N.V. scheepsbouwwerf Boele te Bolnes, Ridderkerk 1938-39.</p> <p>Voortstuwing: diesel motor</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>A. Ruyg</td></tr><tr><th scope=\"row\">Vermogen</th><td>1200 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>15 knopen ~ 28 km/u (17 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>162 &frac34; voet (49,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 &frac34; voet (8,8 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>11 &frac12; voet (3,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>626 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Schipper : A. Ruyg<br>Stuurman : List<br>Loodskwekeling: Kuiper<br>Loodskwekeling: Jo Alta<br>Loodskwekeling: Adri But</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://wrecksite.eu/wreck.aspx?899\">wrecksite.eu.</a></li><li>Zeeuws Archief.<br />Zeeuws Archief, Foto Dert, nr 11220.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

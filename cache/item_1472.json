@@ -1,0 +1,27 @@
+{
+  "id": "1472",
+  "code": "nijeveen-1885",
+  "name": "Nijeveen 1885",
+  "type": "wreck",
+  "lat": "52.7289140",
+  "lon": "6.1754408",
+  "location": "Nijeveen, Nederland",
+  "firstdate": null,
+  "firstyear": "-400",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-350",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-28 11:23:33",
+  "modified_on": "2025-06-10 16:39:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De beide &lsquo;kano&rsquo;s&rsquo; van Nijenveen komen voor in het jaarverslag over 1888/1889 Leiden (Inv. RMO, 1888 december, merk Vn). <br><br>E&eacute;n is er (Nijenveen 1885?) kennelijk weggegooid. Van de Kano van Nijeveen (1870) zijn slechts stukjes in de verzameling terecht gekomen en ook die zijn later weggegooid.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001856.jpg\" alt=\"schets van een boomstamkano\"> <div class=\"img-source\">Schiffer</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Merkwaardige vondst gemeld en beschreven door Schiffer 1886.<br>De resten zijn waarschijnlijk weggegooid 1935.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Maarleveld, T. (2008).<br /><em>Boten zonder geschiedenis, of wie is er bang voor een boomstamboot?.</em><br />Glavimans 10.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

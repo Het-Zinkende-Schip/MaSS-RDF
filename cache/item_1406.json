@@ -1,0 +1,27 @@
+{
+  "id": "1406",
+  "code": "zwammerdam-2",
+  "name": "Zwammerdam 2",
+  "type": "wreck",
+  "lat": "52.1053603",
+  "lon": "4.7152534",
+  "location": "Zwammerdam, Nederland",
+  "firstdate": null,
+  "firstyear": "150",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "200",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-22 15:14:09",
+  "modified_on": "2025-07-02 17:39:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001834.jpg\" alt=\"De afbeelding toont een kaart van een deel van Nederland en Germania (Duitsland), met locaties die verband houden met archeologische vondsten van schepen of vaartuigen.\"><div class=\"img-source\">RCE</div> <figcaption class=\"img-description\">De Romeinse Limes in Nederland met de gevonden Romeinse schepen</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type Zwammerdam schip platbodemvaartuig<br>Dimensies, 22,75x 2,95 x 0,95</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001838.jpg\" alt=\"De afbeelding toont een tweedimensionale scheepstekening\"></figure> <p>Het wrak was afgedankt en gebruikt in de kadebeschoeiing van<br>het castellum van Zwammerdam. <br>In het schip is leisteen (Grauwacken schiefer) uit het Boven Rijngebied<br>aangetroffen, dat een indicatie over de lading geeft. Het schip is ingezet bij de verstening van de Romeinse forten langs de limes.<br><br>Omgevingsvondsten dateren het schip tussen 150 en 200 na Christus.</p> <p><strong>Scheepsconstructie</strong><br>De leggers zijn met de natuurlijke kniestukken alternerend geplaatst. Ze zijn deels gespijkerd en deels met houten pennen vastgemaakt op het vlak en de kim. Er is gespijkerd van buiten naar binnen. De natuurlijke kniestukken en overige verticale spant delen (oplangers) vallen in een met inkepingen voorziene balk (binnenboord). Van binnenuit zijn de oplangers met lange spijkers bevestigd, waarbij de punten weer zijn teruggeslagen in de boordgang (geniet).</p> <p>De boordgang is overnaads bevestigd op de kim. De mastvoet was uitgespaard in een op de leggers aangebracht zaathout. <br>Het meest opvallende of zelfs meest typerende kenmerk van Romeinse platbodemvaartuigen is de kim constructie. De kim vormt de overgang van bodem naar de zijkant (boord) en bestaat bij alle tot dusver gevonden<br>platbodems uit een naadloos l-vormig gedeelte van een in de lengte doorgezaagde en vervolgens uitgeholde (halve) boomstam.<br><br>Een ander opvallend kenmerk van de platbodems is de spant versteviging in de vorm van spanten of leggers die uit delen van boomstammen bestaan met &eacute;&eacute;n zijtak er nog aan. De rechtopstaande zijtakken (kniestukken) dienen ter versteviging en bevestiging van de boorden.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000275.gif\" alt=\"A Roman flatboat\"> <figcaption class=\"img-description\">A Roman flatboat</figcaption> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De Zwammerdam is opgegraven en de resten zijn bewaard.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001835.jpg\" alt=\"de resten van een houten boot\"> <div class=\"img-source\">RCE beeldbank</div> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brouwers,W,  Jansma, E,  Manders, M. (2013).<br /><a href=\"https://www.academia.edu/6765103/Romeinse_scheepsresten_in_Nederland\">Romeinse scheepsresten in Nederland.</a><br />Archeobrief 4 2013.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

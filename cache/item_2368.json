@@ -1,0 +1,27 @@
+{
+  "id": "2368",
+  "code": "winterswijk",
+  "name": "Winterswijk",
+  "type": "wreck",
+  "lat": "60.8106382",
+  "lon": "-41.0888672",
+  "location": "Cape Farewell, Groenland",
+  "firstdate": null,
+  "firstyear": "1914",
+  "firstyearend": null,
+  "lastdate": "1941-09-10",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-16 12:17:04",
+  "modified_on": "2025-06-12 12:15:33",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Winterswijk</em> vertrok op 30 augustus 1941 in konvooi S.C. 42 van Tampa (FLorida) naar Methil in Groot Britanni&euml;.</p> <p>In de vroege ochtend van 10 september 1941 werd de Winterswijk getorpedeerd door de Duitse onderzeeboot U 432 bij Cape Farewell (ten zuiden van Groenland).</p> <p>E&eacute;n torpedo trof doel in ruim II en de Winterswijk begon snel te zinken. Tijdens het verlaten van het schip trof een tweede torpedo doel en het schip verdween vrijwel onmiddellijk in de golven. Van de 33 opvarenden van de WINTERSWIJK verloren 20 personen het leven bij de ramp. 13 man werden gered en later in Gourock aan land gezet.<br>De Winterswijk was op reis met een lading fosfaat van Tampa via Sydney N.S. naar Methil.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Scheepswerf v/h. Jan Smit Czn., Alblasserdam, 1914 <br>Eigenaar: N.V. Maatschappij s.s. Winterswijk, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Groot, J. de,</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>33</td></tr><tr><th scope=\"row\">Lengte</th><td>320 voet (97,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>47 &frac12; voet (14,5 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>23 voet (7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3205 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=7356\">Stichting Maritieme Historiscxhw.</a></li><li>Haersolte, J.W.J. van, (1947).<br /><em>Scheepsrampen in  oorlogstijd p.56.</em></li><li><a href=\"https://www.uboat.net/allies/merchants/ship/1088.html\">U boat net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

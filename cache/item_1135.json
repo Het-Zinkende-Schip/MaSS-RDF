@@ -1,0 +1,27 @@
+{
+  "id": "1135",
+  "code": "maria-1786",
+  "name": "Maria",
+  "type": "wreck",
+  "lat": "-34.0651705",
+  "lon": "23.3950662",
+  "location": "Plettenberg bay, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1786",
+  "firstyearend": null,
+  "lastdate": "1788-08-25",
+  "lastyear": "1788",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-17 16:37:37",
+  "modified_on": "2025-03-03 11:08:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Maria</strong></em> kwam van Ceylon en liep op 25 augustus aan de grond bij Plettenberg.</p> <p>Een deel van de lading werd aan boord genomen van de&nbsp;<em>Jonge Frank</em> die op weg was naar de Oost. Een ander deel van de lading werd opgenomen door de <em>Duifje</em> die op weg was naar Nederland.</p> <p>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: gehuurd, 1786<br>Tonnage: 454 last , 908<br>Complement: 128<br>Schipper: Siskes, Pieter</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pieter Seskes</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>40</td></tr><tr><th scope=\"row\">Tonnage</th><td>908 ton (454 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/99027\">DAS 8207.1.</a></li><li>La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</a><br />SAHRA.</li><li>Parkess, M. (1988).<br /><em>Knysna, the Forgotten Port.</em><br />Emu Publishers.</li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/139/file/NL-HaNA_1.11.06.18_139_0095?eadID=1.11.06.18&amp;unitID=139&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 1788.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

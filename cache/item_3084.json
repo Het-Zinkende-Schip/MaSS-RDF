@@ -1,0 +1,27 @@
+{
+  "id": "3084",
+  "code": "zutphen-2",
+  "name": "Zutphen",
+  "type": "wreck",
+  "lat": "52.1432220",
+  "lon": "6.2044441",
+  "location": "Zutphen, Nederland",
+  "firstdate": null,
+  "firstyear": "1300",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1300",
+  "lastyearend": "1350",
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-05-31 20:29:11",
+  "modified_on": "2025-06-15 21:09:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens een archeologische begeleiding in het centrum van Zutphen zijn grachtvullingen afgegraven, waarbij twee eikenhouten fragmenten zijn geborgen.</p> <p>Op basis van nabijgelegen aardewerkfragmenten zijn de eikenhouten fragmenten gedateerd aan het begin van de 14e eeuw. Fragment 1 is 1,6 meter lang en 38 centimeter breed; fragment 2 is 1,22 meter lang en 8,5 centimeter breed. Op basis van de vorm van de fragmenten is geconcludeerd dat het een opgeboeide boomstamboot betreft.[1]</p> <p>Het wordt gedacht dat de totale lengte van de boot tussen de 5 en 8 meter was en de breedte bedroeg 130 centimeter. Indien het vaartuig een opgeboeide boomstamboot was, dan komt de datering die eerder benoemd is goed overeen: deze typen kwamen voor aan het einde van de 13e eeuw en het begin van de 14e eeuw.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Fermin, van Dalfsen &amp; Rijs, (2016).<br /><a href=\"https://www.academia.edu/36049364/Zutphense_Archeologische_Publicaties_112\">Diagonale Archeologie.</a><br />Zutphense Archeologische Publicaties 112.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

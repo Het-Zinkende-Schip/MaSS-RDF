@@ -1,0 +1,27 @@
+{
+  "id": "2097",
+  "code": "zh16",
+  "name": "ZH16",
+  "type": "wreck",
+  "lat": "52.4045600",
+  "lon": "5.3986400",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1630",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:51:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens een karterend onderzoek in 1976 is op kavel H16 in Zuidelijk Flevoland, tussen de Dodaarsweg en de Dodaarstocht, een scheepswrak aangetroffen. In hetzelfde jaar is een verkenning uitgevoerd. Een jaar later is er een herverkenning uitgevoerd door het toenmalige Centrum voor Scheepsarcheologie. Het betreft een groot zwaargebouwd vrachtschip, waarvan de contouren in het maaiveld zichtbaar waren. Het karveel gebouwde vrachtschip is 24 meter lang en 6,30 meter breed. De huid en de stevens zijn zeer beschadigd aangetroffen. De rest van het scheepswrak verkeerde in goede staat. Het achterschip is scherper van vorm dan het voorschip. Lading is niet in het wrak aangetroffen. Er zijn redelijk wat vondsten geborgen waaronder kalkstenen netverzwaarders, kleine ballaststenen, schoenen, drie korte heidebezempjes en scherven van een baardmankruik. Op basis van de vondsten wordt van het wrak in het eerste kwart van de zeventiende eeuw gedateerd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een groot zwaargebouwd vrachtschip uit het eerste kwart van de zeventiende eeuw, Zeewolde.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002036.jpg\" alt=\"Opgegraven voorkant van een houten boot\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">De ballaststenen van het wrak zaten tussen de dubbele scheepswand.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002037.jpg\" alt=\"Opgraving van een breed houten schip, wat zich nog in de grond bevind\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Overzicht van het scheepswrak met de wegering. Gezien van voor- naar achterschip.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002038.jpg\" alt=\"Een aantal kapotte potten, pannen en borden\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Enige vondsten die tijdens de verkenning zijn aangetroffen.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002039.jpg\" alt=\"het midden van een opgegraven schip\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het middenzaathout met het mastspoor van de grote mast.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Gijsbers, W., L. Koehler &amp; J.-M.A.W. Morel (2010).<br /><em>Licht aan boord: Verlichtingsobjecten uit het Nationaal Scheepsarcheologisch Depot in Lelystad.</em><br />Lelystad: Nationaal Scheepsarcheologisch Depot &amp; Rijksdienst voor het Cultureel Erfgoed.</li><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xsd-ebuz\">Opgravingsdocumentatie scheepswrak ZH16.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

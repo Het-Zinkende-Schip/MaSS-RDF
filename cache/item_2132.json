@@ -1,0 +1,27 @@
+{
+  "id": "2132",
+  "code": "oj9",
+  "name": "OJ9",
+  "type": "wreck",
+  "lat": "52.5423000",
+  "lon": "5.5730900",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:41:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit schip is gevonden op kavel J9 in Oostelijk Flevoland nabij de Elandweg in de gemeente Dronten. In 1963 en 1989 is het wrak verkend, het wrak was zwaar beschadigd. Het scheepswrak is een karveel gebouwd vissersschip van het type waterschip. Waterschepen waren de grootste en belangrijkste vissersschepen van de Zuiderzee gedurende de 16de en 17de eeuw. Ze zijn voorzien van een bun gevuld met water, waar de gevangen vis levend in vervoerd kan worden. De vroegste types waterschepen werden overnaads gebouwd, maar vanaf het tweede kwart van de zestiende eeuw werden deze schepen karveel gebouwd, dat wil zeggen gladboordig. Vanwege de fragmentarische staat waarin het wrak verkeerde zijn er weinig gegevens over de constructie van het schip bekend. Vastgesteld kon worden dat het schip karveel gebouwd is. Uit de verstoring van het bodemprofiel is gebleken dat dit waterschip in de zeventiende eeuw is vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een zwaar beschadigd wrak van een karveel gebouwd waterschip uit de zeventiende eeuw, Dronten</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001991.jpg\" alt=\"Verkenningssleuf midscheeps OJ9.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Verkenningssleuf midscheeps OJ9.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2zf-5fa7\">Opgravingsdocumentatie scheepswrak OJ9.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

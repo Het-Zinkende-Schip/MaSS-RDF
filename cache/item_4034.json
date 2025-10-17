@@ -1,0 +1,27 @@
+{
+  "id": "4034",
+  "code": "ne87",
+  "name": "NE87",
+  "type": "wreck",
+  "lat": "52.6383950",
+  "lon": "5.7062720",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:47:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1948 werd de vondst gemeld van een scheepswrak in een drainsleuf op kavel E87 in de Noordoostpolder. Het daaropvolgende jaar kwam het tot een systematische opgraving volgens de kwadrantenmethode. Het bleek te gaan om een klein bok- of praamachtig binnenvaartscheepje, platboomd en van zeer hechte bouw, van een type dat tot op dat moment nog niet eerder was gevonden in het drooggemaakte Zuiderzeegebied. Dergelijke platte scheepjes kunnen als veepontjes gebruikt zijn geweest, maar ook wel als bootjes of bakjes waarmee materialen werden vervoerd bij scheepswerven, of van waaruit kleine reparaties langszij grotere schepen konden worden verricht. Omdat deze bootjes in de loop van de eeuwen maar weinig van vorm veranderden, werd het wrak, hoewel gaaf gebleven in de bodem, niet van belang geacht voor behoud. Bij het onderzoek werden geen dateerbare vondsten gedaan, waardoor men alleen af kon gaan op de bodemverstoring van het schip in het profiel. Deze wees, op basis van dateringen van dezelfde grondlaag elders in de Noordoostpolder, op een vermoedelijke ondergang in de 17de eeuw. Na het onderzoek werd aan de landbouwkundig opzichter meegedeeld dat deze het wrakhout kon laten verwijderen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zb6-p3te\">Opgravingsdocumentatie scheepswrak NE87.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1602",
+  "code": "gelderland-2",
+  "name": "Gelderland",
+  "type": "wreck",
+  "lat": "46.6795945",
+  "lon": "-26.0156250",
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1622",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1645",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-07 09:56:37",
+  "modified_on": "2025-06-11 16:31:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Gelderland</strong></em> was onderdeel van de eerste grote WIC vloot die werd uitgezonden om Brazili&euml; te veroveren. De Gelderland speelde een belangrijke rol bij de inname van San Salvador (10-mei 1624). O.l.v. van vice admiraal Piet Hein voer ze samen met de Groeningen en de Nassau tot vlak bij de stadsbatterijen. Deze werden veroverd en dat was een sleutel moment in de verovering van de stad.</p> <p>Op 4 augustus voer een eskader o.l.v. Piet Hein (Neptunus, Hollandia, Gelderland en de Zee-Jager) naar Angola om Luanda te veroveren. Dat mislukte.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Tonnage: 300<br>Schipper: Gerrit Douwens<br>Bewapening: 4 brons , 28 ijzer</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pieter Gerritsz Root</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Laet, J. (1644).<br /><em>Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, zedert haer begin, tot het eynde van 't jaer sesthien-hondert ses-en-dertich.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2659",
+  "code": "gouden-ster",
+  "name": "Gouden Ster",
+  "type": "wreck",
+  "lat": "11.1762294",
+  "lon": "-60.7367134",
+  "location": "Rockly Bay, Scarborough, Trinidad en Tobago",
+  "firstdate": null,
+  "firstyear": "1644",
+  "firstyearend": null,
+  "lastdate": "1677-03-03",
+  "lastyear": "1677",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-10-06 10:05:42",
+  "modified_on": "2025-06-06 13:22:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Gouden Ster was een fregat en deed dienst in de vloot van Binckes die in 1676 naar West Indi&euml; voer om de Zeeuwse bezittingen aldaar te versterken en de Fransen waar dan ook afbreuk te doen. (Zie de <a href=\"/battle-of-scarborough\">Battle of Scarborough</a>)</p> <p>Aan boord van de Gouden Ster waren 90 bemanningsleden en soldaten.</p> <p>De Gouden Ster werd in brand geschoten door de Fransen. Ze raakte stuurloos en dreef al brandende tegen de Gouden Monnik die op haar beurt ook vlam vatte. Schipper Cooreman sneuvelde bij deze actie.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000886.jpg\" alt=\"The bay of Nieuw Vlissingen (Scarborough, Tobago) as depicted by Johannes Vingboons, 1665.\"></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 28</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Cooreman, P.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>90</td></tr><tr><th scope=\"row\">Lengte</th><td>120 voet (36,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 voet (8,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jong, J.C. (1858).<br /><a href=\"https://www.dbnl.org/arch/jong102gesc06_01/pag/jong102gesc06_01.pdf\">Geschiedenis van he Nederlandsche zeewezen II, 718.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

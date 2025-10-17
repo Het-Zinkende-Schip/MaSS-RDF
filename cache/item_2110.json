@@ -1,0 +1,27 @@
+{
+  "id": "2110",
+  "code": "zg59",
+  "name": "ZG59",
+  "type": "wreck",
+  "lat": "52.3612100",
+  "lon": "5.3742600",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:58:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1981 is er een melding gedaan van een scheepswrak dat op kavel G59 in Zuidelijk Flevoland is aangetroffen. In 1982 is er door het voormalige Centrum voor Scheepsarcheologie een verkennend onderzoek uitgevoerd. De locatie van het wrak ligt tussen de Vogelweg, de Gruttoweg en de duikertocht. Het wrak is een vissersschip van het type bons, schokker of pluut en dateert uit de achttiende eeuw. De lengte van het wrak is 13,25 meter bij 4,5 meter. Het schip heeft een opvallend rechte voorsteven. Het achterdek is circa 2,4 meter lang en voorzien van een luik. Vermoedelijk heeft het schip twee masten gehad. Het wrak is bijzonder compleet bewaard gebleven. Het schip bestaat uit eiken- en grenenhout. De kwaliteit van het hout was goed. Bijzonder is dat tijdens de verkenning het roer, dat nog aan de achtersteven vastzat, is aangetroffen. Ook is er een pokhouten schijf gevonden. Na de documentatie is het schip ingekuild om het te reserveren voor onderzoek in de (verre) toekomst. Na het inkuilen is er op initiatief van de grondeigenaar een kunstwerk op de locatie van het wrak geplaatst. Het kunstwerk bestaat uit twee masten die verwijzen naar de tweemaster die zich onder de grond bevindt. Op de twee masten zijn nestkasten geplaatst voor roofvogels. De achterliggende gedachte is dat de roofvogels knaagdieren, zoals veldmuizen en konijnen, afschrikken waardoor er minder schade aan de landbouwgewassen ontstaat.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een vissersschip van het type bons, schokker of pluut uit de achttiende eeuw, Zeewolde.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002030.jpg\" alt=\"Opgraving van een scheepsroer. Halverwege het roer is de lat aanwezig waar het helmhout op rustte.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het roer en de achtersteven constructie. Halverwege het roer is de lat aanwezig waar het helmhout op rustte.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002031.jpg\" alt=\"Bovenaanzicht van een opgegraven houten achterdek\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Bovenaanzicht op het achterdek. Het toegangsluikje naar het achteronder is nog helemaal intact. Aan de linkerzijde is de zeilbalk van de achterste mast te zien.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zuy-xwzu\">Opgravingsdocumentatie scheepswrak ZG59.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

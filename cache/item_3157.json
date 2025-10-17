@@ -1,0 +1,27 @@
+{
+  "id": "3157",
+  "code": "willem-de-zwijger",
+  "name": "Willem de Zwijger",
+  "type": "wreck",
+  "lat": "-34.6111000",
+  "lon": "20.3311000",
+  "location": "Marthas Point, Arniston, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1857",
+  "firstyearend": null,
+  "lastdate": "1863-03-30",
+  "lastyear": "1863",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-11-23 16:37:18",
+  "modified_on": "2025-07-25 12:48:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Nederlandse bark <em><strong>Willem de Zwijger</strong></em> kapt. W.L. van den Dries was onderweg van Java naar Nederland, is volgens bericht van de Kaap de Goede Hoop verongelukt.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003819.png\" alt=\"aankondiging van het schip Willem de Zwijger op papier, voor dinsdag de 7e\"> <div class=\"img-source\">Marhisdata</div> </figure> <p>Aankondiging</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Jan van Duijvendijk Tzn., Lekkerkerk</p> <p>Eigenaar: Firma Hartig &amp; Glazener, Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Willem Lodewijk van den Dries</td></tr><tr><th scope=\"row\">Tonnage</th><td>753 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Er is gemeld dat er meerdere bergingsoperaties hebben plaatsgevonden. De belangrijkste vond plaats in 1978. Toen werd het grootste deel van de lading geborgen. De berging gebeurde niet onder vergunning en er is niet veel bekend over de locatie. Er zijn zes kanonnen uit het wrak verwijderd en enkele bronzen carronades.</p> <p>Er zijn kanonnen en het boegbeeld van het schip te zien in het <a href=\"https://www.westerncape.gov.za/facility/shipwreck-museum\">Shipwreck Museum in Bredasdorp</a>, West-Kaap.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=9453\">marhisdata id 9453.</a></li><li><em>SAHRA Database.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

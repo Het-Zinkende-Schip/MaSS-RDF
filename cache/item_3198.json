@@ -1,0 +1,27 @@
+{
+  "id": "3198",
+  "code": "reggestroom",
+  "name": "Reggestroom",
+  "type": "wreck",
+  "lat": "50.1900000",
+  "lon": "0.3000000",
+  "location": "Engelse Kanaal",
+  "firstdate": null,
+  "firstyear": "1923",
+  "firstyearend": null,
+  "lastdate": "1942-07-09",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2023-12-20 11:23:28",
+  "modified_on": "2025-06-16 20:16:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis van Milford Haven naar Southampton in konvooi 'WP 183' in het Kanaal (ongeveer 20 mijl wzw van Portland Bill) getorpedeerd door de Duitse torpedoboot 'S 50' en gezonken in positie 50.19 NB, 03.00 WL.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: stoomschip</p> <p>Gebouwd: Maatschappij voor Scheeps- en Werktuigbouw Fijenoord N.V., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>349 voet (106,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3854 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5432\">marhisdata id 5432.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

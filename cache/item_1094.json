@@ -1,0 +1,27 @@
+{
+  "id": "1094",
+  "code": "hartekamp",
+  "name": "Hartekamp",
+  "type": "wreck",
+  "lat": "22.5727935",
+  "lon": "88.3425622",
+  "location": "Palta Gath, India",
+  "firstdate": null,
+  "firstyear": "1748",
+  "firstyearend": null,
+  "lastdate": "1754-10-02",
+  "lastyear": "1754",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-25 12:32:12",
+  "modified_on": "2025-02-14 13:25:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Hartekamp</em> maakte twee reizen naar Azi&euml;.</p> <p>Van Texel (8-1-1749) naar Batavia , terug in Nederland (22-4-1750<br>Van Texel 21-9-1750 Batavia (20-6-1751)</p> <p>De Hartenkamp is samen met de Witsburg tijdens een storm op 2 oktober 1754 op de rede van Volta (Phalta) Bengalen vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1748<br>Lengte: 120 vt<br>Tonnage: 70<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0085?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=624&amp;accessor=search_in_text&amp;source=12&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22\">Generale missiven Deel 12, 553, 613.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

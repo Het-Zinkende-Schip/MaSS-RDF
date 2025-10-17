@@ -1,0 +1,27 @@
+{
+  "id": "3049",
+  "code": "arendskerk",
+  "name": "Arendskerk",
+  "type": "wreck",
+  "lat": "46.9980709",
+  "lon": "-10.5982684",
+  "location": "Golf van Biskaje",
+  "firstdate": null,
+  "firstyear": "1938",
+  "firstyearend": null,
+  "lastdate": "1940-01-15",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-02-04 13:35:54",
+  "modified_on": "2025-06-15 20:50:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Nederlandse vrachtschip <em><strong>Arendskerk</strong></em> was op weg van Antwerpen naar Kaapstad. Het schip bevond zich in de Golf van Biskaje (100 mijl van Ouessant) toen het door de Duitse onderzeeboot <em>U 44</em> werd aangehouden. De commandant verklaarde de lading - 4000 ton stukgoederen- contrabande en besloot de Arendskerk tot zinken te brengen.<br><br><strong>Getorpedeerd<br></strong><em>D</em>e bemanning verliet het schip in vier reddingsboten vervolgens werd een torpedo afgevuurd en zonk het schip. Alle 65 opvarenden (28 Europeanen, 37 Brits Indi&euml;rs) werden gered. Ze werden opgepikt door het Italiaanse vrachtschip <em>Fedora </em>en in Lissabon aan wal gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: F. Schichau G.m.b.H., Elbing, Germany</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Wijker, C.J.H.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>65</td></tr><tr><th scope=\"row\">Lengte</th><td>492 &frac34; voet (150,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>64 &frac34; voet (19,7 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>31 &frac14; voet (9,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>7906 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=587\">marhisdata id 587.</a></li><li><a href=\"https://www.uboat.net/allies/merchants/ship/176.html\">uboat.net/.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=arendskerk&amp;coll=ddd&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1940-1949%7C1940%7C&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;sortfield=date&amp;identifier=ABCDDD:010845188:mpeg21:a0012&amp;resultsidentifier=ABCDDD:\">De Volkskrant (16-01-1940).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

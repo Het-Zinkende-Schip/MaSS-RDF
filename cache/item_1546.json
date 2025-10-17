@@ -1,0 +1,27 @@
+{
+  "id": "1546",
+  "code": "gieten",
+  "name": "Gieten",
+  "type": "wreck",
+  "lat": "53.0033118",
+  "lon": "6.7639081",
+  "location": "Gieten, Nederland",
+  "firstdate": null,
+  "firstyear": "-20",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "200",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-18 10:35:40",
+  "modified_on": "2023-04-17 12:33:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1889 is een boomstamboot aangetroffen in een veentje ten zuidwesten van Gieten. De boot is niet geheel bewaard gebleven, maar gefragmenteerd. Op basis van C14-onderzoek is vastgesteld dat de boomstamboot dateert uit 1890&plusmn;30 BP.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

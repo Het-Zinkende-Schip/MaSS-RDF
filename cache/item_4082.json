@@ -1,0 +1,27 @@
+{
+  "id": "4082",
+  "code": "nm133-ii",
+  "name": "NM133-II",
+  "type": "wreck",
+  "lat": "52.7824480",
+  "lon": "5.8413520",
+  "location": "Luttelgeest, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1850",
+  "lastyearend": "1950",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:18:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bij het graven van greppels in het bos op kavel M133 werd een scheepsrest ontdekt, waarnaar op 15 mei 1956 een verkenning werd verricht. Er bleek nog slechts een gedeelte van een vlak aanwezig te zijn, met iets van een opstaande kant. De breedte van het stuk bedroeg 3 meter, de lengte kon niet worden vastgesteld. Bij de ingespoelde grond onder de inhouten werden zoutwaterschelpen aangetroffen waaruit werd afgeleid dat het schip vermoedelijk na de Zu III-fase van de Zuiderzee is vergaan, dat wil zeggen, tenminste na ca. 1650. Er werden geen vondsten gedaan die destijds een nadere datering mogelijk maken. De sterk verstoorde bodemopbouw ter plaatse (onder de kust van Kuinre) liet geen verdere specificering toe. Het wrak zelf was van onvoldoende betekenis om een uitgebreider onderzoek te rechtvaardigen. Na het bepalen van de situatie (getekend in schets) werd het object prijsgegeven, maar het scheepshout is niet verwijderd. Slechts weinig vondsten werden geborgen, waarvan zich thans enkel nog een tegel met blauw-wit geglazuurde musketier, een tinnen schoengesp en een weefselfragment in de maritieme archeologische collectie bevinden.</p> <p>In 1949 werd bij de vondst van een achterstevenhaak op dit kavel (zie wrak NM133-I) reeds een aantal andere objecten gevonden, die echter van jongere datum waren dan het betreffende stuk scheepsconstructie. Deze zijn daarom achteraf toegeschreven aan dit jongere, tweede wrak. In het archeologisch wrakdossier worden NM133-I en II helaas door elkaar gebruikt, maar hier is er voor gekozen om de oudere achterstevenhaak wrak I te noemen en de jongere scheepsvondst aan te duiden als wrak II, in navolging van Yftinus Van Popta &amp; Andr&eacute; (A.F.L.) van Holk 2018 ('Where are the Shipwrecks of the Zuiderzee - Shipwreck Database Flevoland 3.0').</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zqv-nekb\">Opgravingsdocumentatie scheepswrak NM133-II.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

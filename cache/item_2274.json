@@ -1,0 +1,26 @@
+{
+  "id": "2274",
+  "code": "nagele",
+  "name": "Nagele",
+  "type": "site",
+  "lat": "52.6911279",
+  "lon": "5.6528091",
+  "location": "Noordoostpolder Flevoland, Nederland",
+  "firstdate": null,
+  "firstyear": "1100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1300",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-02 18:46:38",
+  "modified_on": "2025-06-11 20:04:20",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Nagele is een middeleeuwse nederzetting die in de loop van de 13e eeuw door de latere Zuiderzee werd verzwolgen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bij de drooglegging van de Noordoostpolder in de jaren veertig en vijftig bestond de hoop dat het mogelijk moest zijn om de locaties van een aantal verzonken nederzettingen terug te vinden. In dat gebied lagen zeker nog drie andere nederzettingen: Nagele, Marcnesse en Fenehuyse I en II. Toen de Zuiderzee ontstond, zijn ze verdronken en in de loop der tijd is hun precieze locatie verloren gegaan.</p></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Door archeologisch speurwerk heeft archeoloog Yftinus van Popta 4 verdronken nederzettingen in de Noordoostpolder gelokaliseerd.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Theo Toebosch (2020).<br /><a href=\"https://www.nrc.nl/nieuws/2020/10/26/vier-verdronken-dorpen-noordoostpolder-teruggevonden-a4017448\">/vier-verdronken-dorpen-noordoostpolder-teruggevonden.</a><br />NRC 26-10-2020.</li><li>Yftinus van Popta (2020).<br /><em>When the shore becomes the sea.</em><br />Proefschrift.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

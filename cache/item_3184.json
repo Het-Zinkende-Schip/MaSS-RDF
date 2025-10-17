@@ -1,0 +1,27 @@
+{
+  "id": "3184",
+  "code": "johanna-2",
+  "name": "Johanna",
+  "type": "wreck",
+  "lat": "-33.9644804",
+  "lon": "25.6369258",
+  "location": "Near Baakens River mouth, Algoa Bay, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1881-02-15",
+  "lastyear": "1881",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-26 18:13:01",
+  "modified_on": "2025-06-16 20:07:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The <strong><em>Johanna</em></strong> was registered in Oude Pekela and was carrying a cargo of maize when she arrived in Cape Town from Rosario on 15 January 1881.</p> <p>Roughly a month later, the ship was wrecked in Algoa Bay after her anchor cables parted in a south-easterly gale. Luckily, all aboard were saved despite the rough ocean conditions, but the ship was destroyed.</p> <p>There is some uncertainty about the identity of the master of the ship, who might have been Jan Kampuhis, as well as the tonnage of the vessel, which is believed to have been 198 tons.</p> <p>The photograph in this entry shows the area in which the<strong>&nbsp;</strong><em>Johanna</em>&nbsp;wrecked, albeit roughly 60 years prior.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>A Kamphuis</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>7</td></tr><tr><th scope=\"row\">Tonnage</th><td>198 ton (99 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Dean Mcleland.<br /><a href=\"http://thecasualobserver.co.za/tag/baakens-river/\">Tag Archives: Baakens River.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><em>SAHRA Database.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

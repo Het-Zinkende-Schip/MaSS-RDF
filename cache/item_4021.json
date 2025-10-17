@@ -1,0 +1,27 @@
+{
+  "id": "4021",
+  "code": "od2",
+  "name": "OD2",
+  "type": "wreck",
+  "lat": "52.4421850",
+  "lon": "5.4480510",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": "1850",
+  "firstyearend": "1875",
+  "lastdate": null,
+  "lastyear": "1850",
+  "lastyearend": "1875",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:34:38",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gevonden nabij het huidige Lelystad. Op kavel D2 werd in april 1971 bij het greppeltrekken een scheepswrak aangetroffen. Van dezelfde kavel werd in 1972 de vondst van een scheepszwaard gemeld. Het scheepswrak bleek dat van een eind 19de-eeuws vrachtschip te zijn van ongeveer 20 bij 4 meter. Uit nadere opgraving in 1973 werd duidelijk dat het ging om een vrachtschip met vlakke bodem, dat een lading vetkolen en aardewerk (voor verkoop bestemd) vervoerde. Na het onderzoek is het schip verwijderd.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z5w-mckn\">Opgravingsdocumentatie scheepswrak OD2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

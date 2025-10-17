@@ -1,0 +1,27 @@
+{
+  "id": "2795",
+  "code": "schiedam-3",
+  "name": "Schiedam",
+  "type": "wreck",
+  "lat": "51.4022043",
+  "lon": "0.5270691",
+  "location": "Medway, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1667-06-14",
+  "lastyear": "1667",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Jos Kleijne",
+  "created_on": "2022-10-04 11:38:05",
+  "modified_on": "2025-06-14 22:01:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002833.jpg\" alt=\"Kaartdetail van de aanval op Chatham, Michiel Comans II\"> <div class=\"img-source\">Rijksmuseum RP-P-OB-82.051</div> </figure> <p>De Schiedam was e&eacute;n van de branders die bij de beroemde tocht naar Chatham ingezet werd. De tocht naar Chatam onder Michiel de Ruiter (14 juni 1667) was een verrassingsaanval op de thuishaven van de Engelse vloot.</p> <p><strong>Tocht naar Chatham</strong><br>Tocht naar Chatham (Engels: Raid on the Medway) was een succesvolle Nederlandse verrassingsaanval op de Engelse oorlogsvloot tijdens de Tweede Engels-Nederlandse Oorlog. De Nederlanders, onder het bevel van admiraal Michiel de Ruyter bombardeerden Sheerness, voeren de Theems op tot Gravesend, zeilden hierna de Medway op tot in Chatham, sinds 1560 de belangrijkste Engelse marinebasis.</p> <p>De Hollandse vloot wist drie grote en tien kleine schepen tot zinken te brengen. De HMS Unity en HMS Royal Charles, de trots en het vlaggenschip van de Engelse vloot, enterden en meesleepten naar Nederland. Het was het grootste verlies ooit voor de Engelse marine en leidde tot een snel einde van de oorlog.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gerrit Adriaansz. Macq</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0013.php\">Leven en bedryf van den heere Michiel de Ruiter X 565.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

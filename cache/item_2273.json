@@ -1,0 +1,27 @@
+{
+  "id": "2273",
+  "code": "willy-sch-61",
+  "name": "Willy (SCH 61)",
+  "type": "wreck",
+  "lat": "54.1666670",
+  "lon": "4.2500000",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1902",
+  "firstyearend": null,
+  "lastdate": "1940-04-26",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-02 12:52:54",
+  "modified_on": "2025-07-06 19:09:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Willy SCH 61</strong></em> werd in 1936 overgenomen (Ex Dordrecht IJM 52, ex).</p> <p>In april 1940 was een groep van 40 vissersschepen ten noorden van Terschelling in de buurt van een mijnenveld aan het vissen. In de nacht van 26 op 27 april 1940 werd door getuigen twee explosies gehoord.&nbsp;<br>De eerste explosie werd herkend als een kanon van een oorlogsschip. De tweede explosie was volgens hen een zeemijn. Bij de eerste zou de Gloria zijn getroffen en gezonken. Bij de tweede explosie zou de Willy zijn gezonken. Van de Willy werd later ter plekke wrakhout gevonden. Alle tien opvarenden verloren het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Stoom trawler<br>Eigenaar: Frank Vrolijk , 1936<br>Tonnage: 147,20 ton<br>Lengte: 31, 39 meter<br>Breedte: 6,15 meter<br>Holte: 3,41 meter</p> <p>Gebouwd: J.F,. Eltungham &amp; Co South Shields (UK)</p> <p>Motor: Steel Comp.Ltd North Shield 3 cil. Schotse ketel Bj 1902<br>Vermogen: 300 Pk</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003742.jpg\" alt=\"Een krantenartikel\"> <div class=\"img-source\">courant nieuws van de dag (3-5-1940)</div> <figcaption class=\"img-description\">.</figcaption> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Groen, A.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>10</td></tr><tr><th scope=\"row\">Tonnage</th><td>147 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De namen van deze slachtoffers zijn opgenomen in de database van de Oorlogsgraven stichting, als 'slachtoffer van oorlog' d.i., niet erkend oorlogsslachtoffers.</p> <p>De omgekomen bemanningsleden:</p> <p>Herman Petrus van der Meulen. Eerste machinist. 47 jaar.<br>Gerrit van der Harst. Matroos. 23 jaar. <br>Klaar Guit. Matroos. 29 jaar. <br>Arie Turfboer. Matroos. 32 jaar. <br>Ment Dijkhuizen. Eerste stoker. 38 jaar. <br>Leenderd Rog. Lichtmatroos. 19 jaar. <br>Arend Groen. schipper. 55 jaar. <br>Cornelis Taal. Stuurman. 36 jaar. <br>Gerrit Diderik Martinus van Deutekom. Tweede stoker. 38 jaar. <br>Bertus Pronk. Kok.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;cql%5B%5D=%28date+_gte_+%2222-04-1940%22%29&amp;cql%5B%5D=%28date+_lte_+%2207-05-1940%22%29&amp;query=Willy&amp;coll=ddd&amp;redirect=true&amp;page=6&amp;sortfield=date\">Courant 3-5-1940.</a></li><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40019173\">Centraal Visserij register.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Willie&amp;cql%5B%5D=%28date+_gte_+%2225-03-1940%22%29&amp;cql%5B%5D=%28date+_lte_+%2212-05-1940%22%29&amp;facets%5Btype%5D%5B%5D=artikel&amp;redirect=true&amp;sortfield=datedesc&amp;identifier=ddd:010318563:mpeg21:a0123\">Delftsche courant (9-5-1940).</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Willy&amp;coll=ddd&amp;sortfield=datedesc&amp;facets%5Btype%5D%5B%5D=artikel&amp;cql%5B%5D=%28date+_gte_+%2222-04-1940%22%29&amp;cql%5B%5D=%28date+_lte_+%2207-05-1940%22%29&amp;page=22&amp;redirect=true&amp;identifier=MMGARO01:000179396:\">De Grondwet (30-4-1940).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

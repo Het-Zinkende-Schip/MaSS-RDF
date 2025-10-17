@@ -1,0 +1,27 @@
+{
+  "id": "2320",
+  "code": "admiraal-de-ruyter",
+  "name": "Admiraal de Ruyter",
+  "type": "wreck",
+  "lat": "17.1596865",
+  "lon": "-61.6552734",
+  "location": "Antigua, Antigua en Barbuda",
+  "firstdate": null,
+  "firstyear": "1780",
+  "firstyearend": null,
+  "lastdate": "1804-09-03",
+  "lastyear": "1804",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-19 14:11:59",
+  "modified_on": "2025-06-12 11:44:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Admiraal De Ruyter nam deel aan de <a href=\"https://www.wikiwand.com/nl/Slag_bij_de_Doggersbank_(1781)\">slag bij Doggersbank</a> in 1781 tegen de Royal Navy.</p> <p>30 augustus 1799 overgegeven aan de Royal Navy (Story)in de Vlieter.</p> <p>3 september in Engelse dienst vergaan bij Antigua onder kapitein Beckett.<br><br>(bron: NIMH, schepenarchief)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 68</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Huys, J.N.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>450</td></tr><tr><th scope=\"row\">Lengte</th><td>167 &frac34; voet (51,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>47 voet (14,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>20 voet (6,1 m)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

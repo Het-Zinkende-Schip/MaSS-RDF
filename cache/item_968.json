@@ -1,0 +1,27 @@
+{
+  "id": "968",
+  "code": "enkhuizen-1770",
+  "name": "Enkhuizen",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1760",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1770",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-28 12:37:04",
+  "modified_on": "2025-06-20 10:37:33",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Enkhuizen</em> werd gebouwd in 1759 in Enkhuizen. Ze maakte twee reizen naar Azi&euml;.</p> <p>De tweede uitreis begon op 15 mei 1768 van Texel met bestemming Batavia (aankomst 27-1-1769). Aan boord waren 129 zeelieden, 63 militairen en 9 ambachtslieden.</p> <p>Ze vertrok naar Bengalen op 25 juli 1769 en op&nbsp;29 januari 1770 <br>keerde ze terug naar Nederland.&nbsp;De Enkhuizen kwam nooit aan bij de Kaap en is met man en muis op de Indische Oceaan vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd VOC-werf in Enkhuizen, in 1760<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan Frederik</td></tr><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>880 ton (440 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98655\">Details of voyage 7810.2 from Bengal.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0052?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 43.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

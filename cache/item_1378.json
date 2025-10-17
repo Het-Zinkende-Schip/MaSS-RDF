@@ -1,0 +1,27 @@
+{
+  "id": "1378",
+  "code": "woestduin",
+  "name": "Woestduin",
+  "type": "wreck",
+  "lat": "51.4765505",
+  "lon": "3.4912491",
+  "location": "Dishoek, Nederland",
+  "firstdate": null,
+  "firstyear": "1767",
+  "firstyearend": null,
+  "lastdate": "1779-07-25",
+  "lastyear": "1779",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-05 12:24:43",
+  "modified_on": "2025-07-02 17:33:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Woestduin</em> maakte in totaal vijf retour reizen. Ze vertrok voor haar laatste thuisreis vanuit Batavia op 10 november 1778. Het ging voorspoedig de Woestduin maakte geen tussenstop bij de Kaap maar voer door.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001822.jpg\" alt=\"illustratie van een omgevallen VOC schip op het water\"> <div class=\"img-source\">Rijksmuseum Amsterdam</div> <figcaption class=\"img-description\">Het VOC-schip 'Woestduin' van de Kamer Amsterdam is vlak voor terugkeer van zijn vijfde thuisreis uit Batavia op de Noorderassen bij Vlissingen vastgelopen. Op het schip kappen mannen met bijlen de masten. Als teken dat het schip in nood verkeert, is de vlag gedeeltelijk opgerold. (Rijksmuseum Amsterdam, RP-P-OB-52.208)</figcaption> </figure> <p><strong>Ondergang</strong><br>Op 24 juli raakte de Woestduin vast op de<em> Noorder Rassen</em> in de ingang van de Westerschelde. Om het schip te redden en vlot te krijgen moesten de masten en het tuig gekapt worden. Ze kwam echter niet los. De volgende dag is de Woestduin vergaan.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001824.jpg\" alt=\"illustratie van een omgevallen VOC schip op het water\"> <div class=\"img-source\">Rijksmuseum Amsterdam</div> </figure> <p>De visser Frans Naerebout zag het schip vergaan. In een moedige reddingsactie wist hij met hulp van enkele Vlissingse vissers 81 van de 130 bemanningsleden te redden. Het leverde hem een vaste aanstelling als loods bij de VOC op.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf Oostenburg, Amsterdam, 1767</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gerrit Berg</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>130</td></tr><tr><th scope=\"row\">Tonnage</th><td>1150 ton (575 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Scheijde, Arthur (2010).<br /><em>De Woestduynschipbreuk nader ontrafeld : De legendarische redding, de opvarenden en het verdwenen fortuin. -.</em><br />Eindhoven: Thuurart ASC.</li><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98846\">DAS 8026.5.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

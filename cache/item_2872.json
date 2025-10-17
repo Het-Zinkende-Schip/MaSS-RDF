@@ -1,0 +1,27 @@
+{
+  "id": "2872",
+  "code": "secunda-kw-175",
+  "name": "Secunda (KW 175)",
+  "type": "wreck",
+  "lat": "52.9119938",
+  "lon": "2.1251214",
+  "location": "Noordzee , Smith Knoll, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1918-08-24",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-31 16:18:00",
+  "modified_on": "2025-07-17 10:57:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00003193.jpg?modifiedon=1654005095\" alt=\"tekst: het z.g.,,Sperrgebiet&quot; een ernstig vertoog in to dienen tegen het in den grond boren van 7 Nederlandsche visschersvaartrigen door een Duitsche duikboot op 24 Augustus jl., te weten de K.W. 34 (Neerlandia III), K.W. 33 (Neerlandia III), K.W. 26 (Ma-joor Thompson), K.W. 125 (Maria Johan-na), K.W. 169 (Hollandia), K.W. 175 (Se-cunda), en IJ.M, 137 (Stella),\"> <div class=\"img-source\">Delph</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>30 ton (15 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>wrecksite.eu.<br /><a href=\"https://www.wrecksite.eu/wreck.aspx?164651\">Secunda 1918.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

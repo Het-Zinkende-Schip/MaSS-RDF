@@ -1,0 +1,27 @@
+{
+  "id": "2948",
+  "code": "nicolaas-ijm-166",
+  "name": "Nicolaas (IJM 166)",
+  "type": "wreck",
+  "lat": "52.6881037",
+  "lon": "3.9787771",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1910",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-09 18:15:05",
+  "modified_on": "2022-08-11 16:24:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Vermist.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>10</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Zaanstroom+III%22&amp;coll=ddd&amp;sortfield=date&amp;page=5&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1916%7C&amp;identifier=ddd:010653102:mpeg21:a0069&amp;resultsidentifier=ddd:0\">Algemeen Handelsblad   (29-12-1916).</a></li><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40031748\">Centraal_Visserijregister-40031748.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

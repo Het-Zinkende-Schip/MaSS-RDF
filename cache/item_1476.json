@@ -1,0 +1,27 @@
+{
+  "id": "1476",
+  "code": "essche-stroom",
+  "name": "Essche stroom",
+  "type": "wreck",
+  "lat": "51.6171647",
+  "lon": "5.2997146",
+  "location": "Esch, Nederland",
+  "firstdate": null,
+  "firstyear": "1200",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1250",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-29 10:15:01",
+  "modified_on": "2025-06-10 16:42:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Boomstamboot fragmenten gevonden bij kanalisatie werkzaamheden in de Essche stroom.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De kano was gemaakt van eikenhout met rijzende stevens. De kim was bijna haaks op de platte binnenbodem aangebracht.</p> <p>De overgebleven dimensies: 290 x 48 x 32 cm</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Resten bewaard Nieuwland.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Heide, G.D. van der (1974).<br /><em>Scheepsarcheologie: Scheepsopgravingen in Nederland en elders in de wereld. p.119.</em><br />Strengholt Naarden.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4133",
+  "code": "or49",
+  "name": "OR49",
+  "type": "wreck",
+  "lat": "52.4952440",
+  "lon": "5.6864920",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:50:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Op kavel R49 in Oostelijk Flevoland ligt een scheepswrak dat in 1960 en 1964 is verkend. In 1989 is een herverkenning verricht. De lengte van het schip bedroeg ongeveer 18 m. Bij &eacute;&eacute;n van de einden werden overdwars balken bloot gegraven, die aan dekbalken deden denken. Al het hout dat kon worden waargenomen maakte een zware indruk, wat de indruk gaf dat het om een stevig gebouwd vaartuig ging. Het schip is waarschijnlijk in de tweede helft van de 17de eeuw vergaan. In 2014-2015 is het opnieuw onderzocht met de International Fieldschool for Maritime Archaeology Flevoland (IFMAF), De ondergangsdatering van het wrak is mede gebaseerd op het jaartal 1664 op een gevonden textielloodje. Een aantal vondsten met een militair karakter, waaronder een haardplaat met Romeinse soldaat en een miniatuurkanonnetje, zijn mogelijke aanwijzingen voor een militaire achtergrond van de schipper.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-22h-bvks\">Opgravingsdocumentatie scheepswrak OR49.</a></li><li>W.B. Waldus (2021).<br /><a href=\"https://research.rug.nl/en/publications/de-zuiderzee-als-transportlandschap-historische-maritieme-archeol\">De Zuiderzee als transportlandschap - Historische maritieme archeologie van de turfvaart (1550-1700).</a><br />Groningen: Groninger Instituut voor Archeologie (GIA).</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

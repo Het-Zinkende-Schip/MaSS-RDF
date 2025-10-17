@@ -1,0 +1,27 @@
+{
+  "id": "2805",
+  "code": "albergen",
+  "name": "Albergen",
+  "type": "wreck",
+  "lat": "35.2204927",
+  "lon": "-74.8361206",
+  "location": "Cape Hatteras, Verenigde Staten",
+  "firstdate": null,
+  "firstyear": "1912",
+  "firstyearend": null,
+  "lastdate": "1915-04-03",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-03-09 15:26:01",
+  "modified_on": "2025-06-14 22:09:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>RC 20-07-1915:</p> <p>Het stoomschip Albergen vertrok op 2 april op de reis van Newport News (VS) naar Trinidad. Het schip is vermoedelijk 3 april met man en muis vergaan in een orkaan nabij Cape Hatteras. Het schip voer sinds oktober 1914 in timecharter van de Inter-American Steamship Co. te New York en was op haar laatste reis overladen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Stalen stoomschip, heette oorspronkelijk Saltburn<br>Gebouwd: Sir Raylton Dixon &amp; Co. Ltd., Middlesbrough on Tees, UK<br>Eigenaar: Furness' Scheepvaart- &amp; Agentuur Maatschappij N.V., Rotterdam, NL</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Barends, A.</td></tr><tr><th scope=\"row\">Lengte</th><td>276 &frac14; voet (84,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 &frac34; voet (12,4 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 &frac14; voet (5,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1777 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=157\">Albergen ID 157.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

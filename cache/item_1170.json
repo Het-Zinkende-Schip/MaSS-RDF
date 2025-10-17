@@ -1,0 +1,27 @@
+{
+  "id": "1170",
+  "code": "johanna",
+  "name": "Johanna",
+  "type": "wreck",
+  "lat": "21.6621080",
+  "lon": "87.9373168",
+  "location": "Ganges estuary, India",
+  "firstdate": null,
+  "firstyear": "1714",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1730",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-27 14:34:08",
+  "modified_on": "2024-12-04 11:31:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Johanna </em>maakte tussen 1717 en 1727 vijf retourreizen naar Azi&euml;.<em><br></em>Haar zesde reis begon in Texel 8 mei 1729. Ze kwam aan in Batavia 14 februari 1730.</p> <p>In de 'lijst van alle zodanige schepen' verongelukte in 1730 <em>tussen Batavia en Bengalen</em>. (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0092?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">Lijst van alle</a> )</p> <p>Volgens uitreisboek 4935: <em>1730 in de rivier d' Ganges verongelukt&nbsp;</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1714<br>Lengte: 130 vt<br><br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93851\">Details of voyage 2769.6 from Texel to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0123?eadID=1.04.02&amp;unitID=4935&amp;query=\">NL-HaNA_1.04.02_4935_0123.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

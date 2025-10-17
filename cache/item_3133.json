@@ -1,0 +1,27 @@
+{
+  "id": "3133",
+  "code": "vrede",
+  "name": "Vrede",
+  "type": "wreck",
+  "lat": "52.9470301",
+  "lon": "4.7126586",
+  "location": "Huisduinen, Nederland",
+  "firstdate": null,
+  "firstyear": "1800",
+  "firstyearend": null,
+  "lastdate": "1824-10-14",
+  "lastyear": "1824",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-09-25 14:11:40",
+  "modified_on": "2025-07-25 12:43:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het pinkschip <em>De Vrede</em> was onderweg van Narva (Rusland) naar Nederland met een lading hout. Het schip strandde bij Huisduinen op 14 oktober 1824 in een vliegende storm.</p> <p>Plaatselijke vrijwilligers voeren met een lichte open sloep uit om de bemanning te redden. De eerste tocht was succesvol en bracht een aantal schipbreukelingen aan wal. De tweede tocht eindigde in een ramp. De roeiboot sloeg om in de zware branding en 7 redders plus geredden kwamen om het leven (kapitein, stuurman en bootsman).</p> <p>Het nieuws over deze rampzalig ge&euml;indigde reddingsoperatie bracht een schok van ontsteltenis teweeg. In Amsterdam, en kort daarna in Rotterdam, namen vermogende notabelen nog in hetzelfde jaar het initiatief tot oprichting van reddingsmaatschappijen.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003636.jpg\" alt=\"Krantenknipsel uit Amsterdam van 15 oktober over scheepsrampen bij Texel, met vermelding van storm, gestrande schepen en omgekomen bemanningsleden.\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Werf Witte Kruis Jeremias Meyjes &amp; Zoon, Amsterdam</p> <p><iframe src=\"https://www.youtube-nocookie.com/embed/hJA9n8tvyd4\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Cornelis Jansen de Boer,</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Vreede&amp;coll=ddd&amp;sortfield=datedesc&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C19e_eeuw%7C1820-1829%7C1824%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;identifier=ddd:010049245:mpeg21:a0017&amp;resultsidentifier=ddd:010049245:m\">Staatscourant 15-10-1824.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

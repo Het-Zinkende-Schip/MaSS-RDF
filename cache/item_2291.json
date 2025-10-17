@@ -1,0 +1,26 @@
+{
+  "id": "2291",
+  "code": "flat-point-plantation-indigo-vats",
+  "name": "Flat Point Plantation Indigo Vats",
+  "type": "structure",
+  "lat": "17.6424884",
+  "lon": "-63.2217178",
+  "location": "Cove Bay, Saba, Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": "1655",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1772",
+  "lastyearend": null,
+  "country": "Bonaire, Sint Eustatius en Saba",
+  "countrycode": "BQ",
+  "author": "Ryan Espersen",
+  "created_on": "2020-11-07 19:41:28",
+  "modified_on": "2025-07-06 19:13:15",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Flat Point indigo and sugar plantation was one of the first generation on non-Hispanic sugar plantations in the Caribbean. It was in operation from around 1655 to 1665, then again from around the early 18th century to 1772, when it was destroyed in a massive hurricane that year according to documentary and archaeological research (Espersen 2017:152-163). The last owner was Simon Doncker, a wealthy merchant and planter from nearby St. Eustatius.</p></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The plantation's indigo vats are located immediately behind a large boulder on the west end of Cove Bay, entirely hidden from view from the north end of Cove Bay and the plateau where the boiling house is located. It is, however, visible from sea. The indigo vats are experiencing considerable erosion from the upper slopes, combined with extensive coastal erosion from repeated swells and rising sea levels. Without intervention, they site will eventually be destroyed by coastal erosion.</p> <p>The vats are constructed with locally-sourced andesites, a soft type of volcanic rock, with one side cobbled to be flat. The flat sides face outward, and the stones were bonded with lime mortar. The interiors of the vats are lined with a fine-grained white plaster.</p> <p>The second vat empties into a small, round, mortared basin set into the ground. A second similar basin is found beside it, but not connected by a drainage pipe. A well would be expected to be part of this processing area; however, hillside erosion is extensive immediately above the first vat, and if a well exists, it is buried and not visible. The interior of the vats both measure approximately 165cm north to south, 175cm east to west, and 110cm deep. The first mortared basin set into the ground below the second vat measures about 61cm in diameter and 50cm deep, while the second on is more oval, measuring 75cm x 65cm and about 60cm deep.</p> <p>The vats were excavated by Ryan Espersen, with assistance from others, in 2015 and again in 2017. These excavations cleared out the fill from the vats, and also revealed that after they were abandoned in 1772, they were re-purposed at some point afterwards as a lime kiln. Corals were harvested from the shoreline and burned within the shelter of the lower vat, resulting in high temperatures, in order to produce quicklime.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002266.jpg\" alt=\"two square holes dug out of the ground\"> <figcaption class=\"img-description\">Figure 1: The Cove Bay indigo vats, viewed from above, looking east.</figcaption> </figure> <p><em>Figure 1: The Cove Bay indigo vats, viewed from above, looking east.</em></p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

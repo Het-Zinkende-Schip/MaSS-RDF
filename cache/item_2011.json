@@ -1,0 +1,27 @@
+{
+  "id": "2011",
+  "code": "ob19",
+  "name": "OB19",
+  "type": "wreck",
+  "lat": "52.5113300",
+  "lon": "5.4685200",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": "1675",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1725",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 16:40:35",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het schip is in 1966 gevonden bij drainagewerkzaamheden op kavel B19 in Oostelijk Flevoland. In 1972 is het vaartuig, dat ten noordwesten van de hoek van de Kopenhagerlaan in de Schouw in Lelystad lag, onderzocht en opgraven. Het voorschip wordt tentoongesteld in de polderschuur van Batavialand. Het is een platboomd vaartuig met een lengte van 14 meter en een breedte van 3,5 meter. Het heeft een karveel gebouwd vlak en rechte, vallende stevens. De kim is hoekig en de zijden zijn overnaads. Opvallend zijn twee zware schotten die het ruim begrenzen, waardoor het schip in drie compartimenten is verdeeld: het ruim en twee kotten. De schotten zijn met behulp van houten pennen en zogenaamde rozebouten aan het vlak en de zijden bevestigd. De kotten waren toegankelijk door een luik in respectievelijk het voor- en achterdek. De voorwerpen in het achterschip, o.a. twee boezemschoppen en een paar modderlaarzen, wijzen op het gebruik van het schip als modderschouw. De vondst van een hangslot gaf aan dat de luiken konden worden afgesloten. Bij het onderhoud van de haven van Amsterdam werden grote hoeveelheden slib opgebaggerd, die vervolgens moesten worden afgevoerd. Meestal werden hier kleine schuiten voor gebruikt. De bagger werd gelost in de rietlanden ten westen van de stad.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een modderschouw uit de tweede helft van de zeventiende eeuw, Lelystad</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001947.jpg\" alt=\"Vondsten uit een scheepswrak, opgegraven op kavel B19 in Oostelijk Flevoland. Rozebout met krammen van het schip, een messing tabaksdoos en een gesp.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Vondsten uit een scheepswrak, opgegraven op kavel B19 in Oostelijk Flevoland. Rozebout met krammen van het schip, een messing tabaksdoos en een gesp.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x28-7ju2\">Opgravingsdocumentatie scheepswrak OB19.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "682",
+  "code": "hollandia-1619",
+  "name": "Hollandia",
+  "type": "wreck",
+  "lat": "-5.7145487",
+  "lon": "112.6124970",
+  "location": "Bawean t.n.v., Indonesië",
+  "firstdate": null,
+  "firstyear": "1619",
+  "firstyearend": null,
+  "lastdate": "1642-12-27",
+  "lastyear": "1642",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-16 10:37:10",
+  "modified_on": "2025-06-27 22:05:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Hollandia </em>werd in de jaren 1618/19 gebouwd op de Amsterdamse werf van de VOC. Tijdens de tweede thuisreis van het schip in 1625 leed het grote schade aan de tuigage in een zware storm. Onder leiding van schipper Willem Bontekoe werd die in de St. Lucie-baai op Madagaskar zo goed mogelijk hersteld.&nbsp;De romp van het schip was kennelijk zodanig dat het schip nog zes uitreizen naar Azi&euml; kon maken. Na de achtste uitreis werd het ingezet op de intra-Aziatische routes [Parthesius p.67]</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003038.jpg\" alt=\"schilderij van de Hollandia in een baai waar herstelwerkzaamheden werden uitgevoerd.\"> <div class=\"img-source\">Journael ofte gedenckwaerdige beschrijvinge</div> <figcaption class=\"img-description\">De Hollandia in de baai van St. Lucia Madagaskar (april 1625) waar herstelwerkzaamheden werden uitgevoerd.</figcaption> </figure> <p>Op 24 december 1642 vertrok de Hollandia met &ldquo;172 Nederlantse coppen daeronder 65 soldaten ende noch 80 slaven&rdquo; en een grote hoeveelheid proviand van Batavia naar Ambon. Drie dagen na vertrek strandde het schip &ldquo;door onvoorsichticheyt op te vuylen bynoorden het eylant Lubocq&rdquo;. Het merendeel van de opvarenden kwam om, een klein aantal en 21 stukken geschut werd door Javanen uit de plaats Jappara geborgen. Opperstuurman Jacob Livense overleed daar.</p> <p><strong>Laadvermogen, lasten van de Hollandia</strong><br>De waarde van 550 last komt uit een opsomming van de schepen die deelnamen aan Coen&rsquo;s beruchte strafexpeditie naar Banda [NA 1.04.02 (VOC) 1076, 122 (scan 245)]. <br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00003042.jpg\" alt=\"Een landkaart van de Indische archipel\"> <div class=\"img-source\">NL-HaNA_4.VEL_344</div> <figcaption class=\"img-description\">Detail van een overzichtskaart van de Indische archipel, linksonder zien we een deel van de noordkust van Java. Het eilandje Lubocq of Lubok (nu Bawean) ligt op de kaart iets rechts van het midden en is omgeven met klippen. De Hollandia is ten noorden van het eiland op de klippen gelopen.</figcaption> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>252</td></tr><tr><th scope=\"row\">Tonnage</th><td>1100 ton (550 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1142/file/NL-HaNA_1.04.02_1142_0027?eadID=1.04.02&amp;unitID=1142&amp;query=1142\">NL-HaNA_1.04.02_1142_0027.</a></li><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91645\">DAS 0528.8.</a></li><li>Roeper (ed.) (1996).<br /><a href=\"https://www.dbnl.org/tekst/bont005gjho01_01/bont005gjho01_01_0002.php\">Journael ofte gedenkwaardige beschrijving van de oostindische reise van Willem Ysbrandtsz. Bontekoe van Hoorn.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/666/file/NL-HaNA_1.04.02_666_0114?eadID=1.04.02&amp;unitID=666&amp;query=666\">NA 1.04.02 (VOC) 666 [20-05-1643] (Scan 114).</a></li><li>Parthesius, R (2010).<br /><em>Dutch ships in tropical waters.</em><br />pp 60 e.v.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

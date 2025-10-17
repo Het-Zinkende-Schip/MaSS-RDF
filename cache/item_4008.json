@@ -1,0 +1,27 @@
+{
+  "id": "4008",
+  "code": "zb6",
+  "name": "ZB6",
+  "type": "wreck",
+  "lat": "52.4007230",
+  "lon": "5.2478390",
+  "location": "Almere Stad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": "1925",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:25:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In juni 1973 vond een verkenning plaats van gevonden scheepshout op kavel B6 in Zuidelijk Flevoland. Tijdens deze verkenning bleek het te gaan om een klein ankerbootje van 6,7 bij 2 meter met platte bodem (karveel gebouwd) en opgaande boorden vanaf de kim uit twee brede gangen (overnaads). Het wrak dateert vermoedelijk uit het eerste kwart van de 20ste eeuw. Vanwege de jonge datering en de slechte staat is het schip na documentatie verwijderd.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zuk-k9qs\">Opgravingsdocumentatie scheepswrak ZB6.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

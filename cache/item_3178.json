@@ -1,0 +1,27 @@
+{
+  "id": "3178",
+  "code": "japara",
+  "name": "Japara",
+  "type": "wreck",
+  "lat": "-34.7835000",
+  "lon": "19.6374000",
+  "location": "Off of Quion Point, Western Cape, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1846",
+  "firstyearend": null,
+  "lastdate": "1856-10-01",
+  "lastyear": "1856",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-11-23 13:27:12",
+  "modified_on": "2025-07-25 12:56:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De bark <em><strong>Japara</strong></em> (thuishaven Rotterdam) was op 13 oktober 1855 zeilklaar met een nieuwe kapitein Coenraad S. Kleij aan boord.</p> <p>Kapitein C.S., Kleij is op 2 maart 1856 gestorven aan een ziekte en begraven in Moulmain, Birma.<a href=\"https://www.delpher.nl/nl/kranten/view?facets%5Bperiode%5D%5B%5D=2%7C19e_eeuw%7C1850-1859%7C1856%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Btype%5D%5B%5D=advertentie&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;query=%22Coenraad+Smidt+Kleij%22&amp;coll=ddd&amp;sortfield=date&amp;identifier=ddd:010113054:mpeg21:a0018&amp;resultsidentifier=ddd:010113054:mpeg21:a0018&amp;rowid=1\">*</a></p> <p>Zijn opvolger werd Gijsbers die circa 2 oktober 1856 op weg van Rangoon met een volle lading rijst naar het Engelse Kanaal. gestrand op Quoint Point (nabij Cape Agulhas aan de uiterste zuidpunt van Afrika).</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003814.jpg\" alt=\"Krantenartikel met informatie over het schip Japara en het zinken ervan.\"> <div class=\"img-source\">Java bode 17-12-1856)</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: bij Fop Smit te Kinderdijk<br>Eigenaar: Willem Jan Danielszoon Ruys</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>C.S. Kley</td></tr><tr><th scope=\"row\">Tonnage</th><td>442 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=8681\">marhisdata id 8681.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

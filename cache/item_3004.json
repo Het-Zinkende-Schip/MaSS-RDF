@@ -1,0 +1,27 @@
+{
+  "id": "3004",
+  "code": "oceaan-i",
+  "name": "Oceaan I (IJM 91)",
+  "type": "wreck",
+  "lat": "53.3592208",
+  "lon": "5.0817979",
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": "1916-03-20",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-26 11:22:57",
+  "modified_on": "2025-07-18 16:58:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Oceaan I vertrok 12 maart uit IJmuiden om ca. 8 tot 10 dagen te vissen op de Noordzee . Ze werd door een trawler die terug kwam van IJsland nog gezien op 19 maart. Na vertrek uit de haven is van de Oceaan I niets meer vernomen.</p> <p>Aangenomen moet worden dat het schip met man en muis is vergaan als gevolg van een mijn.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003344.jpg?modifiedon=1664184963\" alt=\"tekst: Trawler over tijd. *De stoomtrawler Oceaan I, IJM 91, sehipper J. Darpshorn, van de Ossaan Visscherij-Maatschappy, directeur de heer L. Allard, is reeds zestien dagen in zee en dua over tijd. Het schip was wel voor meer dan 8 dagen uitgerust, doch was op een reis van 8 &agrave; 10 dagen gerekend. Omtrent het schip en de bemanning maakt men zich te IJmuiden zeer ongerust Het schip is het laatst gezien Zondag 19 Maart door een van IJsland thuis varenden stoomtrawler.\"> <div class=\"img-source\">Nieuwe Vlaardingsche courant</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Ned.Scheepsb,A'dam</p> <p>Eigenaar: Oceaan visserij mij. Ijmuiden</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Darpshorn, J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>9</td></tr><tr><th scope=\"row\">Lengte</th><td>120 &frac34; voet (36,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>22 voet (6,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>213 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40033323\">Centraal_Visserijregister-40033323.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1916%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;query=%22IJM+91%22&amp;coll=ddd&amp;sortfield=datedesc&amp;page=1&amp;identifier=MMKB08:000189390:mpeg21:a0004&amp;resultsidentifier=MMKB08\">Uitspraken van den Raad voor de Scheepvaart (10-5-1916).</a></li><li><em>Nieuwe Vlaardingsche courant      29-3-1916.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

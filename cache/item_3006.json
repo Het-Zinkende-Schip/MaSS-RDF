@@ -1,0 +1,27 @@
+{
+  "id": "3006",
+  "code": "oceaan",
+  "name": "Oceaan",
+  "type": "wreck",
+  "lat": "50.0668684",
+  "lon": "-5.7468597",
+  "location": "Longships, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1899",
+  "firstyearend": null,
+  "lastdate": "1915-05-21",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-26 12:45:39",
+  "modified_on": "2025-07-18 16:59:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 12 mei 1915 vertrok <strong>de Oceaan</strong> met een lading mijnstutten van Figueira da Foz (Portugal) naar Cardiff.</p> <p>Het schip werd op 21 mei.1915 tijdens dichte mist- naar gissing 7 mijl ten noorden van Longships, Cornwall, (Lands End) - door het Engelse ss &ldquo;Voltaire&rdquo; overvaren. De Oceaan verdween binnen twee minuten naar de diepte. De bemanning werd door een sloep van de \"Voltaire\" opgepikt. De vrouw van de kapitein verdronk.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003348.png\" alt=\"De afbeelding toont een groep mensen op een vissersvaartuig\"> <figcaption class=\"img-description\">De opvarenden van de Oceaan in 1907. Op de eerste rij van links naar rechts kapitein/eigenaar Gerrit Mulder, zijn vrouw Alida Mulder-Mooi, met zoontje Jan Gerrit Mulder, (toen vijf maanden oud) en daarnaast waarschijnlijk stuurman Johannes T&ouml;nnis Bogeholt. De overige personen zijn onbekend. (foto: marhisdata)</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: stalen gaffelschoener</p> <p>Eigenaar: Gerrit Mulder</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Mulder, Gerrit</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4814\">marhisdata id 4814.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

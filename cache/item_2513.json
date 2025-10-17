@@ -1,0 +1,27 @@
+{
+  "id": "2513",
+  "code": "v187-1914",
+  "name": "V187",
+  "type": "wreck",
+  "lat": "54.2500000",
+  "lon": "7.6000000",
+  "location": "North Sea, Duitsland",
+  "firstdate": "1911-05-04",
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1914-08-28",
+  "lastyear": "1914",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-15 17:04:35",
+  "modified_on": "2025-06-14 16:01:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The V187 was launched on 11th January 1911 as one of 12 large S-138-class torpedo boats at the AG Vulcan shipyard in Stettin.</p> <p>V187 was designated as leader of the torpedo boat flotilla, patrolling the waters around Heligoland in the First World War.</p> <p>In the Battle of Heligoland Bight on 28th August 1914 V187 along with other torpedo boats was ordered to hunt British submarines, which it had to abort at the sighting of four British destroyers. Due to poor visibility V187 managed to sail past the four destroyers unscathed, but encountered another group of destroyers, which engaged V187 at close range, disabling the machine and causing a blaze. The British lowered rescue boats to pick up V187's crew, but the Germans mistook them for boarding commandoes and opened fire on one of the British destroyers. In a final blow, the British re-opened fire too and sank V187 at about 10:10. 24 of V187's crew were killed, 14 wounded and 33 taken prisoner.</p> <p>In 2018, the wrecksite was investigated by SUBMARIS and the Jacobs University of Bremen, which produced multibeam and side-scan sonar imagery of the wreck.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>84</td></tr><tr><th scope=\"row\">Snelheid</th><td>32 knopen ~ 59 km/u (37 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>242 &frac12; voet (73,9 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>26 voet (7,9 m)</td></tr><tr><th scope=\"row\">Deplacement</th><td>650 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>V187 is the only wreck of the Battle of Heligoland, which sank in German territorial waters, and thus is not only protected as war grave, but also as historic monument by the State Archaeology Department of Schleswig-Holstein.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Gröner, E., Jung, D., Maass, M. (1983).<br /><em>Die deutschen Kriegsschiffe 1815–1945: Band 2: Torpedoboote, Zerstörer, Schnellboote, Minensuchboote, Minenräumboote.</em><br />Koblenz: Bernard &amp; Graef Verlag.</li><li>Massie, R. K.  (2007).<br /><em>Castles of Steel: Britain, Germany and the Winning of the Great War at Sea.</em><br />London: Vintage Books.</li><li>Wikipedia.<br /><a href=\"https://en.wikipedia.org/wiki/SMS_V187\">SMS V187.</a></li><li>&quot;Das Seegefecht bei Helgoland&quot; (Historical-Archaeological Research Project).<br /><a href=\"http://www.seegefecht-helgoland.de/\">www.seegefecht-helgoland.de.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

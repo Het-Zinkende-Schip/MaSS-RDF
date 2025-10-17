@@ -1,0 +1,27 @@
+{
+  "id": "2380",
+  "code": "benkoelen",
+  "name": "Benkoelen",
+  "type": "wreck",
+  "lat": "-4.5610927",
+  "lon": "112.1594238",
+  "location": "Cirebon, Indonesië",
+  "firstdate": null,
+  "firstyear": "1921",
+  "firstyearend": null,
+  "lastdate": "1942-01-09",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-19 12:55:20",
+  "modified_on": "2025-06-12 12:29:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Benkoelen</em> was onderweg van Soemenep naar Cheribon , aangevallen door een Japanse onderzee&euml;r beschoten en getorpedeerd. Drie bemanningsleden kwamen om bij de beschietingen.</p> <p>De overlevenden werden opgepikt door de Amerikaanse destroyer USS <em>Paul Jones.</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: stoomschip, pakketboot<br>Gebouwd: H. Bernhard Nzn.- Scheepswerf 'Het Jacht', Nieuwendam, Nederland</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>229 &frac14; voet (69,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>38 voet (11,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>12 &frac34; voet (3,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1000 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritieme Data.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=893\">Benkoelen - ID 893.</a></li><li>Haersolte, J.W.J. van, (ed.) (1947).<br /><em>Scheepsrampen in  oorlogstijd no. 127.</em><br />Amsterdam, J.F. Duwaer en zonen.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

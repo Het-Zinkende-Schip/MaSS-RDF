@@ -1,0 +1,27 @@
+{
+  "id": "4277",
+  "code": "briel-den",
+  "name": "Briel, Den",
+  "type": "wreck",
+  "lat": "17.5278502",
+  "lon": "94.0644666",
+  "location": "Golf van Bengalen , Myanmar",
+  "firstdate": null,
+  "firstyear": "1671",
+  "firstyearend": null,
+  "lastdate": "1681-10-05",
+  "lastyear": "1681",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-05-27 11:01:06",
+  "modified_on": "2025-06-11 17:15:55",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het VOC schip&nbsp;<em>Den Briel</em> maakte tussen 1672 en 1680 3 succesvolle retourreizen naar Azi&euml; en terug. Ze vertrok 24-2-1680 voor haar vierde uitreis uit Wielingen (Zeeland) en kwam aan in Batavia (het huidige Jakarta) op 14 september 1680.<strong>&nbsp;</strong></p> <p>Vervolgens werd het schip via Malakka naar Bengalen en Arakan (een koninkrijk in het huidige Myanmar) gestuurd om o.a. rijst te laden. Ze was uit Malakka vertrokken op 29 november 1680. Het schip kwam \"na&nbsp;<em>lang sukkelen\" </em>op&nbsp;14 maart 1681 aan in Arakan. Daar bleef het vruchteloos liggen tot 25 september.</p> <p>De <em>Den Briel</em> vertrok toen vanuit Arakan naar Batavia. Tussen de 17e en 18e graad noorderbreedte werd het schip overvallen door een storm op 3 oktober 1681. Ze verloor haar zeilen, fokkemast en andere rondhouten. Ook werden twee ankers verloren. Uiteindelijk verging het schip op 5 oktober met 350 last (een oude inhoudsmaat) rijst aan boord. Van de 84 opvarenden verdronken twee matrozen.<br>De stuurlieden en schipper werden later aangeklaagd voor nalatigheid bij het vergaan van het schip.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Werf: VOC-werf in Delfshaven<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>142 Amsterdamse&nbsp;voet (40,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>36 Amsterdamse&nbsp;voet (10,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>766 ton (383 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1377/file/NL-HaNA_1.04.02_1377_1650?eadID=1.04.02&amp;unitID=1377&amp;query=1377\">NA_1.04.02 1377 1650 ev.</a></li><li>NL-HaNA_1.04.02_8808_0214.<br /><a href=\"https://dekok.xyz/htrsearch/transcriptie?scan=604748&amp;query=%22Schip%20Den%20Briel%22&amp;varianten=0&amp;archief=VOC\">Dagregister 1682.</a></li><li>vocsite.nl.<br /><a href=\"https://www.vocsite.nl/schepen/10172/\">Den Briel.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

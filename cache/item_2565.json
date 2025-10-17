@@ -1,0 +1,27 @@
+{
+  "id": "2565",
+  "code": "voitja-1907-1945",
+  "name": "Voitja (1907-1945)",
+  "type": "wreck",
+  "lat": "54.4841330",
+  "lon": "10.2858170",
+  "location": "Kieler Bucht, Duitsland",
+  "firstdate": null,
+  "firstyear": "1907",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1945",
+  "lastyearend": null,
+  "country": "Rusland",
+  "countrycode": "RU",
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-18 18:15:25",
+  "modified_on": "2025-06-14 16:40:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>VOITJA was a three-masted barque launched in Russia in 1907 and based in Latvia, which was then part of the Russian Empire.</p> <p>In World War II and the German occupation of the Baltic states, the ship was seized in 1941 as prize and brought to Kiel, where she was converted into a guard ship: The masts were removed and anti-aircraft guns were mounted on her deck. She served as guard ship until the end of the war and was placed on 7 February 1945 under the command of the 1st <em>Sicherungsdivision</em>. Soon thereafter, the ship hit a mine in the vicinity of the Kiel lighthouse and sunk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Only laconic information about this wreck is known, as a documentation about the ship's loss is missing in the archive of the German navy. The wreck-diver Peter Klink attributes this to the willful destruction of war documents or the general turmoil in the last days of World War II.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>196 &frac34; voet (60 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>36 voet (11 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck is situated in a marine traffic separation scheme near Kiel lighthouse at a depth of 16-21 metres, leading to Kiel Canal, one of the world's most frequented waterways. Due to maritime traffic, diving at this site requires special permission. As potential navigational hazard, the wrecksite is surveyed by the Federal Maritime and Hydrographic Agency of Germany (BSH: <em>Bundesamt f&uuml;r Seeschifffahrt und Hydrographie</em>) on a regular basis.</p> <p>The wreck is in a fragmentary state and covered by barnacles, but according to the most recent report it is not affected by marine borers such as <em>teredo navalis</em>. The anti-aircraft gun (cf. photo below) is still recognisable.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002605.png\" alt=\"photo of two elongated parts of a wreck underwater, with greenish light\"> <div class=\"img-source\">Huber 2014, Unterwasserarch&auml;ologische, nicht-invasive Prospektionsund Dokumentationsverfahren in schwierigen maritimen und limnischen Gew&auml;ssern (Dissertation, Univ. Kiel)</div> </figure> <p>The wrecksite is affected by trawling, which has lead to further damage.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Peter Klink (bubblewatcher.de).<br /><a href=\"http://www.bubblewatcher.de/voitja/\">Voitja.</a></li><li>Baehr, S. (1995).<br /><em>Wracktauchen in der Ostsee: westliche Ostsee und kleiner Belt.</em><br />Hamburg.</li><li>Huber, F. (2014).<br /><em>Unterwasserarchäologische, nicht-invasive Prospektions- und Dokumentationsverfahren in schwierigen maritimen und limnischen Gewässern (=Dissertation).</em><br />Christian-Albrechts-Universität zu Kiel.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

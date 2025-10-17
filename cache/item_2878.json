@@ -1,0 +1,27 @@
+{
+  "id": "2878",
+  "code": "erin-ijm88",
+  "name": "Erin (IJM 88)",
+  "type": "wreck",
+  "lat": "53.5979754",
+  "lon": "6.5301463",
+  "location": "Borkum Riff, Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1915-12-27",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-01 06:58:39",
+  "modified_on": "2025-07-17 10:59:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Erin</strong></em> viste per ongeluk een Duitse mij op. De mijn ontplofte op het dekl. Drie bemanningsleden werden daarbij gedood</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003201.jpg\" alt=\"tekst: De IJmuider stoomtreiler Acacia&quot; is Dinsdagmiddag te IJmuiden binnengeko men met 8 der opvarenden van den stoom treiler &bdquo;Erin&quot;, welke treiler dien morgen om 12 uur op de visscherij oost van Bor kum Inner een mijn met het voorhoord heeft opgevischt, die ontplofte, waardoor 3 man aan boord terstond werden gedood, de schipper en nog twee anderen ernstig gewond werden. De overledenen zijn: W. Olierook, uit Vlaardingen; R. De Munnik, uit Haarlem en A. J. Slagtveld, uit Zandvoort. De gewonde schipper is J. v. d. Steen.\"></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Rederij Shamrock, Ijmuiden.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Steen, J. van de</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>11</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Hibernia&amp;coll=ddd&amp;sortfield=date&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1915%7C&amp;page=18&amp;identifier=ddd:010296201:mpeg21:a0034&amp;resultsidentifier=ddd:010296201:mpeg21:a0034&amp;rowid=1\">Rotterdamsch nieuwsblad  30-12-1915.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

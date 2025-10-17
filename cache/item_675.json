@@ -1,0 +1,27 @@
+{
+  "id": "675",
+  "code": "meern-6",
+  "name": "Meern 6",
+  "type": "wreck",
+  "lat": "52.0759822",
+  "lon": "5.0356178",
+  "location": "De Meern, Utrecht, Nederland",
+  "firstdate": null,
+  "firstyear": "158",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "180",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-10 14:44:16",
+  "modified_on": "2025-06-27 22:01:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Meern 6</em></strong> werd in 2008 gevonden. Het schip betrof &eacute;&eacute;n van Nederlands belangrijkste scheepsarcheologische vondsten. Het was de oudste <em>punter</em> die ooit was gevonden.</p> <p>Er is een replica van het scheepje gemaakt door leerlingen van de Bouwloods Utrecht.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003505.jpg\" alt=\"Twee houten punters achter elkaar aan de kant.\"> <figcaption class=\"img-description\">.</figcaption> </figure> <p>In 2012 is de houten punter door Laetitia Griffith (Staatsraad bij de Raad van State) te water gelaten onder de naam Fiducia (Vertrouwen).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>erfgoed Utrecht.<br /><a href=\"https://sketchfab.com/3d-models/3-romeinse-schepen-895e16fac98e43d99165b418a84b3871\">3 Romeinse schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

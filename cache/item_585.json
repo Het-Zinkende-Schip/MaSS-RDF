@@ -1,0 +1,27 @@
+{
+  "id": "585",
+  "code": "burgzand-noord-19-bzn-19",
+  "name": "Burgzand Noord 19 (BZN 19)",
+  "type": "wreck",
+  "lat": "53.0570000",
+  "lon": "4.9580000",
+  "location": "Wadden sea, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2018-01-03 00:00:00",
+  "modified_on": "2020-07-07 14:51:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Brenk, S. van den &amp; M.R. Manders, 2014: Monitoring Scheepswrakken Burgzand Noord Periode 1998-2013, Periplus Archaeomore/RCE Rapport 13-A031, Amsterdam.</em></li><li>Manders, M.R.<br /><a href=\"https://www.cultureelerfgoed.nl/publicaties/publicaties/2017/01/01/preserving-a-layered-history-of-the-western-wadden-sea-managing-an-underwater-cultural-heritage-resource\">Preserving a layered history of the Western Wadden Sea. Managing an underwater cultural heritage resource.</a></li><li>Vos, A.<br /><a href=\"https://www.cultureelerfgoed.nl/publicaties/publicaties/2012/01/01/onderwaterarcheologie-op-de-rede-van-texel\">Onderwaterarcheologie op de Rede van Texel.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

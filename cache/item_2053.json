@@ -1,0 +1,27 @@
+{
+  "id": "2053",
+  "code": "np23-i",
+  "name": "NP23-I",
+  "type": "wreck",
+  "lat": "52.6369800",
+  "lon": "5.7774900",
+  "location": "Ens, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-01-30 12:40:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1946 werd ten noordoosten van de Middelbuurt op Schokland, op kavel P23 in de Noordoostpolder, een klein vissersvaartuig ontdekt bij het graven van een bermsloot. De vindplaats ligt aan de Schokkerringweg. Het bootje was ruim 11 meter lang, platboomd en voorzien van een bun, een ruimte in het vaartuig die diende om de gevangen vis levend te bewaren en op de markt te brengen. De constructie van het vaartuig doet denken aan een &lsquo;Schokker schuit&rsquo; met rechte stevens. De schokker werd vooral gebruikt door vissers aan de oostkust van de Zuiderzee tussen Kuinre en Elburg en vissers van het voormalige eiland Urk. Het was een platboomd schip met rechte vallende stevens en sterk naar binnen vallende boorden. In het bootje werden verder twee koperen munten en een groene glazen fles gevonden. Het schuitje is ruwweg tussen 1650 en 1800 n. Chr. vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een Schokker schuitje, Ens</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zhu-7vs3\">Opgravingsdocumentatie scheepswrak NP23-I.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

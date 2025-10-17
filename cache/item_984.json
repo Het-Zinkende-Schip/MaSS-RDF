@@ -1,0 +1,27 @@
+{
+  "id": "984",
+  "code": "ganges-1775",
+  "name": "Ganges",
+  "type": "wreck",
+  "lat": "50.5833453",
+  "lon": "-5.0247881",
+  "location": "Padstow, Cornwall, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1775",
+  "firstyearend": null,
+  "lastdate": "1786-02-02",
+  "lastyear": "1786",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-31 12:53:19",
+  "modified_on": "2025-06-23 12:46:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Ganges</strong></em> is gebouwd in 1776 en was tot 1782 in dienst van de VOC kamer Amsterdam. Daarna voer ze voor de VOC kamer Zeeland.</p> <p>De Ganges vertrok op 28 december 1785 uit Rammekens voor de VOC kamer Zeeland met bestemming China. Ze kwam in een storm bij de zuidwestkust van Engeland.</p> <p>Het schip dreef zonder masten, roer en boegspriet bij Padstow op zee. Een gedeelte van de bemanning had het schip toen al verlaten.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004184.jpg\" alt=\"De tekst beschrijft een incident met een schip van de Oost-Indische Compagnie\"> <div class=\"img-source\">Oprechte Haarlemsche Courant</div> </figure> <p>Men meende alsnog het beschadigde schip te kunnen redden. Zo ver kwam het niet. In de nacht van 1 op 2 februari 1786 is de Ganges, bij Padstow op de rotsen verbrijzeld. De overige opvarenden konden ternauwernood worden gered door een Engelse sloep.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004183.jpg\" alt=\"De tekst beschrijft een scheepsramp en een reddingsactie\"> <div class=\"img-source\">Oprechte Haerlemsche courant</div> <figcaption class=\"img-description\">Oprechte Haerlemsche courant 23-2</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Schuts, Jan Frederik</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/95564\">DAS 4513.4.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Ganges&amp;coll=ddd&amp;sortfield=datedesc&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C18e_eeuw%7C1780-1789%7C1786%7C&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;identifier=ddd:010801913:mpeg21:a0002&amp;resultsidentifier=ddd:010801\">oprechte Haarlemse Courant (23-2-1786).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

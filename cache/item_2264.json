@@ -1,0 +1,27 @@
+{
+  "id": "2264",
+  "code": "vecht",
+  "name": "Vecht",
+  "type": "wreck",
+  "lat": "51.7205545",
+  "lon": "3.1209564",
+  "location": "Windpark Borselle I, Nederland",
+  "firstdate": null,
+  "firstyear": "1917",
+  "firstyearend": null,
+  "lastdate": "1940-03-07",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-23 11:55:55",
+  "modified_on": "2025-06-11 19:49:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In de avond van 6 maart 1940 vertrok de <em><strong>Vecht</strong></em> van Rotterdam in ballast naar Lobito. Het schip zou graan 'voor de regering' gaan halen, ter versterking van de strategische voedselvoorraad. <br>Het schip is kort na vertrek verloren gegaan. Pas lang na de oorlog werd bekend, dat zij op 7 maart 1940 kort na middernacht op de Noordzee ter hoogte van de Steenbank, , was getorpedeerd door de Duitse onderzeeboot U 14 (Oblt. Wohlfarht). <br><br>De torpedo had ca. 30 meter achter het midden van de Vecht doel getroffen en het schip was in ongeveer 20 minuten in de golven verdwenen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Stoomschip vrachtvaarder<br>Naam: Graakallen 1917-18, Vecht v.a. 1918<br>Gebouwd: A. Vuyk &amp; Zonen, Capelle aan den IJssel, ZH, 1917<br>Eigenaar: N.V. Houtvaart, Rotterdam<br><br>Opvarenden:<br>Pieter Smit. Kapitein<br>M.J. Regoord. 1e Stuurman<br>A.G. van Heulen. 2e Stuurman<br>M.J.A. Bontekoe. 1e Machinist<br>W. de Munnik. 2e Machinist<br>J.H. v.d. Berg. 3e Machinist<br>W.K. van Driel. Assistent-machinist.<br>L.W.J. Snelders. Kok.<br>Opschoor. Hofmeester.<br>P.A. Barbier. Messroom-bediende<br>H.A. Dreesmna. Mat.-lampenist<br>J. Boelhouwers. Matroos<br>H. v.d. Polder. Matroos<br>H. Tap. Matroos<br>P. v.d. Linden. Matroos.<br>K. van Seters. Matroos.<br>&nbsp;G. v.d. Linden. Donkeyman.<br>&nbsp;A.J. Siebel. Stoker.<br>L. Klijn. Stoker.<br>C. Hoogstad. Stoker.,<br>A. Varekamp. Tremmer.<br>J. Voets. Tremmer.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Smit, P.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>22</td></tr><tr><th scope=\"row\">Vermogen</th><td>1100 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>9 knopen ~ 17 km/u (10 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>280 &frac34; voet (85,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 voet (12,2 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>19 voet (5,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1965 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Alle opvarenden zijn sindsdien vermist.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=6927\">Vecht.</a></li><li>Uboat.net.<br /><a href=\"https://www.uboat.net/boats/successes/u14.html\">U 14.</a></li><li>Bezemer, K.W.L. (1986).<br /><em>Geschiedenis van de Nederlandse Koopvaardij in de Tweede Wereldoorlo.</em><br />Elsevier, Amsterdam/Brussel.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

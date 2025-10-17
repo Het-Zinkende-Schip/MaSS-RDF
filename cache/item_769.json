@@ -1,0 +1,27 @@
+{
+  "id": "769",
+  "code": "concordia-1696",
+  "name": "Concordia",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1696",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1708",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-13 18:40:36",
+  "modified_on": "2025-06-20 09:29:16",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De&nbsp;<em>Concordia</em> was een schip van de VOC. Het maakte twee succesvolle retourreizen naar Azi&euml; tussen 1697 en 1706.</p> <p>Ze vertrok voor haar derde uitreis op 29 juli 1706 vanuit Wielingen voor de VOC kamer Zeeland. Ze kwam in Batavia (het huidige Jakarta) aan op 6 april 1707. Ze voer vandaar o.a. naar Coromandel (vertrek op 31 mei 1707), blijkt uit de boekhouding van de VOC (zie referenties).</p> <p>De bronnen die nog bewaard worden in het Nationaal Archief van Indonesi&euml; (ANRI) laten zien dat de <em>Concordia</em> op 15 januari 1708 vertrok uit Batavia samen met de fluit <em>Zuiderburg</em>, voor de terugreis naar Nederland.&nbsp;Ze kwamen niet als tussenstop bij de Kaap aan zoals bedoeld was. Ze zijn met man en muis vergaan op de Indische Oceaan, in de buurt van Mauritius volgens een lijst met vergane schepen die bewaard wordt in het Nationaal Archief (deze lijst vermeldt dat het schip een fregat was, zie referenties). De locatie is onbekend.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Werf: VOC werf Delft</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004029.png\" alt=\"schilderij van de zee met vijf schepen, allemaal met de Nederlandse vlag\"> <div class=\"img-source\">Collectie Het scheepsvaart musem Amsterdams</div> <figcaption class=\"img-description\">Het VOC schip Pieter en Paul, een vergelijkbaar schip als de Concordia</figcaption> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>900 ton (450 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/97069\">DAS 6183.3.</a></li><li>Huygens ING.<br /><a href=\"https://resources.huygens.knaw.nl/bgb/voyage/15494\">Bookkeeper-General Batavia/Boekhouder-Generaal Batavia.</a></li><li>ANRI.<br /><a href=\"https://sejarah-nusantara.anri.go.id/pagebrowser/icaatom-dasa-anri-go-id_339-ead-xml-1-2532/#source=1&amp;page=45&amp;accessor=thumbnails\">Seraja Nusantari.</a></li><li>Nationaal archief/RCE.<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000224.jpg\">1.11.01.01.551 lijst van vergane schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

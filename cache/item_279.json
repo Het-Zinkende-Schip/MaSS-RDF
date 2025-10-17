@@ -1,0 +1,26 @@
+{
+  "id": "279",
+  "code": "apollonia",
+  "name": "Apollonia",
+  "type": "site",
+  "lat": "32.9080000",
+  "lon": "22.0120000",
+  "location": "Susah, Libië",
+  "firstdate": null,
+  "firstyear": "-600",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "364",
+  "lastyearend": null,
+  "country": "Albanië",
+  "countrycode": "AL",
+  "author": "Will Brouwers",
+  "created_on": "2011-06-29 00:00:00",
+  "modified_on": "2024-08-16 18:58:34",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Greek/Roman city in the Roman province Cyrenaica (Libya).</p> <p>From the outset Apollonia was designed as the port of the Greek colony Kyrene. Kyrene was founded around 630 BC by Greeks from the island Thera (Santorini). Part of the ruins of the city are still visible, the harbor is submerged after a major earthquake in the year 364 AD.</p> <p>The French mission has excavated the site since the second half of the 20th century. Apollonia is a touristic center with many remains from Roman and Byzantium period (Palace, Basilica baths, city walls).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000524.jpg\" alt=\"View on the submerged harbour.\" height=\"941\"><figcaption class=\"img-description\">View on the submerged harbour.</figcaption></figure></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><figure class=\"img-wrapper\"><img src=\"/photos/l/00000525.jpg\" alt=\"Apollonia\"><figcaption class=\"img-description\">Apollonia.</figcaption></figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"http://www.ancientportsantiques.com/a-few-ports/apollonia/\">Apollonia: a unique ancient port | Ancient Ports - Ports Antiques.</a></li><li><a href=\"http://www.livius.org/articles/place/apollonia/apollonia-photos/apollonia-port/\">Apollonia, port - Livius.</a></li><li><em>Richard George Goodchild, 1976. Apollonia, the port of Cyrene: Excavations by the University of Michigan, 1965-1967 (Libya antiqua : Supplements).</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

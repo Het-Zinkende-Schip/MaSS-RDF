@@ -1,0 +1,27 @@
+{
+  "id": "390",
+  "code": "hmhs-britannic",
+  "name": "HMHS Britannic",
+  "type": "wreck",
+  "lat": "37.7170000",
+  "lon": "24.2940000",
+  "location": "Kea, Griekenland",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Remko van de Peppel",
+  "created_on": "2013-03-21 00:00:00",
+  "modified_on": "2025-06-21 20:23:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><h2>Construction and requisitioning</h2> <p>As a result of the Titanic disaster in 1912, major improvements were introduced in the design of the sister ship Britannic, for which the keel had already been laid in 1911. Before the ship could be completed and commence its intended transatlantic service, World War I brokeout, and work on Britannic was slowed down.</p> <p>When military operations were extended to the Eastern Mediterranean, the need for larger ships grew critically, and<em>Britannic&nbsp;</em>was prepared for emergency entrance into service. In November 1915, the ship was requisitioned as a hospital ship, and placed under the command of Captain Charles A. Bartlett (1868-1945).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000910.jpg\" alt=\"Large cruise ship with red crosses on the side\"> <figcaption class=\"img-description\">Following its requisitioning as a hospital ship,Britannic was painted accordingly and renamed His Majesty's Hospital Ship Britannic.</figcaption> </figure> <h2>Sinking</h2> <p>After five successful return voyages to the Middle East transporting sick and wounded soldiers, HMHS Britannic departed for Lemnos, Greece on November 12, 1916. Nine days later, the ship with 1066 people on board had almost reached her destination, as she was steaming at full speed near the island of Kea. Suddenly she was shaken by a loud explosion, probably caused by a torpedo or an underwater mine, and compartments of the ship started to fill with water rapidly.</p> <p>The increased safety measures,&nbsp;compared to the design of <em>Titanic</em>, would not suffice to keep the ship afloat. However, in contrast to the <em>Titanic</em> disaster, the survivor count (1036) was in this case relatively high, owing to the higher temperature, the increased number of lifeboats, and a quicker reaction to the distress call.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><div>Class: Olympic-class oceanliner/ Hospital ship</div> <div>Laid down: November 1911 <p>Launched: February 1914</p> <p>Shipyard: Harland and Wolff, Belfast</p> <p>Length: 269.1 m</p> <p>Beam: 28.7 m</p> <p>Draught: 10.5 m</p> <p>Displacement: 53,200 tons</p> <p>Decks: 9</p> <p><em>Britannic</em> was the largest of the Olympic-class ocean liners of the White Star Line, and sister ship of RMS <em>Titanic</em>. Originally built as a transatlantic passenger liner, she was converted to serve as a hospital ship in 1915. She was sunk 21 November, 1916.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000909.jpg\" alt=\"Photograph of the HMHS Britannic, taken during the First World War.\" height=\"329\"> <figcaption class=\"img-description\">Photograph of the HMHS Britannic, taken during the First World War.</figcaption> </figure> </div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><h2>Shipwreck</h2> <p>The wreck of HMHS <em>Britannic</em> was first discovered and explored by Jacques Cousteau in 1975, at a depth of around 122 m, and is in remarkable condition. Many film crews and researchers have visited the wreck site since, yet the exact cause of the explosion has remained unclear.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

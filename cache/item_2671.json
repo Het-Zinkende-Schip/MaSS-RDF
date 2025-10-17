@@ -1,0 +1,27 @@
+{
+  "id": "2671",
+  "code": "cove-of",
+  "name": "La Ragazzona",
+  "type": "wreck",
+  "lat": "43.4698584",
+  "lon": "-8.3167266",
+  "location": "Ensenada de Cariño, Ferrol, Spanje",
+  "firstdate": null,
+  "firstyear": "1588",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Spanje",
+  "countrycode": "ES",
+  "author": "Sergio José López Martín",
+  "created_on": "2021-10-13 15:43:35",
+  "modified_on": "2025-06-14 18:45:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The preserved remains are made up of 7 iron cannons, a small anchor and a set of stones, possibly the ballast of the ship. The elements are very deteriorated.</p> <p>The cannons were originally identified as part of the weapons of \"La Ragazzona\", a Venetian ship wrecked in the area on December 8th 1588 after being part of the Spanish Armada. A preliminary study of the cannons seems to indicate a chronology of the seventeenth century, which would invalidate the identification as &ldquo;La Ragazzona&rdquo;, but some of them could be consistent with the chronology of this ship.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Fernández Abella, David; Abilleira Crespo, Yago; Blanco Patiño, Diana; Carlsson-Brandt Fontán, Erik; Crespo Liñeiro, Ignacio; Ferreira Domínguez, Alba (2014).<br /><em>Proyecto Ragazzona.</em><br />Glyphos: revista de arqueología, 3.<br />pp 23-32.</li><li>Fernández Abella, David (2014).<br /><em>Buscando a La Ragazzona, prospección arqueológica subacuática en la ensenada de Cariño, Ferrol.</em><br />Gallaecia: revista de arqueoloxía e antigüidade, 32.<br />pp 191-214.</li><li>Blanco Patiño, Diana; Fernández Abella, David (2016).<br /><em>Estado de conservación de los restos encontrados en la ensenada de Cariño (Ferrol).</em><br />Actas del V Congreso Internacional de Arqueología Subacuatica (IKUWA 5), Cartagena.<br />pp 332-333.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

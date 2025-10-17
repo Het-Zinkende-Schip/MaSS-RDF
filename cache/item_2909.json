@@ -1,0 +1,27 @@
+{
+  "id": "2909",
+  "code": "amsteldijk",
+  "name": "Amsteldijk (MA 122)",
+  "type": "wreck",
+  "lat": "52.9722368",
+  "lon": "4.5791369",
+  "location": "Haaksgronden, Nederland",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1917-04-26",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-05 13:49:07",
+  "modified_on": "2025-06-15 12:30:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De stoomtrawler Amsteldijk (MA 122) uit Maassluis was na 2 weken op zee op de terugreis naar Maassluis. Even ten noorden van het Haaks lichtschip werd ze tot stoppen gedwongen door de Duitse onderzeeer UC 63. De bemanning moest het schip verlaten en vervolgens werd de MA 122 met kanonschoten tot zinken gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Visserij mij. Roode ster</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>10</td></tr><tr><th scope=\"row\">Tonnage</th><td>186 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40014246\">Centraal Visserijregister.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=%22Amsteldijk+MA+122%22&amp;sortfield=date&amp;identifier=ddd:010224015:mpeg21:a0014&amp;resultsidentifier=ddd:010224015:mpeg21:a0014&amp;rowid=4\">Nieuwe Tilburgsche Courant 27-04-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

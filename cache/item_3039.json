@@ -1,0 +1,27 @@
+{
+  "id": "3039",
+  "code": "doelwijk",
+  "name": "Doelwijk",
+  "type": "wreck",
+  "lat": "-21.1174624",
+  "lon": "155.7356802",
+  "location": "Kenn reef, Australië",
+  "firstdate": null,
+  "firstyear": "1849",
+  "firstyearend": null,
+  "lastdate": "1854-04-21",
+  "lastyear": "1854",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-12-16 12:16:12",
+  "modified_on": "2025-06-15 20:45:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Doelwijk kwam 15 maart aan in Sydney. Ze vertrok vandaar samen met De <a href=\"https://mass.cultureelerfgoed.nl/hester\">Hester</a> op 4 april met bestemming Batavia. Op 21 april kwamen de beide schepen in een storm terecht. De wind dreef beide schepen in de nacht naar de gevaarlijke riffen (Kenn en Wreck reef). Beide schepen stranden op Kenn reef vlak bij elkaar.</p> <p>De Doelwijk kwam dwars op de klippen. De bemanning kon met veel moeite een reddingsboot te water laten. Deze sloeg echter vervolgens op de klippen. De tweede boot werd ongelukkig neergelaten en kwam onderste boven in het water terecht. Kapitein Zeeman en de zeilmaker waren in het water terecht gekomen waarbij de kapitein een lijn kon vastgrijpen en de zeilmaker zich vastklampte aan zijn benen. De ongelukkige hield dit niet vol. Hij moest loslaten en verdronk.</p> <p>De kapitein werd ternauwernood gered. Het lukt uiteindelijk om een sloep in zee te krijgen. De 14 overlevenden brachten de nacht door op het rif en konden vandaar uiteindelijk wegkomen in twee boten. Ze besloten naar het noorden te koersen naar straat Torres waar ze na veel ontberingen uiteindelijk werden opgepikt door het Deense schip de <em>Courier</em> (16 mei) die onderweg was naar Batavia. Daar kwamen de overlevenden uiteindelijk op 3 juni aan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: F. Smit <br>Tonnage 450 lasten<br>Eigenaar: Willem Ruys Jan Dani&euml;lszn, Rotterdam</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Doelwijk&amp;cql%5B%5D=%28date+_gte_+%2201-01-1854%22%29&amp;cql%5B%5D=%28date+_lte_+%2208-11-1854%22%29&amp;redirect=true&amp;sortfield=date&amp;identifier=ddd:010483350:mpeg21:a0010&amp;resultsidentifier=ddd:010483350:\">Java-bode (24-6-1854).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

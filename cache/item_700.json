@@ -1,0 +1,27 @@
+{
+  "id": "700",
+  "code": "schoppe",
+  "name": "Schoppe",
+  "type": "wreck",
+  "lat": "23.0772050",
+  "lon": "-81.5074310",
+  "location": "Matanzas, Cuba",
+  "firstdate": null,
+  "firstyear": "1630",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-17 13:31:03",
+  "modified_on": "2025-06-07 14:29:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Schoppe was a small yacht from the fleet of admiral Jol. The fleet was intended to capture (part of) the Spanish silverfleet of 1640.</p> <p>A violent storm that raged on 11 september 1640 discarded the fleet. Four ships stranded near&nbsp;Habanna.&nbsp;The remainder of the fleet sailed in the bay of Matanzas. The Schoppe was badly damaged and stayed behind while the rest sailed back to Recife in Brasil.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: warship yacht<br>Built: Amsterdam &lt; 1636<br>Owner: WIC Amsterdam<br>Complement: 43, 25 crew, 18 soldiers<br>Tonnage: 60 last<br>Armament: 2 bronze, 6 iron</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>De Laet, IV, 200.</em></li><li><em>OWIC, 1.05.01.01, 55,35,134.</em></li><li><em>OWIC 1.05.01.01. 68, 1567, fol 123.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

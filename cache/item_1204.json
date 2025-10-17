@@ -1,0 +1,27 @@
+{
+  "id": "1204",
+  "code": "middenrak",
+  "name": "Middenrak",
+  "type": "wreck",
+  "lat": "-33.9063790",
+  "lon": "18.4733793",
+  "location": "Tafel baai, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1718",
+  "firstyearend": null,
+  "lastdate": "1728-07-03",
+  "lastyear": "1728",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-11 10:34:50",
+  "modified_on": "2025-06-30 18:09:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Middenrak</strong></em> was een fluitschip. Ze vertrok op 7 februari 1728 vanuit Texel met bestemming Batavia. Ze arriveerde op 7 juni 1728 aan de Kaap in de Tafelbaai om te verversen. Het schip werd daar op 3 juli door een noordwester storm tegen de klippen gedreven en verbrijzeld. Een aantal opvarenden was aan land maar de rest van de 75 opvarenden kwam bij de ramp om.</p> <p>Twee andere schepen, Haarlem en Stabroek, overkwam hetzelfde lot. De Haarlem had geluk. Ze bleef slechts licht beschadigd vastzitten op het strand.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003766.png\" alt=\"Dit is een schilderij dat waarschijnlijk een schipbreuk of de nasleep ervan afbeeldt, met mensen die zich verzamelen rond beschadigde schepen op een strand of kustlijn.\"> <div class=\"img-source\">Otto Landsberg</div> </figure> <p class=\"figcaption\"><br>Impression of \"<a href=\"https://molegenealogy.blogspot.com/2012/05/great-gale-table-bay-17-may-1865.html\">the great Gale</a>\" of 1865 when 28 ships where anchored at Table bay. 17 were lost in the storm of 16th may.</p> <p class=\"note\">* De winterstormen in de baai waren berucht en hadden eerder tot rampen geleid. Tijdens de storm van 15-17 juni 1722 verongelukten 10 schepen. V.a. 1745 moesten VOC schepen die in de wintermaanden de Kaap aandeden, aanleggen in Valse baai.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf in Amsterdam 1727<br>Tonnage: 300<br><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hendrik van Beek</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93810\">DAS 2728.1.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/78/file/NL-HaNA_1.11.06.18_78_0094?eadID=1.11.06.18&amp;unitID=78&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 3-7-1728.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1374",
+  "code": "hollandia-1683",
+  "name": "Hollandia",
+  "type": "wreck",
+  "lat": "52.9401557",
+  "lon": "4.6787166",
+  "location": "Schulpengat, Nederland",
+  "firstdate": null,
+  "firstyear": "1683",
+  "firstyearend": null,
+  "lastdate": "1698-03-26",
+  "lastyear": "1698",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-02 10:09:32",
+  "modified_on": "2025-06-10 15:57:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Hollandia</strong></em> nam o.a. deel aan de slag bij <a href=\"/slag-bij-beachy-head\">Beachy Head</a> (1690). De zeeslag werd uitgevochten tussen Brits-Nederlandse vloot o.l.v. admiraal Arthur Torrington en de Franse vloot o.l.v. De Tourville.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001818.jpg\" alt=\"tekening van de voorgevel van een houten schip, zonder masten\"> <div class=\"img-source\">beeldbank.nimh.nl</div> </figure> <p>De Hollandia maakte in 1698 deel uit van een eskader dat in de Cariben samen met de Britten jacht maakte op de Franse vloot aldaar. De Franse vloot werd niet meer aangetroffen. <br>De Hollandia wist het Spaanse schip Santo Christo (waarde lading 2.000.000) te veroveren. De buit was nog aan boord ten tijde van het zinken in 's Lands Diep bij Den Helder.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: linieschip 1 charter<br>Gebouwd : admiraliteit werf Amsterdam, 1683<br>Bewapening: 74 stukken<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Justus Hoogenhouck</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>350</td></tr><tr><th scope=\"row\">Lengte</th><td>155 &frac34; voet (47,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 voet (12,2 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De Hollandia ligt in het Schulpengat voor de kust van Den Helder.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Schaap C.W.J.<br /><a href=\"https://tijdschriften.archiefalkmaar.nl/issue/CVC/1987-06-01/edition/0/page/6\">De Clock van Callens-Ooghe.</a></li><li>NIHM.<br /><a href=\"https://www.maritiemdigitaal.nl/\">Maritiem Digitaal.</a></li><li>De Jonge, J.C. (1839).<br /><em>Geschiedenis van het Nederlandse Zeewezen,IV p.544.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

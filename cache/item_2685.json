@@ -1,0 +1,26 @@
+{
+  "id": "2685",
+  "code": "puttgarden",
+  "name": "Puttgarden",
+  "type": "site",
+  "lat": "54.5253456",
+  "lon": "11.2017632",
+  "location": "Puttgarden Riff, Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-11-20 21:55:57",
+  "modified_on": "2025-07-11 18:07:06",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Puttgarden reef forms a natural navigational hazard, which became the final resting place of many ships that have wrecked here. Several wrecks have been identified as ships of the 19-20th century and based on the anomalies as seen on aerial photos, there is a great potential for new discoveries. For this reason, this area is very popular with wreck-divers.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002868.jpg\" alt=\"clear blue water, a reef\"> <div class=\"img-source\">GeobasisDE</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Aside from wrecks, the shallow water depth of 2-5 metres indicates that this area must have been terrestrial several millennia ago due to the effect of the post-glacial rebound (with a sinking coastline south of the Ringk&oslash;bing-Fyn High). Mesolithic remains (i.e. micro-flint) in the Gr&uuml;ner Bring area indicates that this may have been a prehistoric settlement area.</p></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The number of well-preserved wooden shipwrecks indicates that the wrecks must have become uncovered recently by erosion, hitherto protected by a sediment layer, as no traces of marine borers have been observed. With a salinity of 28 PSU (https://geoportal.bafg.de/MUDABAnwendung/ Messstation Fehmarn Belt, July 2010) the waters are optimal for the spread of the teredo navalis. Both, the Teredo navalis und Limnoria lignorum were observed in the nearby 17th century wreck of the LINDORMEN, which is now protected by an artificial mound of gravel and sand.</p> <p>Therefore, it can be expected, that the in situ preservation of these wrecks will be likewise compromised in the future (cf. the forecast of the WreckProtect Project).</p> <p>Due to the high number of historic wrecks and anomalies, the Puttgarden reef was designated as one of the priority areas by the State Archaeology Department of Schleswig-Holstein within the framework of the BalticRIM Project (Baltic Sea Region Integrated Maritime Cultural Heritage Management, 2017-2020).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002869.png\" alt=\"The image shows the BalticRIM logo\"></figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Oppelt, I. (2019).<br /><em>Wracktauchen: Die schönsten Tauchplätze der Ostsee.</em><br />Wetnotes.</li><li>Segschneider, M.  (2015).<br /><a href=\"https://www.vikingeskibsmuseet.dk/frontend/Marinarkaeologi/2012-279_LF.pdf\">The Excavations on the Wreck of Lindormen.</a><br />Archäologische Nachrichten aus Schleswig-Holstein, 2014.<br />pp 93.</li><li>hosted on the website of the Submariner Network.<br /><a href=\"https://submariner-network.eu/balticrim/\">BalticRIM Project.</a></li><li>Schleswig-Holstein.<br /><a href=\"https://www.schleswig-holstein.de/mm/downloads/MILIG/LEP/Text_LEP-SH_2021_A_B%29.pdf\">Landesantwicklungsplan (PDF).</a></li><li><a href=\"http://wreckprotect.org\">Wreck Protect Project (2009-2011).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

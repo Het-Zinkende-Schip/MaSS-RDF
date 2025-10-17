@@ -1,0 +1,27 @@
+{
+  "id": "2893",
+  "code": "neptunus-1911",
+  "name": "Neptunus",
+  "type": "wreck",
+  "lat": "54.9795435",
+  "lon": "-0.8840802",
+  "location": "Noordzee 20 nm ENE of Hartlepool",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1917-04-12",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-23 11:00:40",
+  "modified_on": "2025-06-15 12:21:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Neptunus, was onderweg van Hartlepool naar Oslo met een lading kolen. Ze werd aangehouden op de Noordzee door de Duitse onderzee&euml;r U31 en tot zinken gebracht met springladingen. De bemanning is gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Scheepswerf J. Th. Wilmink, Groningen<br>Eigenaar: Jan Jacob Onnes, Groningen,</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>123 &frac14; voet (37,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>23 &frac14; voet (7,1 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>10 &frac14; voet (3,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>209 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=7517\">ID 844 Stichting Maritieme Historische Data.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

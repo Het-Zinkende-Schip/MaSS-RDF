@@ -1,0 +1,27 @@
+{
+  "id": "931",
+  "code": "tugboat-caracasbaai",
+  "name": "Tugboat Caracasbaai",
+  "type": "wreck",
+  "lat": "12.0685791",
+  "lon": "-68.8620071",
+  "location": "Willemstad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1989",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Cimberly Symister",
+  "created_on": "2019-12-16 13:41:50",
+  "modified_on": "2025-06-08 21:42:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Met de komst van de Shell naar Cura&ccedil;ao werden er verschillende kleine sleepboten gebouwd. Rond het jaar 1989 zijn er drie van de zeven sleepboten als duikobject waren afgezonken. Aan de onderkant van de boeg is duidelijk te zien dat het boot grote schade heeft opgelopen. Deze boot heeft schade gelopen tijdens het voeren van werkzaamheden in haven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Sleepboot van de Cura&ccedil;ao Scheepvaart Maatschappij (C.S.M).</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

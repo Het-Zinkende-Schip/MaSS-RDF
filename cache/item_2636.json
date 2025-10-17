@@ -1,0 +1,27 @@
+{
+  "id": "2636",
+  "code": "oskarshamn-1",
+  "name": "Oskarshamn",
+  "type": "wreck",
+  "lat": "57.2852500",
+  "lon": "16.4852482",
+  "location": "Bossholmen, Zweden",
+  "firstdate": null,
+  "firstyear": "1250",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1270",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-09-01 18:26:22",
+  "modified_on": "2025-06-14 18:01:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This wreck was discovered in 1964 by locals who reported the find to the Swedish National Maritime Museum in Stockholm. Several underwater survey ensued in the 1960's and 1970's. The wreck was sampled in 1984 and the result of the dendrochronological analysis revealed that the timber was felled around 1270 and originated from south-western Scandinavia.</p> <p>The first archaeological underwater excavation started in 1985 and was continued in consecutive years until 1988, followed by <em>ex situ</em> recording of the hull between 1988-1990. The project director was Prof. Carl Olof Cederlund of the Swedish National Maritime Museum, assisted by a foundation established for the recovery of this wreck - the <em>Bestyrelsen for Projektet Bossholmenfyndet.&nbsp;</em>The excavation was carried out as Swedish-British cooperation, in that the Swedish students were instructed by five British maritime archaeologists who previously worked on the MARY ROSE excavation.</p> <p>The wreck is considered one of the few and best-preserved examples of the \"cog\" type in Swedish waters (in neutral archaeological terms more appropriately referred to as \"Bremen-type\").</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002810.png?modifiedon=1630513377\" alt=\"The excavated hull with the massive floor-timbers (photo: Kester Keighley) and an artistic representation of a cog (drawing: Jon Adams).\"> <div class=\"img-source\">Jon Adams/Kester Keighley</div> <figcaption class=\"img-description\">The excavated hull with the massive floor-timbers (photo: Kester Keighley) and an artistic representation of a cog (drawing: Jon Adams).</figcaption> </figure> <p>Although no cargo remains were discovered in the wreck, a micro-organic analysis of soil samples extracted from the bilge has shed light on cargo residues.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The keel length of 12,5 metres and the maximum width of the surviving bottom section of 3,55 metres give a rough impression of the overall hull dimensions. Several observations typical for Bremen-type vessels were made, flush-laid bottom planks and the use of moss as caulking material.</p> <p>Contrary to other wrecks of the Bremen-type, this wrecks featured a proper keel instead of a keel-plank.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>A cradle was constructed so that the wreck could be raised in one piece in October 1987. The wreck was placed into a tank for waterlogged storage.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Adams, J. (1990).<br /><em>The Oskarshamn cog. Part II: excavation, underwater recording and salvage.</em><br />International Journal of Nautical Archaeology 19.3.<br />pp 207-219.</li><li>Cederlund, C. O. (1986).<br /><em>Preliminär rapport över 1986 års undersökning av vraket efter en kogg från 1200-talet vid Bossholmen, Mockebo, Oskarshamn - med förslag betr fortsatt arbete.</em><br />Stockholm: Statens Sjöhistoriska Museum.</li><li>Cederlund, C. O. (1987).<br /><em>Preliminär rapport över undersökningen 1984-1985 av ett vrak efter en kogg från 1200-talet vid Bossholmen, Mockebo, Oskarshamn och anläggningar i anslutning till denna.</em><br />Bottnisk Kontakt III.<br />pp 29-33.</li><li>Cederlund, C. O. (1987).<br /><em>Ett sjöfarts- och varvsmuseum i Oskarshamn - vision och förslag.</em><br />pp 193-215.<br />Borås.</li><li>Cederlund, C. O. (1989).<br /><em>Explaining a 13th century cog wreck near Småland , Sweden. A survey of social organization, international trade and sea routes at the time of its use.</em><br />Medieval Ships and the Birth of Technological Societies, I: Northern Europe.<br />pp 81-113.</li><li>Cederlund, C. O. (1989).<br /><em>Låg Oskarshamnskoggen i en medeltida storhamn?.</em><br />Populär Arkeologi 7.<br />pp 33-34.</li><li>Cederlund, C. O. (1989).<br /><em>Sjövägarna vid svenska Östersjökusten på 1200-talet.</em><br />Marinarkeologisk Tidskrift 3.<br />pp 8-15.</li><li>Cederlund, C. O. (1989).<br /><em>Sjövägarna vid svenska Östersjökusten på 1200-talet.</em><br />Marinarkeologisk Tidskrift 4.<br />pp 6-17.</li><li>Cederlund, C. O. (1990).<br /><em>The Oskarshamn cog. Part I: development of investigations and current research.</em><br />The International Journal of Nautical Archaeology and Underwater Exploration 19.3.<br />pp 193-206.</li><li>Lemdahl, G., Aronsson, M., Hedenäs, L. (1995).<br /><em>Insekter från ett medeltida handelsfartyg.</em><br />Entomologisk Tidskrift 116.4.<br />pp 169-174.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

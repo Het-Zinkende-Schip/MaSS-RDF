@@ -1,0 +1,27 @@
+{
+  "id": "890",
+  "code": "stoomloodsvaartuig-14",
+  "name": "Stoomloodsvaartuig no. 14",
+  "type": "wreck",
+  "lat": "51.7463829",
+  "lon": "3.6914063",
+  "location": "Steenbanken near Kop van Schouwen, Nederland",
+  "firstdate": null,
+  "firstyear": "1917",
+  "firstyearend": null,
+  "lastdate": "1918-02-15",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-11-22 12:40:36",
+  "modified_on": "2025-06-08 21:11:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Zes opvarenden van de Loodsboot kwamen om.</p> <p>Op 15 februari 1918 kreeg de Arm 16, terwijl ze in het Oostgat aan het vissen was, een mijn in haar netten. De mijn werd voorzichtig losgemaakt en verankerd. Loodsboot no. 14 met schipper Vader, ingericht voor het onschadelijk maken van mijnen, ging er op af, nam de Arm 16 op sleeptouw en ging op zoek naar de mijn. Die ontdekten ze ter hoogte van Westkapelle.</p> <p>Op het moment dat de marine officier die zich aan boord van de no.14 bevond, overstapte op de Arm 16, liep de loodsboot op een (andere) mijn. De gevolgen waren verschrikkelijk: schipper Vader, de zeeloodsen A.Hoek en B.Spuy alsmede de loodskwekelingen A. Ruyg en P.J. Lefeber en zeemilicien Brouwer werden gedood.</p> <p>Van de vissers op de Arm 16 vonden schipper L.van Belzen, zijn zoon (17) G. van Belzen en matroos H. Marijs de dood. Verder vielen er nog verschillende gewonden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Loodsvaartuig , onderzoeksvaartuig M2<br>Gebouwd: Machinefabriek &amp; Scheepswerf P. Smit Jr., Rotterdam, 1917<br>Eigenaar: Ministerie van Marine</p> <p>Afmetingen: 42.3 x 7.3 x 4.55 m <br>Tonnage: 460 disp (surf)</p> <p>Voortstuwing : stoom, 525 pk<br>Snelheid: 10.5 knots</p> <p>Kapitein: Vader,</p> <p>6 opvarenden kwamen om</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

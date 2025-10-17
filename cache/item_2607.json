@@ -1,0 +1,27 @@
+{
+  "id": "2607",
+  "code": "damco-136",
+  "name": "Damco 136",
+  "type": "wreck",
+  "lat": "51.5866700",
+  "lon": "3.9111111",
+  "location": "Oosterschelde, Engels Vaarwater, Nederland",
+  "firstdate": null,
+  "firstyear": "1927",
+  "firstyearend": null,
+  "lastdate": "1968-11-03",
+  "lastyear": "1968",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Frank Maas",
+  "created_on": "2021-06-24 23:57:18",
+  "modified_on": "2025-06-14 17:05:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Damco was geladen met fosfaat, gesleept door mslb. Denze op weg van Rotterdam naar Vlissingen.</p> <p>De luiken waren niet geborgd met kleden en vastgezet.</p> <p>In het Engels Vaarwater sloegen de golven de luiken los, waarna het schip is gezonken.</p> <p>Alle opvarenden zijn gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>5</td></tr><tr><th scope=\"row\">Lengte</th><td>362 voet (110,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>43 voet (13,1 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>9 &frac34; voet (3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2965 ton</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

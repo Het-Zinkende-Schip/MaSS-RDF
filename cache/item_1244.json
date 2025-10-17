@@ -1,0 +1,27 @@
+{
+  "id": "1244",
+  "code": "smient",
+  "name": "Smient",
+  "type": "wreck",
+  "lat": "23.1978356",
+  "lon": "116.8101512",
+  "location": "Lamoa, China",
+  "firstdate": null,
+  "firstyear": "1650",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-23 10:32:04",
+  "modified_on": "2024-10-15 09:34:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De fluit<strong> Smien</strong><em><strong>t</strong></em> is op 12 mei 1650 uit Texel vertrokken en op 19 september bij Batavia aangekomen en daarna in Azi&euml; gebleven. De Smient werd zowel ingezet voor reizen naar Japan als naar de Specerij eilanden.</p> <p>Op 27 mei 1653 vertrokken drie fluitschepen Trouw, Smient en het Witte Paard en een galjoot Ille Formosa van Batavia met bestemming Taiwan, onder andere om daar soldaten en peper te brengen (<a href=\"https://babel.hathitrust.org/cgi/pt?id=mdp.39015020146018&amp;ui=embed&amp;seq=80&amp;q1=Smient\">Dagregister Batavia</a>)</p> <p>In september 1653 verklaarden Chinese tolken in Japan dat in juni een Nederlands schip was gestrand op het eiland Lamoa, waarvan enige overlevende opvarenden aan land waren gebracht. Daarbij zou een Nederlandse vrouw zijn geweest die zij van een eerder verblijf op Taiwan kenden. <a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.21/invnr/66/file/NL-HaNA_1.04.21_66_0028?eadID=1.04.21&amp;unitID=66&amp;query=66\">NA 1.04.21, inv 66 scan 28</a></p> <p>Dit was voor de Nederlanders in Japan een teken dat het verongelukte schip De Smient moest zijn geweest omdat Joost Narwits, die met zijn vrouw op Taiwan had gewoond, met haar vanuit Batavia onderweg was geweest naar Taiwan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd/gekocht: De Smient was een in 1649 door de VOC kamer Amsterdam gekochte fluit met een laadvermogen van ca 400 ton.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91837\">DAS 0720.1.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/taiwan/#page=617&amp;accessor=search_in_text&amp;source=3&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Ftaiwan%2Fsearch_in_text%2Findex_html%3Fpage%3D7%26source%3D2%26id%3Ds\">Dagregister Zeelandia Deel III, 596.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

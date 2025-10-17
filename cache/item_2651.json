@@ -1,0 +1,27 @@
+{
+  "id": "2651",
+  "code": "regulus",
+  "name": "Regulus",
+  "type": "wreck",
+  "lat": "-5.8411735",
+  "lon": "111.1706543",
+  "location": "Soerabaja, Indonesië",
+  "firstdate": null,
+  "firstyear": "1942",
+  "firstyearend": "1943",
+  "lastdate": "1945-07-16",
+  "lastyear": "1945",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-09-29 16:44:31",
+  "modified_on": "2025-06-14 18:20:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Regulus was een schip dat als mijnenveger/vliegtuigmoederschip voor de Gouvernementsmarine werd gebouwd.</p> <p>De Regulus stond nog op de helling toen het door marinepersoneel in brand werd gestoken, 2 maart 1942. Er was echter slechts lichte schade aan het achterschip toegebracht. De Japanners herstelden de schade en op 21 mei lieten zij het schip te water als kanonneerboot Nankai. Begin 1944 was het schip voltooid en op 23 september van datzelfde jaar werd de kanonneerboot getroffen door een torpedo van een geallieerde onderzeeboot en aan de grond gezet op Sebuko Island, bij Borneo. Het schip werd geborgen en hersteld. Op 16 juli 1945 werd het schip in de Javazee getorpedeerd door een Amerikaanse onderzeeboot en zonk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: mijnenlegger, kanoneerboot</p> <p>Gebouwd: Droogdok Mij. te Surabaya. afgebouwd door de Japanse keizerlijke marine.</p> <p>Bewapening:<br>Nederland: 2x 7,5cm kanonnen, 2x 40mm mitrailleurs,<br>80 zeemijnen, 25 dieptebommen<br>Japan:3x 8cm/40cal gun, 4x 25mm AA</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>120</td></tr><tr><th scope=\"row\">Vermogen</th><td>4800 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>18 knopen ~ 33 km/u (21 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>281 &frac12; voet (85,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>36 voet (11 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>12 &frac12; voet (3,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>L.L. von Münching (1978).<br /><em>Schepen van de koninklijke marine in de 2e wereldoorlog. p. 73.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

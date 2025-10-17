@@ -1,0 +1,27 @@
+{
+  "id": "1525",
+  "code": "timor",
+  "name": "Timor",
+  "type": "wreck",
+  "lat": "51.6208330",
+  "lon": "2.6358500",
+  "location": "Oosthinder, België",
+  "firstdate": null,
+  "firstyear": "1910",
+  "firstyearend": null,
+  "lastdate": "1917-07-16",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Martijn Heijink",
+  "created_on": "2020-07-31 16:55:24",
+  "modified_on": "2022-06-28 14:07:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>SS Timor was op 16 juli 1917 onderweg van Londen naar Rotterdam, met een lading pek. Circa 18 mijl ten zuiden van het lichtschip Noordhinder werd ze door de Duitse onderzeeboot UC-64 tot zinken gebracht. De bemanning overleefde het incident en werd door de vissersboot KW 102 naar IJmuiden gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Identiteit onzeker, dit kan ook het SS Hans Kinck zijn. Getorpedeerd.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>L.A. Man in 't Veld</td></tr><tr><th scope=\"row\">Tonnage</th><td>135 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak van de SS Timor ligt op een maximale diepte van 40 meter. Het staat rechtop, maar is grotendeels ingestort.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Agentschap Onroerend Erfgoed.<br /><a href=\"http://www.maritieme-archeologie.be/WK_Ship_GenView.aspx?ObjCId=1934&amp;type=1&amp;utype=guest\">Timor SS.</a></li><li>L.L. von Münching (1981).<br /><em>De verliezen van de Nederlandse koopvaardij in de Eerste Wereldoorlog 1914-1918.</em><br />Haarlem, De Boer Maritiem.</li><li>J.H. Hoogendijk (1930).<br /><em>De Nederlandsche koopvaardij in den oorlogstijd (1914-1918): eigen ervaringen van gezagvoerders, stuurlieden en andere opvarenden.</em><br />Amsterdam, Van Holkema &amp; Warendorf.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

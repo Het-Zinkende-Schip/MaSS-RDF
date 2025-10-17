@@ -1,0 +1,27 @@
+{
+  "id": "1257",
+  "code": "oosterbeek",
+  "name": "Oosterbeek",
+  "type": "wreck",
+  "lat": "-5.8809038",
+  "lon": "112.6383421",
+  "location": "pulau Bawaen, Gresik, Indonesië",
+  "firstdate": null,
+  "firstyear": "1758",
+  "firstyearend": null,
+  "lastdate": "1765-05-08",
+  "lastyear": "1765",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-26 11:37:39",
+  "modified_on": "2025-01-07 17:31:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Oosterbeek</em> vertrok 29-10-1759 voor haar eerste retoureis naar Batavia (aankomst 5-6-1660) . Vandaar ging het naar Kanton in China om thee te laden. Ze was terug in Nederland 17-8-1761.</p> <p>Na haar tweede uitreis bleef de Oosterbeek dienst doen in Azi&euml;.&nbsp;<br>Haar laatste reis ging van Batavia naar Banda. Onderweg is de Oosterbeek op 8-5-1765 gestrand bij het eiland Gresik.<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=223&amp;accessor=search_in_text&amp;source=14_2&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1136\"><strong>&sup1;</strong></a> De romp werd later verkocht op Java's oostkust voor 3168,-.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd/Built: Amsterdam, 1758<br>Lengte: 150 vt<br>Tonnage: 550 last<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94882\">DAS 3831.2.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=347&amp;accessor=search_in_text&amp;source=14_2&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D\">Generale missiven deel 14, 2, p 874.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

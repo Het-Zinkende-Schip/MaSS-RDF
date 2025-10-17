@@ -1,0 +1,27 @@
+{
+  "id": "1562",
+  "code": "holland-1652",
+  "name": "Holland",
+  "type": "wreck",
+  "lat": "50.5588148",
+  "lon": "-2.2906494",
+  "location": "Portland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1653-02-28",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-25 14:36:35",
+  "modified_on": "2025-06-10 19:09:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In Driedaagse Zeeslag bij Portland door de Engelsen genomen en vervolgens verbrand.</p> <p>Dit was een zeeslag in de eerste Engelse-Nederlandse oorlog (29 mei 1652 tot 8 mei 1654).&nbsp;<br>Na aanvankelijke Nederlandse successen keerden de kansen in het tweede jaar van de oorlog tijdens de slag bij Portland.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 30</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Munnick, H de</td></tr><tr><th scope=\"row\">Lengte</th><td>106 voet (32,3 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>NIMH.</em></li><li><a href=\"https://nl.wikipedia.org/wiki/Eerste_Engels-Nederlandse_Oorlog\">Eerste Engels-Nederlandse Oorlog.</a></li><li><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0005.php\">Het leven en het bedrijf van den Heere Michiel de Ruyter, II, 41.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

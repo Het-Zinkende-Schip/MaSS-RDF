@@ -1,0 +1,27 @@
+{
+  "id": "3221",
+  "code": "aurora-2",
+  "name": "Aurora",
+  "type": "wreck",
+  "lat": "37.1003507",
+  "lon": "7.1512026",
+  "location": "Cap de Fer, Algerije",
+  "firstdate": null,
+  "firstyear": "1920",
+  "firstyearend": null,
+  "lastdate": "1953-11-10",
+  "lastyear": "1953",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-12-30 16:53:39",
+  "modified_on": "2025-02-06 11:53:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip <strong><em>Aurora </em></strong>werd op 24 11 1942 Onder kapitein J. v.d. Mey door een Duitse luchtaanval te Skida (Phillipeville, Algerije) gebombardeerd en tot zinken gebracht. De bemanning bleef ongedeerd.</p> <p><strong>Gelicht</strong><br>In 1952 is het wrak gelicht en verkocht. Op 10 november 1953 tijdens de sleepreis naar de sloperij in Itali&euml;, bij Cap de Fer alsnog gezonken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=723\">marhisdata id 723.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

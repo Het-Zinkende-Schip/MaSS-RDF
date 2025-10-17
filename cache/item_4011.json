@@ -1,0 +1,27 @@
+{
+  "id": "4011",
+  "code": "nc130",
+  "name": "NC130",
+  "type": "wreck",
+  "lat": "52.7188020",
+  "lon": "5.6669260",
+  "location": "Espel, Nederland",
+  "firstdate": null,
+  "firstyear": "1775",
+  "firstyearend": "1830",
+  "lastdate": null,
+  "lastyear": "1831",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:28:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Op kavel C 130 bij Espel in de Noordoostpolder werden in 1948 en 1949 meldingen gedaan van de vondst van een scheepswrak, geladen met rode bakstenen. Kort daarop is het echter zonder overleg door de Cultuurtechnische Afdeling van de Directie voor de Wieringermeer (Noordoostpolderwerken) uitgegraven voor bruikbaar puin, waarna de scheepsrest nog wel weer is toegedekt. Door deze gang van zaken was de context van het tjalkachtige wrak verstoord en kon een systematische opgraving van het wrak niet meer op de gebruikelijke wijze plaatsvinden. Wel werd afgesproken dat eventuele objecten die nog uit het wrak zouden komen zouden worden bewaard. Uiteindelijk is in 1955 besloten, in overleg met de landbouwkundig opzichter, het wrak verder leeg te graven en te verwijderen. De daarbij aangetroffen inventaris bleek te bestaan uit veel aardewerk (waaronder een spreukbord), ijzerwerk en scheepsbenodigdheden. Aan de hand van de vondst van een aantal munten kon een ondergangsdatum voor het schip van ca. 1835 worden vastgesteld.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z8k-saxe\">Opgravingsdocumentatie scheepswrak NC130.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

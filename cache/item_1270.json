@@ -1,0 +1,27 @@
+{
+  "id": "1270",
+  "code": "valk-1620",
+  "name": "Valk",
+  "type": "wreck",
+  "lat": "23.0010150",
+  "lon": "120.1627908",
+  "location": "An Ping, Taiwan",
+  "firstdate": null,
+  "firstyear": "1618",
+  "firstyearend": null,
+  "lastdate": "1623-07-19",
+  "lastyear": "1623",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-31 13:29:44",
+  "modified_on": "2025-06-25 11:55:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Valk was een klein jacht voor de intra-Aziatisch handel (<em>Verre Oosten Route</em>). Ze vertrok van Texel 31-12-1620. Arriveerde voorts 23-8-1621 in Batavia. Gaat daarna door naar China en Taiwan.</p> <p>19-07-1623<em> in de voornoemde baai (Taiwan) van zijn anckers gespilt en aen de suydstrant gedreven, om gewaeyt en int sant gewelt; volk gered, maar verder weinig. <br>(<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1081/file/NL-HaNA_1.04.02_1081_0291?eadID=1.04.02&amp;unitID=1081&amp;query=1081\">missive Reijersz</a>)</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf Oosterburg, Amsterdam, 1618.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/100/file/NL-HaNA_1.04.02_100_0287?eadID=1.04.02&amp;unitID=100&amp;query=100\">&sup1;</a></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>140 ton (70 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Huygens ING.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91307\">DAS 0269.1.</a></li><li>Missive van Comandeur Reijers.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1081/file/NL-HaNA_1.04.02_1081_0151?eadID=1.04.02&amp;unitID=1081&amp;query=1081\">NA 1.04.02 (VOC) 1081, 70 (scan 151).</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/100/file/NL-HaNA_1.04.02_100_0287?eadID=1.04.02&amp;unitID=100&amp;query=100\">Liquidatie van timmeringen gedaan te Amsterdam.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

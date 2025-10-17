@@ -1,0 +1,27 @@
+{
+  "id": "2351",
+  "code": "sphaera-mundi-1653",
+  "name": "Sphaera Mundi",
+  "type": "wreck",
+  "lat": "52.4448490",
+  "lon": "4.8478732",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1657",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-29 16:33:04",
+  "modified_on": "2025-06-12 12:01:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Werd gebruikt als convooier 1652-1653 in de Noordzee gehuurd door de admiraliteit van Rotterdam.</p> <p>Van 16540-57 kaapvaart.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 26 (1652)<br>2 x 12 Ponders <br>6 x 8 pds,<br>6 x 6 pds<br>6 x 4 pds<br>4 x 3 pds<br>2 x 2 pds</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Clercq Marinus de,</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>100</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J. (2014).<br /><em>Dutch warships in the age of sail (1600-1714) p. 181.</em><br />Seaforth Publishing.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

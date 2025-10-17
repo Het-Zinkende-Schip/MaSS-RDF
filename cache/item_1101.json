@@ -1,0 +1,27 @@
+{
+  "id": "1101",
+  "code": "hilversbeek-1741",
+  "name": "Hilversbeek",
+  "type": "wreck",
+  "lat": "39.4550256",
+  "lon": "-31.1105347",
+  "location": "Ilha das Flores, Azores, Portugal",
+  "firstdate": null,
+  "firstyear": "1735",
+  "firstyearend": null,
+  "lastdate": "1741-06-28",
+  "lastyear": "1741",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-28 17:13:22",
+  "modified_on": "2025-02-21 19:38:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Hilversbeek vertrok samen met de Nieuw Walcheren uit Batavia 3-12-1740 naar Nederland. Ze kwamen bij de Kaap aan op 30-01- 1741, Ze vertrok 18-3-1741 van de Kaap. De laatste etappe over de Atlantische Oceaan naar Europa eindigde bij de Azoren (Vlaamse eilanden.</p> <p>Op 28 juni 1741 is de Hilversbeek ter hoogte van het eiland Flores. Ge&euml;xplodeerd door eigen kruit. De hele bemanning is daarbij omgekomen en de lading verloren gegaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1735<br>Lengte: 145<br>Tonnage: 425, 850<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Frans de Put</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98008\">DAS 7115.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0081?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">NA_1.11.01.01_551_0081.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

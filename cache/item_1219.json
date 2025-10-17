@@ -1,0 +1,27 @@
+{
+  "id": "1219",
+  "code": "slot-van-capelle-1717",
+  "name": "Slot van Capelle",
+  "type": "wreck",
+  "lat": "25.6696501",
+  "lon": "121.8759749",
+  "location": "Taiwan",
+  "firstdate": null,
+  "firstyear": "1717",
+  "firstyearend": null,
+  "lastdate": "1719-08-14",
+  "lastyear": "1719",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-17 10:45:03",
+  "modified_on": "2025-05-18 14:46:30",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>Slot van Capelle</strong></em> is genoemd naar het buiten van de Rotterdamse koopman Johan van der Veken in Capelle aan den IJssel.</p> <p>Het schip voer samen met de <a href=\"https://mass.cultureelerfgoed.nl/catharina\">Catharina</a> en Meeroog van Batavia naar Japan. Ten noorden van Formosa kwamen ze in een storm en verging. (GM 7, 467)</p> <p>Volgens de lijst van alle zodanige schepen werden 9 mensen door Chinese vissers geborgen.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0175?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup2;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf Rotterdam, 1717<br>Lengte 130 vt<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93394\">DAS 2346.1.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=480&amp;accessor=search_in_text&amp;source=7&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Generale missiven Deel 7, 467.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0175?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 lijst van vergane schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

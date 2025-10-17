@@ -1,0 +1,27 @@
+{
+  "id": "4126",
+  "code": "nq83",
+  "name": "NQ83",
+  "type": "wreck",
+  "lat": "52.6636150",
+  "lon": "5.8548900",
+  "location": "Kraggenburg, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1440",
+  "lastyearend": "1460",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:52:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gemeld en verkend in 1989, helaas na beschadiging door een draineermachine, waarna er rekening is gehouden om drainagebuizen om het schip heen te leggen (i.p.v. er doorheen). Bij het onderzoek bleek dat de zijden van het schip waarschijnlijk uitgeklapt liggen naast het schip. Verder werden sporen aangetroffen die er op duiden dat het schip (gedeeltelijk?) in brand heeft gestaan. Gedacht werd dat het ging om een vissersschip dat uit de Nieuwe Tijd dateerde. Het wrak ligt dusdanig diep, en de kwaliteit van het hout was goed genoeg van kwaliteit, dat fysieke beschermende maatregelen vooralsnog niet nodig werden geacht. Tot de weinige geborgen vondsten behoren o.a. een bronzen wiel, een (gebroken) plavuis en een steengoed scherf.</p> <p>De ondergangsdatering van het wrak werd in 1991 aangescherpt op basis van het opgetekende bodemprofiel. De verspoelingslaag van het wrak eindigde namelijk boven in de laag Sl IIa van het Almerepakket. Die fase wordt geplaatst in de 1ste helft van de 15de eeuw, waardoor het tijdstip van vergaan waarschijnlijk even v&oacute;&oacute;r het midden van de 15de eeuw zou moeten liggen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2a9-hjnd\">Opgravingsdocumentatie scheepswrak NQ83.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

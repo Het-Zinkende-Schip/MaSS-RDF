@@ -1,0 +1,27 @@
+{
+  "id": "2190",
+  "code": "hollandia-1652",
+  "name": "Hollandia",
+  "type": "wreck",
+  "lat": "52.0419542",
+  "lon": "4.1547203",
+  "location": "Ter Heijde, Nederland",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1653-08-10",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-06 10:51:12",
+  "modified_on": "2023-11-05 12:14:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In de Slag bij Ter Heijde gezonken. Er zijn twee schepen van deze naam bij ter Heijde gezonken. <a href=\"https://mass.cultureelerfgoed.nl/zeeslag-bij-ter-heijde\">Zie ook Zeeslag bij Ter Heijde</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: 's Lands werf te Amsterdam, 1652<br>Bewapening: 32</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>E. Azn, de Marre</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

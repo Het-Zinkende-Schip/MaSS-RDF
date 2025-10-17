@@ -1,0 +1,27 @@
+{
+  "id": "1181",
+  "code": "koning-william",
+  "name": "Koning William",
+  "type": "wreck",
+  "lat": "51.3932363",
+  "lon": "3.2626648",
+  "location": "Vlakte van de Raan, België",
+  "firstdate": null,
+  "firstyear": "1692",
+  "firstyearend": null,
+  "lastdate": "1696-07-22",
+  "lastyear": "1696",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-02 16:19:45",
+  "modified_on": "2025-06-20 11:35:28",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De '<em>Koning William'</em> was genoemd naar stadhouder Willem III die vanaf 1688 ook koning van Groot Brittanni&euml; was.</p> <p>Het schip is op haar tweede retourreis na vertrek uit Texel op 22 juli 1696 vergaan voor de Vlaamse kust- Schelde monding.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0057?eadID=1.04.02&amp;unitID=4935&amp;query=\">&sup1;</a></p> <p>Slechts enkele van de bemanningsleden hebben de ramp overleefd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1691. (<a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=0&amp;accessor=searchText&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText\">Van Dam 484</a>).<br><br>Tonnage: 598 last 1197 tons<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan Hendrik Thim</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>300</td></tr><tr><th scope=\"row\">Lengte</th><td>161 Amsterdamse&nbsp;voet (45,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 Amsterdamse&nbsp;voet (11,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92805\">Details of voyage 1745.2 from Texel.</a></li><li>Pieter van Dam.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=523&amp;accessor=toc&amp;source=1&amp;view=\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.1.1  482.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

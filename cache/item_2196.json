@@ -1,0 +1,27 @@
+{
+  "id": "2196",
+  "code": "keizer-karel",
+  "name": "Keizer Karel",
+  "type": "wreck",
+  "lat": "38.7368925",
+  "lon": "-9.0826035",
+  "location": "Lisboa, Portugal",
+  "firstdate": null,
+  "firstyear": "1705",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1706",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-06 11:50:26",
+  "modified_on": "2025-06-11 18:54:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Keizer Karel</strong></em> was een troepen transportschip in het Middellandse zee eskader van Lt. Admiraal P. van Almonde 1705. Uitgezonden in een gecombineerde Engels-Nederlandse vloot tijdens de Spaanse Successie oorlog om de Spaanse troonpretendent Karel III te steunen. In oktober 1705 werd Barcelona ingenomen.</p> <p>Daarop verliet de gecombineerde vloot de Mediterrane . Als laatste vertrok het eskader van vice-admiraal Wassenaar waaronder de Keizer Karel.</p> <p>Door tegenwind en tegenslag kwam Van Wassenaar pas in februari 1706 aan in Lissabon. Daar moest de vloot worden voorzien van voorraden en schepen gerepareerd. Hierbij ius de Keizer Karel in brand geraakt Op de rivier de Taag voor Lisboa in brand geraakt en vernield.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pieter Sels</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

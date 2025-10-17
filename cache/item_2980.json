@@ -1,0 +1,27 @@
+{
+  "id": "2980",
+  "code": "westland-ijm-132",
+  "name": "Westland (IJM 132)",
+  "type": "wreck",
+  "lat": "53.7182158",
+  "lon": "5.4543425",
+  "location": "Terschelling Bank, Nederland",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1917-05-02",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-15 13:33:34",
+  "modified_on": "2025-06-15 14:34:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Westland</strong></em> (IJM 132) was een gloednieuw schip. Ze werd op haar eerste reis beschoten en daarna aangehouden door de U 71.</p> <p>Schipper Pronk probeerde zijn schip te redden. Hij vertelde de U boot commandant dat zijn schip voor het eerst in de vaart was. Deze antwoorde dat het hem juist ging om nieuwe schepen. De bemanning moest het schip verlaten waarop het tot zinken werd gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Maatschappij Westland, Ijmuiden</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pronk, G.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>11</td></tr><tr><th scope=\"row\">Tonnage</th><td>108 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Ijm+132%22&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;page=1&amp;sortfield=date&amp;coll=ddd&amp;identifier=ddd:010653955:mpeg21:a0121&amp;resultsidentifier=ddd:01065395\">Delpher, Algemeen Handelsblad  (16-05-1917).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

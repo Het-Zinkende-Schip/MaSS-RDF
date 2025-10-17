@@ -1,0 +1,27 @@
+{
+  "id": "3118",
+  "code": "amsterdam-6",
+  "name": "Amsterdam",
+  "type": "wreck",
+  "lat": "12.1454511",
+  "lon": "-62.5722641",
+  "location": "Caribische zee,  Grenada t.h.v.",
+  "firstdate": null,
+  "firstyear": "1922",
+  "firstyearend": null,
+  "lastdate": "1942-04-16",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-08-03 11:28:39",
+  "modified_on": "2025-06-16 18:39:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De tanker <em><strong>Amsterdam</strong></em> vertrok op 5 april 1942 uit Smith's Bluff (Beaumont, Texas) naar Freetown met 9.500 ton olieproducten. Tijdens het laden was door een ongeluk een matroos om het leven gekomen.</p> <p>De Amsterdam voer niet in konvooi. Ze werd op 100 mijl ten noordwesten van Port of Spain gespot door de Duitse onderzee&euml;r <em>U 66<strong>.</strong></em> Deze vuurde twee torpedo's af die beide doel troffen.</p> <p>De meeste bemanningsleden wisten het schip op tijd te verlaten in beide stuurboord reddingboten. Na de aanval werden vier mannen vermist (waaronder derde machinist Noorduijn). Twee drenkelingen werden nog gered uit het water door de reddingboten.</p> <p>Later die dag werden de reddingboten gevonden door het Joegoslavische schip <em>Ivan</em> (kapitein F. Ilic) en een dag later aan land gezet in Port of Spain Trinidad.</p> <p>Op 10 mei vertrekken de overlevenden met het passagiersschip <em>George Washington</em> naar New York (USA), inclusief een gewonde stoker. Die overlijdt aan boord aan zijn verwondingen op 20 mei en wordt na aankomst in New York, aldaar begraven.</p> <p>Vier bemanningsleden kwamen om het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Schol, H.</td></tr><tr><th scope=\"row\">Lengte</th><td>439 &frac34; voet (134 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>57 &frac12; voet (17,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>7329 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=413\">marhisdata.nl  id 413.</a></li><li><a href=\"https://uboat.net/allies/merchants/ship/1545.html\">uboat.net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2212",
+  "code": "koning-david-1674",
+  "name": "Koning David",
+  "type": "wreck",
+  "lat": "52.4448490",
+  "lon": "4.8478732",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1673",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1674",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-09 11:06:05",
+  "modified_on": "2025-06-11 19:06:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Gehuurd voorraadschip, 1674 vergaan.<br>(Bron: Schependocumentatie NIMH)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

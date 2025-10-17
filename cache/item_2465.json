@@ -1,0 +1,27 @@
+{
+  "id": "2465",
+  "code": "barreiros",
+  "name": "Barreiros",
+  "type": "wreck",
+  "lat": "43.5665170",
+  "lon": "-7.2166670",
+  "location": "Playa de Barreiro, Lugo, Spanje",
+  "firstdate": null,
+  "firstyear": "1350",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1550",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "David Rafael Ruiz Blanco",
+  "created_on": "2021-02-25 11:10:57",
+  "modified_on": "2025-06-14 15:26:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Buried in sand</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

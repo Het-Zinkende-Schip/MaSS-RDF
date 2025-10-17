@@ -1,0 +1,27 @@
+{
+  "id": "2536",
+  "code": "teerhof-1",
+  "name": "Teerhof 1",
+  "type": "wreck",
+  "lat": "53.0738717",
+  "lon": "8.8025165",
+  "location": "Bremen-Teerhof, Duitsland",
+  "firstdate": null,
+  "firstyear": "1400",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-31 19:51:10",
+  "modified_on": "2025-08-14 13:05:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>At an extreme low tide event in December 1978, a medieval shipwreck emerged in the sediments of River Weser during excavations at the Teerhof. The wreck's find location is highlighted as Nr. 3 in the overview map below.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002529.png\" alt=\"map of the city of Bremen, with a large river running through the center\"> <div class=\"img-source\">Daniel Zwick + Geoinformation Bremen</div> <figcaption class=\"img-description\">The image shows a map of the Hanseatic city of Bremen, Germany, with a focus on the Weser River and its surroundings.</figcaption> </figure> <p>Bremen's state archaeologist Dr. Karl Heinz Brandt stopped the work in order to save the wreck for an investigation, for which Prof. Dr. Detlev Ellmers (German Maritime Museum) was called in as external expert, who recommended the wreck's salvage.</p> <p>In order for the construction to continue, the lower embankment had to be excavated, to which the wreck posed an obstacle. Therefore, the wreck was salvaged in winter 1978/79 under immense time-pressure and extreme conditions, and brought to the German Maritime Museum for further study. The whereabouts of the wreck is unknown, as there is no published work on the wreck apart from Brandt's report describing the salvage operation.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Due to the absence of published work on this wreck, the only remaining evidence are the photos. These show a clinker- or lapstrake built vessel, a mast-step integrated into a floor-timber that has become loose, and a sharp turn-of-the-bilge, reinforced by a stringer, comparable to the construction of the Blackfriars 3 wreck in London. The mast-step was found in the stern-section, so the wreck was dubbed as \"two-masted\" vessel.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002535.png\" alt=\"Black and white photo of men cleaning shipwrecks.\"></figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002534.png\" alt=\"A black and white image that shows the remains of a shipwreck.\"> <div class=\"img-source\">Brandt, K. H. (1979). Neue Ausgrabungen und Funde in Bremen (1978). Bremisches Jahrbuch 57, 317-334.</div> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Brandt, K. H. (1979).<br /><em>Neue Ausgrabungen und Funde in Bremen (1978).</em><br />Bremisches Jahrbuch 57.<br />pp 317-334.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

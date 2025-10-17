@@ -1,0 +1,27 @@
+{
+  "id": "575",
+  "code": "burgzand-noord-2-bzn-2",
+  "name": "Burgzand Noord 2 (BZN 2)",
+  "type": "wreck",
+  "lat": "53.0500000",
+  "lon": "4.9390000",
+  "location": "Wadden sea, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2018-01-03 00:00:00",
+  "modified_on": "2025-06-06 16:11:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Het wrak van Burgzand Noord (BZN 2) is dat van een gewapend 17<sup>e</sup>-eeuws koopvaardijschip geladen met schroot bronzen kanonnen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De eerste multibeam opnamen van de site zijn van 2012. De opnamen uit 2013, 2014 en 2016 laten een lichte sedimentatie van het gebied zien.</p> <p>Het wrak wordt &ndash; tenminste gedeeltelijk &ndash; beschermd door polypropyleennetten. Duikers van de Duikclub Texel constateerden dat delen van de beschermingsnetten verdwenen of gescheurd waren. Deze zijn in 2017 gerepareerd.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

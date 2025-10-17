@@ -1,0 +1,27 @@
+{
+  "id": "2055",
+  "code": "np23-ii",
+  "name": "NP23-II",
+  "type": "wreck",
+  "lat": "52.6369800",
+  "lon": "5.7774900",
+  "location": "Ens, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-01-30 12:40:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit scheepswrak werd ontdekt in 1948 in de nabijheid van de Schokkerringwegweg, op kavel P23 in de Noordoostpolderbij het slechten en afmaken van de oostkust van Schokland. Het lag direct tegen de onderste palenrij om het eiland, zodat vermoed wordt dat het bootje bewust is afgezonken om de dijk ter plekke te versterken. Het ontbreken van resten van de inventaris van het schip, vormt daar ook een aanwijzing voor. Van het wrak is niets vastgelegd: over afmetingen, type, datering en ondergangsdatum tasten we in het duister.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Scheepswrak gebruikt om de dijk rond Schokland te versterken, Ens</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zhu-7vs3\">Opgravingsdocumentatie scheepswrak NP23-II.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

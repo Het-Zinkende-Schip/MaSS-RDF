@@ -1,0 +1,27 @@
+{
+  "id": "2720",
+  "code": "ss-kadie",
+  "name": "SS Kadie",
+  "type": "wreck",
+  "lat": "-34.4114983",
+  "lon": "20.8541107",
+  "location": "Witsand, Zuid-Afrika",
+  "firstdate": "1859-07-01",
+  "firstyear": "1859",
+  "firstyearend": null,
+  "lastdate": "1865-12-17",
+  "lastyear": "1865",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Luke Tandy",
+  "created_on": "2021-12-02 11:09:01",
+  "modified_on": "2025-06-14 20:51:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Kadie was a 158 ton steamer designed in Scotland by Archibald Denny in 1859. It was designed to go up narrow rivers crossing sandbars. This vessel was built expressly for Barry and Nephews.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003055.jpg\" alt=\"Joseph Barry the proud owner of the SS Kadie and his company Barry and Nephew Co.\"> <figcaption class=\"img-description\">Joseph Barry the proud owner of the SS Kadie and his company Barry and Nephew Co.</figcaption> </figure> <p>Joseph Barry the owner bought it as he found it to be more useful than overland trade as overland took to long to reach isolated towns in the Overberg district. After it arrived in South Africa after 81 days from Scotland it was put it to work going up numerous rivers on the east coast opening trade to towns allowing growth of them, it was recognizable by all in the drought stricken Overberg as it provided them with fresh supplies of water and other resources. Her furthest run was carrying a cargo of ostriches, bound for Australia, to Mauritius.</p> <p>After a 6 year career of many successful voyages (about 240) she sank on 17 December 1865 on a sand bar at the mouth of the Breede River. Joseph Barry died the same year which ultimately led to the closing his company and growth of the farm towns stopped ending the golden years of Overberg trade.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Captain Fowler</td></tr><tr><th scope=\"row\">Lengte</th><td>116 &frac14; voet (35,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 &frac34; voet (8,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>158 ton</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

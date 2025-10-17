@@ -1,0 +1,27 @@
+{
+  "id": "2349",
+  "code": "witte-zwaan",
+  "name": "Witte Zwaan",
+  "type": "wreck",
+  "lat": "53.5344468",
+  "lon": "5.5818450",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1665",
+  "firstyearend": null,
+  "lastdate": "1665-09-19",
+  "lastyear": "1665",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-29 12:16:08",
+  "modified_on": "2025-01-01 15:42:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Witte Zwaan</em> was een als brander ingericht schip in 's Lands vloot die 16 augustus 1665 onder admiraal Michiel de Ruiter werd uitgestuurd om de rijke VOC retourvloot van 1664 uit het Noorse Bergen naar huis te escorteren.*</p> <p>Op de terugweg is de vloot overvallen en uit elkaar geslagen door een zware storm op de Noordzee. De Witte Zwaan verloor haar masten maar werd op sleeptouw genomen. op 19 september 5 mijl buiten Ameland kwam ze tussen de op de loer liggende Engelse vloot terecht :</p> <p><em>Het brandtschip de witte Zwaan, dat zyn masten hadt verlooren, en door van Nes met stompen was verzien, was ook ontrent deeze scheepen geraakt, en de Kommandeur, Jan van Braakel, stak 'er den brandt in; op dat het niet in handen der Engelschen zou komen, en bergde zich, met zyn volk, met de sloep op 't eilandeken 't Heilig Landt.</em></p> <p class=\"note\">*) De Tweede Engelse oorlog was uitgebroken .</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Brakel, Jan van</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brandt, Geeraardt.<br /><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0011.php?q=Zwaan#hl3\">Het leven en het bedrijf van den Heere Michiel de Ruyter 8, 434.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3089",
+  "code": "hardinxveld-giessendam-2-2",
+  "name": "Hardinxveld-Giessendam Polderweg",
+  "type": "wreck",
+  "lat": "51.8366272",
+  "lon": "4.8252840",
+  "location": "Hardinxveld-Giessendam Polderweg, Nederland",
+  "firstdate": null,
+  "firstyear": "-3517",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-3500",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-04-19 09:06:51",
+  "modified_on": "2023-04-19 09:33:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De boomstamboot van Hardinxveld-Giessendam <em>Polderweg</em> is tegelijkertijd met de boomstamboot in De Bruin aangetroffen. Dit fragment is wederom gemaakt van lindehout en dateert uit het Laat-Mesolithicum (5200 voor Christus). Dit fragment is 1,5 meter lang en 50 centimeter breed. Aan een uiteinde zijn twee gaten aangebracht; volgens Louwe Kooijmans et al. (2001: 465) kan dit mogelijk &ldquo;hebben gediend voor de bevestiging van een achterschot&rdquo;.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>L.P. Louwe Kooijmans (red.) (2001).<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zqw-7dvd\">Archeologie in de Betuweroute: Hardinxveld-Giessendam De Bruin. Een kampplaats uit het Laat-Mesolithicum en het begin van de Swifterbantcultuur (5500-4450 v. Chr.).</a><br />RAM 88.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

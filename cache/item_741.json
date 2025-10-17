@@ -1,0 +1,27 @@
+{
+  "id": "741",
+  "code": "huis-te-kleef",
+  "name": "Huis te Kleef",
+  "type": "wreck",
+  "lat": "-5.6959020",
+  "lon": "106.7097160",
+  "location": "Pulau Peniki, Indonesië",
+  "firstdate": null,
+  "firstyear": "1674",
+  "firstyearend": null,
+  "lastdate": "1684-09-01",
+  "lastyear": "1684",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-01 20:15:49",
+  "modified_on": "2024-07-02 15:40:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>Het Huis te Kleef </em>vertrok op 24 januari 1675 vanuit Texel naar Azi&euml;. Ze bleef daar dienst doen voor de VOC op intra-Aziatische routes.</p> <p>Op 30 augustus 1684 vertrok het schip vanuit Batavia voor een reis naar Palembang.</p> <p>Verslag vergaan Huis van Cleef:</p> <p>Ontfangen met d&rsquo;schuyt van &rsquo;t verongeluckte jagt t huys te cleef den 5 sept 1684</p> <p><em>wij syn p.r t jagt t huys te cleeff t onser leedwesen naar twee dagen verschyeden van uwe Hoo Ed op het oostelijckste eylandie vande duysent eylanden leggende recht N: W: vande zuyder wagter inden avond stondt zijnde p.mo september beseth geraeck en soodanigh verongeluckt als &lsquo;t nevensgaande extract dagh register u: Hoo Ed sal vertoonen hebbende onder godes genadigen zegen al het volck nevens de contanten en eenige soo drooge als natte packen gesorteerde kleeden op voorschreven dorre eylandie gesalveert Item eenige doch weijnigh vivres, derhalven versoecken eerbiedigh om soo haest doenlyck zy, door uwe Hoo Ed voorsorge hier van daen verlost te mogen werden.</em></p> <p>J Aggies, L: Timmerlingh, Joannes Stael em Joannes Dinckels</p> <p>locatie: <em>&rsquo;t eijlantie leggende meest N: W: vande zuijder wagter den 3 sept 1684</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam<br>Schipper: Jurriaan Agges</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>120</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>564 ton (282 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92369\">DAS 1286.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/1404/file/NL-HaNA_1.04.02_1404_1165?query=1404&amp;start=0&amp;search-type=item_code\">NA 1.04.02 (VOC) 1404 . scan 1165.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

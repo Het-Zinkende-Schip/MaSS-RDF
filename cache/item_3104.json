@@ -1,0 +1,27 @@
+{
+  "id": "3104",
+  "code": "alcyone",
+  "name": "Alcyone",
+  "type": "wreck",
+  "lat": "-33.9002695",
+  "lon": "18.3937742",
+  "location": "Green Point, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1921",
+  "firstyearend": null,
+  "lastdate": "1942-03-16",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-07-08 10:49:09",
+  "modified_on": "2025-06-15 21:21:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Alcyone</strong></em> was op weg met een lading oorlogsmaterieel van Hull naar Mumbai (Bombay). Ze voer in het Britse konvooi OS 19. Op 6 maart werd het konvooi ontbonden en de Alcyone voer door naar Kaapstad.</p> <p>Vlak bij Kaapstad (Greenpoint) liep de Alcyone op een zeemijn. Het schip zonk. De mijn was gelegd door de Duitse hulpmijnenlegger <em>Doggersbank (Schiff 53</em> ) was een in beslag genomen Britse vrachtvaarder (ss Speybank).*</p> <p>De bemanning van de Alcyone werd gered door de Amerikaanse ss <em>Pipestone County</em>.</p> <p class=\"note\">* <a href=\"https://www.uboat.net/allies/merchants/ship/2707.html\">De Doggerbank</a> werd in 1943 aangezien voor een Brits schip en per ongeluk door de U 43 tot zinken gebracht Alle opvarenden op 1 na kwamen om (257 passagiers en 108 bemanningsleden)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Van der Kuy &amp; Van der Ree's Machinefabriek &amp; Scheepswerf, Schiedam, Netherland</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Lucas, J.</td></tr><tr><th scope=\"row\">Lengte</th><td>381 &frac14; voet (116,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>51 &frac12; voet (15,7 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>28 &frac14; voet (8,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>4534 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=192\">marhisdata id 192.</a></li><li><a href=\"https://www.oorlogsbronnen.nl/thema/Scheepsramp%20Alcyone\">oorlogsbronnen.nl.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

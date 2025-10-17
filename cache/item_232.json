@@ -1,0 +1,27 @@
+{
+  "id": "232",
+  "code": "de-jonge-seerp",
+  "name": "De Jonge Seerp",
+  "type": "wreck",
+  "lat": "54.4317128",
+  "lon": "18.7252807",
+  "location": "Gdansk, Polen",
+  "firstdate": null,
+  "firstyear": "1790",
+  "firstyearend": null,
+  "lastdate": "1791-06-11",
+  "lastyear": "1791",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Charlotte de Hoogd",
+  "created_on": "2010-11-22 00:00:00",
+  "modified_on": "2025-05-27 16:15:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Jonge Seerp was een tweemaster kofschip met thuishaven Harlingen Friesland.</p> <p>Schipper was Johannes Leenderts afkomstig uit Harlingen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p><iframe src=\"https://www.youtube-nocookie.com/embed/nYxhtvehKD4\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

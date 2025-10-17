@@ -1,0 +1,27 @@
+{
+  "id": "2290",
+  "code": "oudkarspel",
+  "name": "Oudkarspel",
+  "type": "wreck",
+  "lat": "51.4417108",
+  "lon": "2.2598577",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1667",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1692",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-07 10:34:13",
+  "modified_on": "2025-06-11 23:43:22",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Oudkarspel</strong></em> was een fregat van de admiraliteit van Amsterdam. Het was actief v.a. de Tweede Engelse oorlog.</p> <p>Tijdens de Derde Engels Nederlandse oorlog in 1673 in eskader van L. admiraal Tromp .34 stukken 114 matrozen en 14 soldaten aan boord.</p> <p>Vergaan op zee.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001830.jpg?modifiedon=1609094323\" alt=\"schets van de romp van een houten zeilboot, zonder masten\"> <div class=\"img-source\">National Maritime Museum, Greenwich, London</div> </figure> <p class=\"figcaption\"><br>Afgebeeld is een vergelijkbaar fregat De Prins te Paard.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Stelte, A.</td></tr><tr><th scope=\"row\">Lengte</th><td>123 voet (37,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>29 &frac34; voet (9,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Schependocumentatie NIMH.</em></li><li><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=24340\">Dutch Fifth Rate frigate 'Oudkarspel' (1667).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

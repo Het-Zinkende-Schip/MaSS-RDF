@@ -1,0 +1,27 @@
+{
+  "id": "2845",
+  "code": "flora-2",
+  "name": "Flora",
+  "type": "wreck",
+  "lat": "50.9937923",
+  "lon": "-4.5352503",
+  "location": "Hartland quay, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1894",
+  "firstyearend": null,
+  "lastdate": "1915-04-04",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-11 10:23:38",
+  "modified_on": "2025-06-15 11:46:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>&nbsp;<br>Op reis in ballast van Amsterdam naar Swansea is de <em><strong>Flora</strong></em> op 3 april 1915 om 21.15 uur op de rotsen gelopen ten 6 mijl ten westen van Hartland Point.</p> <p>Men probeerde vlot te komen maar het schip zat muurvast. Men peilde het water in de ruimen. De Flora bleek zwaar lek. Om 1.00 uur 's nachts van 4 april 1915 verlieten alle leden van de bemanning het schip en kwamen veilig aan land. De Flora ging verloren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Fooij, J.</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=2239\">Flora ID 2239.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

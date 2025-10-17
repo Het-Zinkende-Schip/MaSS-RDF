@@ -1,0 +1,27 @@
+{
+  "id": "2217",
+  "code": "hoop-1633",
+  "name": "Hoop",
+  "type": "wreck",
+  "lat": "53.3812805",
+  "lon": "5.1343918",
+  "location": "Nederland",
+  "firstdate": null,
+  "firstyear": "1621",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1633",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-09 12:51:31",
+  "modified_on": "2025-06-11 19:10:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: west-India man<br>Built: yard, Amsterdam, ca. 1635<br>Owner: WIC chamber Amsterdam<br>Armament: 14 iron</p> <p>Type: west-Indi&euml; vaarder<br>Gebouwd: werf te Amsterdam, ca. 1621<br>Eigenaar: WIC kamer Amsterdam<br>Bewapening: 14</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>108</td></tr><tr><th scope=\"row\">Tonnage</th><td>380 ton (190 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Laet (1644).<br /><em>Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, zedert haer begin, tot het eynde van 't jaer sesthien-hondert ses-en-dertich; begrepen in derthien boecken.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

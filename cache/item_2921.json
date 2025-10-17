@@ -1,0 +1,27 @@
+{
+  "id": "2921",
+  "code": "twee-gebroeders",
+  "name": "Twee Gebroeders (SCH 137)",
+  "type": "wreck",
+  "lat": "52.9077439",
+  "lon": "3.0654066",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1883",
+  "firstyearend": null,
+  "lastdate": "1918-07-26",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-13 10:13:57",
+  "modified_on": "2025-07-18 16:50:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Twee Gebroeders SCH 137 is op een mijn gelopen en verongelukt. Vijf van de acht opvarenden kwamen om.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003253.jpg\" alt=\"artikel: Op een mijn geloopen. Gisteravond is in de Scheveningsche haven binnen gekomen de logger Sch 165 van de reederij W. den Dulk Jbzn., schipper W. Tuijt, met 8 schipbreuke-lingen en 2 lijken van de bemanning van den logger Sch. 187, reederij Kuynen-burg, welk vaartuig door een mijnont-ploffing op de Noordzee in de lucht is gevlogen. Volgens de verklaring van de drie overlevenden zijn bij de ramp be-halve de aangebrachte 2 dooden, L. van der Zwan en A. Bruin, beiden van Sche-veningen, ook omgekomen de schipper D. Spaans en twee andere opvarenden, A. Plugge en C. Pronk.\"> <div class=\"img-source\">Delpher.nl</div> <figcaption class=\"img-description\">Delftsche courant 29-07-1918</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: houten zeillogger</p> <p>Eigenaar: B Konijnburg</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Spaans, D.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>8</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40017803\">Centraal_Visserijregister-40017803.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=%22SCH+137%22&amp;cql%5B%5D=%28date+_gte_+%2225-07-1918%22%29&amp;cql%5B%5D=%28date+_lte_+%2203-08-1918%22%29&amp;facets%5Btype%5D%5B%5D=artikel&amp;redirect=true&amp;sortfield=date&amp;identifier=MMKB08:000070985:mpeg21\">Delftsche courant      29-07-1918.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

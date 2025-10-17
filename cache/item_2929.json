@@ -1,0 +1,27 @@
+{
+  "id": "2929",
+  "code": "michiel-taal-sch-112",
+  "name": "Michiel Taal Jobz (SCH 112)",
+  "type": "wreck",
+  "lat": "60.5196179",
+  "lon": "2.0402164",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1878",
+  "firstyearend": null,
+  "lastdate": "1918-05-27",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-31 12:47:03",
+  "modified_on": "2025-06-15 14:04:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De zeillogger Michiel Taal Jobz. werd door de U 96 in de Noordzee nabij de Orkney isl. tot zinken gebracht. De bemanning werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: houten zeil logger voor de haring visserij<br>Gebouwd: Vlaardingen 1878</p> <p>Eigfenaar: De Jong en Taal<br>Complement: 8-13</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Taal, Michioel Jobz.</td></tr><tr><th scope=\"row\">Tonnage</th><td>86 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40017648\">Centraal Visserijregister.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

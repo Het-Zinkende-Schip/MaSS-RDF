@@ -1,0 +1,27 @@
+{
+  "id": "2744",
+  "code": "zaandam",
+  "name": "Zaandam",
+  "type": "wreck",
+  "lat": "2.0035021",
+  "lon": "-34.2773438",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1938",
+  "firstyearend": null,
+  "lastdate": "1942-11-02",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-06 11:04:46",
+  "modified_on": "2025-07-14 12:17:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het tot troepentransportschip verbouwde passagiersschip ms.<em><strong> Zaandam</strong></em> varende voor het British Ministery of War Transport (BMWT), werd op weg van Kaapstad naar New York, in de Zuid Atlantische Oceaan ter hoogte van Recife door de Duitse onderzeeboot <em><strong>U 174</strong></em> getorpedeerd. 124 van de in totaal 299 opvarenden komen om het leven.</p> <p>Drie opvarenden overleven de tocht van maar liefst 82 dagen op een reddingsvlot. Ze werden 24 januari 1943 door de Amerikaanse USS PC-576 gevonden. Hoewel sterk verzwakt overleefden ze de ramp.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002974.jpg\" alt=\"Zwart-wit foto van drie mannen die liggen met een zittende man er naast\"> <div class=\"img-source\">NIMH</div> <figcaption class=\"img-description\">&nbsp;Drie opvarenden, olieman Kees van der Slot (37), passagier Nicko Hoogendam (17) en de Amerikaanse kanonnier Basil Izzi, overleven na een barre tocht van 83 dagen op een reddingvlot en worden opgepikt door een Amerikaanse escortevaartuig uss PC 576.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p><a href=\"https://uboat.net/allies/merchants/crews/ship2357.html\">Klik hier voor lijst van opvarenden en slachtoffers</a>.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Stamperius J.M.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>299</td></tr><tr><th scope=\"row\">Lengte</th><td>501 &frac34; voet (152,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>64 &frac14; voet (19,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>40 voet (12,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>10909 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem-Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=7417\">Zaandam.</a></li><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd no. 228.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

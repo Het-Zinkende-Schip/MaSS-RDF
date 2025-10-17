@@ -1,0 +1,27 @@
+{
+  "id": "1139",
+  "code": "meerhuizen",
+  "name": "Meerhuizen",
+  "type": "wreck",
+  "lat": "13.8344610",
+  "lon": "80.6006180",
+  "location": "60 mijl van Bimlipatam, India",
+  "firstdate": null,
+  "firstyear": "1715",
+  "firstyearend": null,
+  "lastdate": "1730-10-29",
+  "lastyear": "1730",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-18 12:53:49",
+  "modified_on": "2025-04-07 19:03:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Meerhuizen</em> is op een reis van Coromandel naar Ceylon vergaan. Het schip had lading ingenomen in Bimlipatam en is vervolgens op 60 mijl van de stad vergaan . Slechts dertien man konden zich met de sloep in veiligheid brengen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1714<br>Lengte: 130<br>Tonnage: 300 last, 600 tns<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/93621\">DAS 2583.5.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=244&amp;accessor=search_in_text&amp;source=9&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Generale missiven Deel 9, 231.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

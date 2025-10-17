@@ -1,0 +1,27 @@
+{
+  "id": "252",
+  "code": "oberlander-schiff",
+  "name": "Oberländer schiff",
+  "type": "wreck",
+  "lat": "51.4170000",
+  "lon": "6.2670000",
+  "location": "Gellep, Duitsland",
+  "firstdate": null,
+  "firstyear": "950",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1050",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Will Brouwers",
+  "created_on": "2011-02-23 00:00:00",
+  "modified_on": "2025-06-19 16:13:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Oberl&auml;nder schiff is an example of a very common shiptype on the Rhine from&nbsp;neolithicum untill maybe the 18th century.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000441.jpg\" alt=\"Oberl&auml;nder schiff\"> <figcaption class=\"img-description\">The wreck in 1973.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000446.jpg\" alt=\"Oberl&auml;nder schiff\"> <figcaption class=\"img-description\">Impression.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><div>Oberl&auml;nder (Rhine) river boat has flat bottom keel (four planks) with lashed boards consisting of two halfs of a dugout tree. The tradition is very old and comes from the dugout boat tradition.</div> <div>These boats were used for fishing and transport on calmer bodies of water.</div> <div>Length: 5.90 m.<br>Wide: 2.00 m. <figure class=\"img-wrapper\"><img src=\"/photos/l/00000442.jpg\" alt=\"photo of a wooden bottom of a ship on land, with people around it\"> <figcaption class=\"img-description\">Keel of the Oberl&auml;nder schiff.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000443.jpg\" alt=\"tub, trough or gutter, possibly made of metal or plastic\"> <figcaption class=\"img-description\">3D reconstruction.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000445.jpg\" alt=\"a series of sketches showing the process of hollowing out a tree trunk to possibly make some sort of trough, gutter or canoe\"> <figcaption class=\"img-description\">Building an Oberl&auml;nder.</figcaption> </figure> </div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

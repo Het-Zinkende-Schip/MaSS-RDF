@@ -1,0 +1,27 @@
+{
+  "id": "4038",
+  "code": "of60",
+  "name": "OF60",
+  "type": "wreck",
+  "lat": "52.4965150",
+  "lon": "5.5059380",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1875",
+  "lastyearend": "1885",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:50:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In juni 1967 werd de plek verkend op kavel F60 in Oostelijk Flevoland, waar een scheepswrak was geraakt bij het trekken van greppels, in de buurt van het huidige Lelystad. Het bleek een vrij compleet eind 19de-eeuws vissersschip te zijn van ongeveer 4 bij 13 meter. Het schip is aanvankelijk ongemoeid gelaten en vervolgens in mei 1972 opgegraven. Het schip was vrij compleet en had veel inventaris. Opmerkelijk was de hoeveel textiel die bewaard was gebleven, waaronder roodbaaien onderkleding en wollen sokken. Uiteindelijk kon zelfs het schip ge&iuml;dentificeerd worden: het betreft botter TS 22, 'de Twee Gebroeders', groot 18 ton, vergaan op vrijdag 23 juni 1876. De eigenaar was Pieter Gerrits Bos, geboren op Terschelling 24-9-1832 en overleden aldaar op 15-2-1923, gehuwd met Jeremia Dirks Bos, geboren 18-9-1832 te Zoutkamp. Zij hadden 1 dochter, Talina, geboren 30-4-1873. Vermoedelijk zonk het schip als gevolg van een aanvaring. Deze werd door de schipper overleefd en diens volgende schip was de TS 46 'Jeremia Talina'.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zvr-94z7\">Opgravingsdocumentatie scheepswrak OF60.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

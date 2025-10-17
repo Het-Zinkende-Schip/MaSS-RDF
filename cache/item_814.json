@@ -1,0 +1,27 @@
+{
+  "id": "814",
+  "code": "apolonia-3",
+  "name": "Apolonia",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1721",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1724",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-09-09 18:28:15",
+  "modified_on": "2024-06-04 14:53:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Apolonia was bij de VOC in gebruik vanaf 1721 tot 28 juli 1724. Het schip is tijdens een reis van Batavia naar Japan vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd op de VOC werf te Amsterdam in 1721 voor de Kamer van Amsterdam&nbsp;<br>Lengte: 145 voet<br>Tonnage: 800 ton (400 last)<br>Bemanning: 225</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93547\">Details of voyage 2499.1 from Texel to Batavia.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000198.jpg\">Lijst van alle zoodanige Schepen in soorten als bij de Generale Oostindische Compagnie zijn gemaekt oft gekocht als gehuurt alsmede waer oft de zelfde zijn agter gebleven ofte verongelukt als genoomen en verbrand, vermist.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

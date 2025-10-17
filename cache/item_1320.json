@@ -1,0 +1,27 @@
+{
+  "id": "1320",
+  "code": "oude-zijpe",
+  "name": "Oude Zijpe",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1711",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1717",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-05-23 09:40:29",
+  "modified_on": "2024-12-16 16:51:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Oude Zijpe</strong></em> vertrok op 12 december 1716 vanuit Ceylon naar Texel. Het schip is nooit aangekomen bij de Kaap. Ze is vergaan op de Indische Oceaan, misschien bij Mauritius in de buurt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Hoorn, 1711<br>Lengte: 130<br>Tonnage: 300<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97254\">DAS 6389.2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

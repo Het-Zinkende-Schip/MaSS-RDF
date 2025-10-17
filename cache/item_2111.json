@@ -1,0 +1,27 @@
+{
+  "id": "2111",
+  "code": "zl5",
+  "name": "ZL5",
+  "type": "wreck",
+  "lat": "52.3502100",
+  "lon": "5.4077500",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:59:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1978 is tijdens het ploegen van kavel L5 in Zuidelijk Flevoland, tussen de Duikerweg en de Duikertocht, een scheepswrak aangetroffen. Twee jaar later is door het toenmalige Centrum voor Scheepsarcheologie een verkennend onderzoek uitgevoerd. Het wrak is een overnaads gebouwd vrachtschip uit de vijftiende eeuw. Het schip is onder zware slagzij over bakboord afgezonken en was 20 meter breed en 4,5 meter lang. In het voorschip lopen de huidgangen aan stuurboordzijde met een sterke ronding naar de voorsteven toe. In het achterschip is aan stuurboordzijde hetzelfde te zien maar dan in een scherpere vorm. Na de documentatie is het schip ingekuild. Op advies van het Centrum voor Scheepsarcheologie is het wrak ingedeeld in de categorie 'terrein met zeer hoge archeologische waarde'.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een overnaads gebouwd vrachtschip uit de vijftiende eeuw, Zeewolde.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002047.jpg\" alt=\"De opgraving van een schip\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Na de verkenning wordt het schip ingekuild.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002048.jpg\" alt=\"Mannen die een doek spannen over een opgegraven deel.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het inkuilen van een scheepwrak vergt een goede logistieke planning en de nodige mankracht.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zhk-s85t\">Opgravingsdocumentatie scheepswrak ZL5.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

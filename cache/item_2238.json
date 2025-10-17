@@ -1,0 +1,27 @@
+{
+  "id": "2238",
+  "code": "zeelelie-1755",
+  "name": "Zeelelie",
+  "type": "wreck",
+  "lat": "-5.4080385",
+  "lon": "123.5824185",
+  "location": "Pulau Oroha, komponaone, Indonesië",
+  "firstdate": null,
+  "firstyear": "1755",
+  "firstyearend": null,
+  "lastdate": "1764-02-14",
+  "lastyear": "1764",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-13 16:19:50",
+  "modified_on": "2025-06-11 19:25:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Zeelelie vertrekt vanuit Rammekens naar Oost Indie op 31-12-1757.</p> <p>Ze blijft in Azi&euml; dienst doen.</p> <p>Op 14 februari 1764 is de <em>Zeelelie</em> door windstilte en sterke stroming gestrand bij het eilandje Binonko (bij Caijdoepa) een van de Toekangbesi eilanden op een reis van Batavia naar Banda.&nbsp;De lading bestond o.a. uit rijst.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003060.jpg?modifiedon=1705654462\" alt=\"Het eilandje Binonko (bij Caijdoepa) een van de Toekangbesi eilanden op deze kaart rechts onder.\"> <div class=\"img-source\">NL_HaNA_4.VELH_156.1.19</div> <figcaption class=\"img-description\">Het eilandje Binonko (bij Caijdoepa) een van de Toekangbesi eilanden op deze kaart rechts onder.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Festus de Groot</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94774\">DAS 3623.1.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=531&amp;accessor=search_in_text&amp;source=14_1&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D\">Generale missiven Deel 14, 1, 518.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

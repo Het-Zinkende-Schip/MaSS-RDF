@@ -1,0 +1,27 @@
+{
+  "id": "1321",
+  "code": "gjellestad-ship",
+  "name": "Gjellestad Ship",
+  "type": "wreck",
+  "lat": "59.1485508",
+  "lon": "11.2506008",
+  "location": "Gjellestad, Noorwegen",
+  "firstdate": null,
+  "firstyear": "780",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "920",
+  "lastyearend": null,
+  "country": "Noorwegen",
+  "countrycode": "NO",
+  "author": "Will Brouwers",
+  "created_on": "2020-05-24 13:31:39",
+  "modified_on": "2025-06-10 13:32:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong>Digitale archeologie</strong><br>In 2018 hebben archeologen met een georadar met hoge resolutie, een Viking scheepsgraf in de provincie &Oslash;stfold in Noorwegen gevonden.</p> <p>De ontdekkingen zijn gedaan door de archeologen Lars Gustavsen en Erich Nau van het Norwegian Institute for Cultural Heritage Research (NIKU). De georadar is ontwikkeld door het Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology (LBI ArchPro).</p> <p>De vondst van het Vikingschip bevindt zich net onder het maaiveld, op een diepte van ongeveer 50 cm. De oorspronkelijke grafheuvel is verploegd en verdwenen. Er zijn bij het radar onderzoek minstens 10 andere onbekende grafheuvels en vijf lang huizen ontdekt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Viking langschip<br>Gebouwd: West Noorwegen<br>Voortstuwing: zeil en roei<br>Tuigage: ra-zeil vierkant getuigd<br>Lengte: 20 m<br><br>De datavisualisaties onthullen een grote en goed gedefinieerde 20 m lange scheepvormige structuur. De gegevens geven aan dat het vlak van het schip nog deels intact is gebleven.</p> <p>https://www.youtube.com/watch?v=29mOXuVoE3o<iframe src=\"https://www.youtube-nocookie.com/embed/29mOXuVoE3o\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p><strong>Proefsleuvenonderzoek 2019</strong><br>In 2019 werd een klein onderzoek uitgevoerd waarbij delen van de kiel gevonden. Dendro analyses dateren het graf tussen eind 8e tot begin 10e eeuw. <br>Het is interessant dat het houtmonster van de kiel sterk lijkt op monsters van Oseberg en een van de kleine boten uit Gokstad. Wat aangeeft dat het hout afkomstig is uit hetzelfde gebied in Zuidwest Noorwegen, zegt projectleider R&oslash;dsrud.</p> <p>Tijdens het kleinschalige onderzoek is vastgesteld dat degradatie in rap tempo plaats vind . Reden is dat er in de afgelopen 70 jaar door drainage en verploegen veel schade is aan gericht en da het hout sterk is aangetast door fungi. In situ laten liggen is derhalve geen optie .</p> <p><strong>Opgraving geplanned zomer 2020</strong></p> <p>&nbsp;In juni 2020 begint een unieke opgraving in Noorwegen.&nbsp;De Noorse regering heeft 15,6 miljoen NOK uitgetrokken voor de opgraving van een Vikinggraf dat ontdekt werd in de zomer van 2018.<br>Er zijn maar heel weinig bewaard gebleven Vikingschepen in de wereld en alle nieuwe kennis hierover draagt bij aan een beter begrip van de samenleving in het Vikingtijdperk, zegt directeur H&aring;kon Gl&oslash;rstad van het Museum of Cultural History verantwoordelijk voor de opgraving.</p> <p><iframe src=\"https://www.youtube-nocookie.com/embed/SpOtjcPwin4\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p> <p>Het is meer dan honderd jaar geleden sinds de laatste archeologische opgraving van een scheepsgraf en met moderne opgravingsmethoden en techniek kunnen we veel meer informatie verkrijgen dan bij de vorige twee opgravingen , zegt Gl&oslash;rstad. De opgraving zal naar schatting vijf maanden duren.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>NIKU.<br /><a href=\"https://www.vikingtidsmuseet.no/forskning/gjellestadskipet/\">The Gjellestad Ship.</a></li><li>Kulturhistorisk museum.<br /><a href=\"https://kommunikasjon.ntb.no/pressemelding/na-skal-gjellestadskipet-graves-ut?publisherId=13668647&amp;releaseId=17885192\">Nå skal Gjellestadskipet graves ut.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

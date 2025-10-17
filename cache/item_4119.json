@@ -1,0 +1,27 @@
+{
+  "id": "4119",
+  "code": "nq38",
+  "name": "NQ38",
+  "type": "wreck",
+  "lat": "52.6443790",
+  "lon": "5.8301440",
+  "location": "Ens, Nederland",
+  "firstdate": null,
+  "firstyear": "1550",
+  "firstyearend": "1580",
+  "lastdate": null,
+  "lastyear": "1580",
+  "lastyearend": "1590",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:35:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gevonden nabij het huidige Ens. Melding in 1942 en vermoedelijk kort daarna opgegraven door Pieter (P.J.R.) Modderman, die het wrak helaas niet heeft getekend. Scheepstype: vrachtschip, met een lading bakstenen. Het wrak wordt in documentatie beschreven als 'voorzien van een dekje, waarop bakstenen waren getast. De maststomp was nog aanwezig. Bakstenen 6 lagen hoog. Het wrak van lang 11,2 m, breed 2,9 m. De maststomp stond op 3,35 m van het zuidelijke einde van het schip'. Een aantal vondsten werd uit het zuidelijke deel van het schip geborgen, o.a. een gave baardmankruik, een &eacute;&eacute;norige steengoed (Westerwald) kruik, een roodaardewerken grape en dito kommetje. Daarnaast zijn 3 geelrode bakstenen meegenomen. De datering van het schip werd aanvankelijk in 1942 gesteld op 1580-1590, schijnbaar op basis van het in het schip gevonden aardewerk, maar nadere beschouwing van met name de grijze-blauw geglazuurde Westerwaldkruik lijkt eerder te wijzen op een ondergangsdatum in op zijn minst de 1ste helft van de 17de eeuw.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x5u-mger\">Opgravingsdocumentatie scheepswrak NQ38.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2135",
+  "code": "oq55",
+  "name": "OQ55",
+  "type": "wreck",
+  "lat": "52.4453800",
+  "lon": "5.7621800",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": "1530",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 11:02:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het wrak is gevonden op kavel Q55 in Oostelijk Flevoland nabij het Alikruikpad, en werd voor de eerste maal verkend in 1957. Hierbij troffen de onderzoekers het wrak van een met dijkstenen geladen schip aan. Bij een herverkenning in 1963 bleken de resten van het scheepswrak echter verwijderd te zijn. In de bermsloot van het kavel werden alleen nog twee bunschotten aangetroffen. Uit de vorm en afmetingen van de bunschotten kon worden afgeleid dat ze afkomstig waren van een karveel gebouwd waterschip met een gereconstrueerde lengte en breedte van respectievelijk 21,5 meter en 6,3 meter. Op basis van de karveelbouw mag worden aangenomen dat het schip na 1530 is gebouwd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De resten van een karveel gebouwd waterschip, Dronten</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002000.jpg\" alt=\"Tekening van onderdeel scheepswrak OQ55.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Tekening van onderdeel scheepswrak OQ55.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002001.jpg\" alt=\"Tekening van onderdeel scheepswrak OQ55.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Tekening van onderdeel scheepswrak OQ55.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xbu-8esz\">Opgravingsdocumentatie scheepswrak OQ55.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

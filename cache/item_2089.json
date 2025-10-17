@@ -1,0 +1,27 @@
+{
+  "id": "2089",
+  "code": "za114",
+  "name": "ZA114",
+  "type": "wreck",
+  "lat": "52.3487400",
+  "lon": "5.1484500",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:20:35",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens landbouwwerkzaamheden is op kavel A114 in Zuidelijk Flevoland een scheepswrak aangetroffen. In 1981 is het wrak gedurende vijf dagen verkend door het toenmalige Centrum voor Scheepsarcheologie. De locatie van het aangetroffen wrak is ten noorden van de spoorlijn en ten oosten van de Zwedenstraat. Het betreft een wrak van een klein vrachtschip dat vermoedelijk uit de zestiende of de zeventiende eeuw stamt. De lengte van het vaartuig is 14,5 m, de breedte 4,25 meter. De kwaliteit van het hout is goed, maar doordat het schip onder zware slagzij is gezonken, ontbreekt de bakboordzijde. Het diepst liggende scheepshout bevindt zich op circa 1,25 meter onder het maaiveld. Tijdens de verkenning is een aardewerk potje en een zogenaamd schildpadblok aangetroffen. In 1982 is het scheepswrak fysiek beschermd (ingekuild) om het te reserveren voor onderzoek in de toekomst. In 1993 werd na het ploegen op de kavel wederom hout aangetroffen. Dit hout vertoonde overeenkomsten met de lading hout van een kerkkap dat twee kavels verderop (A87, zie ZA87-I) is aangetroffen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een klein vrachtschip uit de zestiende of zeventiende eeuw, Almere</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002022.jpg\" alt=\"De buikdenning en kim aan bakboordzijde.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">De buikdenning en kim aan bakboordzijde.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zc7-a39p\">Opgravingsdocumentatie scheepswrak ZA114.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

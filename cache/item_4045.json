@@ -1,0 +1,27 @@
+{
+  "id": "4045",
+  "code": "og43",
+  "name": "OG43",
+  "type": "wreck",
+  "lat": "52.5803850",
+  "lon": "5.5859360",
+  "location": "Swifterbant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1739",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:56:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In mei 1962 is een wrak verkend op kavel G43, dat was ontdekt bij het machinaal draineren. Het was op dat moment niet mogelijk de ouderdom van het wrak vast te stellen, maar men gaf aan het wrak te willen reserveren voor nader onderzoek in de toekomst. Dit vond plaats in 1994 in de vorm van een herverkenning. Hieruit werd duidelijk dat het een 18de-eeuws karveel gebouwd vrachtschip betrof van 13 bij 3,5 meter. Een achtersteven werd niet aangetroffen, de voorsteven was nog wel aanwezig. De kwaliteit van het hout was echter slecht, waardoor werd geadviseerd om snel over te gaan tot definitieve opgraving. Dat geschiedde in 1996, waarbij diverse objecten zijn geborgen. Daartussen bevonden zich ook enkele baken- of vuurloodjes uit o.a. Haarlem, Muiden en Spaarndam, alle voorzien van het jaartal 1739. Mogelijk is het schip dan ook in dat jaar (of kort daarna) vergaan.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-28u-4vsy\">Opgravingsdocumentatie scheepswrak OG43.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

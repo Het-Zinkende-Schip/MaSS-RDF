@@ -1,0 +1,27 @@
+{
+  "id": "1201",
+  "code": "pijlswaart-1752",
+  "name": "Pijlswaart",
+  "type": "wreck",
+  "lat": "-6.0344870",
+  "lon": "106.7406870",
+  "location": "Tussen Pulau Onrust en Pulau Bidadari, Indonesië",
+  "firstdate": null,
+  "firstyear": "1752",
+  "firstyearend": null,
+  "lastdate": "1765-02-24",
+  "lastyear": "1765",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-10 13:03:32",
+  "modified_on": "2025-06-24 18:52:29",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 19 juni 1764 vertrok <em><strong>De Pijlswaart </strong></em>voor de Kamer van Enkhuizen vanaf Texel voor haar vierde reis naar de Oost. Voordat zij Batavia bereikte, is het schip op 24 februari 1765, bij Batavia, door bliksem getroffen en ge&euml;xplodeerd. Een anonieme kaart van de rede van Batavia in de Universiteitsbibliotheek van Leiden (006-15-017) toont de ligging van het wrak tussen de eilanden Onrust en Hoorn.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001735.jpg\" alt=\"de afbeelding toont een historische kaart van de rede van Batavia (het huidige Jakarta) en de omliggende eilanden\"></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94955\">DAS 3904.4.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

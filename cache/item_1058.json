@@ -1,0 +1,27 @@
+{
+  "id": "1058",
+  "code": "hrms-cheribon-1940",
+  "name": "Hr.Ms. Cheribon",
+  "type": "wreck",
+  "lat": "-6.1035468",
+  "lon": "106.8689508",
+  "location": "Tandjung Priok, Indonesië",
+  "firstdate": null,
+  "firstyear": "1938",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-15 10:04:08",
+  "modified_on": "2025-06-09 13:44:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De ABC-klasse (patrouille vaartyuigen) waartoe <strong><em>De Cheribon</em></strong> behoorde was een klasse van zes schepen bij de Nederlandse Gouvernementsmarine, een onderdeel van de zeemacht in Nederlands-Indi&euml;. De schepen zijn alle zes in 1938 in dienst genomen door de Gouvernements marine.</p> <p>Twee jaar later, na de Duitse aanval op Nederland in 1940, werden de schepen gemilitariseerd door de Koninklijke Marine en omgebouwd tot mijnenveger. In 1942, na de val van Java gingen alle schepen verloren, nadat ze door de eigen bemanning onklaar waren gemaakt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: patrouille vaartuig, hulpmijnenveger, ABC klasse<br>Gebouwd: Tandjong priok, 1938</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>netherlands navy.nl.<br /><a href=\"http://www.netherlandsnavy.nl/Abcclass.htm\">ABC-class auxiliary minesweepers.</a></li><li><em>F.C. Backer Dirks &quot;De Gouvernements Marine in het voormalige Nederlands-Indie 1861-1949, volume 3 (1986).</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

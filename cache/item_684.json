@@ -1,0 +1,27 @@
+{
+  "id": "684",
+  "code": "hofwegen",
+  "name": "Hofwegen",
+  "type": "wreck",
+  "lat": "-5.8094780",
+  "lon": "106.4072570",
+  "location": "Djakarta, Indonesië",
+  "firstdate": null,
+  "firstyear": "1731",
+  "firstyearend": null,
+  "lastdate": "1746-09-17",
+  "lastyear": "1746",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-16 10:55:47",
+  "modified_on": "2025-02-21 12:06:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Yard: Rotterdam</p> <p>VOC chamber of Rotterdam</p> <p>Length: 130 ft</p> <p>Tonnage: 650, 325 last</p> <p>Complement: 104</p> <p>Master: Jan Krielaard</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0080?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 77.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

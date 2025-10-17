@@ -1,0 +1,27 @@
+{
+  "id": "759",
+  "code": "avenhorn-1652",
+  "name": "Avenhorn",
+  "type": "wreck",
+  "lat": "21.5351025",
+  "lon": "87.3612213",
+  "location": "Baleshware, India",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1662-10-22",
+  "lastyear": "1662",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-13 16:48:04",
+  "modified_on": "2024-06-10 10:03:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Avenhorn verging bij Pipely (Belasore) tijdens een hevige storm op 22 oktober 1662. Alle opvarenden werden gered maar de lading ging verloren.</p> <p><em>'t Jacht Avenhorn, den 19 octob.'\" voor Pipely gearriveert ende op 22 d.\"</em><br><em>door een extraordinaris swaeren stormwindt, aldaer genaemt den oliphant* </em><em>overvallen ende van sijn anckers gespilt sijnde om de westhoeck van Bellasoor,&nbsp;God beter't, gestrandt, aan stucken gestoten ende vergaen sonder yets van de Compag.&reg; te bergen als de menschen, daerbij verloren wert 14400 guldons comptant. (Gen. Misiven)</em></p> <p><em>* De olifant is een verwijzing naar de opkomende olifantsster (hathiya) die het einde van de zuidwestmoesson aankondigt. De daarmee gepaarde extreme weersomstandigheden werden de Avenhorn fataal.</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>92</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>.R. Bruijn, F.S. Gaastra, I. Schöffer.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91882\">DAS 0765.1.</a></li><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=458&amp;accessor=search_in_text&amp;source=3&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id\">Generale missiven van gouverneurs-generaal en raden aan heren XVII der Verenigde Oostindische Compagnie.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "870",
+  "code": "uss-erie",
+  "name": "USS Erie",
+  "type": "wreck",
+  "lat": "12.1132681",
+  "lon": "-68.9643101",
+  "location": "Willemstad, Nederland",
+  "firstdate": null,
+  "firstyear": "1933",
+  "firstyearend": null,
+  "lastdate": "1942-11-12",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Verenigde Staten",
+  "countrycode": "US",
+  "author": "Cimberly Symister",
+  "created_on": "2019-10-31 10:25:48",
+  "modified_on": "2025-06-07 21:15:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>USS Erie was een Amerikaans Navy schip dat getorpedeerd werd op 12 november 1942 door een Duitse onderzeeboot. In totaal zijn zeven bemanningsleden hierbij&nbsp;omgekomen. Op 9 december 1952 werd het schip richting Boca di Sami gesleept, waar men het heeft laten bezinken. Tijdens het slepen van dit schip, zijn er veel delen uit elkaar gevallen. Het kan zijn dat vanaf Rif tot Boca Sami mogelijke fragmenten van dit schip nu in het gebied liggen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

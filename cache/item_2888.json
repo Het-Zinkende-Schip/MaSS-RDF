@@ -1,0 +1,27 @@
+{
+  "id": "2888",
+  "code": "olanda",
+  "name": "Olanda",
+  "type": "wreck",
+  "lat": "54.6520914",
+  "lon": "1.2348612",
+  "location": "Noordxzee",
+  "firstdate": null,
+  "firstyear": "1899",
+  "firstyearend": null,
+  "lastdate": "1915-04-18",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-15 14:08:50",
+  "modified_on": "2025-06-15 12:10:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Olanda</em></strong> was onderweg van Seaham naar Rotterdam met een lading steenkolen. De Olanda bevond zich 0m 08.40 uur in positie 53˚ 52' NB en 01˚ 40' OL. toen plotseling een hevige explosie plaats vond. De luiken van ruim II waren weggeslagen en er stond water in dat ruim. De Olanda was op een Duitse mijn gelopen.</p> <p>Het schip kreeg zware slagzij over bakboord en zonk v&oacute;&oacute;r diep. Men begaf zich in de sloepen, doch enigen, waaronder de gezagvoerder, keerden weer aan boord terug om te zien of het schip nog te behouden was. Dit bleek niet het geval en pas om 15.30 uur ging de gezagvoerder als laatste van boord. Om 16.00 uur verdween de Olanda in de diepte. Om 19.00 uur diezelfde avond werden alle 20 opvarenden gered door de Britse Trawler <em>Onward</em>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: William Gray &amp; Co. Ltd., West Hartlepool (Sunderland)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>20</td></tr><tr><th scope=\"row\">Lengte</th><td>290 voet (88,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>42 &frac14; voet (12,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2138 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=4839\">ID 4839.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

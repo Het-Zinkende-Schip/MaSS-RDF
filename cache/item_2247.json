@@ -1,0 +1,27 @@
+{
+  "id": "2247",
+  "code": "zwartsluis",
+  "name": "Zwartsluis",
+  "type": "wreck",
+  "lat": "17.9047338",
+  "lon": "83.4605709",
+  "location": "Chinna Nagamayyanapalem, India",
+  "firstdate": null,
+  "firstyear": "1675",
+  "firstyearend": null,
+  "lastdate": "1680-01-21",
+  "lastyear": "1680",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-16 16:10:51",
+  "modified_on": "2025-07-06 19:01:18",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De fluit <strong><em>Zwartsluis</em></strong> was aangekocht door de VOC kamer Amsterdam&nbsp;<br>Ze vertrok 24-1-1675naar Batavia (aankomst 30-10-1675<br>De fluit bleef vervolgens dienst doen in Azi&euml;.</p> <p>Op haar laatste reis vervoerde ze o.a. rijst van Arakan. Ze was niet volledig beladen en koerste naar Bilmilipatnam om daar mogelijk nog lading in te kunnen nemen.</p> <p>Net boven deze stad bij de monding van de Coenare rivier (Ghostani rivier) liep ze op de Cunary klippen en kwam vast te zitten.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004415.png\" alt=\"Getekende landkaart met de tekst: Cust van Orixa\"> <div class=\"img-source\">NL-HaNA_4.VEL_254-det</div> <figcaption class=\"img-description\">.</figcaption> </figure> <p>Al het volk is gered en het merendeel van de rondhouten en zeilen is geborgen. Onduidelijk is nog wat er van de ankers en kanonnen indertijd is opgevist. Hoewel als verontschuldiging werd aangevoerd dat de klip omjuist im de kaart lag was men in Batavia van plan de schipper aan te klagen wegens foutieve navigatie.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: door de VOC kamer Amsterdam aangekocht in 1674/75<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>126 Amsterdamse&nbsp;voet (35,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>500 ton (250 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Tonnage: 100 last<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0140\">*</a></p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92371\">DAS 1288.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/1360/file/NL-HaNA_1.04.02_1360_0216\">NA 1-4.02 (VOC) 1360, fol 1461v [scan 216].</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

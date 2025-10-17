@@ -1,0 +1,26 @@
+{
+  "id": "2156",
+  "code": "se-510-2",
+  "name": "SE-510",
+  "type": "site",
+  "lat": "17.4722520",
+  "lon": "-63.0047470",
+  "location": "Oranje Bay, Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Ruud Stelten",
+  "created_on": "2020-09-16 15:09:17",
+  "modified_on": "2025-07-05 11:15:23",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>SE-510, otherwise known as Lost Anchors, is oriented southwest&nbsp;&ndash; northeast at a heading of 39 degrees and measures 900 meters long and between 3 and 10 meters wide. Its 350-meter-long central area consists of a high reef structure that protrudes between 3 and 4 meters from the 25-meter-deep sandy bottom surrounding it. The outcrop, covered by a dense reef, forms an impressive structure on an otherwise sandy sea floor, with large chunks of rocks about to slide off the top. It contains many cracks in which anchors could easily get stuck. Because of its dramatic topography, it attracts large quantities of fish and is overgrown by a variety of corals and sponges.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002148.jpg\" alt=\"An anchor piece covered with coral underwater\"> <figcaption class=\"img-description\">An anchor piece found inside the reef of SE-510 at 22 meters deep. Of this anchor only one arm remains. The anchor got stuck underneath the ledge in the center of the image. The force of the ship pulling on the anchor caused this arm to break off. Photo by Mike Harterink.</figcaption> </figure></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>SE-510 is located in the central area of the historic roadstead of St. Eustatius. Here in the eighteenth-century, thousands of ships dropped anchor in order to trade at this free port. An investigation was carried out at the site in 2015 by the St. Eustatius Center for Archaeological Research in which three anchors and three anchor fragments were recorded. These anchors will further on be referenced by number (see bottom image). Six anchors were found to be associated with this reef: two intact anchors on top of the reef (numbers 25 and 28), one intact but heavily overgrown anchor immediately next to the reef (number 26), and three anchor pieces embedded in the reef (numbers 27, 29, and 30).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002152.jpg\" alt=\"photo of a diver at a huge anchor, which is overgrown with algae and coral\"> <figcaption class=\"img-description\">A diver exploring an eighteenth-century anchor lost at SE-510. Photo by Ruud Stelten.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002150.jpg\" alt=\"A Side scan sonar\"> <figcaption class=\"img-description\">Side scan sonar mosaic of the central, elevated part of SE-510. The higher parts of the reef produce acoustic shadows which provide an indication of relative height above the sea floor. The distance between anchors 25 and 30 is 320 meters. The reef is oriented northeast-southwest. Anchor 30 marks the southwestern tip of the site. Photo by Ruud Stelten.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Ruud Stelten (2019).<br /><em>From Golden Rock to Historic Gem: A Historical Archaeological Analysis of the Maritime Cultural Landscape of St. Eustatius Dutch Caribbean.</em><br />Leiden: Sidestone Press.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

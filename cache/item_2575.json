@@ -1,0 +1,27 @@
+{
+  "id": "2575",
+  "code": "concrete-ship-unidentified",
+  "name": "Concrete ship (unidentified)",
+  "type": "wreck",
+  "lat": "54.3313250",
+  "lon": "10.1681042",
+  "location": "Kieler Förde, Duitsland",
+  "firstdate": null,
+  "firstyear": "1943",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1944",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-26 19:47:56",
+  "modified_on": "2024-11-22 11:24:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Een schip gebouwd van beton</h2> <p>In de Baai van Kiel zijn de fragmenten van een betonnen schip gevonden (een schip met een romp gebouwd van beton). De overblijfselen liggen dicht bij de marinebasis van Kiel en werden eerst foutief aangezien voor bouwafval van een scheepshelling.</p> <p>De overblijfselen van het betonnen schip zijn onderzocht door het Nationale Maritieme en Hydrografische Agentschap (<em>Bundesamt f&uuml;r Seeschifffahrt und Hydrographie</em>, BSH), sportduikers en duikers van de Universiteit van Kiel</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Ook al is het schip nog niet ge&iuml;dentificeerd, wordt gedacht dat het een vrachtschip voor kustvaart is van de 'T<em>ransportflotte Speer</em>', (letterlijk: Speer transportvloot, genoemd naar Albert Speer, de minister van bewapening en oorlogsproductie), die de haven ingesleept werd met oorlogsvluchtelingen tegen het einde van de Tweede Wereldoorlog. Het is waarschijnlijk in R&uuml;genwalde gebouwd, waar betonnen schepen in het geheim gebouwd werden vanaf 1943. Gewone materialen gebruikt in de scheepsbouw zoals staal werden schaars in Nazi Duitsland door geallieerde blokkades, wat leidde tot het bouwen van scheepsrompen uit beton.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Niet veel van de zichbare overblijfselen wijzen op een scheepswrak. het betonnen puin en de verstevigende staven lijken meer op een gebouw. En doordat de boeg en het achterschip ontbreken, hebben de overblijfselen niet eens de vorm van een schip.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002608.png?modifiedon=1705654435\" alt=\"source: Huber 2014, Unterwasserarch&auml;ologische, nicht-invasive Prospektionsund Dokumentationsverfahren in schwierigen maritimen und limnischen Gew&auml;ssern (Dissertation, Univ. Kiel)\"><div class=\"img-source\">F. Huber</div><figcaption class=\"img-description\">Een foto van de overblijfselen uit de dissertatie van F. Huber.</figcaption></figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Baehr, S., Wilhelmy, J. (2006).<br /><em>Tauchreiseführer Ostsee. Von Als bis Lübecker Bucht.</em><br />Stuttgart.</li><li>Huber, F. (2014).<br /><em>Unterwasserarchäologische, nicht-invasive Prospektions- und Dokumentationsverfahren in schwierigen maritimen und limnischen Gewässern (=Dissertation).</em><br />Christian-Albrechts-Universität zu Kiel.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

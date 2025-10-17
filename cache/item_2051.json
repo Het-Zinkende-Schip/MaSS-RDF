@@ -1,0 +1,27 @@
+{
+  "id": "2051",
+  "code": "nj129",
+  "name": "NJ129",
+  "type": "wreck",
+  "lat": "52.6533100",
+  "lon": "5.7738700",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-01-30 12:39:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Over dit scheepje is weinig bekend. Het roeibootje was al door de ontdekkers uit de grond gehaald toen de scheepsarcheoloog nog moest kijken om wat voor schip het ging. De vindplaats ligt aan de Oud Emmeloorderweg weg. Het gaat om een eenvoudige roeisloep met een lengte van 4 meter en een breedte van 2,5 meter. Het roeibootje is niet erg oud en waarschijnlijk vlak voor de inpoldering gezonken, ruwweg tussen 1900 en 1942 n. Chr. Het bootje is niet onderzocht omdat het verder niet van betekenis werd geacht. Mogelijk fungeerde de roeiboot als bijbootje bij een groter schip en is het bij zwaar weer losgeslagen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een roeibootje op kavel J129 in de Noordoostpolder, Nagele</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-24j-64s9\">Opgravingsdocumentatie scheepswrak NJ129.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

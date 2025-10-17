@@ -1,0 +1,27 @@
+{
+  "id": "3189",
+  "code": "elout",
+  "name": "Elout",
+  "type": "wreck",
+  "lat": "-0.9605872",
+  "lon": "100.3476191",
+  "location": "Padang, Indonesië",
+  "firstdate": null,
+  "firstyear": "1910",
+  "firstyearend": null,
+  "lastdate": "1942-01-28",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2023-11-13 14:29:11",
+  "modified_on": "2023-11-13 14:35:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Elout</strong></em>, die al op 27 januari 1942 te Emmahaven (Padang) door een Japanse luchtaanval was beschadigd, werd op 28 januari 1942 te Soengei Bramei (bij Emmahaven) opnieuw door Japanse vliegtuigen aangevallen. Zij raakte in brand, kapseisde na anderhalf uur en zonk dezelfde dag en ging verloren. Er waren geen slachtoffers.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>1797 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2004\">marhisdata id 2004.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

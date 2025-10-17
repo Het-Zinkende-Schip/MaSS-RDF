@@ -1,0 +1,27 @@
+{
+  "id": "4143",
+  "code": "nt25",
+  "name": "NT25",
+  "type": "wreck",
+  "lat": "52.6835260",
+  "lon": "5.8848410",
+  "location": "Kraggenburg, Nederland",
+  "firstdate": null,
+  "firstyear": "1300",
+  "firstyearend": "1325",
+  "lastdate": null,
+  "lastyear": "1300",
+  "lastyearend": "1400",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:31:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 2007 en 2010 werd het wrak onderzocht van een koggeachtig schip, gevonden bij Brennels Buiten. Zie voor meer informatie: 'Vlak van kogge-achtig schip bij Kraggenburg', in Grondsporen 22, K. Blok en M. van den Hoek 2017. De conclusies hieruit luiden als volgt:</p> <p>\"Het onderzoek naar het laatmiddeleeuwse wrak NT 25 heeft interessante informatie opgeleverd. Op voorhand werd verondersteld dat het om een kogge-achtig schip moest gaan, op basis van onder andere de in 2007 gevonden stevenhaak. Uit de IFMAF opgraving van 2010 blijkt dat dit inderdaad zo is. Naast de stevenhaak zijn er aanwijzingen gevonden voor een karveel gebouwd vlak dat richting de stevens overgaat in een overnaadse bouwwijze. Ook zijn er aanwijzingen gevonden dat de boorden overnaads zijn gebouwd. De stevenhaak wijkt echter af van de overige kogge-achtige scheepswrakken in Flevoland. Ook het feit dat een kielbalk in plaats van kielplank is gebruikt, is opvallend. De leggers in het wrak lijken relatief fors, wat de suggestie wekt van een vrij stevig gebouwd schip. Dendrochronologisch onderzoek van enkele monsters geeft een datering van 1307&ndash;1315 voor de bouwdatum van het schip. Daarnaast synchroniseren de monsters met kalenders die (deels) zijn opgebouwd uit gebruikshout uit het noorden van Nederland. Vermoedelijk toont dit aan dat de herkomst van het schip ook daar moet worden gezocht. Het vondstmateriaal uit het wrak vertoond een gelijkwaardig beeld met vondstmateriaal uit enkele andere laatmiddeleeuwse schepen uit Flevoland. Zo zijn bijvoorbeeld enkele gereedschappen zoals een bijl, disselhamer en marlpriem aangetroffen. Als gevolg van postdepositionele processen is het aardewerk helaas sterk gefragmenteerd. Complete voorwerpen zijn dan ook niet aangetroffen. Een aantal aangetroffen kloostermoppen behoorden mogelijk tot de lading, of waren onderdeel van de stookplaats. Ook enkele (resten van) turfjes kunnen tot de lading hebben behoord, of kunnen voor gebruik aan boord zijn bedoeld. Uit de waardering van de vindplaats blijkt dat deze als behoudenswaardig kan worden aangemerkt. Hoewel relatief weinig van de constructie bewaard is gebleven, &lsquo;scoort&rsquo; het wrak hoog op de inhoudelijke kwaliteit.\"</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Blok, Koen; van den Hoek, Merel (2017).<br /><a href=\"https://pure.rug.nl/ws/files/53556134/Grondsporen_22.pdf\">Het vlak van een kogge-achtig schip bij Kraggenburg (Flevoland) (Grondsporen 22).</a><br />Groningen: Groninger Instituut voor Archeologie (GIA).</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

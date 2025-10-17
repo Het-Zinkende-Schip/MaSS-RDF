@@ -1,0 +1,27 @@
+{
+  "id": "2361",
+  "code": "enkhuizen-1645",
+  "name": "Enkhuizen",
+  "type": "wreck",
+  "lat": "53.6640084",
+  "lon": "4.5263672",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1645",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1659",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-04 17:04:49",
+  "modified_on": "2025-06-12 12:11:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op de 'lijst van oorlogsschepen in emplooi juli 1655' zijn twee schepen met de naam Enkhuizen (beide 30 stukken) in dienst bij de admiraliteit van het Noorderkwartier. (bijlage III, in Elias, Vlootbouw)<br>In dienst van Amsterdam is een Maagd van Enkhuizen (32 stukken) actief. Dit schip werd aangekocht door Amsterdam in november 1651.(idem) <br>Om het extra verwarrend te maken werd de Enkhuizen ook wel 't Wapen van Enkhuizen en Maagd van Enkhuizen genoemd.</p> <p>Het is best mogelijk dat er door de overlap vergissingen zijn ontstaan. Zo wordt een Enkhuizen genoemd in de vloot van Wassenaar Obdam die in juni vertrekt voor vloot actie in de Sont en de Oostzee tegen Zweden. In de overgeleverde vlootlijst van die actie is onder de vlag van het Noorderkwartier geen schip Enkhuizen genoemd. In dezelfde lijst is wel een <em>Maagd van Enkhuizen</em> onder de schepen van Amsterdam met 32 stukken 120 voet lang.</p> <p>Nicolaas Marrevelt wordt genoemd als kapitein op de Maagd van Enkhuizen van Amsterdam en als kapitein van de Enkhuizen van de admiraliteit van het Noorderkwartier. Deze Enkhuizen wordt 1659 uit dienst gemeld. Gezonken in actie.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 30 (1645)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Marrevelt, Nikolaas</td></tr><tr><th scope=\"row\">Lengte</th><td>116 &frac14; voet (35,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>26 &frac12; voet (8,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Vreugdenhil, A. (1938).<br /><em>Lists of Men-of-War 1650-1700: Part IV Ships Of The United Netherlands 1648-1702, nr 17.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

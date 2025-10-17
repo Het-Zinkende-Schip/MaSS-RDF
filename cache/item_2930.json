@@ -1,0 +1,27 @@
+{
+  "id": "2930",
+  "code": "minister-tak-van-poortvliet",
+  "name": "Minister Tak van Poortvliet",
+  "type": "wreck",
+  "lat": "52.5089071",
+  "lon": "4.1660440",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1899",
+  "firstyearend": null,
+  "lastdate": "1917-04-24",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-31 13:14:34",
+  "modified_on": "2025-06-15 14:04:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis met een lading stukgoederen van Hull naar Harlingen is de <strong><em>Minister</em> Tak van Poortvliet</strong> op 24 april 1917 op de Noordzee, 20 mijl van IJmuiden kort na middernacht, door de Duitse onderzeeboot UB 10 getorpedeerd, gezonken en verloren gegaan. De torpedo trof het schip aan stuurboordzijde ter hoogte van de machine kamer. Het schip was reeds tien minuten na de torpedo explosie gezonken.</p> <p>Alle 19 opvarenden van de Minister Tak van Poortvliet konden in de beide sloepen plaats nemen en werden gered door de Nederlandse motorlogger Martha YM 317.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type : stoomschip pakketboot<br>Gebouwd: Earle's Shipbuilding &amp; Engineering Co. Ltd., Hull,</p> <p>Eigenaar 1: Hull &amp; Netherlands Steamship Company Ltd, Hull (1899-1909)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>19</td></tr><tr><th scope=\"row\">Tonnage</th><td>1106 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4316\">marhisdata.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

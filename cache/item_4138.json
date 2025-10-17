@@ -1,0 +1,27 @@
+{
+  "id": "4138",
+  "code": "os2",
+  "name": "OS2",
+  "type": "wreck",
+  "lat": "52.5109760",
+  "lon": "5.5692430",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": "1910",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:55:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In juni 1964 is een verkenning verricht na de melding van een scheepswrak op kavel S2, langs de Dronterweg. Het bleek te gaan om het wrak van een ijzeren schip dat bij het greppelen was geraakt. Tot de daarbij losgeraakte vondsten bevonden zich onder andere een triplex paneel, de resten van een navigatielicht (olielamp) van plaatijzer en glas, wat los hout van een roefje of dekje en enkele ongebruikte onderdelen van een vuurrooster voor een stoomketel, waarschijnlijk behorende tot de lading. Het schip maakte geen grote indruk en werd beoordeeld als van geen belang voor verder archeologisch onderzoek.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z9m-2mh9\">Opgravingsdocumentatie scheepswrak OS2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

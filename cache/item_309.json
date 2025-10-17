@@ -1,0 +1,27 @@
+{
+  "id": "309",
+  "code": "middelburg-1605",
+  "name": "Middelburg",
+  "type": "wreck",
+  "lat": "2.3732743",
+  "lon": "101.9237129",
+  "location": "Bambek Shoal, Maleisië",
+  "firstdate": null,
+  "firstyear": "1605",
+  "firstyearend": null,
+  "lastdate": "1606-08-18",
+  "lastyear": "1606",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2012-06-13 00:00:00",
+  "modified_on": "2025-06-19 20:40:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Middelburg</em> vertrok uit Holland op 12 mei 1605 in de vloot van admiraal Matelief de Jonge. Een van de geheime doelen die Matelief mee gekregen had was het veroveren van Malakka op de Portugezen.</p> <p>De Slag bij Kaap Rachado was een belangrijk zeeslag tussen de VOC vloot en de Portugese vloot. Het was de grootste zeeslag in de Maleise Archipel tussen twee zeemachten van die tijd met 31 schepen (11 van de Nederlandse VOC en 20 van de Portugezen).<a href=\"https://en.wikipedia.org/wiki/Battle_of_Cape_Rachado\">&sup1;</a></p> <p>In de zeeslag op 18 augustus 1606 gingen twee Nederlandse schepen verloren; De Nassau en De Middelburg. De strijd eindigde met een Portugese overwinning.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Simon Lambrechtsz. Mau</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91153\">DAS 0099.1.</a></li><li><a href=\"http://www.maleisie.be/voc_scheepswrakken.html#a\">Malaysia shipwrecks VOC.</a></li><li><a href=\"https://www.atlasofmutualheritage.nl/en/page/3852/melaka\">atlas of mutual heritage.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

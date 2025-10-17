@@ -1,0 +1,27 @@
+{
+  "id": "2297",
+  "code": "nassau-weilburg",
+  "name": "Nassau-Weilburg",
+  "type": "wreck",
+  "lat": "37.0000000",
+  "lon": "-51.5039063",
+  "location": "Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1760",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1783",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-09 17:07:44",
+  "modified_on": "2025-06-11 23:49:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Nassau voer in konvooi van Cura&ccedil;ao naar Nederland. Maakte deel uit van konvooi uit Cura&ccedil;ao naar de Republiek. Spoedig na vertrek bleek het schip ernstig te lekken. Het kon nog acht weken drijvende worden gehouden met 24/7 pompen. Uiteindelijk moest het schip verlaten worden en zonk het op de Atlantische Ocean ter hoogte van de 37 e breedtegraad juni 1783.</p> <p>Karel Christiaan Nassau Weilburg was de zwager van stadhouder Willem V.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 54</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Smissaert, G.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>326</td></tr><tr><th scope=\"row\">Lengte</th><td>153 voet (46,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>43 voet (13,1 m)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

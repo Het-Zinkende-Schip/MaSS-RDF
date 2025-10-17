@@ -1,0 +1,27 @@
+{
+  "id": "4258",
+  "code": "zaanland-2",
+  "name": "Zaanland",
+  "type": "wreck",
+  "lat": "54.4899523",
+  "lon": "-37.5335712",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1921",
+  "firstyearend": null,
+  "lastdate": "1943-03-17",
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-03-13 11:28:34",
+  "modified_on": "2025-03-13 12:28:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Zaanland</em> vertrok 8 maart 1943 van New York in konvooi HX.229. (Route Port Lincoln - Cristobal - New York - Belfast Lough - Avonmouth)&nbsp;<br><br>Op 17 maart werd het konvooi op de Atlantische Oceaan aangevallen door Duitse <a href=\"https://www.uboat.net/flotillas/6flo.htm\"><em>Unterseebootsflottille Hundius</em></a>.</p> <p>De Zaanland werd bij die actie door de <em>U 758</em> getorpedeerd en tot zinken gebracht. Alle opvarenden konden worden gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: twee stoomturbines op een schroefas gekoppeld, type Brown-Curtiss<br>Gebouwd: Barclay, Curle &amp; Co. Ltd, Clydeholm Shipyard, Whiteinch, Glasgow</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Franken, Gerardus</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>53</td></tr><tr><th scope=\"row\">Lengte</th><td>489 &frac34; voet (149,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>60 &frac14; voet (18,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>6812 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>marhisdata.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=7424\">schip id 7424.</a></li><li>uboat.net.<br /><a href=\"https://www.uboat.net/allies/merchants/ship/2792.html\">Zaanland.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

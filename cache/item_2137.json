@@ -1,0 +1,27 @@
+{
+  "id": "2137",
+  "code": "ou113",
+  "name": "OU113",
+  "type": "wreck",
+  "lat": "52.4159400",
+  "lon": "5.6079100",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": "1750",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:43:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit schip is gevonden op kavel U113 in Oostelijk Flevoland, aan de Gooiseweg in de gemeente Dronten. Het wrak is in 1968 verkend, en in 1981 vond een herverkenning plaats. Het scheepswrak is een karveel gebouwd vissersschip van het type waterschip. Waterschepen waren de grootste en belangrijkste vissersschepen van de Zuiderzee gedurende de zestiende en zeventiende eeuw. Ze zijn voorzien van een bun gevuld met water, waar de gevangen vis levend in vervoerd kan worden. De vroegste types waterschepen werden overnaads gebouwd, maar vanaf het tweede kwart van de zestiende eeuw werden deze schepen karveel gebouwd, dat wil zeggen gladboordig. Het schip is ca. 18 meter lang en 6,5 meter breed.</p> <p>Op basis van de verstoring van het bodemprofiel kon het vergaan van het schip worden gedateerd in de tweede helft van de achttiende eeuw. Gedurende de achttiende eeuw werden waterschepen vooral gebruikt om grote compagnies- en oorlogsschepen over de ondiepten bij Pampus te slepen. Na de voltooiing van het Groot Noord-Hollands Kanaal in 1924 waren waterschepen niet langer nodig als sleepschepen en verdwenen ze.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een karveel gebouwd waterschip uit de achttiende eeuw, Dronten</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xam-tz25\">Opgravingsdocumentatie scheepswrak OU113.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2506",
+  "code": "dusseldorf-kaiserswerth",
+  "name": "Düsseldorf-Kaiserswerth",
+  "type": "wreck",
+  "lat": "51.3031667",
+  "lon": "6.7339325",
+  "location": "Düsseldorf-Kaiserwerth, Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1702",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-11 15:05:54",
+  "modified_on": "2025-07-08 17:59:35",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Reddingsopgraving</h2> <p>Tijdens werkzaamheden aan de Rijndijk in de Duitse stad D&uuml;sseldorf werden in 2009 de overblijfselen van een schip gevonden. Tijdens een reddingsopgraving van deze resten, die zich dicht bij de overblijfselen van de fortificatie van Kaiserswerth bevonden, werd een platbodem rivierschip gevonden bij de noordelijke hoek van de kofferdam (een dam met een sluis in een fortificatie) van het fort. Omdat een significante hoeveelheid metselwerk van de kofferdam nog aanwezig is, werd een <em>terminus ante quem</em> van 1702 bepaald, verbonden aan het beleg van het fort door geallieerde troepen uit Nederland, Brandenburg en Engeland tijdens de Spaanse Successieoorlog.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002473.png?modifiedon=1705654428\" alt=\"Deze aangepaste historische kaart van D&uuml;sseldorf toont de vesting (rode lijn in de blauwe rechthoek) die op het wrak is ingestort (groene lijn). De onderliggende kaart maakt deel uit van het 'Plan des Attaque de Kaiserswerth'.\"> <div class=\"img-source\">Schletter 2012</div> </figure> <p>Deze aangepaste historische kaart laat de fortificatie zien (de rode lijn in de blauwe rechthoek) die bovenop het scheepswrak gevallen was (de groene lijn). De onderliggende kaart is een deel van de 'Plan des Attaque de Kaiserswerth', uit het Hessisches Staatsarchiv in Marburg.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De doorsnede van het wrak is typisch voor een bepaald type praam dat in Zuid-Duitsland bekend staat als <em>nachen</em>, of meer specifiek als een<em> schnieke</em> rond te bovenloop van de Rijn</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>60 &frac14; voet (18,4 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>11 &frac12; voet (3,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De werkzaamheden rondom de waterkering vereisten een snelle berging van de overblijfselen van het wrak, zo dat een uitgebreide <em>in situ</em> documentatie onmogelijk was.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002474.png\" alt=\"The excavation site of the Kaiserwerth barge.\"> <div class=\"img-source\">Schletter 2012</div> <figcaption class=\"img-description\">De opgravingen op de vindplaats.</figcaption> </figure> <p>De houten scheepsdelen werden naar een conserveringsfaciliteit in het kasteel van Gottorf in Sleeswijk overgebracht voor conservering met PEG. In maart 2021 werd de conservering afgerond en de delen zullen in de nabije toekomst opnieuw in elkaar gezet worden in een tentoonstellingsruimte in D&uuml;sseldorf (waarvan de locatie nog vastgesteld moet worden).</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Schletter, H.-P. (2009).<br /><em>Batardeau, Uferbefestigung und ein Plattbodenschiff der frühen Neuzeit in Kaiserwerth.</em><br />Archäologie im Rheinland 2009.<br />pp 173-175.</li><li>Schletter, H.-P. (2012).<br /><em>Der Kaiserswerther Nachen. Ein archäologischer Beitrag zur Rheinschifffahrt der frühen Neuzeit.</em><br />Deutsches Schiffahrtsarchiv 35, 2012.<br />pp 13-72.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

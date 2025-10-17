@@ -1,0 +1,27 @@
+{
+  "id": "1400",
+  "code": "asperen",
+  "name": "Asperen",
+  "type": "wreck",
+  "lat": "51.3760095",
+  "lon": "1.5677487",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1656",
+  "firstyearend": null,
+  "lastdate": "1689-12-03",
+  "lastyear": "1689",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-21 13:30:42",
+  "modified_on": "2025-06-10 16:15:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Asperen kende een lange staat van dienst. Kleinere fregatten werden ingezet voor konvooi diensten. In zeeslagen om branders af te houden en beschadigde linieschepen uit de vuurlinie te halen.</p> <p>De Asperen nam deel aande overtocht van Willem III naar Engeland (glorious revolution 1688)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1656<br>Dimensies: 120 x 29 x 11 vt<br>Armament: 36</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>140</td></tr><tr><th scope=\"row\">Lengte</th><td>120 voet (36,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 &frac34; voet (8,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J.A. (2014).<br /><em>Dutch warships in the age of sail p. 204.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

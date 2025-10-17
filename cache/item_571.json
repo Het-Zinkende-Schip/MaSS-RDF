@@ -1,0 +1,27 @@
+{
+  "id": "571",
+  "code": "burgzand-noord-13-bzn-13",
+  "name": "Burgzand Noord 13 (BZN 13)",
+  "type": "wreck",
+  "lat": "53.0320000",
+  "lon": "4.9300000",
+  "location": "Wadden Sea, Nederland",
+  "firstdate": null,
+  "firstyear": "1700",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1750",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2018-01-02 00:00:00",
+  "modified_on": "2025-06-06 16:07:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Burgzand Noord 13 (BZN 13) is&nbsp;een 17e-eeuws scheepswrak (boord).</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak is in 2012 voor het eerst opgenomen. Uit de multibeam opname van december 2013 bleek dat de geul ten noorden van het terrein was ingezand. Dit proces had zich in 2014 voortgezet en het gebied was aan het afvlakken. De resolutie van 2015 was lager dan de andere multibeam opnames, maar leek dezelfde afvlakking te vertonen in de omgeving.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001311.png\" alt=\"de multibeam-opname van december 2015 en oktober 2012\"></figure></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

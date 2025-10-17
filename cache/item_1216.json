@@ -1,0 +1,27 @@
+{
+  "id": "1216",
+  "code": "sint-maartensdijk",
+  "name": "Sint Maartensdijk",
+  "type": "wreck",
+  "lat": "20.8078138",
+  "lon": "87.2358396",
+  "location": "Orissa coast, India",
+  "firstdate": null,
+  "firstyear": "1681",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1693",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-16 12:32:05",
+  "modified_on": "2025-06-10 11:50:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Maartensdijk maakte twee uitreizen naar Azie.<br>De tweede reis begon 11 april 1686.<br>Ze bleef vervolgens dienst doen in Azie.<br>Ze raakte vermist op de kust van Orixa India in 1693.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001750.jpg\" alt=\"inus Gangeticus Vulgo Golfo de Bengala Nova descriptione\"> <figcaption class=\"img-description\">Orixa kust, India ca. 1650</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Middelburg in 1681<br>Lengte: 110 vt<br>Breedte: 28<br>Holte:11&frac12;<br>Tonnage: 126 last<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Huygens KNAW.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=706&amp;accessor=toc&amp;source=5\">Generale missiven van gouverneurs-generaal en raden aan heren XVII der Verenigde Oostindische Compagnie.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0116?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen , fol 113.</a></li><li>VOCsite.<br /><a href=\"https://www.vocsite.nl/schepen/detail.html?id=10640\">Vocsite Maartensdijk.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

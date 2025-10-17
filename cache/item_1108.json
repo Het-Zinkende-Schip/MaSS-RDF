@@ -1,0 +1,27 @@
+{
+  "id": "1108",
+  "code": "patriot",
+  "name": "Patriot",
+  "type": "wreck",
+  "lat": "9.3995229",
+  "lon": "79.0216370",
+  "location": "Palk street, India",
+  "firstdate": null,
+  "firstyear": "1773",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1786",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-03 13:23:10",
+  "modified_on": "2025-07-01 19:32:54",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Patriot maakte twee retourreizen naar Oost Indi&euml; .</p> <p>Haar derde uitreis begon 4 januari 1780. Ze kwam aan in Batavia 22 7 1780 en bleef in Azi&euml;.</p> <p>Ze is verongelukt op de kust van Madurai (India) in 1786 (brieven Batavia 10 nov 1786.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: in 1773 VOC werf in Amsterdam<br>Tonnage: 575 last, 1150 ton<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/95418\">DAS 4367.3.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0231?eadID=1.04.02&amp;unitID=4935&amp;query=\">NA 4935 uitgezeilde schepen, scan 230.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

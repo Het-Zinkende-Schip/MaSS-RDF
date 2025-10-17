@@ -1,0 +1,26 @@
+{
+  "id": "2453",
+  "code": "willem-de-vierde-1789",
+  "name": "Willem de Vierde",
+  "type": "other",
+  "lat": "-6.3398644",
+  "lon": "104.6841284",
+  "location": "straat Soenda, mond van , Indonesië",
+  "firstdate": null,
+  "firstyear": "1789",
+  "firstyearend": null,
+  "lastdate": "1793-08-11",
+  "lastyear": "1793",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-02-17 18:13:00",
+  "modified_on": "2024-12-23 11:00:10",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het grote VOC schip <em>Willem de Vierde</em> vertrok op 2 oktober 1790 vanuit Texel naar Batavia (aankomst 19- juni 1791). Ca 10 augustus 1793 vertrok de Willem IV naar Ceylon als retourschip.</p> <p>Op dat moment was Nederland (nog) in oorlog met de Republiek Frankrijk. Er waren voorzorgsmaatregelen genomen om Franse kapers te kunnen weerstaan. Zo vertrokken Sint Laurens en Willem IV samen uit Batavia. Nog niet eens op volle zee ging het al mis in 'de mond van straat Sunda' :</p> <p><em>door verregaande nonchalance en zorgeloosheid van den daar op het commando gehad hebbende Capt.n ter zee Jacob Thomson, in de mond van straat Sunda overrompeld, en genomen is, door een fransche kaper van 14 stukken Kanon van 4 lb &ndash; hebbende het schip St Laurens welke Bodem het opgemelte schip Willem de Vierde niet schijnt te hebben kunnen helpen, in dien tusschentijd occage waargenomen om in zee te stecken, en te vlugten, onzeeker echter of Hij de kaper die Hem gevolgt is heeft kunnen echappeeren...<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/3973/file/NL-HaNA_1.04.02_3973_0788?eadID=1.04.02&amp;unitID=3973&amp;query=3973\">&sup1;</a></em></p> <p>De schipper Thomson werd later ter verantwoording geroepen voor het niet correct uitvoeren van de veiligheidsmaatregelen aan boord.</p> <p>Wat er van de Willem de Vierde is geworden is onduidelijk.&nbsp;Er werden in augustus 1793, drie VOC schepen genomen door Franse kapers. (van Eyck van Heslinga, 198)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Lengte: 150 vt.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95719\">DAS 4681.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/3973/file/NL-HaNA_1.04.02_3973_0788?eadID=1.04.02&amp;unitID=3973&amp;query=3973\">NA_1.04.02_3973_0788.</a></li><li>van Eyck van Heslinga, E.S. (1988).<br /><em>Van compagnie naar koopvaardij.</em><br />Bataafsche Leeuw.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

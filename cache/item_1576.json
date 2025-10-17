@@ -1,0 +1,27 @@
+{
+  "id": "1576",
+  "code": "schuilenburg",
+  "name": "Schuilenburg",
+  "type": "wreck",
+  "lat": "-33.9519408",
+  "lon": "18.3632079",
+  "location": "Table bay, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1747",
+  "firstyearend": null,
+  "lastdate": "1756-06-03",
+  "lastyear": "1756",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-27 10:47:58",
+  "modified_on": "2024-10-15 08:48:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Schuilenburg </strong></em>verliet Kaapstad met proviand naar Simonstown, maar kwam in een hevige storm terecht en verdween. Men dacht dat het het wrak op het tweede strand van Clifton was, maar later werd vastgesteld dat het de Sao Jose was.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Toon, Jan Tobias</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>57</td></tr><tr><th scope=\"row\">Tonnage</th><td>300 ton (150 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94506\">DAS 3433.1.</a></li><li><em>SAHRA Database.</em></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "676",
+  "code": "woerden-1",
+  "name": "Woerden 1",
+  "type": "wreck",
+  "lat": "52.0872805",
+  "lon": "4.8838735",
+  "location": "Woerden, Nederland",
+  "firstdate": null,
+  "firstyear": "165",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "225",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-10 15:21:42",
+  "modified_on": "2025-06-27 22:02:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001486.jpg\" alt=\"Houten planken opgegraven die onderdeel van een schip waren.\"> <figcaption class=\"img-description\">De Woerden 1 tijdens de opgraving (bron: RCE beeldbank)</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De Woerden 1 is ontdekt in 1979 bij het voormalige Sint-Jozef pensionaat in Woerden. Het wrak was afgezonken als onderdeel van de oeverbeschoeiing. Er is ongeveer 10 meter opgegraven en gedocumenteerd van boeg tot het<br>mastspoor. De rest van de Woerden 1 is in situ bewaard.</p> <p>De lengte (29,6 meter = 100 Romeinse voet)is afgeleid uit de verhouding mast boeg die circa een kwart van de totale lengte uitmaakt. De maximale<br>breedte was 3 meter (10 Romeinse voet). Het schip was overnaads gebouwd en de leggers waren in paren geplaatst. Op een extra brede legger was het mastblok bevestigd. Boven het mastblok bevond zich een mastbank. Hierachter was een onderkomen voor de bemanning met haardplaten van dakpandelen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000284.jpg\" alt=\"Image 10 : Woerden around the year 100 AD\"></figure> <p><strong>Datering</strong><br>De boeg bestond uit &eacute;&eacute;n stuk hout in de vorm van een punt. Het hout van de Woerden 1 is gekapt na 169 na Christus. Aardewerk dat onder het wrak is gevonden, werd gedateerd in het laatste kwart van de tweede eeuw na Christus. Schoenzolen die in het wrak zijn gevonden, wijzen op een datering in de derde eeuw. Het schip moet dus zijn (af)gezonken aan het begin van de<br>derde eeuw na Christus. <br><strong>Lading</strong><br>In de Woerden 1 zijn resten van de lading gevonden, die bestond uit graan afkomstig uit het Belgische l&ouml;ss-gebied.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001489.jpg\" alt=\"Schematische tekening van de bouw van een boot.\"> <figcaption class=\"img-description\">.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brouwers,  W. , Jansma, E. Manders, M. (2013).<br /><em>Romeinse scheepsresten in Nederland.</em><br />Archeobrief 4.</li><li>Haalebos (1997).<br /><em>Een Romeins graanschip in Woerden.</em><br />jaarboek Oud-Utrecht.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "480",
+  "code": "huis-te-nieuwburg",
+  "name": "Huis te Nieuwburg",
+  "type": "wreck",
+  "lat": "3.0670000",
+  "lon": "81.8670000",
+  "location": "Indian Ocean",
+  "firstdate": null,
+  "firstyear": "1697",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1710",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Annaliese Dempsey",
+  "created_on": "2014-10-29 00:00:00",
+  "modified_on": "2019-09-16 16:29:45",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><h2>Historical Description</h2> <p><em>Huis te Nieuwburg</em> made four successful round trips to the Dutch East Indies for the VOC, the Dutch East India Company. In 1710, after departing the Dutch colony Ceylon, modern day Sri Lanka, and sailing either to Batavia or home to the Netherlands, <em>Huis te Nieuwburg</em> was lost in the Indian Ocean. She was carrying 91 sailors, 36 soldiers, and 10 passengers. Most of the individuals on board are recorded as having survived the wreck.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001165.jpg\" alt=\"Huis te Nieuwburg\" /><figcaption class=\"img-description\">A model of a Dutch fluyt.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: Fluyt, possibly a hekboot, a ship type very similar to a fluyt but with traits of a Dutch pinnace</p> <p>Built: 1697</p> <p>Chamber: Amsterdam</p> <p>Wharf: Amsterdam</p> <p>Captain on last voyage: Jan Klooster</p> <p>Complement: 100-150</p> <p>Length: 131 ft</p> <p>Beam: 33 ft</p> <p>Moulded depth: 14 ft</p> <p>Tonnage: 618 tons, 309 last</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001164.jpg\" alt=\"An engraving of a Dutch hekboot.\" width=\"1496\" height=\"1015\" /><figcaption class=\"img-description\">An engraving of a Dutch hekboot.</figcaption></figure><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

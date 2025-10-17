@@ -1,0 +1,27 @@
+{
+  "id": "1119",
+  "code": "luchtenburg-1715",
+  "name": "Luchtenburg",
+  "type": "wreck",
+  "lat": "51.4585748",
+  "lon": "3.4440735",
+  "location": "Elleboog, Wielingen, Nederland",
+  "firstdate": null,
+  "firstyear": "1715",
+  "firstyearend": null,
+  "lastdate": "1727-11-17",
+  "lastyear": "1727",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-07 11:44:21",
+  "modified_on": "2025-06-09 16:34:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Luchtenburg</em> is op haar vijfde uitreis vertrokken 2 november 1727 van Texel ter hoogte van Wielingen 'aan den Elleboog' vergaan op 17 november .</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004343.png\" alt=\"NL-HaNA_4.VELH_36-groot\"> <div class=\"img-source\">NL-HaNA_4.VELH_36</div> <figcaption class=\"img-description\">Op deze kaart is De Elleboog en bij benadering (X) de locatie van de Lugtenburg aan gegeven.</figcaption> </figure> <p>Er is een bergingscontract bekend uit 1728 (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/11494/file/NL-HaNA_1.04.02_11494_0002?eadID=1.04.02&amp;unitID=11494&amp;query=11494\">NA 1.04.02. 11494)</a> om de lading van het gestrande wrak te bergen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1715<br>Eigenaar: VOC kamer Hoorn<br>Lengte: 145<br>Tonnage: 400 last, 800 tons<br>Complement: 180</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Leeuwen, Adriaan van</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93791\">Details of voyage 2709.5 from Texel.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/11494/file/NL-HaNA_1.04.02_11494_0004?eadID=1.04.02&amp;unitID=11494&amp;query=11494\">bergingscontract 1727 NA_1.04.02_11494_0004.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

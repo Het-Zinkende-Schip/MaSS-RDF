@@ -1,0 +1,27 @@
+{
+  "id": "1035",
+  "code": "lycochton",
+  "name": "Lycochton",
+  "type": "wreck",
+  "lat": "-6.0880407",
+  "lon": "106.7781143",
+  "location": "Teluk Jakarta, Indonesië",
+  "firstdate": null,
+  "firstyear": "1749",
+  "firstyearend": null,
+  "lastdate": "1771-05-09",
+  "lastyear": "1771",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-09 10:10:36",
+  "modified_on": "2025-04-08 10:22:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Lycochton</em> maak1748 en 1769 7 reizen naar de Oost. Op 16 oktober 1771 lag het schip op de rede van Batavia toen het door de bliksem werd getroffen. De Lycochton vatte vlam en brandde uit.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Enkhuizen, 1749<br>Lengte: 140 vt<br><br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/95098\">DAS 4047.7.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0109?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01_551_010 lijst.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

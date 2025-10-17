@@ -1,0 +1,27 @@
+{
+  "id": "4018",
+  "code": "nc85",
+  "name": "NC85",
+  "type": "wreck",
+  "lat": "52.7314070",
+  "lon": "5.6526170",
+  "location": "Espel, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:31:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1946 werden op kavel C85 in de Noordoostpolder enige boordfragmenten aangetroffen van een zwaar gebouwd schip. Deze werden nader onderzocht in 1955, waarbij duidelijk werd dat er buiten deze delen maar weinig scheephout aanwezig was. De ondergangsdatering werd gesteld op ergens in de 17de eeuw. Er werd een relatie vermoed met het nabijgelegen (18de-eeuwse) wrak van een katschip C82NOP / NC82. Van het scheepshout op kavel C85 werd een fragment van iets meer dan 2 meter lang en 1 meter breed, voorzien van duidelijke kluisgaten, geborgen (zie objectnr. NC85 [-001]). Op dezelfde kavel werd verder een losse kleipijp aangetroffen (objectnr. Z1952-X87), echter zonder herkenbaar merk.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zwm-zens\">Opgravingsdocumentatie scheepswrak NC85.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

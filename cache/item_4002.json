@@ -1,0 +1,27 @@
+{
+  "id": "4002",
+  "code": "na55",
+  "name": "NA55",
+  "type": "wreck",
+  "lat": "52.7948990",
+  "lon": "5.6831570",
+  "location": "Rutten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:09:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1948 werd de vondst gemeld van een scheepswrak, waarvan het roer uitstak in het talud van de kavelsloot A54/55. In 1955 werd de vindplaats verkend maar trof men hoofdzakelijk stukken los hout, ijzeren pennen en stukken steenkool aan, waarop werd genoteerd dat het voorlopig als van minder belang werd opgegeven. Een scheepstype kon niet worden vastgesteld, maar waarschijnlijk was het een licht scheepje dat een lading steenkool vervoerde. Slechts &eacute;&eacute;n vondst werd opgenomen in het Nationaal Scheepsarcheologisch Depot te Lelystad: de koperen knop van een ankersteel (objectnr. Z1952-VII197).</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xtq-3geq\">Opgravingsdocumentatie scheepswrak NA55.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

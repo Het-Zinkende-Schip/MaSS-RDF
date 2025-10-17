@@ -1,0 +1,27 @@
+{
+  "id": "3072",
+  "code": "empel",
+  "name": "Empel",
+  "type": "wreck",
+  "lat": "51.7296032",
+  "lon": "5.3249058",
+  "location": "Empel, Nederland",
+  "firstdate": null,
+  "firstyear": "-3455",
+  "firstyearend": "2000",
+  "lastdate": null,
+  "lastyear": "-3400",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-05-05 19:43:00",
+  "modified_on": "2023-11-11 15:35:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1968 is tijdens de westelijke uitbreiding van de plas in de Koornwaard een deel van de boomstamboot aangetroffen. Deze boot bevond zich op ongeveer 1500 meter afstand van de noordoostelijk gelegen &ldquo;Tempel van Empel&rdquo;.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Het geborgen fragment is 0,98 meter lang en 36 centimeter breed. Het fragment bevat een uitsparing in een rechthoekige vorm, de mastspoor. Op basis van Vlierman&rsquo;s reconstructie heeft de boot een ronde vorm. Op basis van C14 onderzoek is vastgesteld dat de boomstamboot dateert uit 2110&plusmn;35 BP.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>1 voet (0,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>0 &frac14; voet (0,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>L. Koehler (1997).<br /><em>Kano en kaar: De documentatie van twee boomstamkano’s uit Zwammerdam.</em></li><li><em>Schematisch overzicht van boomstamboten in Nederland.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

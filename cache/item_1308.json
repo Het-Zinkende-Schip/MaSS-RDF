@@ -1,0 +1,27 @@
+{
+  "id": "1308",
+  "code": "zeelt",
+  "name": "Zeelt",
+  "type": "wreck",
+  "lat": "-37.8583479",
+  "lon": "68.4934361",
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1669",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1672",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-05-04 12:05:59",
+  "modified_on": "2025-03-08 12:31:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1668 werden 5 hoekers op stapel gezet in Rotterdam voor intra-Aziatische verkeer van de VOC. <strong><em>De Zeelt, </em></strong><em>Baers, Bonte Kraay, Voorn en Zwaardvis</em><strong><em>. </em></strong>De Baars, Voorn en zwaardvis werden afgelegd. Het lot van de Bonte Kraai is niet bekend.</p> <p>De Zeelt vertrok op 11 januari 1669 vanuit Goeree naar Batavia. Ze komt op de rede van Batavia aan op 9 aug. 1669.Ze werd vervolgens ingezet bij de bevoorrading van VOC posten. De Zeelt vaart o.a. tussen Batavia, Samarang (rijst), Ceylon en de Kaap.</p> <p>Op 21 december 1671 vertrok de Zeelt samen met de Goudvink van Batavia naar de Kaap. Ze komen daar aan op 24 maart 1672 met provisie voor de Kaap.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/22/file/NL-HaNA_1.11.06.18_22_0054?eadID=1.11.06.18&amp;unitID=22&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">&sup1;</a></p> <p><strong>Vermist<br></strong>Op haar terugreis naar Batavia in 1672 raakte ze vermist. De route van de Kaap naar Batavia was bekend. Op een kaart (een zogenaamde overzeiler) staat de route in potlood geplot. Het zal naar alle waarschijnlijkheid deze route zijn geweest die ook de Zeelt heeft gevolgd naar Batavia. Ergens op die route is het schip vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Rotterdam, 1668<br>Dimensie: 76 x 21 x 10,5 / 82 x 22 x 11<br>Tonnage: 45 last<br><br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92213\">DAS 1130.1.</a></li><li><a href=\"https://babel.hathitrust.org/cgi/pt?id=mdp.39015020146091&amp;view=2up&amp;seq=390&amp;skin=mobile\">Daghregister gehouden op het kasteel Batavia, 1669.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

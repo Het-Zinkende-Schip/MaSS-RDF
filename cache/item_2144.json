@@ -1,0 +1,27 @@
+{
+  "id": "2144",
+  "code": "nc12-waterschip",
+  "name": "NC12 waterschip",
+  "type": "wreck",
+  "lat": "52.7309000",
+  "lon": "5.6004200",
+  "location": "Noordoostpolder, Nederland",
+  "firstdate": null,
+  "firstyear": "1600",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:46:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit schip is gevonden op kavel C12 aan de Westermeerweg ter hoogte van het Espelerpad en het Onderduikerspad, aan de zijde van het IJsselmeer, in de gemeente Noordoostpolder. Bij verkenning in 1983 werd een zwaar beschadigd wrak van een karveel gebouwd waterschip aangetroffen.</p> <p>Waterschepen waren de grootste en belangrijkste vissersschepen van de Zuiderzee gedurende de zestiende en zeventiende eeuw. Ze zijn voorzien van een bun gevuld met water, waar de gevangen vis levend in vervoerd kan worden. De vroegste types waterschepen werden overnaads gebouwd, maar vanaf het tweede kwart van de zestiende eeuw werden deze schepen karveel gebouwd, dat wil zeggen gladboordig. Het schip heeft een lengte van ca 19 meter. Uit de verstoring van het bodemprofiel blijkt dat het schip in de zeventiende eeuw is vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Waterschepen varieerden in lengte tussen de 60 en 70 voet (16 tot 20 meter), waren 20 tot 22,5 voet breed (5,6 tot 6,2 meter), terwijl de holte van kiel tot bovenkant verschansing bijna 19 voet (2,8 meter) bedroeg.<br>Het vaartuig kenmerkte zich door een rechtopstaande, zeer licht gekromde voorsteven met aan de voorkant een enorme scheg. Naar achteren verliep de vorm in een prachtig gepiekt achterschip met een stevenroer met een sierlijk met de zeeg van het schip meelopende gebogen helmstok.</p> <p>Karakteristiek is de overnaadse gebolde opbouw op het dek, waarin naast het verblijf voor de bemanning ook nog een dubbele bun was te vinden.</p> <p><br>Deze schepen werden vooral gebouwd te Hoorn, Muiden en Edam. Ze kreeg de bijnaam 'westkanter'. Omdat ze vooral aan de Hollandse kant van de Zuiderzee haar thuishavens had, zoals Enkhuizen, Zaandam, Hoorn, Spaarndam, Uitdam, Amsterdam en vooral Marken.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x3e-t44s\">Opgravingsdocumentatie scheepswrak NC12.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

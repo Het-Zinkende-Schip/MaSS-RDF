@@ -1,0 +1,27 @@
+{
+  "id": "604",
+  "code": "pepper-wreck-2",
+  "name": "Pepper wreck IJsselmeer",
+  "type": "wreck",
+  "lat": "52.9421833",
+  "lon": "5.1622009",
+  "location": "IJsselmeer, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Leon Derksen",
+  "created_on": "2019-02-12 15:23:46",
+  "modified_on": "2025-06-06 22:27:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Ontdekking</h2> <p>Op 31 augustus 1985 werden verscheidene stukken hout gevonden door vissers in het IJsselmeer, nabij de Afsluitdijk. De locatie van deze fragmenten lag ongeveer 180 tot 200 meter van lunchroom 'Het Monument' op de Afsluitdijk. Tijdens een duikexpeditie werd vastgesteld dat de fragmenten afkomstig zijn van een middelgroot houten zeilschip met een lengte van ongeveer 20 meter en een breedte van ongeveer 4-6 meter. De fragmenten steken ongeveer een halve meter uit het zand en de vindplaats ligt op een diepte van ongeveer 7 meter. De plaats was al bekend onder lokale vissers als het 'Peperwrak'. Of deze naam een directe referentie naar de lading is, is niet bekend.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001382.jpg?modifiedon=1705654366\" alt=\"Lunchroom 'Het Monument', near where the wood fragments were found.\"> <div class=\"img-source\">Public Domain</div> <figcaption class=\"img-description\">Lunchroom 'Het Monument' nabij waar de houtfragmenten gevonden.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Lengte: ongeveer 20 m.</p> <p>Breedte: 4-6 m.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Akker van den, J., M. Manders, W. van der Wens, A. Zandstra (2007).<br /><em>Bundel Maritieme Vindplaatsen 1, p. 33.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

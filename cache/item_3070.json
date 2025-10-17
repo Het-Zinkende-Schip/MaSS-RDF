@@ -1,0 +1,27 @@
+{
+  "id": "3070",
+  "code": "elst-boomstamboot",
+  "name": "Elst boomstamboot",
+  "type": "wreck",
+  "lat": "51.9039484",
+  "lon": "5.8756831",
+  "location": "Elst, Nederland",
+  "firstdate": null,
+  "firstyear": "-402",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-207",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-05-16 13:45:03",
+  "modified_on": "2025-06-15 21:02:38",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Bij het Gelderse Elst is een deel van een prehistorische boomstamboot gevonden. De vondst dateert uit de Midden IJzertijd en werd aangetroffen in afzettingen van een voormalige loop van de Rijn.</p> <p>Gasunie werkte daar in 2010 aan de uitbreiding van haar transportnetwerk. Tijdens graafwerkzaamheden bij Elst stuitte een kraanmachinist op een stuk hout. De machinist vermoedde dat het niet om zomaar een stuk hout ging en melde het. Gasunie schakelde vervolgens het archeologisch adviesbureau RAAP in. Samen met een archeoloog van de gemeente Overbetuwe werden twee kanofragmenten vervolgens veiliggesteld.</p> <p>De kanodelen bevonden zich op ongeveer 3,5 meter diepte. Het gaat om twee grote delen die samen naar schatting een kwart van de kano vormden. Het grootste deel is 2 meter lang en 80 centimeter breed en het kleinere deel 80 bij 40 centimeter.</p> <p><strong>Datering&nbsp;</strong><br>Archeologen hebben met behulp van C14-datering de ouderdom van de kano vast kunnen stellen. Gebleken is dat de kano tussen 400 en 200 voor Christus werd gemaakt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De gevonden boomstamdelen zijn overgebracht naar de afdeling Scheeps- en Onderwaterarcheologie van de Rijksdienst voor het Cultureel Erfgoed in Lelystad.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>2 voet (0,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>0 &frac34; voet (0,2 m)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

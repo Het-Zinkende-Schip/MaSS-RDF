@@ -1,0 +1,27 @@
+{
+  "id": "2314",
+  "code": "drenthe",
+  "name": "Drenthe",
+  "type": "wreck",
+  "lat": "40.0155475",
+  "lon": "4.5197143",
+  "location": "Bij Menorca, Spanje",
+  "firstdate": null,
+  "firstyear": "1782",
+  "firstyearend": null,
+  "lastdate": "1784-02-04",
+  "lastyear": "1784",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-18 14:54:46",
+  "modified_on": "2025-06-12 11:38:45",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Drenthe</strong></em> was een nieuw gebouwd linieschip van 64 stukken. Ze vertrok 13 december 1783 in het eskader van vice admiraal Pieter van Reynst naar de Middellandse zee. Het eskader kwam 11 januari 1784 aan op de rede van Malaga alwaar ze 10 dagen bleven liggen.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003519.jpg\" alt=\"Reynst eskader bij Malaga januari 1784\"> <div class=\"img-source\">Rijksmuseum Amsterdam, RP-T-00-3730</div> </figure> <p><strong>Zware storm</strong><br>Het eskader voer verder de Golf van Narbonne bestemming Toulon binnen toen er onverwacht in de nacht van 2 op 3 februari een zware storm los barste.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003520.jpg\" alt=\"illustratie van zeven linieschepen naast elkaar\"> <div class=\"img-source\">RP-P-1937-1731</div> </figure> <p class=\"figcaption\"><br>Het eskader op 28 januari 1784 onder bevel van vice-admiraal Pieter Hendrik Reynst, Vrijheid, Admiraal de Ruyter, Holland, Drenthe, Prins Willem, Medea, Hercules. (Frans Anton van Spijck, 1784)</p> <p><strong>Schade</strong><br>Alle schepen, behalve het fregat Medea raakten ernstig beschadigd. Het vlaggenschip de Vrijheid strandde, gelukkig tijdelijk, op de kust van Minorca. De Admiraal de Ruyter verloor zijn boventuig. Het schip Prins Willem dreigde verschillende malen op de rotsen van het eiland Minorca verbrijzeld te worden. Den Noord-Holland verloor haar masten Het gehavende schip zwierf dagen lang stuurloos rond.</p> <p>De Drenthe ging verloren in de woorden van De Jonge:</p> <p><em>Daarentegen trof het schip Drenthe eene ontzettende ramp. Deze vier en zestiger, na den storm gedurende den eersten nacht te zijn doorgeworsteld, sloeg des morgens ten 8 ure van den 3 Februarij om , en zonk met de 450 zielen welke hij bevatte, in de diepte des afgronds</em><br><em>neder, zonder dat de Noord-Holland en de Medea, in wier nabijheid deze vreeselijke gebeurtenis plaats vond, eenige hulp konden bieden of zelfs &eacute;&eacute;n enkel man redden. (Jonge V, 71)</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: De Drenthe werd aanbesteed en gebouwd op een particuliere werf in Amsterdam 1782.</p> <p>De Jonge geeft als belangrijke oorzaak van het vergaan van de linieschepen Unie, Drenthe en de Holland de inferieure bouwkwaliteit en het groene hout en de haast waarmee gebouwd werd (Jonge V, p 5).</p> <p>Bewapening: 64-66</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Smissaert, B.G.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>450</td></tr><tr><th scope=\"row\">Lengte</th><td>167 &frac12; Amsterdamse&nbsp;voet (47,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jonge, J.C.<br /><a href=\"https://www.dbnl.org/arch/jong102gesc11_01/pag/jong102gesc11_01.pdf\">Geschiedenis van Het Nederlandsche Zeewezen, V.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

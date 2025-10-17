@@ -1,0 +1,27 @@
+{
+  "id": "518",
+  "code": "barbestein",
+  "name": "Barbestein",
+  "type": "wreck",
+  "lat": "5.9210000",
+  "lon": "80.4170000",
+  "location": "Galle, Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1717",
+  "firstyearend": null,
+  "lastdate": "1735-10-23",
+  "lastyear": "1735",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2015-05-19 00:00:00",
+  "modified_on": "2025-06-19 19:41:29",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Zeeuwse VOC schip <em><strong>Barbestein</strong></em> maakte zes succesvolle retourreizen tussen 1718 en 1732.<br>Haar laatste uitreis begon 14-5-1732 vanuit Rammekens met bestemming Batavia (aankomst 10-4-1733)<a href=\"https://www.vocsite.nl/schepen/10083/\">&sup1;</a></p> <p>Haar laatste reis ging van Batavia via Ceylon en vandaar bestemd naar Nederland. Tussen 17 en 22 september 1735 kwam ze in Gall (Ceylon) aan.<br><br>Door storm is de Barbestein daar van haar ankers geslagen en vergaan. De opvarenden werden gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>160 Amsterdamse&nbsp;voet (45,3 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0021?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol 14.</a></li><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/93913\">DAS 2875.6.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

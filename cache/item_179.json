@@ -1,0 +1,27 @@
+{
+  "id": "179",
+  "code": "bw2",
+  "name": "B&W2",
+  "type": "wreck",
+  "lat": "55.6460000",
+  "lon": "12.5960000",
+  "location": "Copenhagen, Denemarken",
+  "firstdate": null,
+  "firstyear": "1600",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1620",
+  "lastyearend": null,
+  "country": "Denemarken",
+  "countrycode": "DK",
+  "author": "Martijn Manders",
+  "created_on": "2010-06-19 00:00:00",
+  "modified_on": "2025-04-17 13:11:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.abc.se/~pa/uwa/wreck-dk.htm\">Wrecks &amp; Shipfinds in Denmark.</a></li><li><em>Christian P.P. Lemee, 2006: The Renaissance Shipwrecks from ChristianshavnAn Archaeological and Architectural Study of Large Carvel Vessels in Danish Water, 1580-1640, Viking Ship Museum, Roskilde.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

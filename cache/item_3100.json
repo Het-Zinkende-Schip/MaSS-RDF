@@ -1,0 +1,27 @@
+{
+  "id": "3100",
+  "code": "zon-2",
+  "name": "Zon",
+  "type": "wreck",
+  "lat": "51.2535791",
+  "lon": "2.3308307",
+  "location": "Vlaamse banken, Noordzee",
+  "firstdate": null,
+  "firstyear": "1640",
+  "firstyearend": null,
+  "lastdate": "1653-06-13",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2023-06-29 15:06:34",
+  "modified_on": "2025-06-15 21:19:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Vergulde Zon, Zon was een Directie-schip van het Noorderkwartier (Edam)</p> <p>Veroverd door de Engelsen in de zeeslag bij Nieuwpoort 12-13 juni 165.3.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 28</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jacob Klaasz. Duijn</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Vreugdenhil, A.<br /><a href=\"https://nla.gov.au/nla.obj-33239056/view?partId=nla.obj-82155443#page/n14/mode/1up\">Lists of Men-of-War 1650-1700: Part IV Ships Of The United Netherlands 1648-1702,nr.989.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

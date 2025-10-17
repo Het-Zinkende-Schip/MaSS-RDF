@@ -1,0 +1,27 @@
+{
+  "id": "3147",
+  "code": "benakat",
+  "name": "Benakat",
+  "type": "wreck",
+  "lat": "0.5761871",
+  "lon": "-17.8667115",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1935",
+  "firstyearend": null,
+  "lastdate": "1943-05-20",
+  "lastyear": "1943",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-10-26 10:40:02",
+  "modified_on": "2025-06-16 19:07:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Benakat</strong></em> was een tanker. Op weg van Kaapstad naar Baltimore en varende in ballast, onder kapitein C.J. Grootes, getorpedeerd door de Duitse onderzeeboot '<em>U 197</em>'.</p> <p>De bemanning kon worden gered. Het schip deed tussen 1939 en maart 1942 als <em>Tan 7</em> regelmatig dienst voor de Koninklijke Marine in Nederlands-Indi&euml;. Ze week succesvol uit naar Australi&euml;. En werd daarna weer vrijgegeven door de Koninklijke Marine.</p> <p><a href=\"https://www.uboat.net/allies/merchants/crews/ship2934.html\">Lijst van opvarenden</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: N.V. Nederlandsche Koloniale Tankvaart-Maatschappij</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>C.J. Grootes</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>44</td></tr><tr><th scope=\"row\">Lengte</th><td>379 voet (115,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>64 &frac14; voet (19,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>4763 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=884\">marhisdata id 884.</a></li><li><a href=\"https://www.uboat.net/allies/merchants/ship/2934.html\">uboat.net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

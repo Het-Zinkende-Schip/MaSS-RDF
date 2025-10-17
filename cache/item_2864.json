@@ -1,0 +1,27 @@
+{
+  "id": "2864",
+  "code": "telegraaf",
+  "name": "Telegraaf XVIII",
+  "type": "wreck",
+  "lat": "52.0526031",
+  "lon": "3.7514191",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1914",
+  "firstyearend": null,
+  "lastdate": "1917-06-24",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Will Brouwers",
+  "created_on": "2022-05-28 11:53:17",
+  "modified_on": "2025-07-17 10:52:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00003186.jpg\" alt=\"tekst: Torpedo's en Mijnen. Zondagmiddag zijn te Scheveningen aangebracht 10 schipbreukelingen van het s. Telegraaf XVIII, welke door de SCH 60 10 mijlen uit de kust werden opgepikt. 's Ochtends 4 uur was de Telegraaf XVIII 26 mijlen ten Westen van Hoek v. Holland door een Duitsche duikboot in den grond geschoten en nadat de opvarenden een paar uur in een sloep hadden vertoefd, werden zij door oor de SCH 60 opgenomen. De 10 geredden maakten de geheele be-manning uit van het gezonken schip, niemand was gewond. De bemanning is naar Rotterdam vertrokken. (Het stoomschip vertrok Zaterdag van Rotterdam).\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: E. J. Smit &amp; Zoon, Hoogezand<br>Eigenaar: Ch. Cornelder &amp; Zn. Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>10</td></tr><tr><th scope=\"row\">Lengte</th><td>158 &frac34; voet (48,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>21 &frac34; voet (6,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>306 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=&quot;Telegraaf+XVIII&quot;&amp;facets[periode][]=2|20e_eeuw|1910-1919|1917|&amp;facets[spatial][]=Landelijk&amp;sortfield=date&amp;page=3&amp;identifier=MMKB19:000727178:mpeg21:a00011&amp;resultsidentifier=MMKB19:000727178:mpeg21\">Scheepvaart   25-06-1917.</a></li><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=6442\">Telegraaf XVIII.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

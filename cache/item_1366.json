@@ -1,0 +1,27 @@
+{
+  "id": "1366",
+  "code": "noord-holland-1670",
+  "name": "Noord Holland",
+  "type": "wreck",
+  "lat": "50.7644331",
+  "lon": "0.3127670",
+  "location": "Beachy Head, Eastbourne, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1670",
+  "firstyearend": null,
+  "lastdate": "1690-07-10",
+  "lastyear": "1690",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-28 13:29:22",
+  "modified_on": "2025-07-02 17:32:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Noord Holland</strong></em> was onderdeel van het Hollandse eskader in de zeeslag bij Beachy Head die op 10 juli 1690 als onderdeel van de Negenjarige Oorlog werd uitgevochten. De zeeslag werd uitgevochten tussen Brits-Nederlandse vloot o.l.v. admiraal Arthur Torrington en de Franse vloot o.l.v. De Tourville. De Franse vloot behaalde een klinkende overwinning. (zie <a href=\"/slag-bij-beachy-head\">slag bij Beachy Head</a>).</p> <p>De bemanning van de Noord Holland bracht hun eigen schip tot zinken (in de grond geboort) opdat het niet in handen van de vijand zou vallen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001811.png\" alt=\"De afbeelding toont een kaart van Het Kanaal met de bewegingen van vloten tijdens de Negenjarige Oorlog, specifiek de aanloop naar en de nasleep van de Slag bij Beachy Head\"> <div class=\"img-source\">Historicair</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: admiraliteits werf, 1670<br>Eigenaar: Admiraliteit van Amsterdam</p> <p>Bewapening: 44</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Rudolf Swaan</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>190</td></tr><tr><th scope=\"row\">Lengte</th><td>133 &frac34; voet (40,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>35 voet (10,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Evertsen, C.<br /><em>Brief van l.uit. Admiraal Cornelis Evertsen 17 -7 -1690.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2557",
+  "code": "teerhof-3-4",
+  "name": "Teerhof 3 + 4",
+  "type": "wreck",
+  "lat": "53.0741966",
+  "lon": "8.8010359",
+  "location": "Bremen-Teerhof, Duitsland",
+  "firstdate": null,
+  "firstyear": "1681",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-10 14:20:07",
+  "modified_on": "2025-07-11 14:16:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><figure class=\"img-wrapper\"><img src=\"/photos/l/00002577.png\" alt=\"The image shows a map of the Hanseatic city of Bremen, Germany, with a detailed view of the Weser River and the surrounding city.\"> <div class=\"img-source\">Daniel Zwick + Geoinformation Bremen</div> </figure> <p>The wrecks were well preserved up to lengths of 17 and 11 metres and represent river-craft. Only the bow and stern sections as well as parts of the side planking were not preserved.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Teerhof 3 features a mast-step (cf. photo below). It can be doubted that the vessel carried a sail, so it seems more likely that it carried a towing-mast.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002578.png\" alt=\"photo of an excavated barge, with a group of people next to it\"> <div class=\"img-source\">M&uuml;cke 2011</div> </figure> <p>The wrecks feature so-called L-shaped chine girders, but with a greater angle in cross-section, as there is no sharp transition at the turn of the bilge.</p> <p>Teerhof 3 (<em>Lastkahn 1</em>) dates to 1681 and Teerhof 4 (<em>Lastkahn 2</em>) to 1668. Both wrecks seem to have ended here at the same time in the beginning of the 18th century. They are situated in a former canal once seperating the <em>Teerhof</em> (Bremen's historic shipyard) and a gunpowder tower known as 'Braut' (literally: bride), which was filled at this time. Thus, the wrecks might have been purposely abandoned here to serve as foundation.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wrecks were salvaged and PEG-conserved at the DSM (German Maritime Museum) and studied within the framework of a Master's thesis.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Bischop, D. (2011).<br /><em>Die zwei Weserlastkähne der Beluga-Baugrube auf dem Bremer Teerhof.</em><br />Skyllis 10.<br />pp 56-64.</li><li>Mücke, R. (2011).<br /><em>Weserlastkähne im archäologischen Befund.</em><br />Deutsches Schiffahrtsarchiv 34.<br />pp 35-86.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

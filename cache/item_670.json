@@ -1,0 +1,27 @@
+{
+  "id": "670",
+  "code": "utrecht-3",
+  "name": "Utrecht 3",
+  "type": "wreck",
+  "lat": "52.0947809",
+  "lon": "5.1135252",
+  "location": "Waterstraat, Utrecht, Nederland",
+  "firstdate": null,
+  "firstyear": "1000",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1025",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-10 12:35:24",
+  "modified_on": "2025-10-16 10:28:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Two ships were found in the Waterstraat in Utrecht in 1974: the Utrecht 2 (extended logboat) and the Utrecht 3 (an almost complete barge).</p> <p>The Utrecht 3 was discarded and reused as revetment /quay works.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>It was a large flat-bottomed vessel of 23 by 3.3 to 4 meters. Dendrochronological research dates the ship after around 1004. The wood comes from the Ardennes. The Utrecht 3 shows many construction similarities with Deventer I and II.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><ul> <li>Wynia, H., 2015: Pompeii aan de Rijn. Bijzondere Utrechtse scheepsvondsten, <em>Oud Utrecht</em> 88, juni, 80-87</li> <li>Brouwers, W./E. Jansma/M. Manders, <a href=\"https://www.academia.edu/27529112/Middeleeuwse_scheeps-_resten_in_Nederland\">Middeleeuwse scheeps- resten in Nederland</a></li> </ul></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Brouwers W, Jansma E. Manders M. (2015).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000086.pdf\">Middeleeuwse scheepsresten in Nederland, de vroege middeleeuwen 500-1050.</a><br />Archeobrief, 3.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

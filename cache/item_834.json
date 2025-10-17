@@ -1,0 +1,27 @@
+{
+  "id": "834",
+  "code": "batavier-1793",
+  "name": "Batavier",
+  "type": "wreck",
+  "lat": "-8.2548696",
+  "lon": "118.7520072",
+  "location": "Bima, Sumbawa, Indonesië",
+  "firstdate": "1783-07-02",
+  "firstyear": "1783",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1793",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-09-30 13:51:17",
+  "modified_on": "2025-06-30 13:08:38",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Batavier </strong></em>werd opgeleverd op 2 juli 1783. Deze feestelijke gebeurtenis is vastgelegd in een kopergravure, gemaakt door Cornelis Brouwer in 1783.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004128.png\" alt=\"Zeilschepen bij elkaar op het water met huizen op de achtergrond.\"> <div class=\"img-source\">RP-P-OB-85.266</div> <figcaption class=\"img-description\">Zeilschepen bij elkaar op het water met huizen op de achtergrond.</figcaption> </figure> <p class=\"figcaption\">Kopergravure van Cornelis Brouwer memorerende de te waterlating van drie VOC schepen Batavier, Doggersbank en Meermin op 2 juli 1783. <a title=\"RP-P-OB-85.266\" href=\"https://cultureelerfgoed.info/mass/?file=00000219.jpg\" target=\"_blank\" rel=\"noopener\">bekijk de gravure met tekst&nbsp;</a></p> <p>Het schip werd vervolgens 2 jaar opgelegd (van 1782/83 tot 1783/84) i.v.m. de Vierde Engelse oorlog (1780-1784), voordat het aan haar eerste reis kon beginnen (1-6-1784).</p> <p>De tweede en laatste reis begon op 13 juni 1790. Ze kwam aan op 8 februari 1791 in Batavia.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0247?eadID=1.04.02&amp;unitID=4935&amp;query=\">*</a><br>In 1793 liep De Batavier bij Bima op het eiland Sumbawa aan de grond en is vergaan. In Bima was een VOC kantoor. Hier werd vooral Sappan hout geladen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Werf: Amsterdam, 1782.&sup2;<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pieter Volkwart jr. van Amsterdam</td></tr><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>900 ton (450 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95710\">DAS 4672.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/6810/file/NL-HaNA_1.04.02_6810_0009?eadID=1.04.02&amp;unitID=6810&amp;query=Batavier\">6810 Batavier: Grootboek en journaal, 1790 - 1791 1790 - 1791.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

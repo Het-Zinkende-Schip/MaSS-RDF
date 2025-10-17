@@ -1,0 +1,27 @@
+{
+  "id": "693",
+  "code": "abrahams",
+  "name": "Abrahams Offerhande",
+  "type": "wreck",
+  "lat": "-8.0663002",
+  "lon": "-34.8221282",
+  "location": "Recife, Brazilië",
+  "firstdate": null,
+  "firstyear": "1621",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1636",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-16 16:53:53",
+  "modified_on": "2024-11-20 09:32:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Yard: Amsterdam</p> <p>WIC chamber of Amsterdam</p> <p>Complement /soldiers: 87</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>De Laet, IV. 200.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

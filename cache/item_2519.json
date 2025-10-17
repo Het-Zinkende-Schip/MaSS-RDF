@@ -1,0 +1,27 @@
+{
+  "id": "2519",
+  "code": "stade-buetzfleth",
+  "name": "Stade-Bützfleth",
+  "type": "wreck",
+  "lat": "53.6599804",
+  "lon": "9.5086670",
+  "location": "Stade-Bützfleth, Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1630",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-18 13:51:26",
+  "modified_on": "2025-06-14 16:04:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The pre-investigations with side-scan sonar for the planned extension of the B&uuml;tzfleth port facility has lead to the discovery of an entirely preserved shipwreck from the 17th century. The wreck is still <em>in situ</em>, but it is planned to salvage the wreck and put it on museum display.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>46 voet (14 m)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

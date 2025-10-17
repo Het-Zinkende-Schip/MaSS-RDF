@@ -1,0 +1,27 @@
+{
+  "id": "3040",
+  "code": "sint-jan",
+  "name": "Sint Jan",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Nederland",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1675",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-12-19 10:28:51",
+  "modified_on": "2024-09-24 09:35:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Sint Jan</strong></em> was een fregat dat deel uitmaakte van de vloot van de Republiek in de <a href=\"https://nl.wikipedia.org/wiki/Eerste_Engels-Nederlandse_Oorlog\">Eerste Engelse-Nederlandse oorlog</a>.</p> <p>fregat Sint Jan nam deel aan de slag bij Plymouth in eskader van Michiel de Ruyter (26-8-1652). (Bender, 66).<br>Een brander Sint Jan wordt genoemd in 1672. (Vreugdenhil, 715)</p> <p><strong>Ondergang<br></strong>Een Sint Jan vloog in 1675 in de lucht door onvoorzichtig handelen in de kruitkamer. Het is niet zeker of dat deze Sint Jan betreft.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het is (nog) niet duidelijk of het over de zelfde Sint Jan gaat</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>NIMH scheepsdocumentatie nr 906.</em></li><li><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=14661\">Sint Jan, threedecks.org.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1234",
+  "code": "tulp",
+  "name": "Tulp",
+  "type": "wreck",
+  "lat": "-16.8064371",
+  "lon": "49.8275411",
+  "location": "Madagaskar",
+  "firstdate": null,
+  "firstyear": "1653",
+  "firstyearend": null,
+  "lastdate": "1655-12-02",
+  "lastyear": "1655",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-21 12:00:03",
+  "modified_on": "2024-11-11 09:37:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Tulp</em> vertrekt 23-12-1653 uit Texel met bestemming Kaap kolonie daar komt het galjoot aan op 18-4-1654.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/4/file/NL-HaNA_1.11.06.18_4_0099?eadID=1.11.06.18&amp;unitID=4&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">&sup1;</a></p> <p>&nbsp;14 -8- 1655 vertrekt het galjoot van de Kaap kolonie onder Frederik Verburgh naar Madagaskar en Mauritius. Daar was al eerder rijst ingekocht .</p> <p>Na het vertrek van Mauritius deed de Tulp een aantal plaatsen in de buurt van de Baai van Antongil op Madagaskar aan en kocht daar rijst in. Terwijl het galjoot geankerd lag tussen de oostkust van Madagaskar en het eiland St Marie dat dicht voor die kust ligt, werd het getroffen door een orkaan, sloeg van zijn ankers en strandde op 2-12-1655 op de kust van Madagaskar.</p> <p>&nbsp;<em>Er brak een orkaan los en de Tulp spilde van haar ankers: Dreef stuurloos en werd: loopende met een felle storm een weijnich tijts daernae de groote mast over boort smijtende, ende worden doen van de wint herwaerts ende derwaerts gedreven, geraeckten ten [scan 83] langen laesten tegens de strandt van Calaboelo, alwaer de galjot (God betert) met sijn volle ladinge verongeluckt is.</em> (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/7/file/NL-HaNA_1.11.06.18_7_0080?eadID=1.11.06.18&amp;unitID=7&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 31-3-1657</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: De Tulp staat in de egalisatie van de equipage van 30 september 1654 voor 25 last. Maar niet inde egalisaties van de timmering Ze is niet gebouwd op een VOC werf. en dus gehuurd of aangekocht. .<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7348/file/NL-HaNA_1.04.02_7348_0327?eadID=1.04.02&amp;unitID=7348&amp;query=%207347\">&sup2;</a></p> <p>Tonnage: Het laadvermogen was waarschijnlijk ca 40 last, want dat was de hoeveelheid rijst die volgens de bronnen als volle lading aanwezig was tijdens de stranding.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91902\">DAS 0785.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/5/file/NL-HaNA_1.11.06.18_5_0167?eadID=1.11.06.18&amp;unitID=5&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 14-8-1655.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

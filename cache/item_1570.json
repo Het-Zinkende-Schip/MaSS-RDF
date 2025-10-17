@@ -1,0 +1,27 @@
+{
+  "id": "1570",
+  "code": "amsterdam-1652-2",
+  "name": "Amsterdam",
+  "type": "wreck",
+  "lat": "52.0406660",
+  "lon": "4.1475105",
+  "location": "Ter Heijde, Nederland",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1653-08-12",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-26 17:32:09",
+  "modified_on": "2025-06-10 19:18:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Door brand verloren gegaan. tijdens de slag bij Ter Heijde.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 32<br><br>bron NIMH</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Vreugdenhil, A. (1938).<br /><em>Ships of the United Netherlands, 1648-1702.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1102",
+  "code": "oranje-1614",
+  "name": "Oranje",
+  "type": "wreck",
+  "lat": "-4.7830096",
+  "lon": "112.6669933",
+  "location": "East Indies",
+  "firstdate": null,
+  "firstyear": "1605",
+  "firstyearend": null,
+  "lastdate": "1614-10-02",
+  "lastyear": "1614",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-28 17:41:26",
+  "modified_on": "2024-12-16 16:45:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Oranje is volgens uitloopboek voor Middelburg uitgelopen en vergaan 2 oktober 1614 in Oost Indi&euml;.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: op een werf in Amsterdam<br>Eigenaar: VOC kamer Amsterdam<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>700 ton (350 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91197\">DAS entry 0159.3</a></p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91197\">Details of voyage 0159.3 from Wielingen to Bantam.</a></li><li>Nationaal archief.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7343/file/NL-HaNA_1.04.02_7343_0318?eadID=1.04.02&amp;unitID=7343&amp;query=7343\">NA 1.04.02 (VOC) - 7343 [scans 318/19].</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0019?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">Uitloopboekje van schepen van 1603 tot en met 1700.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

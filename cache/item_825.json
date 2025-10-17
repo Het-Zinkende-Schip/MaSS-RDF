@@ -1,0 +1,27 @@
+{
+  "id": "825",
+  "code": "pieter-de-bitter-hrms",
+  "name": "Hr.Ms. Pieter de Bitter",
+  "type": "wreck",
+  "lat": "-7.2082730",
+  "lon": "112.7000428",
+  "location": "Surabaja, Indonesië",
+  "firstdate": null,
+  "firstyear": "1936",
+  "firstyearend": null,
+  "lastdate": "1942-03-06",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-09-16 12:44:53",
+  "modified_on": "2025-06-07 20:31:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: mijnenveger, Jan van Amstel klasse&nbsp;<br>Bouw: Machinefabriek &amp; Scheepswerf P. Smit, Rotterdam, 1937</p> <p>Afmetingen: 56 x 7,8x 2,2&nbsp;<br>Tonnage: 525 verp (boven)<br><br>Voortstuwing: stoom; 2 &times; Stork triple expansion engines, 2 &times; Yarrow 3-drum boilers,dual shaft, 2 screws [*]<br>Vermogen: 1600 pk<br>Snelheid: 15 knopen<br><br>Bewapening: 1 x 3 inch gun, 4 x 0,50 inch A.A. (2x2), 40 mines<br>Bemanning: 45</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Afgezonken in de haven van Soerabaja met dieptebommen.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>netherlandsnavy.nl.<br /><a href=\"http://www.netherlandsnavy.nl/Abcclass.htm\">ABC-class auxiliary minesweepers.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

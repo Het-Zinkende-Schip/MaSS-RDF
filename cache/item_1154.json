@@ -1,0 +1,27 @@
+{
+  "id": "1154",
+  "code": "haan-2",
+  "name": "Haan",
+  "type": "wreck",
+  "lat": "60.1577169",
+  "lon": "-1.1439697",
+  "location": "Alexandra warf, Lerwick, Shetland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1640-06-15",
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-20 14:14:43",
+  "modified_on": "2025-06-09 23:00:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Haan</em> was waarschijnlijk konvooischip (fregat) van de admiraliteit. In 1640 werd het naar de Shetland eilanden gestuurd om de VOC retourvloot op te vangen en te begeleiden. Het eskader bestond uit vier schepen: de <em>Reiger</em>, <em>Enkhuizen</em>, <em>Johannes </em>en de <em>Haan<strong>.</strong></em></p> <p>In de baai van Lerwick werden ze verrast door een Duinkerker eskader en er ontstond een gevecht. Tijdens dit gevecht zonken de <em>Haan</em>, de <em>Reiger</em> en de <em>Johannes</em>. De Enkhuizen werd buit gemaakt door de Duinkerkers. De <em>Haan </em>zonk bij de noordoosthoek van Alexandra Wharf.</p> <p>In Canmore ID 237132 (zie referenties) wordt de <em>Haan</em> omschreven als een VOC schip.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Archeologische classificatie:</p> <p>Canmore ID 237132</p> <p>Site Number&nbsp;HU44SE 8011</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Nigel Pickford, Lost Treasure Ships of the Northern Seas: A Guide and Gazetteer to 2000 Years of Shipwreck.</em></li><li><a href=\"https://canmore.org.uk/site/237132/de-haan-alexandra-wharf-lerwick-harbour-bressay-sound\">De Haan in Canmore.</a></li><li><a href=\"https://canmore.org.uk/site/237132/de-haan-alexandra-wharf-lerwick-harbour-bressay-sound\">De Haan: Alexandra Wharf, Lerwick Harbour, Bressay Sound.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

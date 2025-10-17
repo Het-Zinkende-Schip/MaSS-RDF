@@ -1,0 +1,27 @@
+{
+  "id": "1325",
+  "code": "rotterdam-1716",
+  "name": "Rotterdam",
+  "type": "wreck",
+  "lat": "-33.9257600",
+  "lon": "18.4410620",
+  "location": "Woodstock Beach, Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1716",
+  "firstyearend": null,
+  "lastdate": "1722-06-17",
+  "lastyear": "1722",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-05-25 18:52:16",
+  "modified_on": "2024-10-02 10:37:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Rotterdam</strong></em> is gebouwd in 1716 op de VOC werf in Rotterdam.</p> <p>Ze maakte twee succesvolle retourreizen. Ze vertrok voor haar derde uitreis op 3 maart 1722 vanuit Rammekens (Zeeland). Ze kwam aan in de Tafelbaai, Zuid Afrika op 13 juni, tijdens het winterseizoen.</p> <p><strong>Stormramp</strong><br>Op 16 juni brak een winterstorm los die de schepen in de Tafelbaai van de ankers deed slaan. Er lagen op dat moment vijf VOC retourschepen, twee kleinere VOC schepen en drie Engelse schepen. De schepen strandden of werden verbrijzeld op de klippen. Meer dan 600 opvarenden kwamen om bij de ramp.</p> <p><em>\"Omtrent den 13 junij door een verschrickelijke storm en seer ongemeene hoge watervloed, verseld van grouwelijke sware stortze&euml;n, alle schepen en mindere vaertuygen, dewelke omtrent gemelden tijd sig in de Tafelbhay bevonden, van voor haar anckers geslagen,</em><br><em>op strand gesmeten of tegens klippen en stranden verbrijseld waren,</em></p> <p><em>namendlijk de scheepen de Lakeman, Stantvastigheyd, Rotterdam, Soetigheyd en Schotse Lorrendrayer,ook de bregantijn Amy med de hoeker Gouda, buyten nog drie Engelse schepen als de Candos van</em><br><em>Calicut, Addison van Bengalen, Nigtingala van Engeland.\"&nbsp;</em></p> <p>gered werden van de Standvastigheid 15 schepelingen. Rotterdam 15. Zoetigheid 76. Schotse Lorrendraaier 17. Lakeman 132. waarvan er 152 te Batavia kwamen: aan 5 Engelse aan land gekomen<br>scheepsofficieren werd passage naar patria verleend.\" (<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=644&amp;accessor=search_in_text&amp;source=7&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;view=imagePane\">Gen. Miss</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Rotterdam, 1716<br>Eigenaar: Het schip voer oorspronkelijk voor de VOC kamer Rotterdam<br>Lengte: 145<br>Tonnage: 400<br>Bemanning: 225<br>Schipper: Gerrit Fiers</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gerrit Fiers</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>225</td></tr><tr><th scope=\"row\">Tonnage</th><td>800 ton (400 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93542\">DAS 2494.3.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=644&amp;accessor=search_in_text&amp;source=7&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26\">Generale missiven, Deel 7, 632.</a></li><li>Leon Derksen, John Gribble, Lesa la Grange, Martijn Manders and Briege Williams (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><em>SAHRA Database.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

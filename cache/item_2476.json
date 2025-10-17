@@ -1,0 +1,27 @@
+{
+  "id": "2476",
+  "code": "punta-bufadoiro",
+  "name": "Punta Bufadoiro",
+  "type": "wreck",
+  "lat": "43.3791400",
+  "lon": "-8.3517170",
+  "location": "A Coruña, Galicia, Spanje",
+  "firstdate": null,
+  "firstyear": "1500",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "David Rafael Ruiz Blanco",
+  "created_on": "2021-02-25 12:19:19",
+  "modified_on": "2025-06-14 15:32:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Scattered remains of pottery, ship fittings ordnance&hellip;</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

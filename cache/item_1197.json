@@ -1,0 +1,27 @@
+{
+  "id": "1197",
+  "code": "merenberg",
+  "name": "Merenberg",
+  "type": "wreck",
+  "lat": "51.4492643",
+  "lon": "-9.7577133",
+  "location": "Crookhaven, Ierland",
+  "firstdate": null,
+  "firstyear": "1773",
+  "firstyearend": null,
+  "lastdate": "1786-11-02",
+  "lastyear": "1786",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-10 11:00:11",
+  "modified_on": "2024-12-17 17:45:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Merenberg</strong></em> strandde bij Crookhaven in Ierland. De lading werd overgenomen door de <em><strong>Eikenwoud</strong></em> (renamed <em><strong>Merenberg</strong></em>). De Merenberg werd gesloopt in 1787.</p> <p>Verder oostelijk, in de buitenhaven van Castlehaven, zonk het Spaanse admiraalschip van de Zilvervloot, buitgemaakt door Piet Heyn: de Santa Ana Maria.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: spiegelretourschip?<br>Gebouwd: Hoorn, 1773<br>Eigenaar: VOC kamer Enkhuizen<br>Lengte: 140 vt<br>Tonnage: 425<br>Bemanning:&nbsp;<br>Kapitein: Willem de Wijn</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95573\">DAS 4535.4.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

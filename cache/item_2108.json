@@ -1,0 +1,27 @@
+{
+  "id": "2108",
+  "code": "zj40-41",
+  "name": "ZJ40-41",
+  "type": "wreck",
+  "lat": "52.4221800",
+  "lon": "5.4474800",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": "1525",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1575",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:32:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1972 is op kavel J41 in Zuidelijk Flevoland, tussen de Ooievaarsweg en de Knardijk, bij het graven van een sloot een scheepswrak aangetroffen. Na de melding is in hetzelfde jaar door het voormalige Centrum voor Scheepsarcheologie een verkenning uitgevoerd. In 1980 is er een herverkenning uitgevoerd. De huidige locatie waar het wrak is gevonden is tussen de Ooievaarsweg en de Knardijk. Het scheepswrak is een karveel gebouwd vissersschip dat behoort tot het type waterschip. Vermoedelijk is het wrak in het midden van de zestiende eeuw vergaan. Tijdens het graven van de sloot is het voorschip tot op de bodem ernstig beschadigd. Ook de voor- en achtersteven en de bovenkant van de stuurboordzijde waren tijdens de verkenning in 1972 niet meer aanwezig. Het schip was ongeveer 17,6 meter lang en 6,2 meter breed. Er is tijdens het onderzoek geen inventaris aangetroffen. Op het voor- en achterschip zijn wel ballaststenen gevonden. Doordat de hoogste delen van het wrak tot in de bouwvoor aanwezig waren, is het wrak aangetast door uitdroging. De kwaliteit van de dieper gelegen delen was aanzienlijk beter.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een karveel gebouwd vissersschip uit het midden van de zestiende eeuw, Zeewolde.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002040.jpg\" alt=\"Een kijkje in de eerste proefsleuf. Het ontbrekende deel van het achterschip is verwijderd door graafmachines bij het graven van de kavelsloot.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Een kijkje in de eerste proefsleuf. Het ontbrekende deel van het achterschip is verwijderd door graafmachines bij het graven van de kavelsloot.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002040.jpg\" alt=\"Een kijkje in de eerste proefsleuf. Het ontbrekende deel van het achterschip is verwijderd door graafmachines bij het graven van de kavelsloot.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Een kijkje in de eerste proefsleuf. Het ontbrekende deel van het achterschip is verwijderd door graafmachines bij het graven van de kavelsloot.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x9d-66ja\">Opgravingsdocumentatie scheepswrak ZJ40-41.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

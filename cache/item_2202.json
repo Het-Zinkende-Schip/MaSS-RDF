@@ -1,0 +1,27 @@
+{
+  "id": "2202",
+  "code": "koning-david-1652",
+  "name": "Koning David",
+  "type": "wreck",
+  "lat": "51.1379580",
+  "lon": "1.5947621",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1650",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-08 11:04:11",
+  "modified_on": "2025-10-08 16:31:22",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Koning David was oorspronkelijk een particulier handelschip. Het fluitschip werd in 1652 door de eigenaar Barent de Vossch aan de admiraliteit van Rotterdam verkocht.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001701.jpg\" alt=\"De zeeslag bij Nieuwpoort\"> <div class=\"img-source\">rmg ID BHC0276</div> <figcaption class=\"img-description\">Witmont, Heerman</figcaption> </figure> <p>Het schip werd vervolgens ingericht als brander met een kleine kern bemanning. *</p> <p>In de zeeslag bij Nieuwpoort (battle of the Gabbard) werd het schip ingezet en is daarbij waarschijnlijk verbruikt op 13 juni 1653.</p>  <ul> <li> <p class=\"note\">Een brander was een schip dat gevuld werd met uiterst brandbaar materiaal bedoeld om tegen vijandelijke schepen in te zetten en die vervolgens in lichter laaien te zetten.</p> </li> </ul></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Dimensies: 98 x 23,5 x 10,75</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Arendszoon, Jacob</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>14</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender J.A.<br /><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=24160\">Koning David.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

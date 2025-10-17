@@ -1,0 +1,27 @@
+{
+  "id": "2488",
+  "code": "lecker-au",
+  "name": "Lecker Au (200 A.D.)",
+  "type": "wreck",
+  "lat": "54.7686521",
+  "lon": "8.9339447",
+  "location": "Lecker Au, Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "200",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-08 11:11:20",
+  "modified_on": "2025-06-14 15:46:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The logboat was discovered during river regulation excavations in 1953 to the west of the municipality of Leck.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The logboat was worked from an oak trunk of a diameter of ca. 1,6m. The log's interior was reinforced with 12 ribs. The wreck was C14-dated to ca. 200 A.D.</p> <p>The mode of propulsion is evidenced by the finding of a paddle in the wreck as well as a mast-step in frame 8. It is not clear whether it carried a mast for sailing or for a towrope. The narrow hull and the riverine context would suggest the latter.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>43 voet (13,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>4 &frac12; voet (1,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Although it was professionally documented and salvaged, the wreck was not conserved and only few fragments survived.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Hirte, C. (1989).<br /><em>„..quarum quaedam et triginta homines ferunt“? Bemerkungen zu Befund und Funktion der kaiserzeitlichen Stammboote von Vaale und Leck.</em><br />Offa 46.<br />pp 111-136.</li><li>Salemke, G. (1977).<br /><em>Der Einbaum mit Spanten von der Lecker Au, Kreis Südtondern.</em><br />Das Logbuch 13.1, 5, 9.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

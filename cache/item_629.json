@@ -1,0 +1,27 @@
+{
+  "id": "629",
+  "code": "bruinvis-2",
+  "name": "Bruinvis",
+  "type": "wreck",
+  "lat": "-0.1604002",
+  "lon": "103.6472170",
+  "location": "Indragiri, Sumatra, Indonesië",
+  "firstdate": null,
+  "firstyear": "1620",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1622",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-04-09 20:49:47",
+  "modified_on": "2025-03-05 08:50:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>affdryvende op een boom aen de grondt geraect, geborsten ende gebleven met sijn last en al datter by was. Soo d'onse het geschut ende enige peper meenden te bergen, wierden door den coninck van daer gedreven. 't Geschut ende eenige peper heeft hy, als voor hem verbeurt wesende aengeslagen, doch 't schijnt dat selffs daerover vry wat becommert sijn. Wy hebben d'onse gelast hert aen te houden omt selve weder te becomen. Watter op volgen wil sal den tijdt leeren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Egalisatie lijst no. 8, 1622<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/11353/file/NL-HaNA_1.04.02_11353_0006?eadID=1.04.02&amp;unitID=11353&amp;query=11353\">*</a><br>Tonnage 25 last <a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0032?query=\">**</a></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Colenbrander H.T.<br /><a href=\"https://archive.org/details/janpieterszcoenb01coen/page/778/mode/2up\">Bescheiden Coen dl 1, p. 779 [Coen naar patria &gt; 20-6-1623].</a></li><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/91293\">DAS 0255.1.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

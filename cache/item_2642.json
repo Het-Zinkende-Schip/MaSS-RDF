@@ -1,0 +1,27 @@
+{
+  "id": "2642",
+  "code": "hiddensee-12",
+  "name": "Hiddensee 12",
+  "type": "wreck",
+  "lat": "54.5292107",
+  "lon": "13.0781937",
+  "location": "Hiddensee, Duitsland",
+  "firstdate": null,
+  "firstyear": "1804",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1825",
+  "lastyearend": null,
+  "country": "Finland",
+  "countrycode": "FI",
+  "author": "Daniel Zwick",
+  "created_on": "2021-09-18 18:36:57",
+  "modified_on": "2025-07-11 17:55:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This wreck was discovered in 1996 during a survey by the regional society for underwater archaeology on the south-west coast of the island of Hiddensee. The use of double-clenched nails as lapstrake plank-to-plank fasteners (typical for Bremen-type wrecks, commonly associated with \"cogs\") as well as a medieval find-scatter in the vicinity led the responsible archaeologist Dr. Thomas F&ouml;rster to believe this was indeed a medieval wreck. His assumption was corroborated by a dendrochronological analysis, pointing to a felling date to around/after 1378.</p> <p>This was one of two wrecks associated with the illusive \"Baltic cog type\", a hypothesis based on iconographic evidence from ship-depictions on town seals. It differed in that it was a fully lapstrake-built vessel with a beam-keel, thereby deviating from some of the criteria set up for the Bremen-type or bottom-based tradition, which has been commonly associated with cogs. Moreover, instead of the more common oak, this vessel was entirely built of coniferous wood.</p> <p>The ship-timbers were revisited <em>ex situ</em> within the framework of Mike Belasus' PhD project, who commissioned a new dendrochronological analysis, carried out by Dr. Aoife Daly. This time 12 samples were taken. Surprisingly, the new analysis yielded a strikingly different result: The timber was felled 1804 or shortly thereafter. Based on the master chronologies for pine, the timber originated in south-west Finland.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The wreck has been noted for its second layer of flush-laid (carvel) planks covering the first layer of lapstrake planks.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002821.png\" alt=\"The image shows a cross-section of a ship\"> <div class=\"img-source\">Belasus 2017</div> </figure> <p>This style of construction was noted throughout the Baltic Sea region since the mid 16th century, with corresponding finds from Estonia, Poland, Sweden and Russia.</p> <p>Both, the construction and the choice of coniferous wood as building timber are regarded as indicators for small-scale coastal shipping in rural regions.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The ship-timbers are in a waterlogged storage. The legacy of this wreck's research history highlights that hypotheses on historical type-names can easily crumble when key assumptions about a find are refuted by hard scientific evidence. The archetype of a \"Baltic cog\" has already become ingrained in popular culture through the initial over-interpretation of this wreck-find.</p> <p>In fact, the Gellen wreck was presented as \"Gellen Cog\" (<em>Gellen-Kogge</em>) in the German pavilion at the World Exhibition \"Expo 2000\", described as an outstanding ambassador for Germany by high ranking officials. It turns out that this credit has to go to Finland instead!</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Belasus, M.  (2014).<br /><em>Tradition und Wandel im neuzeitlichen Klinkerschiffbau der Ostsee am Beispiel der Schiffsfunde Poel 11 und Hiddensee 12 aus Mecklenburg-Vorpommern (= Dissertation).</em><br />Universität Rostock.</li><li>Belasus, M.  (2017).<br /><em>Connecting maritime landscapes or early modern news from two former 'Baltic Cogs' (Mecklenburg-West Pomerania, Germany).</em><br />Ships And Maritime Landscapes (= Proceedings of the Thirteenth International Symposium on Boat and Ship Archaeology, Amsterdam 2012).<br />pp 179-184.</li><li>Daly, A. &amp; Belasus, M.  (2016).<br /><em>The Dating of Poel 11 and Hiddensee 12, Mecklenburg-West Pomerania, Germany.</em><br />The International Journal of Nautical Archaeology 45.1.<br />pp 170–205.</li><li>Förster, T.  (2009).<br /><em>Große Handelsschiffe des Spätmittelalters. Untersuchungen an zwei Wrackfunden des 14 Jahrhunderts vor der Insel Hiddensee und der Insel Poel (= Schriften des Deutschen Schiffahrtsmuseums 67).</em><br />Bremerhaven.</li><li>Lüth, F., Förster, T.  (1999).<br /><em>Schiff, Wrack, ’Baltische Kogge’.</em><br />Archäologie in Deutschland 4.<br />pp 8–13.</li><li>Die Welt.<br /><a href=\"https://www.welt.de/print-welt/article544372/Expo-Mittelalterliche-Kogge-getauft.html\">Expo: Mittelalterliche Kogge getauft.</a></li><li>Der Spiegel.<br /><a href=\"https://www.spiegel.de/wissenschaft/mensch/ostseewracks-neu-datiert-beruehmte-schiffe-sind-offenbar-juenger-als-vermutet-a-779284.html\">Ostseewracks neu datiert: Berühmte Schiffe sind offenbar jünger als vermutet.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1022",
+  "code": "soemba",
+  "name": "Soemba",
+  "type": "wreck",
+  "lat": "46.5552089",
+  "lon": "-52.8958739",
+  "location": "Cape Race, Newfoundland, Canada",
+  "firstdate": null,
+  "firstyear": "1924",
+  "firstyearend": null,
+  "lastdate": "1941-01-05",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-07 12:41:29",
+  "modified_on": "2025-06-09 13:02:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op weg van Philadelphia via Halifax naar Engeland met een lading piekijzer, gekapseisd tijdens stormweer op de Atlantische Oceaan ten oosten van Cape Race (Newfoundland) in positie 45.52&deg; N / 49.10&deg; W. tijdens zwaar weer.</p> <p>36 opvarenden komen om het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Cargo vessel<br>Gebouwd: Conrad, Scheepswerf &amp; Werktuigenfabriek, Zaandam, 1924<br>Eigenaar: N.V. Stoomvaart Maatschappij Nederland, Amsterdam<br>Dimensies: 128.02 x 16.61 x 10.97 Meters Registered<br>Tonnage: 4178<br>Voortstuwing: Steam, Turbine, power: 2600<br>Snelheid: 12<br>Bemanning:<br>Kapitein: J. Leguit</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 61.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6025\">Maritiem Historische Data ID 6025.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

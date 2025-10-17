@@ -1,0 +1,27 @@
+{
+  "id": "2626",
+  "code": "vidskar",
+  "name": "Vidskär",
+  "type": "wreck",
+  "lat": "59.8680552",
+  "lon": "20.9797668",
+  "location": "Vidskär, Korppoo, Finland",
+  "firstdate": null,
+  "firstyear": "1350",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1425",
+  "lastyearend": null,
+  "country": "Finland",
+  "countrycode": "FI",
+  "author": "Daniel Zwick",
+  "created_on": "2021-08-25 18:18:28",
+  "modified_on": "2025-07-11 17:49:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The site was discovered by sport divers and reported to the National Board of Antiquities of Finland. Three-legged bronze pots were discovered on the site (cf. photo) and lifted, which allowed a rough typological preliminary date.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002790.png\" alt=\"a jar at the bottom of the sea\"> <div class=\"img-source\">Wessman 2007</div> </figure> <p>In 2003 the site was investigated by divers of the National Board of Antiquities, and in 2006 it was mapped with a Remote Operated Vehicle (ROV).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Eroded remains of the wooden wreck were also observed, while the entire bottom-section is covered by ballast-stones, estimated to be well preserved. No details could be inferred from the covered structural remains yet.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Wessman, S.  (2007).<br /><em>Ship Fragments on the Seafloor – What Do We Know about Medieval Seafaring in Finland?.</em><br />pp 140-150.<br />Turku.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

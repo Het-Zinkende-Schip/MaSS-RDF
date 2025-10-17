@@ -1,0 +1,27 @@
+{
+  "id": "1535",
+  "code": "vredenhof-1763",
+  "name": "Vredenhof",
+  "type": "wreck",
+  "lat": "18.4170787",
+  "lon": "113.4667969",
+  "location": "Between Batavia and Nagasaki",
+  "firstdate": null,
+  "firstyear": "1763",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1768",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-14 11:15:04",
+  "modified_on": "2025-01-09 18:22:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Vredenho</em>f vertrok 15-11-1764 uit Texel naar Batavia en vervolgens naar China. Daar werd thee geladen om vervolgens met die lading zo snel mogelijk naar Nederland te varen.<br><br>Haar tweede uitreis ging van Texel ( 1-10-1766) naar Batavia (aankomst 7-5-1767).</p> <p>Ze vertrok voor haar laatste reis op 22 juni 1768 van Batavia naar Deshima. maar kwam nooit aan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Aldertsz., Aldert</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>354</td></tr><tr><th scope=\"row\">Lengte</th><td>150 voet (45,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1150 ton (575 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0204?eadID=1.04.02&amp;unitID=4935&amp;query=4935\">NL-HaNA_1.04.02_4935_0204.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

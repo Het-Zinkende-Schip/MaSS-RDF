@@ -1,0 +1,27 @@
+{
+  "id": "1075",
+  "code": "kameel-1653",
+  "name": "Kameel",
+  "type": "wreck",
+  "lat": "51.4035708",
+  "lon": "1.6096834",
+  "location": "Gabbard bank, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": "1653",
+  "lastdate": "1653-06-13",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-21 12:49:05",
+  "modified_on": "2025-06-09 15:55:30",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Kameel</strong></em> werd gehuurd van de stad Groningen (zg. Gronings directie schip) door de admiraliteit van Friesland in 1653.*</p> <p>De Kameel vertrok vanuit Texel naar de Maas (29-5-1653) om zich bij 's lands vloot onder admiraal Tromp te vervoegen. Vervolgens ging de vloot op zoek naar de Engelse vloot onder admiraal Dean en Monck.</p> <p><strong>Slag bij Nieuwpoort</strong></p> <p>Op 12 juni in de ochtend kregen de twee vloten elkaar in het vizier. Om 11:00 begon de zeeslag. Bij het eerste vuurcontact sneuvelde admiraal Dean en nam generaal ter zee Monck het opperbevel over.</p> <p>De Kameel werd aangevallen door Schout bij nacht Lawson:</p> <p><em>Schout bij nacht Lauwson zocht, met acht of tien fregatten, de Kapiteinen van der Zaan, en Joost Bulter van Groeningen, af te snyden, daar groote weer werdt gebooden. Maar Kapitein Bulters schip kreeg vier of vyf schooten onder waater, daar het door omviel en zonk. De Kapitein, wiens middel door een splinter was vermorzelt, storf met den sabel in de vuist, (Brandt II 49)</em></p> <p><br>Toen de slag voorbij was had de Nederlandse vloot in totaal zeventien schepen verloren, waarvan zes gezonken waren en elf buitgemaakt werden.</p> <p class=\"note\">* De Nederlandse admiraliteit had in de 17e eeuw de gewoonte koopvaardij schepen in te huren die geschikt waren voor oorlogsvoering.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 28</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Joost Bulter van Groningen</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>130</td></tr><tr><th scope=\"row\">Lengte</th><td>120 Amsterdamse&nbsp;voet (34 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Volgens sommige bronnen een Gronings directie-schip gehuurd. Ook bekend onder de naam <strong><em>Stad Groningen</em></strong> of <em><strong>Omlandia</strong> </em><br>Volgens andere bronnen een schip van de admiraliteit van Friesland</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>J. Bender, 2014, Dutch Warships in the Age of Sail 1600 - 1714.</em></li><li><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0005.php\">Het leven en het bedrijf van den Heere Michiel de Ruyter, II, 49.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

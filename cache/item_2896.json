@@ -1,0 +1,27 @@
+{
+  "id": "2896",
+  "code": "mercurius-ma-45",
+  "name": "Mercurius (MA 45)",
+  "type": "wreck",
+  "lat": "52.3531547",
+  "lon": "4.0193513",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1917-05-17",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-26 11:12:50",
+  "modified_on": "2025-06-15 12:23:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Gebouwd voor de haring en trawler visserij als de VL 47. (28-12-1915 ingeschreven) 18 mei 1916 verkocht en opnieuw ingeschreven als MA 45.</p> <p>De MA 45 werd op de Noordzee aangehouden door de Duitse UC 71 en tot zinken gebracht met explosieven. De bemanning werd gered.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003223.jpg\" alt=\"foto van vlaggetjesdag in de Maassluis\"> <div class=\"img-source\">House of cards</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: zeillogger voor de haring en trawler visserij.<br>Gebouwd: vd Kuyl en van Ree 1915</p> <p>Eigenaar 1: Pot J.<br>Eigenaar 2: C. Doeleman &amp; Co..</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>13</td></tr><tr><th scope=\"row\">Tonnage</th><td>201 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Zuiderzee collectie.<br /><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40014492\">MA 45.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22MA+45%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;identifier=MMKB08:000142644:mpeg21:a0003&amp;resultsidentifier=MMKB08:000142644:mpeg21:a0003&amp;rowid=2\">Delftsche courant      18-05-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

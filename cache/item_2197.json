@@ -1,0 +1,27 @@
+{
+  "id": "2197",
+  "code": "kortgene",
+  "name": "Kortgene",
+  "type": "wreck",
+  "lat": "50.4763446",
+  "lon": "-2.3522043",
+  "location": "Portland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1683",
+  "firstyearend": null,
+  "lastdate": "1690-10-21",
+  "lastyear": "1690",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-08 10:08:39",
+  "modified_on": "2025-07-06 18:49:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Kortgene</strong></em> werd in 1687 gebouwd in Middelburg voor de admiraliteit van Zeeland. was onderdeel van de vloot van Willem III tijdens de invasie in 1688 (<em>Glorious Revolution</em>). Ze nam deel aan de zeeslag bij <a href=\"/slag-bij-beachy-head\">Beachy Head</a> tegen de Franse vloot. In september nam ze deel aan de verovering van Cork en Kensdale in Ierland. De twee laatste grote steden in Ierland in handen van de afgezette koning Jacobus.</p> <p>21 oktober op de terugweg vergaan in het Engelse Kanaal ter hoogte van Portland.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003715.png\" alt=\"Tekening van een zinkend schip\"> <div class=\"img-source\">RP-P-OB-82.728</div> <figcaption class=\"img-description\">De verovering van kinsdale</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Armament: 50</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>A.J. Den Boer</td></tr><tr><th scope=\"row\">Lengte</th><td>150 voet (45,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Schependocumentatie NIMH.</em></li><li>De Jonge,  J.C.<br /><em>Geschiedenis van Het Nederlandsche Zeewezen, III, 238.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

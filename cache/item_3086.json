@@ -1,0 +1,27 @@
+{
+  "id": "3086",
+  "code": "leeuwarden",
+  "name": "Leeuwarden",
+  "type": "wreck",
+  "lat": "53.2030091",
+  "lon": "5.7905175",
+  "location": "Oldehoofsterkerkhof , Nederland",
+  "firstdate": null,
+  "firstyear": "25",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "50",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-05-05 19:49:03",
+  "modified_on": "2025-06-15 21:10:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 2005 en 2006 zijn opgravingen verricht op het <em>Oldehoofsterkerkhof</em>&nbsp;<br>in centrum van Leeuwarden.</p> <p><strong>Hergebruikt scheepshout</strong><br>De terp is ontstaan rond het begin van de jaartelling. Het is de oudste terp van Leeuwarden. Tijdens het onderzoek werden de contouren van een boerderij uit de Romeinse tijd gevonden.<br>Bij de ingang zijn een aantal stukken eikenhout gevonden, die dienst deden als vlonder. Op basis van constructiekenmerken is bepaald dat het hergebruikt scheepshout betreft.&nbsp;<br>De stukken passen bij elkaar en zijn onderdeel geweest van de zijkant van een boomstamboot.</p> <p><strong>Datering<br></strong>Dendrochronologisch onderzoek wijst uit dat het vaartuig waarschijnlijk in het tweede kwart van de 1e eeuw na Christus is gebouwd. De boerderij dateert uit het eind van de 1e eeuw. <br>Het hout is afkomstig uit Noord-Nederland of Noord-Duitsland</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Waldus, W.B. &amp; A.B.M. Overmeer, (2014).<br /><a href=\"https://www.academia.edu/8165041/Syllabus_Scheepsarcheologie_in_de_praktijk\">Scheepsarcheologie in de praktijk in Nederland.</a></li><li>Brouwers W, Jansma E. Manders M. (2015).<br /><em>Middeleeuwse scheepsresten in Nederland, De vroege middeleeuwen 500-1050.</em><br />Archeobrief.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

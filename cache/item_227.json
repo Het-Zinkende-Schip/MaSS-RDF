@@ -1,0 +1,27 @@
+{
+  "id": "227",
+  "code": "south-america",
+  "name": "South America",
+  "type": "wreck",
+  "lat": "51.9308000",
+  "lon": "3.9808330",
+  "location": "Maasvlakte, North Sea, Nederland",
+  "firstdate": null,
+  "firstyear": "1927",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1966",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Johan Opdebeeck",
+  "created_on": "2010-09-24 00:00:00",
+  "modified_on": "2025-06-06 14:03:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The South America was a Liberian freighter built in 1947. It had a displacement of 5361 BRT and working for the Empire Shipping Corporation at Monrovia, Liberia. On February 11th, the South America was on its way from Peru to Poland with a load of fishmeal when it caught fire because of spontaneous combustion of the load. The heat made that some oilbarrels ripped open which caused a real inferno. At that time, the South America was west of Hoek van Holland.The ship was stranded by tug-boats on the Maasvlakte where it stayed burning for days. The heat must have been enormous. The winches simply sank trough the deck. (www.wrecksite.eu)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The site is discovered in the middle of the extension of the port of Rotterdam. It will be covered with sand.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000358.jpg\" alt=\"South America\"></figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000359.jpg\" alt=\"South America\"></figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000362.jpg\" alt=\"South America\"></figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000360.jpg\" alt=\"South America\"></figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000361.jpg\" alt=\"South America\"></figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"https://www.wrecksite.eu/wreck.aspx?297\">Wrecksite.eu.</a></li><li><em>Maasvlakte 2, an archaeological assessment of sidescan sonar and multibeam bathymetry data.</em><br />Wessex Archaeology.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

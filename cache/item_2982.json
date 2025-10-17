@@ -1,0 +1,27 @@
+{
+  "id": "2982",
+  "code": "rensina-ii",
+  "name": "Rensina II",
+  "type": "wreck",
+  "lat": "57.4427059",
+  "lon": "7.8828844",
+  "location": "Noordzee ?",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1918-03-08",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-08 09:34:47",
+  "modified_on": "2025-07-18 16:55:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Rensina II was op 7 maart 1918 vertrokken uit Frederikstad (Noorwegen) naar Rotterdam.De lading bestond uit carbid, houtpulp en lucifers. Het schip kwam nooit aan. <br>Maanden later (mei 1918) werd door een vissersschip uit Ijmuiden de scheepsboot van de Rensina II uit zee gevist. De vondst bevestigde het vermoeden dat het schip met man en muis was vergaan. Waarschijnlijk door oorlogshandelingen.</p> <p>.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003325.jpg?modifiedon=1662624224\" alt=\"tekst: Scheepsberichten. Diepgang. IJmuiden, 19 Juni. Het s. Bengkalis passeerde op zijn eerste reis het Noordzeekanaal uitgaand met een diepgang van 8,8 Meter. Rensina II. IJmuiden, 19 Mei De hier aangebrachte scheepsboot met het naambordje Kerstholst-Gideon is her-kend als afkomstig te zijn van den schoener Rensina II, welke sedert enige maanden vermist wordt.\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Firma Gebr. Barkmeijer, Briltil, NL<br>Eigenaar 1: Eppinga, Zuidhorn, Groningen, <br>Eigenaar 2: N.V. Zeevrachtvaart Maatschappij, Vlaardingen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Winter J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>6</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Rensina&amp;coll=ddd&amp;page=3&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1918%7C&amp;sortfield=date&amp;identifier=MMKB19:000729141:mpeg21:a00009&amp;resultsidentifier=MMKB19:000729141:mpeg21:a00009&amp;rowid=9\">Scheepvaart  20-06-1918.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5462\">marhisdata id 5462.</a></li><li><em>De Amsterdammer 16-4-1918.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

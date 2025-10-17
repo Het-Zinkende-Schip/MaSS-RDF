@@ -1,0 +1,27 @@
+{
+  "id": "2021",
+  "code": "ok73-74",
+  "name": "OK73-74",
+  "type": "wreck",
+  "lat": "52.5180900",
+  "lon": "5.6440000",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 16:48:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1963 is een scheepswrak aangetroffen bij het uitdiepen van een kavelsloot tussen kavels K73 en K74, gelegen ten noorden van de Lage Vaart. In 1971 is het schip opgegraven. Het betreft een lang, smal scheepje met karveel gebouwd vlak, een hoekige kim en overnaads gebouwde zijden bestaande uit twee gangen. In het voor- en achterschip gaat het vlak vloeiend over in de zijden en is daar overnaads gebouwd. De naden tussen de gangen zijn voorzien van gesinteld mosbreeuwsel. Het schip heeft rechte vallende stevens en is uitgerust met een stevenroer, gezien de vingerlingen op de achtersteven. De afmetingen bedragen: lengte 15,8 meter over de stevens, breedte 2,4 meter en holte 78 cm. De gaten op het binnenboord dienden waarschijnlijk voor de bevestiging van een zetboord. Op twee plaatsen zijn de inhouten ingekapt voor een mastspoor. In het schip is een interessante inventaris aangetroffen, die onder andere bestaat uit eet- en drinkgerei (twee steengoedkannen), gereedschap (twee dissels, een bijl, een avegaar, een nijptang en een breeuwijzer). Voorts zijn aangetroffen een nierdolk met restanten van een schede en elf munten, geslagen te Utrecht, Kampen, Groningen, Munster, Vlaanderen en Frankrijk. Van het vaartuig zijn geen jaarringmonsters genomen voor de datering van de bouw. De verstoring van het bodemprofiel geeft aan dat het is gezonken in de Almere-fase, in de tweede helft van de vijftiende eeuw. De datering van de ondergang op grond van de verschillende voorwerpen uit de inventaris (onder andere munten) sluit hierbij aan: datering in het midden van de tweede helft van de vijftiende eeuw.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een vrachtscheepje uit de tweede helft van de vijftiende eeuw, Dronten</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001994.jpg\" alt=\"Opgraving van een 15e eeuws vrachtscheepje op kavel K73/74 in Oostelijk Flevoland, Dronten.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Opgraving van een 15e eeuws vrachtscheepje op kavel K73/74 in Oostelijk Flevoland, Dronten.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zyz-4fb8\">Opgravingsdocumentatie scheepswrak OK73-74.</a></li><li>Heide, G.D. van der (1974).<br /><em>Scheepsarcheologie in Nederland.</em><br />Naarden: Strengholt.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

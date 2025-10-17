@@ -1,0 +1,27 @@
+{
+  "id": "2952",
+  "code": "gruno-1916",
+  "name": "Gruno",
+  "type": "wreck",
+  "lat": "51.5903459",
+  "lon": "2.8320377",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1916",
+  "firstyearend": null,
+  "lastdate": "1917-05-10",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-11 11:24:31",
+  "modified_on": "2025-06-15 14:18:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 09-05-1917, onderweg van Rotterdam naar London met een lading levensmiddelen , op de Noordzee bij het lichtschip Noord-Hinder door de Duitsers ( UC 63) d.m.v. bommen tot zinken gebracht.</p> <p>Donderdagmorgen omstreeks 8.00 uur werd de &ldquo;Gruno&rdquo; op 7 a 8 mijl ZZW van Noord Hinder door een schot van een Duitse duikboot gemaand te stoppen. Kapitein Kruisenga voer met volle kracht door waarop vanaf de duikboot het vuur werd geopend er werden zo`n 40 schoten gelost zonder echter doel te treffen. Ongeveer anderhalf uur duurde het, voordat de &ldquo;Gruno&rdquo; werd ingehaald. Toen de kapitein zich met de bemanning in de reddingboot begaf, werd het vuur heropend.</p> <p>De &ldquo;Gruno&rdquo; is daarop herhaaldelijk getroffen en in de diepte verdwenen. De scheepspapieren werden aanboord van de duikboot gehouden. De bemanning werd aan haar lot overgelaten. De bemanning is door het rijksvaartuig &ldquo;Vlissingen&rdquo; opgepikt en zijn vervolgens te Vlissingen aan land gebracht</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: motorschoener<br>Gebouwd: Jac. Smit te Sappemeer.</p> <p>Eigenaar: Krieke</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kruizinga</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2600\">Marhisdata ID 2600.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Gruno&amp;coll=ddd&amp;sortfield=date&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;page=33&amp;identifier=ddd:110549446:mpeg21:a0107&amp;resultsidentifier=ddd:110549446:mpeg21:a0107&amp;rowid=2\">Telegraaf (11-5-1917).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

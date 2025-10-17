@@ -1,0 +1,27 @@
+{
+  "id": "658",
+  "code": "tiel-longboat",
+  "name": "Tiel ship fragment longboat",
+  "type": "wreck",
+  "lat": "51.8847034",
+  "lon": "5.4384899",
+  "location": "Tiel, Tol Zuid, Nederland",
+  "firstdate": null,
+  "firstyear": "995",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1008",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-08 11:26:33",
+  "modified_on": "2025-06-27 21:57:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens opgravingen van de middeleeuwse haven aan de rivier de Linge in Tol-Zuid bij Tiel in 1996 werden houten delen die behoorden tot een schip gevonden. Het bleek dat het om delen van scheepswrakken ging, waarvan een een Vikingschip bleek te zijn. Verder waren er onder andere de Tiel 2 en 3.</p> <p>Deze stukken hout waren hergebruikt als delen van een kadewand die rond 1015 n.Chr. gemaakt is.</p> <p>Een van de groepen planken zijn afkomstig van een overnaads gebouwd schip in een Scandinavische stijl. Er zijn erg weinig fragmenten van dit type schip in Nederland gevonden. Het is in de Scandinavische bouwtraditie gebouwd, gelijkend op het Skudelev 1-wrak (1030).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001453.jpg\" alt=\"Een houten opgegraven deel van een vikingschip.\"> <div class=\"img-source\">NAVISone/Creative Commons</div> <figcaption class=\"img-description\">Het fragment behorend tot het Vikingschip.</figcaption> </figure> <h2>Datering</h2> <p>Gebaseerd op monsters genomen uit het hout werd de kapdatum van het hout tussen 995 en 1008 gesteld. Een van de gedateerde onderdelen is afkomstig uit de Ardennen. Het andere hout komt uit Zuidwest Engeland. Dit toont een archeologische verbinding aan tussen Tiel en Engeland. Brandsporen op de hoeken van de randen van het hout suggeren dat het schip verbrand is en vervolgens gesloopt werd om hergebruikt te worden in de haven van Tiel.</p> <p>Er zijn ook andere bronnen die connecties tussen Tiel en de Vikingen aantonen. Zo noemt Alpetus van Metz een Viking aanval op Tiel in het jaar 1006.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><h2>Lengte: geschat op 15-22 m.</h2><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><h2>Overnaadse bouw</h2> <p>Overnaadse bouw is een methode van scheepsbouw waarbij de randen van de huidgangen elkaar overlappen. Deze techniek is in Noord-Europa ontstaan en werd met succes gebruikt door de Angelsaksen en Scandinavi&euml;rs en is ook typerend voor de Hanzekogges. Een andere methode, waarbij de randen van de gangen op elkaar staan en zo een gladde huid vormen, staat bekend als karveelbouw.</p> <p>De V-vormige spanten die de dwarsverbindingen van het schip vormen hebben bij overnaadse bouw stapsgewijze inkepingen waar de overlappende gangen van de scheepshuid op bevestigd zijn.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www2.leiza.de/navis/object.html?id=100036\">Tiel in Navis project.</a></li><li>W. Brouwers, E. Jansma, M. Manders (2015).<br /><em>Middeleeuwse scheepsresten in Nederland, de vroege middeleeuwen 500-1050.</em><br />Archeobrief 3.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

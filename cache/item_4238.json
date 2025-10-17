@@ -1,0 +1,27 @@
+{
+  "id": "4238",
+  "code": "mars-2",
+  "name": "Mars",
+  "type": "wreck",
+  "lat": "38.2215327",
+  "lon": "21.3514288",
+  "location": "Araxos. near, Griekenland",
+  "firstdate": null,
+  "firstyear": "1925",
+  "firstyearend": null,
+  "lastdate": "1945-05-29",
+  "lastyear": "1945",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-01-29 11:45:49",
+  "modified_on": "2025-01-29 12:42:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Mars was geladen met blikken benzine op weg van Prevesa naar Patras in Griekenland. Het schip is op een mijn gelopen en gezonken op 3 mijl noordwest van Cavo Papas. De bemanning moest snel overboord springen.</p> <p>De toegang naar Patras lag nog vol mijnen in de eerste maanden van de naoorlogse periode.</p> <p>Vijf opvarenden kwamen om het leven. 1 van de 5 slachtoffers was Leenderd Pronk (<a href=\"https://oorlogsgravenstichting.nl/personen/123754/leenderd-pronk\">oorlogsgraven stichting </a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Scheepsbouw-Maatschappij 'Nieuwe Waterweg' N.V., Schiedam,</p> <p>Eigenaar: Manchester-Spanish Line Ltd, Manchester, Koninklijke Nederlandsche Stoomboot-Maatschappij N.V</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>277 &frac34; voet (84,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>39 voet (11,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>16 &frac34; voet (5,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1582 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De Mars is een goed bewaard wrak en een populaire site voor duikers.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4108\">marhisdata.nl  id 4108.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4240",
+  "code": "moesi",
+  "name": "Moesi",
+  "type": "wreck",
+  "lat": "-8.4725774",
+  "lon": "114.4803205",
+  "location": "Banyuwangi, t.z.v. , Indonesië",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1942-02-27",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-01-29 13:39:35",
+  "modified_on": "2025-01-29 17:54:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Moesi</em> was een tanker in dienst van de KNSM in Nederlands Indi&euml;. Ze werd in 1939 gevorderd door de Koninklijke Marine als Hr. Ms. Ben 2.</p> <p>In februari 1942 werd het schip ingezet als munitie-transportschip. Tijdens de invasie van Japan probeerde de Moesi te ontsnappen van Surabaya naar Australi&euml;. Ze werd net buiten de straat van Bali opgemerkt door de Japanse onderzeeboot 'I 53' (later I 153) . Ze werd getorpedeerd en met geschutvuur tot zinken gebracht. De lading bestond uit 150 mm artillerie granaten.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Motorschip<br>Gebouwd: Scheepsbouw Mij. 'Nieuwe Waterweg', Schiedam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Goslinga, H.A. LtZ 1</td></tr><tr><th scope=\"row\">Tonnage</th><td>913 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4361\">Marhisdata ID 4361.</a></li><li><a href=\"https://en.wikipedia.org/wiki/Japanese_submarine_I-53_(1925)\">wikipedia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/2.12.51\">Rapport van  de gezagvoerder van de MS Moesi.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

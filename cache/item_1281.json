@@ -1,0 +1,27 @@
+{
+  "id": "1281",
+  "code": "zorg",
+  "name": "Zorg",
+  "type": "wreck",
+  "lat": "50.7446533",
+  "lon": "1.5306702",
+  "location": "Boulogne, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1792",
+  "firstyearend": null,
+  "lastdate": "1795-11-07",
+  "lastyear": "1795",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-02 11:23:43",
+  "modified_on": "2025-06-10 12:46:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op zandbank gelopen bij Boulogne.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Pink<br>Gebouwd/Built: Middelburg 1792<br>Eigenaar/Owner: VOC kamer Zeeland<br>Dimensie:&nbsp;142 x 36 x 17<br>Tonnage: 450<br>Bemanning: 99<br>Kapitein/Master: Gerard Olthof</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

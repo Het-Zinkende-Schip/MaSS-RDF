@@ -1,0 +1,27 @@
+{
+  "id": "852",
+  "code": "hms-alice",
+  "name": "HMS Alice",
+  "type": "wreck",
+  "lat": "51.0894641",
+  "lon": "2.3379593",
+  "location": "Dunkerque, Frankrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1940-05-28",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-17 15:08:57",
+  "modified_on": "2025-06-07 20:58:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De HMS Alice heeft deelgenomen aan Operatie Dynamo te Duinkerken in 1940. Het schip raakte daar ernstig beschadigd door een Duitse luchtaanval en werd door haar bemanning verlaten op 28-05-1940 op het strand van Duinkerken. In 1942, is het wrak door de Duitsers gesloopt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: GL</p> <p>Naam: te water gelaten als NOMADISCH 1939</p> <p>Gebouwd:&nbsp;van G.J. v.d. Werff, Westerbroek, 1939<br>Eigenaar 1: 1939 Nomadisch D.R. Kajuiter, Groningen<br>Eigenaar 2: 1940 ALICE G. Kuur, Zwartsluis</p> <p>Motor: brons</p> <p>NRT 130 Roepnaam PGHO DW 330</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Vermogen</th><td>195 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>9 knopen ~ 17 km/u (10 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>127 voet (38,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>23 &frac14; voet (7,1 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://en.wikipedia.org/wiki/List_of_ships_at_Dunkirk\">List of ships at Dunkirk.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

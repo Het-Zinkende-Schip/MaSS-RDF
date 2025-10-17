@@ -1,0 +1,27 @@
+{
+  "id": "817",
+  "code": "mtb-203",
+  "name": "Hr.Ms. MTB 203 (Arend)",
+  "type": "wreck",
+  "lat": "50.7649542",
+  "lon": "1.5361634",
+  "location": "Boulogne sur Mer, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1942",
+  "firstyearend": null,
+  "lastdate": "1944-05-18",
+  "lastyear": "1944",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Will Brouwers",
+  "created_on": "2019-09-11 19:07:40",
+  "modified_on": "2025-06-07 17:06:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De MTB 203 (Arend) was 1 van de drie patrouilleboten (MTB 202, MTB 204) uit de Britse MTB klasse in dienst van de Koninklijke Marine tijdens de Tweede Wereldoorlog. De MTB 203 liep op 18 mei 1944 tijdens patrouille in het Engelse Kanaal op een mijn.</p> <p>Een bemanningslid, stoker Antonius Franciscus Verbeek, kwam hier bij om het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: MTB 202 class<br>Gebouwd: Vosper, Portsmouth, 1942<br>Motor: 3 x 12 cyl Packard Petrol engines, 3 shafts, 3 screws<br>Bewapening: 2 .5\" AA (1x2) 2 .303\" AA (2x1) 2 21\" torpedo tubes</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>13</td></tr><tr><th scope=\"row\">Vermogen</th><td>3360 pk</td></tr><tr><th scope=\"row\">Lengte</th><td>69 voet (21 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>19 &frac34; voet (6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>5 &frac14; voet (1,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.netherlandsnavy.nl/\">Netherlandsnavy.nl/.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

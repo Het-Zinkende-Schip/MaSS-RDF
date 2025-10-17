@@ -1,0 +1,27 @@
+{
+  "id": "934",
+  "code": "diemen-1756",
+  "name": "Diemen",
+  "type": "wreck",
+  "lat": "-8.0858638",
+  "lon": "118.6692705",
+  "location": "Bima, t.h.v., Indonesië",
+  "firstdate": null,
+  "firstyear": "1747",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1756",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-17 16:21:58",
+  "modified_on": "2024-09-12 11:10:36",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Diemen maakte 2 retourreizen naar Azi&euml; onder de naam <em>Kasteel van Tilburg</em>. Ze werd herdoopt in Diemen<em> in </em>1752.</p> <p>Ze vertrok op 28 december 1752 van Texel naar Batavia. Ze bleef vervolgens in Azi&euml; dienst doen.</p> <p>In 1756 was De Diemen onderweg van Banda naar Batavia. Door een navigatie fout strandde ze en verging bij het eiland Bima. Schipper Frederik Christiaan van der Lith werd hiervoor ontslagen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Namen 1746 Tilburg, Kasteel van; 1752 Diemen<br>Gebouwd: op de VOC werf in Amsterdam, 1746<br>Lengte: 130 vt<br>Schipper: Frederik van der Lith<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Frederik van der Lith</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94639\">Details of voyage 3577.3 from Texel to Batavia.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=116&amp;accessor=search_in_text&amp;source=13&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%2\">Generale missiven Deel 13, 105, 108, 207.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000243.jpg\">NA 1.04.01.01. 551, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

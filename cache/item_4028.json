@@ -1,0 +1,27 @@
+{
+  "id": "4028",
+  "code": "ne39",
+  "name": "NE39",
+  "type": "wreck",
+  "lat": "52.6459300",
+  "lon": "5.6455110",
+  "location": "Urk, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1625",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:52:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Melding in 1949, verkenning/opgraving in 1951, waarbij geen vondsten zijn geborgen. De conclusie van Gerrit (G.D.) van der Heide in de rapportage luidt als volgt:</p> <p>\"Het scheepsfragment moet volgens de situatie van het grondprofiel omstreeks 1625 zijn vergaan, althans daar ter plaatse zijn terechtgekomen en in de grond weggezakt. Het tamelijk platte stuk veroorzaakte uiteraard weinig profielverstoring. Het aanwezige gedeelte was te fragmentarisch om een indruk te kunnen geven omtrent vorm en bouw van het schip. In ieder geval mocht worden vastgesteld dat het deel heeft uitgemaakt van een zwaar gebouwd, vrij groot, houten schip, misschien een bewapende koopvaarder.\"</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x7y-bc8d\">Opgravingsdocumentatie scheepswrak NE39.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

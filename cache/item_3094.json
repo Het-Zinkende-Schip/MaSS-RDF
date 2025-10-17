@@ -1,0 +1,27 @@
+{
+  "id": "3094",
+  "code": "gouda-3",
+  "name": "Gouda",
+  "type": "wreck",
+  "lat": "53.4541583",
+  "lon": "5.6093449",
+  "location": "Ameland, Nederland",
+  "firstdate": null,
+  "firstyear": "1692",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1697",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-06-13 07:46:02",
+  "modified_on": "2023-06-27 10:14:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Gouda</strong></em> leed schipbreuk bij Ameland, slechts 13 opvarenden werden gered kptz. Arnold Manard verdronk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Manard, A.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>400</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1246",
+  "code": "tobias-leidsman",
+  "name": "Tobias Leidsman",
+  "type": "wreck",
+  "lat": "59.7133900",
+  "lon": "-1.4875491",
+  "location": "Hangklip, Shetland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1687",
+  "firstyearend": null,
+  "lastdate": "1688-11-29",
+  "lastyear": "1688",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-23 11:57:57",
+  "modified_on": "2024-12-17 12:43:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De (haring)buis was een vissersvaartuig.</p> <p><em>De Tobias Leidsman</em> is de enige buis die voor de VOC heeft gevaren. Tezamen met de galjoot Vlaming vertrokken uit het Vlie met bestemming Batavia. Vermoedelijk om de Duinkerker kapers te ontwijken, wilde men&nbsp;<em><strong>achterom</strong></em> om Schotland heen varen. Op 29 november 1688 is de Tobias Leidsman vergaan te Hanglip (Shetland Eilanden).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1687 88<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92630\">DAS 1570.1.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

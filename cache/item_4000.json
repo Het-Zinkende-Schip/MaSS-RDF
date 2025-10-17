@@ -1,0 +1,27 @@
+{
+  "id": "4000",
+  "code": "na12",
+  "name": "NA12",
+  "type": "wreck",
+  "lat": "52.8252137",
+  "lon": "5.6633042",
+  "location": "Rutten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:05:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gemeld en verkend in 1949, waarbij werd aangegeven dat het wrak in de grond bewaard moest worden voor later onderzoek. Dit vond plaats in 1956, waarbij duidelijk werd dat het ging om een fragment van een vermoedelijk groot scheepsboord (bakboord). Op basis van dit fragment werd geconcludeerd dat het schip bolle boorden en een minder binnenwaarts gebogen bovenkant had, met een rechte spiegel en in ieder geval twee dekken. Datering op basis van de bodemlagen bleek niet mogelijk, waardoor de huidige ondergangsdatering (18de-eeuws) enkel berust op een blauwe, handbeschilderde kwispedoor (objectnr. Z1955-IX155) die werd aangetroffen. Verder werden er maar weinig vondsten geborgen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xqy-dxz4\">Opgravingsdocumentatie scheepswrak NA12.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

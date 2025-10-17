@@ -1,0 +1,27 @@
+{
+  "id": "854",
+  "code": "spaarndam",
+  "name": "Spaarndam",
+  "type": "wreck",
+  "lat": "51.4718033",
+  "lon": "1.0294192",
+  "location": "Thames estuary, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1927",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1939",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-18 11:01:26",
+  "modified_on": "2025-06-07 21:00:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op weg van New Orleans via Londen naar Rotterdam, onder kapitein F.H. Dobbinga, varende onder neutrale Nederlandse vlag, in de Theemsmonding bij de ingang van het Knock Deep, op circa 2 mijl van het Tongue Lichtschip, op een magnetische mijn gelopen, op een bank gezet, gezonken en uitgebrand. Deze mijnen waren in de nacht van 12 op 13 november 1939 gelegd door vier Duitse torpedobootjagers. Zes opvarenden komen hierbij om het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Passenger-/cargo vessel<br>Gebouwd: Maatschappij 'Nieuwe Waterweg' N.V., Schiedam, Zuid-Holland, 1919-1922</p> <p>Eigenaar: N.V. Nederlandsch-Amerikaansche Stoomvaart Maatschappij 'Holland-Amerika Lijn', Rotterdam, Zuid-Holland, Netherlands</p> <p>Lengte: 141.98 Meters Length overall (Loa)<br>Beam: 17.75 Meters<br>Depth: 12.19 Meters<br>Draught: 9.21 Meters</p> <p>Propulsion: Steamship</p> <p>Motor: John Brown &amp; Co. Ltd., Clydebank, Great Britain<br>Steam, Turbine<br>Power: 4200<br>Snelheid:13</p> <p>Gross Tonnage: 8857.00<br>Net Tonnage: 5406.00</p> <p>Bemanning: 48 koppen, 20 passagiers. (6 slachtoffers)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

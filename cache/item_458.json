@@ -1,0 +1,27 @@
+{
+  "id": "458",
+  "code": "slot-ter-hoge-2",
+  "name": "Slot ter Hoge",
+  "type": "wreck",
+  "lat": "15.1960000",
+  "lon": "-23.0830000",
+  "location": "Ilha de Mayo, Kaapverdië",
+  "firstdate": null,
+  "firstyear": "1726",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1732",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Annaliese Dempsey",
+  "created_on": "2014-03-27 00:00:00",
+  "modified_on": "2025-06-06 15:21:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Name: <em>Slot ter Hoge</em> or <em>'t Slot ter Hooghe</em></p> <p>Built: 1726, at a VOC wharf in Middelburg</p> <p>Chamber: Zeeland</p> <p>Length: 145 ft</p> <p>Weight: 425 last, 850 ton</p> <p>Complement: 180</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

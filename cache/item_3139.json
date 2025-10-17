@@ -1,0 +1,27 @@
+{
+  "id": "3139",
+  "code": "barneveld-2",
+  "name": "Barneveld",
+  "type": "wreck",
+  "lat": "-7.6152964",
+  "lon": "-5.9222654",
+  "location": "Zuid-Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1928",
+  "firstyearend": null,
+  "lastdate": "1941-01-21",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-10-10 08:52:52",
+  "modified_on": "2025-06-16 19:01:38",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het vrachtschip&nbsp;<em><strong>Barneveld</strong></em> vertrok 21 januari 1941 in konvooi uit Oban (UK) met bestemming Kaapstad. Ze had militaire goederen en passagiers aan boord. Ze werd door de zware Duitse kruiser&nbsp;<em>Admiral Scheer</em>&nbsp;300 mijl ten noorden van <em>St Helena</em> aangehouden en vervolgens met een springlading tot zinken gebracht.</p> <p>De gehele bemanning werd als krijgsgevangenen aan boord van de 'Admiral Scheer' genomen en uiteindelijk vanuit Drancy (Fr.) op transport gesteld naar Duitsland (het Stalag kamp XB te Sandborstel voor marine en koopvaart personeel).&nbsp;<br><br></p> <p>Marinus Korving was 4e machinist aan boord. Hij is geboren 12-2-1912 te Scheveningen en werd als krijgsgevangene met nummer 87750 op 10-4-1941 in Stalag X-b Sandbostel geregistreerd. Hij kwam op dat moment uit Bordeaux. De registratie is te vinden in het Nationaal Archief, <a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/2.13.98/invnr/%401~4-54%2C%20173~41?query=2.13.98&amp;search-type=inventory&amp;start=0&amp;searchAfter=1%2C%401\">collectie 2.13.98 inv. 41</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: C. van der Giessen &amp; Zonen 's Scheepswerven, Krimpen aan den IJssel, Zuid-Holland</p> <table class=\"ship-detail-table\" cellspacing=\"0\" cellpadding=\"0\">  <tr> <td>&nbsp;</td> </tr>  </table><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hedlund , J.F.</td></tr><tr><th scope=\"row\">Lengte</th><td>416 &frac14; voet (126,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>58 &frac12; voet (17,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>5554 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=818\">marhisdata id 818.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

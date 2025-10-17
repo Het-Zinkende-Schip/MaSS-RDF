@@ -1,0 +1,27 @@
+{
+  "id": "4025",
+  "code": "ne161",
+  "name": "NE161",
+  "type": "wreck",
+  "lat": "52.6241810",
+  "lon": "5.7605890",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": "1725",
+  "firstyearend": "1750",
+  "lastdate": null,
+  "lastyear": "1750",
+  "lastyearend": "1775",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:36:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bij drainagewerkzaamheden op kavel E161 in de Noordoostpolder werd in 1954 een scheepswrak aangetroffen. Archeologisch onderzoek vond nog datzelfde jaar plaats, en het wrak werd opgegraven middels de zogeheten kwadrantenmethode. Het had een lengte over de stevens van 17,60 meter met een grootste breedte over de boorden van 4,90 meter. Wat betreft de romp was het wrak nog zeer gaaf, hecht en sterk gebouwd en voorzien van een kiel (dus geen platbodem). Het betrof een tjalkachtig schip, vermoedelijk vergaan in de tweede helft van de 18de eeuw. De vele reparaties aan het schip die werden opgemerkt gaven te denken dat het schip mogelijk al enkele decennia in de vaart was voordat het uiteindelijk verging.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x7k-k6un\">Opgravingsdocumentatie scheepswrak NE161.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

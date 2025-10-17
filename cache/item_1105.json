@@ -1,0 +1,27 @@
+{
+  "id": "1105",
+  "code": "kalf",
+  "name": "Kalf",
+  "type": "wreck",
+  "lat": "53.3193944",
+  "lon": "5.0616313",
+  "location": "Het Vlie, Nederland",
+  "firstdate": null,
+  "firstyear": "1653",
+  "firstyearend": null,
+  "lastdate": "1666-10-05",
+  "lastyear": "1666",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-29 09:59:24",
+  "modified_on": "2024-12-04 11:57:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het <strong><em>Kalf</em></strong> maakte deel uit van de retourvloot van 1666 o.l.v. Jacob Cauw. (<em>Wassende Maan, Buienskerke, Venenburg, De Meerman, Kalf, Elburg en Vogelzang</em>). Omdat door de oorlog met Engeland de normale route door het Engelse Kanaal te gevaarlijk was, voer men 'achterom' via Ierland, ten noorden van Schotland naar de Noordzee.</p> <p>Het Kalf liep op 5 oktober binnen in het Vlie maar door een fout van de loods strandde <em>Het Kalf</em> bij de eerste ton en verging binnen een kwartier.</p> <p>Slechts 22 man konden worden gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: jacht, pinas<br>In de resoluties van de Kamer Amsterdam wordt het vaartuig op 3-4-1653 een spiegelschip genoemd, lang 120, wijt 27, hol 12 en daar boven 6 voet. Op 17-4 noemt de kamer Amsterdam het voor 21150 gulden gekochte vaartuig een pinas en besluit dat het de naam Kalf zal houden. In de resoluties van de H XVII (op 26-4) wordt het vaartuig ook een pinas genoemd.<br><br>Het (Witte) Kalf is niet gebouwd op een werf van de VOC maar werd in april 1653 door de kamer Amsterdam gekocht.<br><br>Tonnage: 160 last , 320 ton</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/96446\">DAS  5536.2.</a></li><li>Nationaal Archief.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02\">[NA 1.04.02 (VOC) 234 en 317, p. 205 (scan 205)] Aankoop door VOC.</a></li><li>Aitzema, L.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/aitzema/#page=876&amp;accessor=toc&amp;source=5\">Kort en bondig verhaal, boek 44, 863.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

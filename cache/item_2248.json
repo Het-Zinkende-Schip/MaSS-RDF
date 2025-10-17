@@ -1,0 +1,27 @@
+{
+  "id": "2248",
+  "code": "zwaan-1642",
+  "name": "Zwaan",
+  "type": "wreck",
+  "lat": "20.9591624",
+  "lon": "117.2265660",
+  "location": "Rif near Pescadores, Taiwan",
+  "firstdate": null,
+  "firstyear": "1642",
+  "firstyearend": null,
+  "lastdate": "1644-10-27",
+  "lastyear": "1644",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-16 16:24:13",
+  "modified_on": "2025-06-11 19:34:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Zwaan</strong></em> vertrok 29-9-1642 naar Azi&euml;. Ze zou daar dienst blijven doen.</p> <p>Op haar laatste reis vertrok De Zwaan uit Deshima (Japan) 16-10-1644 ze zou via Taiwan nar Batavia varen. Ze kwam in een zware storm terecht verloor haar zeilen en dreef rond bij de Pescadores eilanden (straat Taiwan).</p> <p>Het schip werd door de bemanning verlaten en dreef nog de hele nacht tussen&nbsp;<em>het Vuyle</em> ende <em>Lange Eiland (zie kaartje links van het midden)</em>. Daarna werd er niets meer gezien van het schip.<br>(Dagregisters van het kasteel Zeelandia, Taiwan 1629-1662).</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001753.png\" alt=\"De Pescadores eilanden in de straat van Taiwan\"> <figcaption class=\"img-description\">De Pescadores eilanden in de straat van Taiwan</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91714\">DAS 0597.2.</a></li><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/taiwan/#page=357&amp;accessor=thumbnails&amp;source=2&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Ftaiwan%2Fthumbnails%2Findex_html%3Fpage%3D7%26source%3D2%26id%3Dthumbnails\">De dagregisters van het kasteel Zeelandia, Taiwan 1629-1662.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

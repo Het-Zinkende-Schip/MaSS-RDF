@@ -1,0 +1,27 @@
+{
+  "id": "313",
+  "code": "zoutelande",
+  "name": "Zoutelande",
+  "type": "wreck",
+  "lat": "50.3580000",
+  "lon": "-4.3630000",
+  "location": "White sand Bay, Cornwall, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1600",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1670",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2012-06-21 00:00:00",
+  "modified_on": "2025-06-19 20:42:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><h2>Historical description</h2> <p>The Zoutelande belonged to the Dutch West Indian Company (WIC). This counterpart of the Dutch East Indian Company had its main focus on the Atlantic and the West Indies. This included the Western parts of Africa and the Americas.</p> <p>The WIC was founded in 1621 and just as the VOC it consisted of five chambers. The WIC imported sugar, cotton and tobacco, but became infamous because of the trade in slaves and \"kaapvaart\", which is the right to conquer other ships and claim their cargo.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000638.jpg\" alt=\"Map of places most visited by the WIC.\"> <figcaption class=\"img-description\">Map of places most visited by the WIC.</figcaption> </figure> <h2>Archaeological description</h2> <p>The Zoutelande sank in 1659 near White sand Bay, Cornwall in Great Britain. It has been salvaged by R. Cowan. But little is known from these excavations and their finds.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Name: Zoutelande.</p> <p>Type: Armed merchantman.</p> <p>The Zoutelande belonged to the Dutch West Indian Company (WIC). The Zoutelande sank in 1659 near White sand Bay, Cornwall (UK).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000640.jpg\" alt=\"painting of several sailing ships, with the Dutch flag\"> <figcaption class=\"img-description\">Merchantman ca. 1650 (Willem van Diest).</figcaption> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

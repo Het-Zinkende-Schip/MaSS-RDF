@@ -1,0 +1,27 @@
+{
+  "id": "2114",
+  "code": "oy97",
+  "name": "OY97",
+  "type": "wreck",
+  "lat": "52.4159000",
+  "lon": "5.7167900",
+  "location": "Biddinghuizen, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1875",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-01-30 12:42:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens grondwerkzaamheden is op kavel Y97 in Oostelijk Flevoland, aan de Bremerbergweg, een scheepswrak met metselstenen aangetroffen. Op 11 oktober 1963 is door de oudheidkundige afdeling van de voormalige Rijksdienst voor de IJsselmeerpolders (RIJP). Het wrak is een restant van een klein scheepje van ongeveer 12 meter lang en 3 meter breed. Het wrak is ernstig beschadigd door het graven van een kwelsloot. Alleen het vlak en een klein gedeelte van de voorsteven zijn intact gebleven. Met prikijzers is direct achter het sloottalud hout aangeprikt, dat vermoedelijk tot een van de boorden van het schip behoorde. Op ongeveer tweederde deel van het vlak was een lading van bakstenen aanwezig. De afmetingen van de bakstenen zijn 22,5 x 11 x 5 cm. Het overige deel van het schip was onbeladen. Achter het dwarsschot van het onbeladen deel zijn enkele vondsten aangetroffen waaronder twee ijzeren vuurplaten, een ijzeren pan, een koperen asla, een tondeldoos, een snotneus en een medaillon. De aardewerken scherven die in het wrak zijn aangetroffen dateren het wrak aan het eind van de negentiende eeuw. Na de documentatie is het scheepje in 1964 verwijderd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een klein scheepje uit het laatste kwart van de negentiende eeuw, Biddinghuizen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x95-3heg\">Opgravingsdocumentatie scheepswrak OY97.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

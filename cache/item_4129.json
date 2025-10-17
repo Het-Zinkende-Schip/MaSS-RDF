@@ -1,0 +1,27 @@
+{
+  "id": "4129",
+  "code": "nr1-i",
+  "name": "NR1-I",
+  "type": "wreck",
+  "lat": "52.7779080",
+  "lon": "5.8464620",
+  "location": "Kuinre, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1300",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:45:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Dit wrak, gelegen nabij het huidige Ens, werd voor het eerst in 1941 onderzocht door archeoloog Pieter (P.J.R.) Modderman, waarbij werd opgetekend dat het om een ernstig beschadigd vissersscheepje zou gaan. Op dezelfde kavel werden uiteindelijk tenminste drie afzonderlijke scheepswrakken aangetroffen. De datering van dit eerste schip werd op basis van de vondsten aanvankelijk voorzichtig gesteld op 18de eeuw, maar met de opmerking dat er ook vrij veel 13de/14de-eeuws materiaal bij werd gevonden, dat vermoedelijk ingespoeld was. Verdere opgraving vond plaats in 1949 door Gerrit (G.D.) van der Heide. Hieruit werd duidelijk dat het ging om het wrak van een platboomd, overnaads gebouwd zeilscheepje, met een ondergangsdatering in ieder geval v&oacute;&oacute;r de 17de eeuw (en na de 13de eeuw).</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zyd-y9t8\">Opgravingsdocumentatie scheepswrak NR1-I.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

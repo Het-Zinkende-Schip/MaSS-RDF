@@ -1,0 +1,27 @@
+{
+  "id": "903",
+  "code": "agamemnon",
+  "name": "Agamemnon",
+  "type": "wreck",
+  "lat": "51.5170468",
+  "lon": "0.7370453",
+  "location": "Southend on Sea, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1914",
+  "firstyearend": null,
+  "lastdate": "1940-11-08",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-10 11:55:33",
+  "modified_on": "2025-06-08 21:20:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1915 vaart de ss. 'AGAMEMNON' op weg van Amsterdam naar Cadiz, nabij de Galloper Bank op een wrak. Met forse schade kan het schip nog terugkeren naar de Amsterdamse thuishaven. <br>De AGAMEMNON werd op 21 maart 1918 te Gibraltar door de Britse regering ingevolge het &lsquo;Droit d&rsquo;Angarie&rsquo; in beslag genomen en onder Britse vlag gebracht. In 1919 kwam het weer in handen van de KNSM.<br><br>1940-11-08 <br>In ballast op weg van Newcastle naar Southend, onder kapitein D. Sparrius, nabij de rede van Southend, bij het lichtschip 'Swin', door Duitse vliegtuigen tot zinken gebracht. Drie opvarenden komen om het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: koopvaardij<br>Gebouwd: Dunlop, Bremner &amp; Co. Ltd., Port Glasgow, UK<br>Eigenaar: Koninklijke Nederlandsche Stoomboot-Maatschappij N.V., Amsterdam (NL)<br>Tonnage: 1930.00 Gross tonnage<br>Complement: 3 opvarenden kwamen om<br>Kapitein: D. Sparrius</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 48.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=106\">Maritiem Historische Data ID 106.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

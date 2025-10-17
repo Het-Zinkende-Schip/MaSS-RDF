@@ -1,0 +1,27 @@
+{
+  "id": "3143",
+  "code": "belawan",
+  "name": "Belawan",
+  "type": "wreck",
+  "lat": "-7.1991108",
+  "lon": "112.6758937",
+  "location": "Surabaja, Indonesië",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1942-03-02",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-10-16 17:33:24",
+  "modified_on": "2023-10-16 17:36:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Belewan</strong></em> werd tijdens de Japanse invasie door de eigen bemanning tot zinken gebracht in de haven van Surabaja.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>252 &frac14; voet (76,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 &frac14; voet (12,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1330 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=878\">marhisdata id 878.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

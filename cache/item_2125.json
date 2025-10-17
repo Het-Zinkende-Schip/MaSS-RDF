@@ -1,0 +1,27 @@
+{
+  "id": "2125",
+  "code": "np4-i",
+  "name": "NP4-I",
+  "type": "wreck",
+  "lat": "52.6649800",
+  "lon": "5.7886800",
+  "location": "Noordoostpolder, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1635",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:38:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit schip is gevonden op kavel P4 nabij de kruising van de Vliegtuigweg en Kampenweg in de Noordoostpolder, en in 1944 is het opgegraven. Het scheepswrak is een karveel gebouwd vissersschip van het type waterschip. Waterschepen waren de grootste en belangrijkste vissersschepen van de Zuiderzee gedurende de 16de en 17de eeuw. Ze waren voorzien van een bun gevuld met water, waar de gevangen vis levend in vervoerd kon worden. De vroegste types waterschepen werden overnaads gebouwd, maar vanaf het tweede kwart van de zestiende eeuw werden deze schepen karveel gebouwd, dat wil zeggen gladboordig. Het schip heeft een lengte van 17,05 meter en een breedte van 5,55 meter. Het schip had een gebogen voorsteven en een rechte achtersteven. Op basis van de inventaris is vastgesteld dat het schip tussen 1625 en 1635 is vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een karveel gebouwd waterschip uit de zeventiende eeuw, Noordoostpolder</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001941.jpg\" alt=\"Inventaris uit een scheepswrak op kavel P4 in de Noordoostpolder: twee roodaardewerk borden en een kookpotje.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Inventaris uit een scheepswrak op kavel P4 in de Noordoostpolder: twee roodaardewerk borden en een kookpotje.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xxa-d7jv\">Opgravingsdocumentatie scheepswrak NP4-I.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

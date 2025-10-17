@@ -1,0 +1,27 @@
+{
+  "id": "2498",
+  "code": "norderheverkoog-1665",
+  "name": "De Kistemaker",
+  "type": "wreck",
+  "lat": "54.4034254",
+  "lon": "8.7420273",
+  "location": "Norderheverkoog, Duitsland",
+  "firstdate": null,
+  "firstyear": "1665",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1711",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-08 17:46:20",
+  "modified_on": "2025-06-14 15:53:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De resten van een groot houten schip kwamen tevoorschijn in 1972 -73 door erosie in een getijdenkreek.</p> <p>Er werden monsters van het hout genomen voor dendrochronologisch onderzoek. De uitkomst was een datum rond 1665.</p> <p>Hans-Joachim K&uuml;hn heeft een lijst van scheepsrampen in de regio opgesteld. EEn mogelijhke kandidaat voor dit wrak zou het schip de <em><strong>Kistenmaker</strong></em> zijn die in de regio verging in 1711.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Kühn, H.-J. (1999).<br /><em>Gestrandet bei Uelvesbüll - Wrackarchäologie in Nordfriesland.</em><br />Husum.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

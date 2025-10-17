@@ -1,0 +1,27 @@
+{
+  "id": "2140",
+  "code": "zn113",
+  "name": "ZN113",
+  "type": "wreck",
+  "lat": "52.2728300",
+  "lon": "5.3848600",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": "1500",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1550",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:45:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit schip is gevonden op kavel N113 in Zuidelijk Flevoland aan de Nekkeveldweg, in de gemeente Zeewolde. Het wrak werd in 1972 en 1980 verkend. Het scheepswrak is een karveel gebouwd vissersschip van het type waterschip.</p> <p>Waterschepen waren de grootste en belangrijkste vissersschepen van de Zuiderzee gedurende de zestiende en zeventiende eeuw. Ze zijn voorzien van een bun gevuld met water, waar de gevangen vis levend in vervoerd kan worden. De vroegste types waterschepen werden overnaads gebouwd, maar vanaf het tweede kwart van de zestiende eeuw werden deze schepen karveel gebouwd, dat wil zeggen gladboordig.</p> <p>De lengte van het schip is 18,3 meter en de breedte is 5,5 &aacute; 6 meter. Uit de inventaris blijkt dat het schip tussen 1500 en 1550 is vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een karveel gebouwd waterschip uit de zestiende eeuw, Zeewolde</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xy3-c4yc\">Opgravingsdocumentatie scheepswrak ZN113.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

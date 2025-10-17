@@ -1,0 +1,27 @@
+{
+  "id": "1184",
+  "code": "velserbeek",
+  "name": "Velserbeek",
+  "type": "wreck",
+  "lat": "-0.7209699",
+  "lon": "100.1444740",
+  "location": "Indonesië",
+  "firstdate": null,
+  "firstyear": "1724",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1727",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-03 12:00:21",
+  "modified_on": "2025-06-10 11:31:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Velserbeek </em>vertrok voor de VOC op 30-9-1725 uit Nederland met bestemming Batavia (aankomst 21-5-1626).</p> <p>13 jan 1727 was het schip in Batavia na een reis naar Bengalen.</p> <p>13 aug 1727 aankomst te Padang (westkust Sumatra), na een reis van 2 maanden en 27 dagen. De schipper was gestorven en vervangen door de eerste stuurman. Vandaar ging het 16 september weer naar Bengalen.</p> <p><strong>Locatie's?</strong><br>Ergens hierna is het schip verongelukt. Maar waar precies is onduidelijk. De bronnen zijn tegenstrijdig. DAS vermeldt:&nbsp;<em>tussen Padang en Bengalen</em>. <br><br>De missiven zijn nog algemener: <em>Men neemt aan dat de Velserbeek die 19 mei vertrokken is uit Batavia vergaan is.<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=244&amp;accessor=search_in_text&amp;source=8&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1120&amp;view=imagePane\">&sup1;</a><br><br></em>Lijst van uitgezeilde schepen (NA 4935): <br><em>Op de cust van Palembang verzeilt.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0117?eadID=1.04.02&amp;unitID=4935&amp;query=\">&sup2;</a><br></em>Dat is de Oostkust van Sumatra op weg naar de straat van Malakka . Dat zou overeenkomen met de instructies betreffende de route naar Bengalen.</p> <p>Register der schepen van de Oost indische Comp (NA 4934)<em>:&nbsp;<br>Op de wal geset op Sumatra's westkust.</em><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0117?eadID=1.04.02&amp;unitID=4935&amp;query=\">&sup3;</a></p> <p>Vermeld in de Missiven wordt in ieder geval het volgende: De Velserbeek kwam in moeilijkheden door de late aankomst in Padang en daardoor late vertrek uit Padang 16 september. Het stormseizoen was begonnen Het schip raakte in moeilijkheden (en verongelukte daardoor?). N.a.v. de moeilijkheden van de Velserbeek werden de vaarvoorschriften aangescherpt:</p> <p>Mochten schepen bestemd voor Bengalen niet voor 31 augustus kunnen vertrekken uit Padang dan moesten ze terugkeren naar Batavia. Om dan vervolgens vandaar door de straat van Malakka naar Bengalen te varen. (<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=212&amp;accessor=search_in_text&amp;source=8&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1120&amp;view=imagePane\">Gen Miss</a>).<br>Naar aanleiding van deze vermelding plaatsen we de Velserbeek voorlopig eerder aan de westkust van Sumatra dan elders.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1724<br>Lengte: 130 vt<br>Tonnage: 325 last, 650 tns<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93716\">Details of voyage 2634.1 from Texel to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/5841/file/NL-HaNA_1.04.02_5841_0001?eadID=1.04.02&amp;unitID=5841&amp;query=Velserbeek\">Grootboek 1725-26.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

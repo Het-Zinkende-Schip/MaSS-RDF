@@ -1,0 +1,27 @@
+{
+  "id": "2367",
+  "code": "hr-ms-hoofdinspecteur-zeeman",
+  "name": "Hr. Ms. Hoofdinspecteur Zeeman",
+  "type": "wreck",
+  "lat": "-7.7465770",
+  "lon": "109.0073776",
+  "location": "Cilacap, Indonesië",
+  "firstdate": null,
+  "firstyear": "1909",
+  "firstyearend": null,
+  "lastdate": "1942-03-05",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-16 11:19:24",
+  "modified_on": "2025-06-12 12:15:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip Hoofdinspecteur Zeeman was vanaf de Eerste Wereldoorlog actief bij de Dienst der Bebakening en Kustverlichting. De thuishaven van het schip was Tandjong Priok, de haven van Batavia, Java.</p> <p><strong>Taak</strong><br>Alle bebakening objecten in het toegewezen gebied (wateren rond Sumatra en West Java) eens per half jaar controleren en eventueel repareren.Dit werk werd door het schip uitgevoerd tot 1939.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002303.jpg\" alt=\"foto van de Hoofdinspecteur Zeeman in een droogdok te Soerabaja\"> <div class=\"img-source\">geheugen van Nederland</div> <figcaption class=\"img-description\">De Hoofdinspecteur Zeeman in een droogdok te Soerabaja in 1942, (bron Geheugen van Nederland)</figcaption> </figure> <p><strong>Oorlog</strong></p> <p>Bij het uitbreken van de oorlog werd het schip gemilitariseerd en verrichtte als Hr. Ms. Hoofdinspecteur Zeeman, onder commando van gezaghebber W.C. Tismeer, bewaking-, transport- en andere marinetaken.</p> <p>In februari 1942 kreeg het schip de haven Tjilatjap, Zuid-Java, als station aangewezen voor het verrichten van boeien werk. Op 5 maart 1942 bevond het schip zich in Tjilatjap. Dit was de laatste haven die op dat moment nog niet in Japanse handen was en die op die dag meerdere malen door de Japanners gebombardeerd werd.</p> <p>Tijdens de eerste luchtaanval bleef het schip nog gespaard en kreeg opdracht om af te meren onder een aantal bomen. Hoewel de meeste inheemse bemanningsleden na het bombardement gevlucht waren, werd de opdracht uitgevoerd. Bij een tweede bombardement werd het schip door een bom getroffen waarna de Hoofdinspecteur Zeeman kapseisde en zonk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Nederlandse Scheepsbouw Maatschappij (NSM) te Amsterdam, 1909<br>Machine-installatie:1 x triple expansie stoommachine<br>Machinevermogen: 750 pk</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Tismeer, W.C.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>52</td></tr><tr><th scope=\"row\">Snelheid</th><td>10 knopen ~ 19 km/u (12 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>173 voet (52,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 &frac14; voet (9,2 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>7 voet (2,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>803 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Peter Kimenai.<br /><a href=\"https://www.tracesofwar.nl/articles/2506/Gemilitariseerde-schepen-van-de-Gouvernements-Marine.htm?c=gw\">Gemilitariseerde schepen van de Gouvernements Marine.</a></li><li>Bert Immerzeel.<br /><a href=\"https://javapost.nl/2014/04/04/tjilatjap-het-duinkerken-van-java/\">tjilatjap het duinkerken van java.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

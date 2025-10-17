@@ -1,0 +1,27 @@
+{
+  "id": "4220",
+  "code": "kassandra",
+  "name": "Kassandra",
+  "type": "wreck",
+  "lat": "38.0850700",
+  "lon": "24.1533000",
+  "location": "Ακιό, Πλατουράδα, Griekenland",
+  "firstdate": null,
+  "firstyear": "1919",
+  "firstyearend": null,
+  "lastdate": "1973-02-28",
+  "lastyear": "1973",
+  "lastyearend": null,
+  "country": "Griekenland",
+  "countrycode": "GR",
+  "author": "Kimon Papadimitriou",
+  "created_on": "2024-09-05 21:45:55",
+  "modified_on": "2024-10-04 09:09:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Vermogen</th><td>450 pk</td></tr><tr><th scope=\"row\">Lengte</th><td>170 voet (51,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>469 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The shipwreck was designated as a monument in 2024, according to the Law 4858/2021 (<a href=\"https://diavgeia.gov.gr/doc/65%CE%A4%CE%9946%CE%9D%CE%9A%CE%9F%CE%A4-5%CE%A8%CE%A0?inline=true\">https://diavgeia.gov.gr/doc/65%CE%A4%CE%9946%CE%9D%CE%9A%CE%9F%CE%A4-5%CE%A8%CE%A0?inline=true</a>).</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

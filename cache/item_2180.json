@@ -1,0 +1,27 @@
+{
+  "id": "2180",
+  "code": "eendracht-nieuwe",
+  "name": "Eendracht (Nieuwe)",
+  "type": "wreck",
+  "lat": "56.7412335",
+  "lon": "2.8911717",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1639",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1676",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-02 11:45:56",
+  "modified_on": "2025-06-11 18:45:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De (Nieuwe) Eendracht</strong></em> was het grootste schip van de admiraliteit van het Noorderkwartier.</p> <p><strong>Staat van dienst:</strong></p> <p>Maakte deel uit van vlooteskader onder admiraal Witte de With naar Brazili&euml; in 1648 om de WIC aldaar bij te staan. Betrokken in de zeeslag bij Itaparica waar D<em><strong>e Utrecht</strong></em> zonk.</p> <p>Vocht in de battle of Lowestoft juni 1666, Niet te verwarren met <em><strong>De Eendracht</strong></em>, het vlaggenschip van admiraal Jacob van Obdam Wassenaar dat tijdens de slag in de lucht vloog.</p> <p>(bron:NIMH)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Linie schip&nbsp;<br>Gebouwd: Enkhuizen, 1639<br>Complement: 205 bemanning 35 soldaten (2 -4-1666)<br>Armament: 44<br>Master: Gijsbert Malcontent 1647</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gijsbert Malcontent</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>32 &frac14; voet (9,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Nederlands Instituut Militaire Historie.<br /><em>De Nieuwe Eendragt.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

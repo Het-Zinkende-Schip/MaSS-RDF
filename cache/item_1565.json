@@ -1,0 +1,27 @@
+{
+  "id": "1565",
+  "code": "hof-van-zeeland-1747",
+  "name": "Hof van Zeeland",
+  "type": "wreck",
+  "lat": "51.4022043",
+  "lon": "3.7580109",
+  "location": "Zuid Beveland, Nederland",
+  "firstdate": null,
+  "firstyear": "1747",
+  "firstyearend": null,
+  "lastdate": "1747-12-12",
+  "lastyear": "1747",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-25 17:50:27",
+  "modified_on": "2020-08-25 17:50:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In een zware storm verloor het gehuurde schip haar masten en is op de dijk van Zuid Beveland gedreven en vergaan. (bron NIMH)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 22</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4111",
+  "code": "np2",
+  "name": "NP2",
+  "type": "wreck",
+  "lat": "52.6653820",
+  "lon": "5.7840880",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 15:59:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1951 kwam een melding binnen van de vondst van een scheepsfragment op kavel P2 in de Noordoostpolder. Hoewel vermoedelijk door (maritiem) archeoloog Gerrit (G.D.) van der Heide verkend, ontbreekt archeologische documentatie van deze onderzoeking. Wel zouden destijds drie objecten uit het schip zijn geborgen, te weten: een klein spreukbord voorzien van het opschrift: 'ik Zeg En Leer, Bewaardt U Eer', een messing snotneus (type olielamp) en een roodaardewerken steelpan uit Bergen op Zoom. In 1985 werd na een nieuwe melding een herverkenning uitgevoerd. Vermoed werd dat de scheepsvondst zich in kavelsloot P2/3 bevond. De bodem werd afgeprikt met intervallen van een meter, maar hierbij werd slechts een spantkop gevonden. De rest van het wrak kon niet worden gelokaliseerd, waarbij wel werd opgemerkt dat direct aan de slootkanten niet gezocht kon worden vanwege de begroeiing. Er werd na afloop gesteld dat het waarschijnlijk een klein scheepswrak betrof, vermoedelijk overnaads gebouwd. De spantkop laat in ieder geval zien dat bij de constructie van het schip gebruik was gemaakt van kleine houten pennen met wiggen. Op basis van de weinige vondsten wordt een ondergang in de 19de eeuw verondersteld.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-ztw-4vmb\">Opgravingsdocumentatie scheepswrak NP2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

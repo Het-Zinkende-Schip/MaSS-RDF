@@ -1,0 +1,27 @@
+{
+  "id": "989",
+  "code": "albula",
+  "name": "MV Albula",
+  "type": "wreck",
+  "lat": "58.6729804",
+  "lon": "-3.3775492",
+  "location": "Dunnet Head, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1936",
+  "firstyearend": null,
+  "lastdate": "1940-08-10",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-31 15:30:53",
+  "modified_on": "2025-06-09 12:25:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In konvooi onderweg met een lading steenkool van Methil naar Newcastle-on-Tyne gezonken bij Dunnet Head ten gevolge van een aanvaring in stormweer met het Amerikaanse s.s. &ldquo;Crescent City\".</p> <p>De bemanning werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: General Cargo</p> <p>Gewbouwd: Gutehoffnungsh&uuml;tte-Oberhausen A.G., Rheinwerft 'Walsum', Walsum, Germany<br>Eigenaar: N.V. Schellen Scheepvaart en Bevrachting, Rotterdam</p> <p>Tonnage: 380<br>Length: 41.46 Meters Length overall (Loa)<br>Beam: 7.34 Meters Breadth, moulded<br>Depth: 2.77 Meters Depth, moulded<br>Draught: 2.25 Meters Draught, maximum</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

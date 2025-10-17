@@ -1,0 +1,27 @@
+{
+  "id": "2146",
+  "code": "watervliet",
+  "name": "Watervliet",
+  "type": "wreck",
+  "lat": "50.9688057",
+  "lon": "1.8328285",
+  "location": "Calais, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1735",
+  "firstyearend": null,
+  "lastdate": "1742-05-05",
+  "lastyear": "1742",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-15 10:05:43",
+  "modified_on": "2025-01-10 13:29:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 3 mei 1742 vertrok de <em>Watervliet</em> uit Texel voor haar derde uitreis naar de Oost. Twee dagen later verongelukte het schip.</p> <p>Het schip strandde: \"<em>op een onverantwoorde en verfoejelijcke wijse\"</em> bij de haven van Calais op 5 mei 1742. Alle opvarenden , lading en geld zijn geborgen.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0212?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf Amsterdam 1736<br>Lengte: 130 vt.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Swaag, Gerbrand</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>175</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94286\">DAS 3248.3.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Watervliet&amp;facets%5Bperiode%5D%5B%5D=2%7C18e_eeuw%7C1740-1749%7C1742%7C&amp;page=1&amp;coll=ddd&amp;identifier=ddd:010908000:mpeg21:a0012&amp;resultsidentifier=ddd:010908000:mpeg21:a0012\">Leydse Courant.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0212?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen , fol 210.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

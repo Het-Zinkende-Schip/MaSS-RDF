@@ -1,0 +1,26 @@
+{
+  "id": "2275",
+  "code": "marknesse",
+  "name": "Marknesse",
+  "type": "site",
+  "lat": "52.6971517",
+  "lon": "5.8103943",
+  "location": "Noordoostpolder, Nederland",
+  "firstdate": null,
+  "firstyear": "900",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1300",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-02 19:12:51",
+  "modified_on": "2023-02-03 09:42:14",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-status\">Status</h1>\n<div><p>Yftinus van Popta</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

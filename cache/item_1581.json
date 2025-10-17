@@ -1,0 +1,27 @@
+{
+  "id": "1581",
+  "code": "vrouwe-everhardina",
+  "name": "Vrouwe Everhardina",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Chinese Zee",
+  "firstdate": null,
+  "firstyear": "1776",
+  "firstyearend": null,
+  "lastdate": "1784-07-25",
+  "lastyear": "1784",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-31 15:50:16",
+  "modified_on": "2025-04-11 17:13:00",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Vrouwe Everhardina</strong></em>&nbsp;werd na haar eerste retour reis 2 jaar opgelegd i.v.m. de Vierde Engelse oorlog (1780-1784).</p> <p>Na haar tweede uitreis kwam het schip op 24 april 1784 in Batavia aan. Op 25 juni vertrok ze uit Batavia samen met de Ouwerkerk naar Japan. 25 juli kwam de Vrouwe Everhardina, samen met de Ouwerkerk in een hevige storm terecht. De volgende dag was de Vrouwe Everhardina verdwenen. Van de Vrouwe Everhardina werd nooit meer iets vernomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Delfshaven, 1776<br>Eigenaar: VOC kamer Delft, Zeeland (v.a. 1780)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95473\">DAS 4422.2.</a></li><li><a href=\"https://dekok.xyz/htrsearch/transcriptie?scan=111808&amp;query=Everhardina&amp;varianten=2&amp;archief=VOC\">VOC-archief, inventarisnummer 7644 (scan 118).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

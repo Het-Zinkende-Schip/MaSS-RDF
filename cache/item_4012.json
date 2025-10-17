@@ -1,0 +1,27 @@
+{
+  "id": "4012",
+  "code": "nc23",
+  "name": "NC23",
+  "type": "wreck",
+  "lat": "52.7575050",
+  "lon": "5.6400650",
+  "location": "Creil, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1875",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:28:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Deze relatief jonge scheepsrest bleek reeds uitgegraven te zijn voordat archeologisch onderzoek kon plaatsvinden. Toch zijn er uiteindelijk nog enige objecten naar het toenmalige oudheidkundig museum op Schokland gezonden. Uit dit wrak zijn heden ten dage echter geen objecten in het Nationaal Scheepsarcheologisch Depot te Lelystad bewaard gebleven.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xdk-h64y\">Opgravingsdocumentatie scheepswrak NC23.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

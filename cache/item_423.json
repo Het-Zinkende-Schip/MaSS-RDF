@@ -1,0 +1,26 @@
+{
+  "id": "423",
+  "code": "naaldwijk-rowing-blade",
+  "name": "Naaldwijk rowing blade",
+  "type": "other",
+  "lat": "51.9690000",
+  "lon": "4.1710000",
+  "location": "Hoogeland, Naaldwijk, Nederland",
+  "firstdate": null,
+  "firstyear": "600",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2013-11-19 00:00:00",
+  "modified_on": "2025-06-22 11:30:40",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>During anexcavation in 2011 in an early medieval settlement in Naaldwijk the blade was found in a well. The well was dated to the Merovingian period (7th century).</p> <p>Probably the blade was usedin a small rowing vessel that was propelledby one manlike a modern scull with two oars. The oars were connected to a boat by means of rowlocks tholes.</p> <p>Ship finds from the Merovingian period are extremely rare. A recent find (2010) in Holland was <a href=\"/vleuten-1\">The Vleuten 1</a> dating from the 8th century.It was an expanded logboat. Log boats are relativity small and probably rowed with oars like the one that was found in Naaldwijk.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000993.jpg\" alt=\"Merovingian Logboat\"> <div class=\"img-source\">RCE</div> <figcaption class=\"img-description\">Merovingian Logboat Vleuten 1 in situ.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000996.jpg\" alt=\"The well and the blade in situ\"> <figcaption class=\"img-description\">The well and the blade in situ (Source: ADC archeologie).</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><div>Blade of an oar. The rowing blade was made of alder and measures ca. 48 cm.<br>The shape of the blade is surprisingly modern: Symmetric, elliptical with a ridge line running down the center of the blade just as in modern Macon blades.<br>The blade is unique in Europe and is the First blade from the Merovingian period. <figure class=\"img-wrapper\"><img src=\"/photos/l/00000992.jpg\" alt=\"Naaldwijk blade \"> <figcaption class=\"img-description\">Naaldwijk blade (source: ADC Archeologie).</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000994.jpg\" alt=\"two rowing boats with men rowing in them\"> <figcaption class=\"img-description\">Mmacon blades in action.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000995.jpg\" alt=\"The blade front and back\"> <figcaption class=\"img-description\">The blade front and back (Source : ADC archeologie).</figcaption> </figure> </div></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>After excavation the blade was conservated and preserved in laboratory of the ADC in Amersfoort.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Martijn Manders en Robert Hoegen (2011).<br /><a href=\"https://www.academia.edu/31646579/Rapportage_Archeologische_Monumentenzorg_198\">Waardestelling Vleuten 1 - Het onderzoek naar de resten van een opgeboeide boomstamboot uit de 8e eeuw na Christus.</a><br />RAM 198.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

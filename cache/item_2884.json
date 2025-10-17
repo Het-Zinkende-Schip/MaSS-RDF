@@ -1,0 +1,27 @@
+{
+  "id": "2884",
+  "code": "ellewoutsdijk",
+  "name": "Ellewoutsdijk",
+  "type": "wreck",
+  "lat": "51.5692888",
+  "lon": "1.2558531",
+  "location": "Noordzee, Galloper lightship",
+  "firstdate": null,
+  "firstyear": "1906",
+  "firstyearend": null,
+  "lastdate": "1915-12-30",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-14 09:24:45",
+  "modified_on": "2025-06-15 12:09:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>&nbsp;Het vrachtschip <em><strong>SS Ellewoutsdijk</strong></em> liep op de Noordzee bij het lichtschip 'Galloper', op een door de Duitse onderzeeboot 'UC 10' gelegde mijn en ging verloren. De opvarenden konden worden gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Scheepswerf v/h. Jan Smit Czn., Alblasserdam<br>Eigenaar: Firma Solleveld, Van der Meer &amp; T.H. van Hattum, Rotterdam,</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>303 &frac14; voet (92,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>43 voet (13,1 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>20 voet (6,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2229 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritieme Historische Data.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=1998\">ID 1998.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

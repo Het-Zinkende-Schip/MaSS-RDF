@@ -1,0 +1,27 @@
+{
+  "id": "2359",
+  "code": "engel-1652",
+  "name": "Engel",
+  "type": "wreck",
+  "lat": "50.3153036",
+  "lon": "-0.2636719",
+  "location": "Engels Kanaal?, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1652",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-04 11:48:15",
+  "modified_on": "2023-08-23 13:38:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: koopvaarder<br>Eigenaar: gehuurd in februari 1652 <br>Amiraliteit Noorderkwartier</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Vreugdenhil, A. (1938).<br /><em>Lists of Men-of-War 1650-1700: Part IV Ships Of The United Netherlands 1648-1702.</em></li><li>Bender, J. (2014).<br /><em>Dutch warships in the age of sail (1600-1714) p. 192.</em><br />Seaforth Publishing.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1009",
+  "code": "soesterberg",
+  "name": "SS Soesterberg",
+  "type": "wreck",
+  "lat": "57.0243889",
+  "lon": "-10.7358393",
+  "location": "North Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1927",
+  "firstyearend": null,
+  "lastdate": "1940-10-18",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-05 14:27:16",
+  "modified_on": "2025-06-09 12:48:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het s.s. \"Soesterberg\", vertrok 5 oktober 1940 in konvooi SC-7 van Sydney (Nieuw-Schotland) naar Hull. Op 18 oktober werd een schip uit het konvooi getorpedeerd. Vroeg in de morgen werd wederom een duikboot waargenomen. Door van de duikboot af te draaien werd getracht deze te ontlopen, doch deze manoeuvre lukte niet.</p> <p>Om 0.26 uur werd de \"Soesterberg\" getorpedeerd. De machine stopte direct. De motorboot was vernield, waarop de BB. boot te water werd gelaten, alsmede enige vlotten. De schipbreukelingen werden na 25 minuten opgepikt door een Engels marinevaartuig.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: vrachtschip<br>Gebouwd: <br>Eigenaar: N.V. Stoomvaart Maatschappij \"Hillegersberg\", Rotterdam<br>Dimensies: 84.89 x 12.24 x 6.27 meter Registered<br>Tonnage: 1891<br>Voortstuwing: Stoom, Triple Expansion, Power: 1250<br>Snelheid: 10<br>Bemanning: 25 (6 slachtoffers en 19 survivors).<br>Kapitein: D. de Jong</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Op 50 zeemijl van Roackall Rock (op positie 57.12&deg; N / 10.43&deg; W). Zes bemanningsleden komen hierbij om het leven.</p> <p>N. Meyer, 1e machinist<br>E. M. Rieffe, 3e machinist<br>W. van Elst, kok<br>W. van Eijk hutjongen<br>A. H.A. Verbruggen donkeyman<br>B. Raymond, tremmer</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 43.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://uboat.net/allies/merchants/ship/616.html\">U boat net.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6036\">Maritiem Historische Data ID 6036.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

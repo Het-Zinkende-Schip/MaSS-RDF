@@ -1,0 +1,27 @@
+{
+  "id": "3009",
+  "code": "sidney",
+  "name": "Sidney",
+  "type": "wreck",
+  "lat": "58.6572894",
+  "lon": "5.5478740",
+  "location": "Obrerstad fyr, Noorwegen",
+  "firstdate": null,
+  "firstyear": "1917",
+  "firstyearend": null,
+  "lastdate": "1918-11-08",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-27 13:26:15",
+  "modified_on": "2025-06-15 16:59:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Lek geraakt en gezonken. De Sidney was op weg van Bergen in Noorwegen naar Amsterdam met een lading haring.</p> <p>Om 02.00 uur 's nachts lek gesprongen en vergaan bij Obrestadt (Noorwegen). Zes bemanningsleden zijn daarbij omgekomen. Deze mannen durfden de sprong van het schip in de sloepen niet te wagen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Hollandsche Vrachtvaart Maatschappij, H. van Krieken &amp; Co., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>F. van der Made</td></tr><tr><th scope=\"row\">Lengte</th><td>129 &frac14; voet (39,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>268 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5872\">marhisdata id 5872.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

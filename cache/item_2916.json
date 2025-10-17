@@ -1,0 +1,27 @@
+{
+  "id": "2916",
+  "code": "huibertje-sch",
+  "name": "Huibertje (SCH 242)",
+  "type": "wreck",
+  "lat": "52.3548568",
+  "lon": "4.0806823",
+  "location": "Noordzee, tussen Scheveningen en Ijmuiden, Nederland",
+  "firstdate": null,
+  "firstyear": "1877",
+  "firstyearend": null,
+  "lastdate": "1917-11-12",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-12 16:00:58",
+  "modified_on": "2025-06-15 12:35:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: houten zeil logger</p> <p>Gebouwd: Vlaardingen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Ruiter, leendert de</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>12</td></tr><tr><th scope=\"row\">Tonnage</th><td>68 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Huibertje&amp;cql%5B%5D=%28date+_lte_+%2231-12-1917%22%29&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;redirect=true&amp;sortfield=date&amp;page=1&amp;identifier=MMC\">Nieuwe Apeldoornsche courant 13-11-1917.</a></li><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40018299\">Centraal_Visserijregister.</a></li><li><a href=\"https://www.scheveningen-haven.nl/info/schepen/index.php?nummer=242&amp;lijst=200&amp;af=SCH\">Scheveningen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

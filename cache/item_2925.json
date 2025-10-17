@@ -1,0 +1,27 @@
+{
+  "id": "2925",
+  "code": "spes-mea",
+  "name": "Spes mea",
+  "type": "wreck",
+  "lat": "51.6595044",
+  "lon": "2.5220336",
+  "location": "Noord Hinder lichtschip, Noordzee",
+  "firstdate": null,
+  "firstyear": "1897",
+  "firstyearend": null,
+  "lastdate": "1917-07-25",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-31 10:43:11",
+  "modified_on": "2025-07-18 16:51:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Spes Mea</strong></em> was onderweg van Dunkerque naar Rotterdam. Ze werd op de Noordzee bij het Noord Hinder lichtschip aangehouden en tot zinken gebracht door de Duitse onderzee&euml;r UB-18. De drie opvarenden werden gered. Op dezelfde dag werd ook het zeilschip <a href=\"https://mass.cultureelerfgoed.nl/janna\">Janna</a> aangehouden en tot zinken gebracht door de UB-18.<br>De UB-18 heeft in haar carri&egrave;re Nederlandse schepen tot zinken gebracht.<a href=\"https://uboat.net/wwi/boats/successes/ub18.html\">*</a></p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003541.jpg\" alt=\"tekst: De bemanning van de &bdquo;Spes Mea&quot;. Men meldt ons nader uit Hellevoetsluis: Hier zijn door het onderzoekingsvaartuig Sphinx&quot; aangebracht 3 man van de Nederl. zeetjalk Spes Mea&quot;, die door een Duitsche duikboot 8 mijl van de Noord-Hinder&quot; tot zinken was gebracht. De tjalk was in ballast en kwam van Duinkerken. De menschen had den eenige uren in de boot geroeid, toen zij door een Goereeschen visscherman werden op-genomen. Ze hebben geen gelegenheid gekregen om jets mee te nemen Nadat zij op Hr. Ms. wachtschip een verklaring hadden afgelegd en van voedsel waren voorzien, zijn ze naar Rot-terdam vertrokken,\"> <div class=\"img-source\">Delpher</div> <figcaption class=\"img-description\">Het Vaderland 28-7-1917</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003540.jpg\" alt=\"tekst: De nederlandsche vloot verloor de s. Bre-da en s. Batavier II, de motorbooten Timor, Sirra en Nerens en de zeilschepen Janna en Spes Mea; de visschersvaartuigen VL 91 en 134, MA 16 en 103, YM 181 en SCH 23, 134, 136, 170, 254, 382 en 479. \"> <div class=\"img-source\">Delpher</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaart: Reederij J. Dallinga, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Stienstra, T.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>3</td></tr><tr><th scope=\"row\">Tonnage</th><td>75 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=150\">marhisdata ID 150.</a></li><li>Delpher.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Spes+Mea%22&amp;coll=ddd&amp;sortfield=datedesc&amp;page=5&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;identifier=MMKB23:001529048:mpeg21:a00071&amp;resultsidentifier=MMK\">Het Vaderland 28-7-1917.</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/5690.html\">uboat.net U 46.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

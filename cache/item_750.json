@@ -1,0 +1,27 @@
+{
+  "id": "750",
+  "code": "diemen",
+  "name": "Diemen",
+  "type": "wreck",
+  "lat": "-8.0830242",
+  "lon": "-34.8598595",
+  "location": "Recife, Brazilië",
+  "firstdate": null,
+  "firstyear": "1623",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-03 17:29:03",
+  "modified_on": "2025-06-07 14:42:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: yacht</p> <p>Built: Amsterdam ca. 1623</p> <p>Tonnage: 60 last</p> <p>Complement: unknown</p> <p>Armament: 6</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>NA, Den Haag, OWIC, 1.05.01.01, 57. 185.,</em></li><li><em>Lijst van schepen en jachten te Brazilië. [1639].</em></li><li><em>De Laet, Kort verhael.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

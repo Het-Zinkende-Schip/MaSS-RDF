@@ -1,0 +1,27 @@
+{
+  "id": "2397",
+  "code": "fortuin-1672",
+  "name": "Fortuin",
+  "type": "wreck",
+  "lat": "11.1801575",
+  "lon": "-60.7369065",
+  "location": "Scarborough, Trinidad en Tobago",
+  "firstdate": null,
+  "firstyear": "1672",
+  "firstyearend": null,
+  "lastdate": "1677-03-03",
+  "lastyear": "1677",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-29 14:39:15",
+  "modified_on": "2025-06-12 17:46:33",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De huidige Scarborough-baai Tobago (Nieuw Vlissingen) is de locatie van twee zeeslagen die in 1677 werden uitgevochten tussen de Nederlandse en de Franse vloot.(<a href=\"/battle-of-scarborough\">Battle of Scarborough</a>)</p> <p>Op de rechtervleugel lag het adviesjacht Fortuin. Ze vloog in brand en dreef in de baai in aanvaring met andere Nederlandse schepen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Erasmus, Jan</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jonge, J.C.  (1859).<br /><em>Geschiedenis van het  Nederlandsche Zeewezen, II, p. 717.</em><br />Keuzeman, Haarlem.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "697",
+  "code": "amstelveen-1625",
+  "name": "Amstelveen",
+  "type": "wreck",
+  "lat": "-3.4984834",
+  "lon": "99.7559834",
+  "location": "[West Sumatra], Indonesië",
+  "firstdate": null,
+  "firstyear": "1625",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1628",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-17 11:48:45",
+  "modified_on": "2025-03-04 18:19:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Amstelveen staat op de equipage lijst van de VOC kamer van Amsterdam. Ze vertrok 16 januari 1626 naar Azi&euml;. Ze kwam in Batavia aan op 4 oktober 1626.De Amstelveen bleef vervolgens dienst doen in Azi&euml;.</p> <p>Laatste vermelding juli 1628, nog geen definitief lot.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91363\">DAS 0325.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0040?query=\">NL-HaNA_1.04.02_4932_0040.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

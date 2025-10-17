@@ -1,0 +1,27 @@
+{
+  "id": "2184",
+  "code": "cypersche-kat",
+  "name": "Cypersche Kat",
+  "type": "wreck",
+  "lat": "51.5019041",
+  "lon": "0.8624268",
+  "location": "Sheerness, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1667",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1667",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-02 16:43:09",
+  "modified_on": "2025-06-11 18:47:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Cyperse Kat nam deel aan Tocht naar Chatham.</p> <p>Lag op 3 juni 1667 op de rede van Texel. Werd toegevoegd aan eskader van lt. ad. v. Ghent in de vloot van lt. ad. Michiel de Ruyter. 7-6 vertrok ze naar hert rendez-vous punt voor de Theems. Daar komt ze aan 13-6. 19 6 vergaan in actie.</p> <p>(bron NIMH nr.116)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Rein Pietersz. Mars</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>20</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

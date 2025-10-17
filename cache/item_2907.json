@@ -1,0 +1,27 @@
+{
+  "id": "2907",
+  "code": "cornelia-1912",
+  "name": "Cornelia",
+  "type": "wreck",
+  "lat": "49.1916684",
+  "lon": "-2.6905153",
+  "location": "Jersey, twv, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1912",
+  "firstyearend": null,
+  "lastdate": "1917-06-07",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-02 10:26:52",
+  "modified_on": "2025-06-15 12:29:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>Cornelia</strong></em> van de Zeevaartmij. Groningen aldaar, op reis van Havre naar Lissabon, in het Engelse Kanaal getorpedeerd is. De kapitein en de bemanning zijn te Paimpol (Frankrijk) geland.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: vrachtvaarder schoener, staal<br>Gebouwd: Gebroeders Bos,&nbsp;Groningen<br>Eigenaar: N.V. Zeevaart Maatschappij, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Stienstra</td></tr><tr><th scope=\"row\">Lengte</th><td>103 &frac14; voet (31,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>21 &frac34; voet (6,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>170 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=1520\">marhisdata 1520.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

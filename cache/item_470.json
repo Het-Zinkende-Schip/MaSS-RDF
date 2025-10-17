@@ -1,0 +1,27 @@
+{
+  "id": "470",
+  "code": "dahomey",
+  "name": "Dahomey",
+  "type": "wreck",
+  "lat": "52.9666826",
+  "lon": "4.6542746",
+  "location": "Noorder Haaks, Nederland",
+  "firstdate": null,
+  "firstyear": "1850",
+  "firstyearend": null,
+  "lastdate": "1880-09-20",
+  "lastyear": "1880",
+  "lastyearend": null,
+  "country": "Rusland",
+  "countrycode": "RU",
+  "author": "Annaliese Dempsey",
+  "created_on": "2014-10-01 00:00:00",
+  "modified_on": "2025-06-22 12:01:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>SS Dahomey </strong></em>was een Russische vrachtschip onderweg van Riga (Letland) naar Schiedam met een lading graan. Het schip strandde op de Noorderhaaks.&nbsp;De equipage, bestaande uit 22 koppen, is door de sleepboot Hercules gered.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004141.jpg\" alt=\"Dit is een uittreksel uit een oud krantenartikel, 20 september\"></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De <em><strong>SS Dagomey</strong></em> strandde op 20-9-1880</p> <p>De bemanning van 22 is gered door de sleepboot Hercules en reddingboot.<a href=\"https://marsdiep.mudware.nl/?p=1009\">*</a></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Rose</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>22</td></tr><tr><th scope=\"row\">Lengte</th><td>250 voet (76,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 &frac34; voet (9,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1044 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>RN.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Dahomey&amp;facets%5Bperiode%5D%5B%5D=0%7C19e_eeuw%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;page=1&amp;sortfield=date&amp;cql%5B%5D=%28date+_gte_+%2205-08-1880%22%29&amp;cql%5B%5D=%28date+_lte_+%2225-11-1880%22%29&amp;coll=ddd&amp;redir\">Rotterdams Nieuwsblad (22-9-1880).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

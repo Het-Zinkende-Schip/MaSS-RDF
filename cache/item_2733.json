@@ -1,0 +1,27 @@
+{
+  "id": "2733",
+  "code": "kentar",
+  "name": "Kentar",
+  "type": "wreck",
+  "lat": "12.2455409",
+  "lon": "-56.3378906",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1920",
+  "firstyearend": null,
+  "lastdate": "1942-07-31",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-03 11:54:31",
+  "modified_on": "2025-06-14 21:00:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>&nbsp;De Kentar was oorspronkelijk een Duits schip . Ze voer tot 1927 onder de naam Hamburg daarna onder de naam Naumburg. In september 1939 werd de Naumburg in Soerabaja aan de ketting gelegd. Op 10 mei 1940 werd ze door de Nederlands-Indische Regering in beslag genomen en na herstel, in oktober 1940 als <em><strong>Kentar</strong></em> in de vaart gebracht.</p> <p>De <em><strong>Kentar</strong></em> vertrok op 6 Juli 1942 van Durban naar Trinidad met een lading mangaan erts. Op 31 juli 1942 werd het schip aan bakboordzijde ter hoogte van het ketelruim getroffen door een torpedo van de U 155. Door dit treffen werden machinekamer, ketelruim en daarboven gelegen hutten onder gloeiend hete stoom gezet.</p> <p>10 opvarenden kwamen hierbij direct om het leven. Velen liepen brandwonden op. Van de opvarenden verloren uiteindelijk 17 personen het leven. (Scheepsrampen p 103).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Flensburger Schiffbau-Gesellschaft m.b.H. &amp; Co K.G., Flensburg, Germany</p> <p>Eigenaar 1: Deutsch-Australische Dampfschiffs-Gesellschaft A.G., Hamburg, Germany (1920-1927)<br>Eigenaar 2: Hamburg-Amerikanische Packetfahrt A.G., Hamburg, Germany (1927-1939)<br>Eigenaar 3: Stoomvaart Maatschappij Nederland (1940-1942)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Sieben, J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>79</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 206.</em></li><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=3425\">Kentar - ID 3425.</a></li><li>Uboat.net.<br /><a href=\"https://uboat.net/allies/merchants/ship/1985.html\">Kentar.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

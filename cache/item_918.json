@@ -1,0 +1,27 @@
+{
+  "id": "918",
+  "code": "elisabeth-1690",
+  "name": "Elisabeth",
+  "type": "wreck",
+  "lat": "-5.8687501",
+  "lon": "108.4285992",
+  "location": "Pulau Biawak, , Indonesië",
+  "firstdate": null,
+  "firstyear": "1688",
+  "firstyearend": null,
+  "lastdate": "1690-08-08",
+  "lastyear": "1690",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-12 09:05:49",
+  "modified_on": "2025-06-20 10:17:19",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Elisabeth</strong></em> was een klein jacht gemaakt in Indi&euml;.</p> <p>De Elisabeth vertrok 30 juni uit Makassar (Sulawesi) met een lading rijst (90 last = 180 ton) bestemd voor Batavia. Ze is op 8 augustus 1690 op een rif gelopen ten noorden van Pulau Rachit.</p> <p><em>droeve tijding hoe zij &lsquo;tjagje d&rsquo;Elisabeth geladen met 90 lasten rijst waermede sijlieden den 30en jongstleden van Macassar vertrocken op 8en deser s&rsquo;avonds ontrent halff 8. uren op een riff ofte droogte leggende volgens hare berigtinge anderhalve mijle noord oost van poulo Rakit,</em></p> <p>De bemanning werd gered. De lading en inventaris ging verloren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De Elisabeth komt voor in de lijst jachten en jachtjes hier in India gemaakt eind 1689.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>92 &frac12; Amsterdamse&nbsp;voet (26,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>190 ton (95 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>NL-HaNA_1.04.02_1457B_0094.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1457B/file/NL-HaNA_1.04.02_1457B_0094?eadID=1.04.02&amp;unitID=1457B&amp;query=1457\">Jachten gemaakt in Indie 16.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7731/file/NL-HaNA_1.04.02_7731_0146?eadID=1.04.02&amp;unitID=7731&amp;query=7731\">NL-HaNA_1.04.02_7731_0146.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

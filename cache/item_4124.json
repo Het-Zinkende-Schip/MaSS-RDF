@@ -1,0 +1,27 @@
+{
+  "id": "4124",
+  "code": "nq75",
+  "name": "NQ75",
+  "type": "wreck",
+  "lat": "52.6437390",
+  "lon": "5.8697490",
+  "location": "Ens, Nederland",
+  "firstdate": null,
+  "firstyear": "1300",
+  "firstyearend": "1325",
+  "lastdate": null,
+  "lastyear": "1300",
+  "lastyearend": "1325",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:38:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bij het graven van de Neushoorntocht werden diep onder in het tochttalud houtresten gevonden, die deden vermoeden dat er een scheepswrak moest zitten op de kavel Q75, ca. 10 meter uit het hart van de toen nog te graven kavelsloot Q74/75. Deze vondst werd gemeld in 1946, maar het duurde nog tot 28 mei 1949 alvorens tot systematische opgraving kon worden overgegaan. Het slaan van een houten damwand bleek noodzakelijk. Het wrak bleek een totale lengte over de stevens te hebben van 9,3 m, maar een breedte, diepte of inhoudsmaat waren vanwege de incompleetheid van het wrak niet vast te stellen. De opgraving leverde geen vondsten op die het mogelijk maakten het wrak te dateren, maar op basis van de afzettingen waarin het schip zich bevond (mogelijk door vergelijking met eerdere a.d.h.v. scheepsvondsten gedateerde afzettingen) werd de ondergangsdatering gesteld op in ieder geval n&aacute; de 13de en v&oacute;&oacute;r 1600, met een door (maritiem) archeoloog Gerrit (G.D.) van der Heide vermoedde ondergangsdatum in de 14de of 15de eeuw. Hoewel de toestand van het hout van de scheepsromp overwegend slecht was, werden toch enkele kenmerkende houten constructiedelen uit het wrak geborgen om geconserveerd te worden.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zuz-vbcn\">Opgravingsdocumentatie scheepswrak NQ75.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

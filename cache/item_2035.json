@@ -1,0 +1,27 @@
+{
+  "id": "2035",
+  "code": "ne160",
+  "name": "NE160",
+  "type": "wreck",
+  "lat": "52.6272800",
+  "lon": "5.7624000",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 16:55:57",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op kavel E160, gelegen ten westen van de Palenweg in de Noordoostpolder, is in 1954 een scheepswrak opgegraven. Het is niet bekend wanneer het schip is gemeld en verkend. Ondanks het feit dat alleen het voorste deel van het schip bewaard is gebleven, kan het scheepswrak worden ge&iuml;dentificeerd als waterschip, op grond van de aanwezigheid van een bun en de gepiekte vorm van het voorschip. Bepaalde constructiekenmerken wijken af van tot nu toe bekende, oudere waterschepen, die van voor 1530 dateren: het schip is voorzien van een kielbalk in plaats van een kielplank; de huid is karveel gebouwd in plaats van overnaads en in plaats van schuine liplassen worden haaklassen in de gangen gebruikt. Alleen de planken van de zandstrook zijn met schuine liplassen verbonden. Het systeem van inhouten bestaat uit leggers met daartussenin geplaatste krommers, in plaats van leggers met daar op geplaatste oplangers. Tenslotte is de wegering bijna gesloten in plaats van open. Deze veranderingen in constructie wijzen er mogelijk op dat - hoewel de laat-middeleeuwse rompvorm gehandhaafd blijft - moderne technieken uit de bouw van zeegaande schepen worden overgenomen voor de bouw van dit schip. Mogelijk weerspiegelt de modernisering een verandering in de organisatie van de bouw van deze schepen: van bouw op kleinschalige werfjes naar bouw op werven waar ook grotere zeegaande schepen werden gebouwd. De geschatte lengte over alles van het vaartuig bedraagt 20,4 m, de maximale breedte 6,1 meter. Met behulp van jaarringonderzoek is de kapdatum van het scheepshout bepaald n&aacute; 1648 n. Chr. Het hout is gedateerd met de kalenders Nederland/Westfalen en het Zuidnedersaksisch bergland. Alleen de tegels uit de incomplete inventaris, waren te dateren tussen 1640 en 1660 n. Chr. en geven dan ook meer een indicatie van de bouwdatum van het schip.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een waterschip uit de zeventiende eeuw, Nagele</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zdv-xpum\">Opgravingsdocumentatie scheepswrak NE160.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

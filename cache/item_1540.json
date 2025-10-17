@@ -1,0 +1,27 @@
+{
+  "id": "1540",
+  "code": "amazone",
+  "name": "Amazone",
+  "type": "wreck",
+  "lat": "-0.8239462",
+  "lon": "-48.3178711",
+  "location": "Tapajos, Brazilië",
+  "firstdate": null,
+  "firstyear": "1616",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1623",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-17 15:54:07",
+  "modified_on": "2020-09-16 19:31:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In brand geschoten en gezonken in een gevecht met de Portugezen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pieter Adriaensz</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

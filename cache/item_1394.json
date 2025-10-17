@@ -1,0 +1,27 @@
+{
+  "id": "1394",
+  "code": "nieuw-vlissingen",
+  "name": "Nieuw Vlissingen",
+  "type": "wreck",
+  "lat": "52.9370796",
+  "lon": "4.6788025",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1643",
+  "firstyearend": null,
+  "lastdate": "1653-11-10",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-19 09:19:04",
+  "modified_on": "2025-06-10 16:12:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Neemt deel aan de tocht naar de Sont o.l.v. Witte de With om Zweden bij te staatn tegen Denemarken.</p> <p>Op de thuisreis in zware storm vergaan of gestrand Kop van Noord Holland of Texel.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gehuurd door admiraliteit van Zeeland, 1653<br>Bewapening: 30<br>Complement: 95, 30 soldaten</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Wolfertszoon, Jacob</td></tr><tr><th scope=\"row\">Lengte</th><td>116 &frac14; voet (35,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>27 voet (8,2 m)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

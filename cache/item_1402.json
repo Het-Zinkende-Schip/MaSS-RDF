@@ -1,0 +1,27 @@
+{
+  "id": "1402",
+  "code": "beemster",
+  "name": "Beemster koe",
+  "type": "wreck",
+  "lat": "50.7304287",
+  "lon": "0.8342272",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1686",
+  "firstyearend": null,
+  "lastdate": "1690-12-22",
+  "lastyear": "1690",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-22 10:58:51",
+  "modified_on": "2025-06-10 16:16:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Nam deel aan de overtocht van Willem III naar Engeland. <br>Vergaan in een storm op de Noordzee.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd admiraliteitswerf Amsterdam, 1686<br>Armament: 50</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Lijnslager,H.</td></tr><tr><th scope=\"row\">Lengte</th><td>136 &frac14; voet (41,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>36 voet (11 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Schependocumentatie NIMH.</em></li><li>Bender.J.A. (2014).<br /><em>Dutch ships in the age of sail. p. 290.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3185",
+  "code": "zambesi",
+  "name": "Zambesi",
+  "type": "wreck",
+  "lat": "-29.8680000",
+  "lon": "31.0493000",
+  "location": "Back Beach, Durban, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1869",
+  "firstyearend": null,
+  "lastdate": "1882-12-10",
+  "lastyear": "1882",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-23 00:35:36",
+  "modified_on": "2025-06-16 20:08:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Zambesi</strong></em> heeft drie eigenaren en drie namen (Anna Sanders tot 1874, Oliehoorn tot 1879) gehad in haar bestaan.</p> <p>De schoener-brik <em><strong>Zambesi,</strong></em> kwam op 9 december 1882 aan bij Durban. Ze moest daar in quarantaine. De volgende dag dreef ze van de ankers en strandde. Alle opvarenden zijn gered, maar het schip is wrak.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Schoener-brig, Brigantijn. tweemaster hout met koper beplaat.</p> <p>Gebouwd: te Wran&auml;s, Zweden<br>Eigenaar 1: Karel L. van Berckel, Rotterdam (1870-1874)<br>Eigenaar 2: W.W. Smit, Rotterdam (1874-1879)<br>Eigenaar 3: Maatschappij Mozambique, Rotterdam (1879-1882)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Schlomer</td></tr><tr><th scope=\"row\">Lengte</th><td>86 voet (26,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>14 &frac34; voet (4,5 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>8 &frac12; voet (2,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>137 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stories and Archives [Unpublished].</em></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=18184\">marhisdata id18184.</a></li><li>Rijksmuseum.<br /><a href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Scheepsmodel_van_de_schoener_Banka_Model_van_de_schoener_Banka%2C_NG-NM-4161.jpg/640px-Scheepsmodel_van_de_schoener_Banka_Model_van_de_schoener_Banka%2C_NG-NM-4161.jpg\">Scheepsmodel van de schoener BankaModel van de schoener Bank.</a></li><li><em>SAHRA Database.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

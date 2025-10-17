@@ -1,0 +1,27 @@
+{
+  "id": "820",
+  "code": "schoonhoven",
+  "name": "Schoonhoven",
+  "type": "wreck",
+  "lat": "38.1466538",
+  "lon": "-8.8549805",
+  "location": "Melides beach, Portugal",
+  "firstdate": null,
+  "firstyear": "1619",
+  "firstyearend": null,
+  "lastdate": "1626-01-22",
+  "lastyear": "1626",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-09-13 14:03:04",
+  "modified_on": "2024-10-11 12:45:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens de derde uitreis naar Batavia is <em><strong>de Schoonhoven</strong></em>&nbsp;op 22 januari 1626 op de kust van Portugal vergaan. 198 man werden gevangen genomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kornelis Hartman</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>198</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>In September 2018 is een wrak gevonden bij Cascais in de monding van de Taag in Portugal.</p> <p>Gezien de lading en datering lijkt dit een VOC schip geweest te zijn. Het probleem is dat de Schoonhoven op weg was <em>naar</em> Batavia. De lading van het gevonden wrak wijst op een retourreis met Aziatisch lading peper etc. In die zin kan dit schip niet de Schoonhoven zijn.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91362\">Details of voyage 0324.3 from Texel.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4216",
+  "code": "ss-helena",
+  "name": "SS Helena",
+  "type": "wreck",
+  "lat": "40.4212600",
+  "lon": "22.7965500",
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1886",
+  "firstyearend": null,
+  "lastdate": "1941-05-27",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Kimon Papadimitriou",
+  "created_on": "2024-09-05 21:29:37",
+  "modified_on": "2024-10-31 10:24:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p><em>The steamship ELENI KANAVARIOTI (1886-1941), built as the FEDERATION, was the last British ship to escape Germany before the Great War (1914-1918). In 1921, it came to the Greek seas under the name the SPETSOPOULA and it was sold the following year to the Germans as the LUISE BLUME. In 1925, it was renamed the NACKA under a Swedish flag and renamed again in 1926 as the ALSTER. In 1927, it returned to Greece as the MARIA and from 1928 to 1939 it travelled under the name HERAKLIS. After repairs, it was renamed the ELENI KANAVARIOTI. Then, in 1940, it was seized by the Greek government and used by the occupying Germans as the HELENA, until it was sunk. </em></p> <p>More details at <a href=\"https://www.wreckhistory.com/ss-eleni-kanavarioti-helena/?lang=en\">https://www.wreckhistory.com/ss-eleni-kanavarioti-helena/?lang=en</a>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Vermogen</th><td>161 pk</td></tr><tr><th scope=\"row\">Lengte</th><td>219 voet (66,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 &frac34; voet (9,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>797 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The shipwreck was designated as a monument in 2024, according to the Law 4858/2021 (<a href=\"https://diavgeia.gov.gr/doc/65%CE%A4%CE%9946%CE%9D%CE%9A%CE%9F%CE%A4-5%CE%A8%CE%A0?inline=true\">https://diavgeia.gov.gr/doc/65%CE%A4%CE%9946%CE%9D%CE%9A%CE%9F%CE%A4-5%CE%A8%CE%A0?inline=true</a>).</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

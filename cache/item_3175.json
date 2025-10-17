@@ -1,0 +1,27 @@
+{
+  "id": "3175",
+  "code": "flora-3",
+  "name": "Flora",
+  "type": "wreck",
+  "lat": "-33.8186000",
+  "lon": "18.3788000",
+  "location": "Robben Island, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1821-11-17",
+  "lastyear": "1821",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-23 11:54:03",
+  "modified_on": "2025-07-25 12:54:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Flora</em></strong> kwam op 16 november 1821 de Tafelbaai binnen op weg naar de haven van Kaapstad vanuit Batavia. In de nacht van 17-11 omstreeks 01.00 uur strandde het schip op een zandplaat bij zuidoost punt van Robbeneiland.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003745.jpg\" alt=\"Een krantenknipsel over het vergaan van het schip De Flora.\"> <div class=\"img-source\">Delpher.nl</div> <figcaption class=\"img-description\">Artikel in de opregte Haarlemsche Courant van 18-2-1822 over het vergaan van de Flora</figcaption> </figure> <p>Binnen een paar uur viel het schip uiteen. Alle bemanningsleden en passagiers werden gered, maar slechts een klein deel van de lading werd geborgen. <br>De overlevenden werden op Robbeneiland in quarantaine gehouden; er was een cholera-epidemie geweest in Batavia. Ze werden later vervoerd met <em>de Perseverance</em>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>W Blom</td></tr><tr><th scope=\"row\">Tonnage</th><td>700 ton (350 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li>Vanessa Maitland,  (2010).<br /><a href=\"https://sahris.sahra.org.za/sites/default/files/heritagereports/NAS%20II%20Robben%20Island%20Report%202010%20%281%29.pdf\">Nas II Robben Island Report: 22 February-10 March 2010, p.23.</a></li><li>Werz, B. E. J. S. and Deacon, J. (1992).<br /><em>Operation Sea Eagle. Final report on a survey of shipwrecks around Robben Island [Unpublished report].</em></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=+flora&amp;facets%5Bperiode%5D%5B%5D=2%7C19e_eeuw%7C1820-1829%7C1822%7C&amp;page=2&amp;sortfield=date&amp;coll=ddd&amp;identifier=ddd:011070586:mpeg21:a0017&amp;resultsidentifier=ddd:011070586:mpeg21:a0017&amp;rowid=8\">Bataviasche courant (16-2-1822).</a></li><li>Hendrik Abraham Klinkhamer.<br /><a href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Schoener%2C_RP-T-1979-43-16%28R%29.jpg/640px-Schoener%2C_RP-T-1979-43-16%28R%29.jpg\">Schöner, 3 Mei.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

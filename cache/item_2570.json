@@ -1,0 +1,27 @@
+{
+  "id": "2570",
+  "code": "grossensee-2",
+  "name": "Großensee 2",
+  "type": "wreck",
+  "lat": "53.6183452",
+  "lon": "10.3458595",
+  "location": "Großensee, Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-25 17:48:12",
+  "modified_on": "2025-06-14 16:44:22",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The small pram's flat bottom is silted in and probably well preserved, while the lapstrake side planking has mostly collapsed. Half-frames were inserted in an alternating manner. This is a typical pram, which was used for a fishing operation based on the nearby island in the early 20th century.</p> <p>Although the visibility in the lake is almost nil, an artist's impression of the wreck was produced.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002600.jpg?modifiedon=1621957723\" alt=\"illustration of the top of a sunken barge\"> <div class=\"img-source\">Oleksiy Konovalov</div> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>28 &frac14; voet (8,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wreck of this fishing pram was discovered by recreational divers of the TSG Ahrensburg and investigated in 2012 by the Scientific Diving Association (SDA Kiel) under the lead of Hubert Pinto de Kraus and wreck-diving enthusiasts.</p> <p>In accord with the responsible authority - the State Archaeology Department of Schleswig-Holstein (ALSH) - the site is monitored by the hobby archaeologist and local resident Elmar Klemm, who reports frequently from the wreck in his \"home waters\".</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Kraus, H., Mehrens, C. (2012).<br /><em>Archäologische Untersuchung im Großensee: Untersuchungsbericht.</em><br />Scientific Diving Association (unpublished report).</li><li>Elmar Klemm (historytaucher.de).<br /><a href=\"https://historytaucher.de/\">historytaucher.de.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1526",
+  "code": "ss-breda",
+  "name": "SS Breda",
+  "type": "wreck",
+  "lat": "51.6271670",
+  "lon": "2.4748000",
+  "location": "België",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1917-07-22",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Martijn Heijink",
+  "created_on": "2020-07-31 17:02:21",
+  "modified_on": "2025-06-10 16:54:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 22 juli 1917 was de Breda onderweg van Rotterdam naar Londen met een lading aardappelen. 8 mijl ten zuidwesten van het lichtschip Noord-Hinder, werd de Breda met een schot voor de boeg aangehouden door de Duitse onderzeeboot UB-35. De Breda weigerde te stoppen. Hoewel de UB-35 meerdere schoten op het vluchtende koopvaardijschip afvuurde, wist ze te ontkomen. Later die dag werd de Breda zonder waarschuwing door de UB-18 getorpedeerd. De opvarenden van de Breda werden door een Britse torpedobootjager gered en naar het lichtschip Noord-Hinder gebracht. Daar werden ze na ongeveer 24 uur door een loodsvaartuig afgehaald en naar de haven van Vlissingen gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Stoomschip, algemeen vracht<br>Gebouwd: E.J. Smit &amp; Zoon, Hoogezand, Groningen, 1915<br>Eigenaar: N.V. Maatschappij Stoomschip 'Breda', Rotterdam, Zuid-Holland,&nbsp;<br>Voortstuwing: stoom. Triple Expansion</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>W. K. de Wit</td></tr><tr><th scope=\"row\">Vermogen</th><td>210 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>7 knopen ~ 13 km/u (8 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>119 voet (36,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>9 &frac34; voet (3 m)</td></tr><tr><th scope=\"row\">Deplacement</th><td>257 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak is totaal onherkenbaar en verspreid over een gebied van 45 bij 10 meter. De resten zijn waarschijnlijk, tegelijk met enkele andere wrakken, in 1982 genivelleerd.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=1107\">Maritiem Historische databank, BREDA - ID 1107.</a></li><li>Agentschap Onroerend Erfgoed.<br /><a href=\"http://www.maritieme-archeologie.be/WK_Ship_GenView.aspx?ObjCId=1790&amp;type=1&amp;utype=guest\">Breda SS.</a></li><li>Dirk Termote en Tomas Termote (2009).<br /><em>Schatten en scheepswrakken: boeiende onderwaterarcheologie in de Noordzee.</em><br />z.p., Schuyt.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1545",
+  "code": "dinther",
+  "name": "Dinther- Veghel",
+  "type": "wreck",
+  "lat": "51.6317590",
+  "lon": "5.5171931",
+  "location": "Dinther, Nederland",
+  "firstdate": null,
+  "firstyear": "-1000",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "800",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-18 10:13:32",
+  "modified_on": "2020-10-09 10:03:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Maarleveld T. (2008).<br /><em>Boten zonder geschiedenis, of wie is er bang voor een boomstamboot?.</em><br />Glavimans 10.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

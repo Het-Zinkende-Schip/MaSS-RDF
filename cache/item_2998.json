@@ -1,0 +1,27 @@
+{
+  "id": "2998",
+  "code": "noordpool-ijm-132",
+  "name": "Noordpool (IJM 132)",
+  "type": "wreck",
+  "lat": "57.7023730",
+  "lon": "-2.1215317",
+  "location": "Rosehearty, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1931-03-01",
+  "lastyear": "1931",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-15 15:40:02",
+  "modified_on": "2025-06-15 14:45:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Noordpool sloeg tijdens een zware storm te pletter op de Schotse kust. De 11 koppige bemanning verdronk.</p> <p>In Fraserburgh Schotland is in The Fishermans Mission een memoriam Room waarin de omgekomen opvarenden middels een plaquette worden herinnerd.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004171.jpg?modifiedon=1714850511\" alt=\"Herdenking omgekomen zeelieden IJM 132\"> <div class=\"img-source\">Egbert Visser</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>9</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.scheveningen-haven.nl/info/schepen/index_ijm.php?nummer=132&amp;lijst=75&amp;af=IJM\">Noordpool IJM 132.</a></li><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40031640\">Centraal_Visserijregister-40031640.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

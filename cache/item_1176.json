@@ -1,0 +1,27 @@
+{
+  "id": "1176",
+  "code": "katwijk-aan-den-rijn",
+  "name": "Katwijk aan den Rijn",
+  "type": "wreck",
+  "lat": "-34.1931810",
+  "lon": "18.4332660",
+  "location": "Simon's town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1774",
+  "firstyearend": null,
+  "lastdate": "1786-10-07",
+  "lastyear": "1786",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-27 17:10:52",
+  "modified_on": "2025-04-02 13:21:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 7 oktober 1786 liep het schip <em>Katwijk aan den Rijn</em> aan de grond in Simon's Bay; de autoriteiten van de compagnie aan de Kaap besloten daarop om het te laten opbreken.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001737.jpg\" alt=\"Simon's Baai 1806 \"></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: gekocht te Amsterdam, 1774<br><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Christiaan de Cerff</td></tr><tr><th scope=\"row\">Tonnage</th><td>750 ton (375 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95437\">Details of voyage 4386.5 from Texel to The Cape.</a></li><li>La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives.</a><br />Cape Town: South African Heritage Resources Agency.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

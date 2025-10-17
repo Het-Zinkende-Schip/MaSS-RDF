@@ -1,0 +1,27 @@
+{
+  "id": "1081",
+  "code": "grundel",
+  "name": "Grundel",
+  "type": "wreck",
+  "lat": "-34.3885214",
+  "lon": "18.8268833",
+  "location": "Hangklip, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1668",
+  "firstyearend": null,
+  "lastdate": "1673-02-20",
+  "lastyear": "1673",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-22 10:07:43",
+  "modified_on": "2025-06-26 10:06:13",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Grundel</em></strong> was een hoeker. Ze werd ingezet bij verkenningstochten voor de VOC. Ze bracht de zuidwestkust van Zuid-Afrika in 1669 en de zuid- en zuidoostkust in 1670 in kaart.</p> <p>De hoeker verliet Nederland op 3 december 1668. Ze deed de Kaap aan op 25 april 1669 en vertrok op 23 mei naar Batavia. Op 4 augustus van hetzelfde jaar arriveerde ze daar.</p> <p>De Grundel is vergaan op 20 februari 1673, ter hoogte van Kaap Hanglip (SA).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: in 1668 VOC werf in Delfshaven<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gerrit Gerritz Riddermuis</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>20</td></tr><tr><th scope=\"row\">Lengte</th><td>80 Amsterdamse&nbsp;voet (22,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>20 Amsterdamse&nbsp;voet (5,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>90 ton (45 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92201\">Details of voyage 1118.1 from Maas to Batavia.</a></li><li>Dam, Pieter van.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/vandam/#page=708&amp;accessor=searchText&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=1\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.1.1  669.</a></li><li> La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives.</a><br />SAHRA.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

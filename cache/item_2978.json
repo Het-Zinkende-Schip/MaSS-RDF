@@ -1,0 +1,27 @@
+{
+  "id": "2978",
+  "code": "thalia",
+  "name": "Thalia",
+  "type": "wreck",
+  "lat": "54.3426910",
+  "lon": "-0.0164300",
+  "location": "Filey brig, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1917",
+  "firstyearend": null,
+  "lastdate": "1918-10-08",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-15 12:37:22",
+  "modified_on": "2025-06-15 14:33:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Thalia</strong></em> werd op 25 maart 1918 te Gibraltar door de Britse regering ingevolge het Droit d'Angarie in beslag genomen en onder Britse vlag gebracht.</p> <p>De <em><strong>Thalia</strong></em> was op haar laatse reis op weg van Rouen naar Tyne. Op 8 oktober 1918 werd het schip door de Duitse onderzee&euml;r UC 17 getorpedeerd en zonk, Drie opvarenden van de Thalia verloren het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Werf v/h Rijkee &amp; Co., Rotterdam/Katendrecht<br>Eigenaar 1: Koninklijke Nederlandsche Stoomboot-Maatschappij N.V., Amsterdam <br>Eigenaar 2: The Shipping Controller (Richards, Turpin (Shipping), Ltd.), London</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>266 voet (81,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>39 voet (11,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1308 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6496\">marhisdata ID 6496.</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/5965.html\">uboat.net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

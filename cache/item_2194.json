@@ -1,0 +1,27 @@
+{
+  "id": "2194",
+  "code": "jager",
+  "name": "Jager",
+  "type": "wreck",
+  "lat": "52.0098656",
+  "lon": "4.1249084",
+  "location": "'s Gravenzande, Nederland",
+  "firstdate": null,
+  "firstyear": "1781",
+  "firstyearend": null,
+  "lastdate": "1781-09-06",
+  "lastyear": "1781",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-06 11:36:56",
+  "modified_on": "2025-06-11 18:53:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Type: chaloupe kaperschip<br>Bewapening: 13 stukken 4 draaibassen</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

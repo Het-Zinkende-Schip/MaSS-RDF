@@ -1,0 +1,27 @@
+{
+  "id": "877",
+  "code": "krooswijk",
+  "name": "Krooswijk",
+  "type": "wreck",
+  "lat": "-28.4178289",
+  "lon": "51.4387419",
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1720",
+  "firstyearend": null,
+  "lastdate": "1739-01-26",
+  "lastyear": "1739",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-11-05 17:32:01",
+  "modified_on": "2025-07-06 18:18:49",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het VOC schip '<em>Krooswijk</em>' maakte vijf retourreizen van Nederland naar Oost Indi&euml; tussen 1721 en 1735. Haar laatste uitreis begon 22-12-1735 van uit Goeree naar Batavia.<a href=\"https://www.vocsite.nl/schepen/10572/\">&sup1;</a></p> <p>De terugreis begon 14 december 1738 in het smaldeel van Bengalen naar Nederland. De vloot bestond uit '<em>Maria Adriana'</em>, '<em>Hofvliet'</em> , '<em>Batavier'</em> en de '<em>Krooswijk'</em>. Drie schepen kwamen bij de Kaap aan op 4 maart. De Krooswijk was daar niet bij. Ze was tijdens een storm op 26 januari afgeraakt van de rest. Volgens&nbsp;De locatie was ongeveer op&nbsp;<em>zuiderbreedte 17&deg; 21' en lengtegraad 103&deg;,15'</em>.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/89/file/NL-HaNA_1.11.06.18_89_0028?eadID=1.11.06.18&amp;unitID=89&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">&sup2;</a></p> <p>Het schip is daar waarschijnlijk vergaan. <em>Gebleven tussen de Caap en Mauritius</em>.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0032?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup3;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Rotterdam, 1720<br>Laadvermogen: 300 last (x 2 = ton)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97885\">Details of voyage 7054.5 from Bengal.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/89/file/NL-HaNA_1.11.06.18_89_0028?eadID=1.11.06.18&amp;unitID=89&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap, 4-3-1739.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

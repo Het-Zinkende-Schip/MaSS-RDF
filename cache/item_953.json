@@ -1,0 +1,27 @@
+{
+  "id": "953",
+  "code": "delfshaven-1653",
+  "name": "Delfshaven",
+  "type": "wreck",
+  "lat": "1.2863105",
+  "lon": "126.4045470",
+  "location": "Pulau Mayu, Indonesië",
+  "firstdate": null,
+  "firstyear": "1642",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-24 10:41:34",
+  "modified_on": "2024-06-13 12:06:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Delfshaven vertrekt op 23 april 1642 vanuit Goeree naar Azi&euml;. Aanvankelijk wordt het oorlogsjacht vooral ingezet in de Indische Oceaan (Ceylon, India, Perzi&euml;). Onder andere bij de eerste Nederlandse scheepvaart in de Perzische/Arabische Golf.</p> <p>Later doet ze dienst in de Indonesische archipel. Ze is aanwezig tijdens de Ambonese oorlogen in de Molukken en is daar bij het weghalen van volk van het westelijk van Ternate gelegen eiland Meau[w] [Pulau Mayu] verongelukt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: oorlogs jacht<br>Laadvermogen: 80-60 last<br>Bewapening: 18 ysere stukken bij vertrek in 1642. Bij de laatste vermelding waren dat 13 stukken.</p> <p><strong>Berging poging<br></strong>Na de stranding van De Delfshaven probeerde men de kanonnen te bergen. De eerste keer mislukte dat en bij een tweede keer trof men geen kanonnen meer aan:</p> <p><em>Om de 13 ysere stucken van &rsquo;t verongeluckte jaght Delfshaven die voor de strant van Mejau verbleven sijn te lighten heben ons veele impedimenten gehindert, cleen vaertuygh, namentlyck chialoup ofte Galjooot was te insuffisant om de selve voornamentlyck de swaertste vande gront op te winden [...] 1081v</em></p> <p><em>Nu opten eersten junij hebben wy den Capitayn met &rsquo;t jaght armuijden derwaerts gesonden om tselve om niet gepericliteert te werden aen Taffourij doen anckeren, mitsgaders tot meerder faciliteyt een chinese wanckan daer nevens laaten vaaren maer naer goet ondersoeck is geen geschut meer vernomen wy syn bericht dat die van Gerontale over 4 maenden drie a vier van de cleenste stucken die boven opt jaght gestaen hebben, en dight aen strant lagen van daer hebben ontstoolen, d&rsquo;ander gelooven wy dieper tzee liggende door de fel aensettende golven in de gront syn bewelt . <br></em></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91708\">Details of voyage 0591.1 from Goeree to Batavia.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=689&amp;accessor=search_in_text&amp;source=2&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Gen Miss Deel II,676.</a></li><li><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/1205/file/NL-HaNA_1.04.02_1205_0629?query=1205&amp;start=0&amp;search-type=item_code\">NA 1.04.02 (VOC) 1205, Fol 1081 [scan 629].</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3015",
+  "code": "texel",
+  "name": "Texel",
+  "type": "wreck",
+  "lat": "38.6224913",
+  "lon": "-74.3862190",
+  "location": "Delaware bay, Verenigde Staten",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": "1918-06-02",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-10-10 13:42:05",
+  "modified_on": "2025-06-15 17:05:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Texel lag op 21 maart 1918 in New York. Ze werd daar ingevolge het Angarie recht door de VS in dwanghuur genomen, en onder U.S.A.-vlag met Amerikaanse bemanning gebracht.</p> <p>&nbsp;<br>Op reis van Puerto Rico naar New York werd de Texel op 2 juni 1918 door de Duitse onderzeeboot U 151 aangehouden en met explosieven tot zinken gebracht. Dat gebeurde ter hoogte van de Delaware Bay</p> <p>De Amerikaanse regering betaalde later schadevergoeding aan de Nederlandse rederij.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar 1: Stoomvaart Maatschappij 'Triton' N.V.</p> <p>Eigenaar 2: United States Shipping Board - Emergency Fleet Corporation</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6479\">marhisdata id 6479.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

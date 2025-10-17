@@ -1,0 +1,27 @@
+{
+  "id": "1506",
+  "code": "pieternelle-jacobs",
+  "name": "Pieternelle Jacobs",
+  "type": "wreck",
+  "lat": "51.3409073",
+  "lon": "3.0102539",
+  "location": "Blankenberge, ter hoogte van, België",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1907-01-21",
+  "lastyear": "1907",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Martijn Heijink",
+  "created_on": "2020-07-31 11:57:39",
+  "modified_on": "2022-12-02 12:24:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 21 januar1 1907 omstreeks 13:00 uur gezonken na aanvaring met het Engelse stoomschip Arana. Kapitein Walton van de Arana was verantwoordelijk voor het ongeval.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>162 ton (81 last)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3158",
+  "code": "schapenjacht",
+  "name": "Schapenjacht",
+  "type": "wreck",
+  "lat": "-33.8023811",
+  "lon": "18.3565701",
+  "location": "Robben Island, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1660",
+  "firstyearend": null,
+  "lastdate": "1660-08-01",
+  "lastyear": "1660",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-26 18:50:59",
+  "modified_on": "2025-06-16 19:17:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Schapenjacht was een klein (advies)jachtje gebouwd aan de Kaap voor dienst tussen Robbeneiland en de Kaap. Doel was voornamelijk, zoals de naam al zegt, schapen proviand e.d. te halen van Robbeneiland naar het Kasteel aan de Kaap.</p> <p>Ze werd 7 augustus 1660 naar Robbeneiland gezonden om proviand te brengen en o.a. mest mee terug te brengen. (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/10/file/NL-HaNA_1.11.06.18_10_0243?eadID=1.11.06.18&amp;unitID=10&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Riebeeck 7-8-1660</a>)</p> <p>Ze werd in de nacht van 13 op 14 augustus tijdens stormweer op de klippen geworpen en<em> 'hoog opt strandt gezet'(<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/10/file/NL-HaNA_1.11.06.18_10_0243?eadID=1.11.06.18&amp;unitID=10&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">idem</a>)</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.dbnl.org/tekst/rieb001dagv02_01/rieb001dagv02_01_0009.php?q=Schapenjacht#hl2\">Dagverhaal Jan van Riebeeck.</a></li><li>La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives.</a><br />Cape Town: South African Heritage Resources Agency.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

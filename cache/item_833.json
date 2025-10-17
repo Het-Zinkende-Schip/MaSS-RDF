@@ -1,0 +1,27 @@
+{
+  "id": "833",
+  "code": "zaanstroom",
+  "name": "Zaanstroom III (IJM 188)",
+  "type": "wreck",
+  "lat": "52.4791002",
+  "lon": "4.2739563",
+  "location": "North Sea, Nederland",
+  "firstdate": null,
+  "firstyear": "1903",
+  "firstyearend": null,
+  "lastdate": "1916-10-07",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-09-30 13:34:01",
+  "modified_on": "2025-06-07 20:39:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Zaanstroom was van 1903 tot 1914 in Schotse handen maar daarna verkocht aan de NV Stoomvisscherij Maatschappij. Op 7 oktober 1916 verliet de Zaanstroom de haven van IJmuiden van het schip werd nooit meer iets vernomen.Alle opvarenden kwamen om.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Duthie, Sons &amp; Co. - Torry Shipbuilding Co. Ltd., Aberdeen, 1903<br>Afmetingen: 35,4 x 6.7 x 3.7 m<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>10</td></tr><tr><th scope=\"row\">Tonnage</th><td>194 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Vermist.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40031824\">Centraal Visserijregister.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Zaanstroom+III%22&amp;coll=ddd&amp;sortfield=date&amp;page=5&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1916%7C&amp;identifier=ddd:010653102:mpeg21:a0069&amp;resultsidentifier=ddd:0\">Algemeen Handelsblad   (29-12-1916).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2928",
+  "code": "schieland-1909",
+  "name": "Schieland",
+  "type": "wreck",
+  "lat": "53.5075988",
+  "lon": "0.5856811",
+  "location": "Spurn Head, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1909",
+  "firstyearend": null,
+  "lastdate": "1915-04-02",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-31 11:52:30",
+  "modified_on": "2025-06-15 14:03:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het vrachtschip ss. <em><strong>Schieland</strong></em> op weg van Goole naar Rotterdam, loopt op 24 mijl van Spurnpoint, aan de monding van de Humber, op een mijn en gaat verloren. E&eacute;n opvarende komt om het leven.</p> <p>De Schieland , die vijftien opvarenden aan boord had, werd terstonds verlaten, waarbij &eacute;&eacute;n vermist bleek. Na een uur in de sloepen bij de <em><strong>Schieland</strong></em> te hebben gedreven, was het schip nog niet gezonken en men keerde aan boord terug voor onderzoek. Het schip bleek niet te redden en men ging weer in de sloepen. &Eacute;&eacute;n sloep, met de eerste stuurman en twee gewonden, zette koers naar de wal om hulp te zoeken en werd later opgenomen door een Noors stoomschip.</p> <p>De sloep met de gezagvoerder bleef bij de <em><strong>Schieland</strong></em>. Om 19.00 uur kwam het Nederlandse vissersvaartuig <em><strong>Cornelia Clasina</strong></em> in de buurt. De volgende ochtend ging men weer naar de nog steeds drijvende Schieland. Men constateerde, dat er geen hoop op berging bestond. Het schip helde sterk naar stuurboord over en de hoofden van de luiken lagen te water. Men besloot de <em><strong>Schieland</strong></em> aan haar lot over te laten. De Schieland is op of zeer kort na 02.04.1915 gezonken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Duit</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>15</td></tr><tr><th scope=\"row\">Lengte</th><td>221 &frac14; voet (67,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>33 &frac12; voet (10,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1106 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5775\">marhisdata.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Schieland&amp;cql%5B%5D=%28date+_gte_+%2201-04-1915%22%29&amp;cql%5B%5D=%28date+_lte_+%2219-05-1915%22%29&amp;redirect=true&amp;sortfield=date&amp;identifier=MMKB08:000102898:mpeg21:a0007&amp;resultsidentifier=MMKB08:000\">Arnhemsche courant  03-04-1915.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

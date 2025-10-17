@@ -1,0 +1,27 @@
+{
+  "id": "1326",
+  "code": "reiger",
+  "name": "Reiger",
+  "type": "wreck",
+  "lat": "13.4182576",
+  "lon": "80.3210020",
+  "location": "Pulicat, India",
+  "firstdate": null,
+  "firstyear": "1648",
+  "firstyearend": null,
+  "lastdate": "1654-10-19",
+  "lastyear": "1654",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-05-26 08:19:53",
+  "modified_on": "2025-04-07 11:14:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Reiger</strong></em> was een fluitschip in dienst van de VOC kamer Amsterdam. Ze heeft twee reizen naar Indie gemaakt.&nbsp;Na haar tweede uitreis 24-12-1651 bleef ze in Azi&euml; dienst doen.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0158?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup1;</a></p> <p>Het schip is ontploft door eigen kruit bij Pulicat op 19 oktober 1654.</p> <p>\"Verdreven en met volck en al in zee verongeluckt\" (Ottow).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li> Ottow, W.M. (1954).<br /><em>Rijckloff Volckertsz van Goens : de carrière van een diplomaat 1619-1655.</em><br />Utrecht: Stichting Pressa Trajectina.</li><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91857\">DAS 0704.2.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

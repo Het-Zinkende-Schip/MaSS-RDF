@@ -1,0 +1,27 @@
+{
+  "id": "2167",
+  "code": "prins",
+  "name": "Prins te paard",
+  "type": "wreck",
+  "lat": "52.9155272",
+  "lon": "4.6115112",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-23 11:03:19",
+  "modified_on": "2025-06-11 18:36:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Gezonken in actie 1653 ( NIMH vermeldt 1652).</p> <p>De Prins te Paard (38) nam deel aan de slag bij Nieuwpooort met aan boord waarnemend schout-bij-nacht Jacob Cleydyck.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar/Owner: Directoraat Rotterdam , gehuurd&nbsp;<br>Bewapening : 38<br>Kapitein: Corstiaan Corstiaan de Munnick (tot 20-2-1653) Daarna v.a. april 1653 Jacob Kleijdijck die van de gezonken Meerman kwam.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>120</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J. (2014).<br /><em>Ships of the United Netherlands, 1648-1702.</em></li><li><em>NIMH scheepsdocumentatie nr 738.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

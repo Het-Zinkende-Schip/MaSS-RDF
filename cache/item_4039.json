@@ -1,0 +1,27 @@
+{
+  "id": "4039",
+  "code": "nf86",
+  "name": "NF86",
+  "type": "wreck",
+  "lat": "52.7659700",
+  "lon": "5.7395880",
+  "location": "Bant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": "1600",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:51:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Als gevolg van draineringswerkzaamheden op kavel F86 in de Noordoostpolder werd in 1947 de vondst van een scheepswrak gemeld. Nog datzelfde jaar werd het verkend en opgegraven. Hieruit werd duidelijk dat het een klein en sterk gehavend overnaads gebouwd vaartuig betrof, met een vlak van 7,7 meter lang en een grootste breedte van 1,4 meter. Achtersteven, achterstevenboordplanken, mast en roer waren niet meer aanwezig. Het lichte eikenhouten vaartuigje had een platte bodem en deed qua model sterk aan een punter denken. Behalve het scheepshout werden er geen voorwerpen aangetroffen. De datering werd daardoor destijds enkel vastgesteld op basis van de ligging van de scheepsrest in de bodemlagen, hetgeen de ondergang tenminste tussen 1300 en 1600 na Chr. plaatste. Na afloop is het wrak verwijderd. Van het scheepje zijn in het Nationaal Scheepsarcheologisch Depot te Lelystad enkel enige monsters van zowel de bodemlagen waar het in lag als breeuwsel en moslatjes bewaard gebleven.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x43-rthq\">Opgravingsdocumentatie scheepswrak NF86.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

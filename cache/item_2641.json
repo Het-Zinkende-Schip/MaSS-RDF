@@ -1,0 +1,27 @@
+{
+  "id": "2641",
+  "code": "poel-11",
+  "name": "Poel 11",
+  "type": "wreck",
+  "lat": "53.9881528",
+  "lon": "11.3701630",
+  "location": "Poel, Duitsland",
+  "firstdate": null,
+  "firstyear": "1773",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": null,
+  "country": "Finland",
+  "countrycode": "FI",
+  "author": "Daniel Zwick",
+  "created_on": "2021-09-18 18:05:33",
+  "modified_on": "2025-07-17 10:29:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This wreck was discovered in 1999 on the west coast of the island of Poel in Mecklenburg-West Pomerania and excavated by Dr. Thomas F&ouml;rster. Initially it was dated typologically into the high medieval period. This initially seemed to be corroborated by a dendrochronological analysis of the treenails, pointing to a felling date to around/after 1369.</p> <p>This was one of two wrecks associated with the illusive \"Baltic cog type\", a hypothesis based on iconographic evidence from ship-depictions on town seals. It differed in that it was a fully lapstrake-built vessel with a beam-keel, thereby deviating from some of the criteria set up for the Bremen-type or bottom-based tradition, which has been commonly associated with cogs. Moreover, instead of the more common oak, this vessel was entirely built of coniferous wood.</p> <p>The ship-timbers were revisited <em>ex situ</em> within the framework of Mike Belasus' PhD project, who commissioned a new dendrochronological analysis, carried out by Dr. Aoife Daly. This time 16 samples were taken from the timbers directly. Surprisingly, the new analysis yielded a strikingly different result: The timber was felled 1773 or shortly thereafter. Based on the master chronologies for pine, the timber originated in south-west Finland.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The wreck has been noted for its wide flat-bottomed beam, but entirely lapstrake-built at a time when carvel building was most common. Both the construction and selection of timber species underpin the vessel's rural origin.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002820.png\" alt=\"The image shows a drawing of a limber\"> <div class=\"img-source\">Belasus 2017</div> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The ship-timbers are in a waterlogged storage. The legacy of this wreck's research history highlights that hypotheses on historical type-names can easily crumble when key assumptions about a find are refuted by hard scientific evidence. The archetype of a \"Baltic cog\" has already become ingrained in popular culture through the initial over-interpretation of this wreck-find and has culminated in the reconstruction of this vessel as \"cog\" (cf. <em>Poeler Kogge </em>or <em>WISSEMARA</em>), in which the medieval style superstructure and rig has been simply superimposed on what has turned out to be an early modern coastal trader from Finland (at that time a Swedish province).</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Belasus, M. (2014).<br /><em>Tradition und Wandel im neuzeitlichen Klinkerschiffbau der Ostsee am Beispiel der Schiffsfunde Poel 11 und Hiddensee 12 aus Mecklenburg-Vorpommern (= Dissertation).</em><br />Universität Rostock.</li><li>Belasus, M. (2017).<br /><em>Connecting maritime landscapes or early modern news from two former 'Baltic Cogs' (Mecklenburg-West Pomerania, Germany).</em><br />pp 179-184.<br />Eelde: Barkhuis Publishing.</li><li>Daly, A. &amp; Belasus, M. (2016).<br /><em>The Dating of Poel 11 and Hiddensee 12, Mecklenburg-West Pomerania, Germany.</em><br />The International Journal of Nautical Archaeology 45.1.<br />pp 170–205.</li><li>Förster, T. (2009).<br /><em>Große Handelsschiffe des Spätmittelalters. Untersuchungen an zwei Wrackfunden des 14 Jahrhunderts vor der Insel Hiddensee und der Insel Poel (= Schriften des Deutschen Schiffahrtsmuseums 67).</em><br />Bremerhaven.</li><li>Lüth, F., Förster, T. (1999).<br /><em>Schiff, Wrack, ’Baltische Kogge’.</em><br />Archäologie in Deutschland 4.<br />pp 8–13.</li><li><a href=\"https://www.poeler-kogge.de/\">Poeler Kogge WISSEMARA (historical reconstruction as &quot;cog&quot;).</a></li><li>Der Spiegel.<br /><a href=\"https://www.spiegel.de/wissenschaft/mensch/ostseewracks-neu-datiert-beruehmte-schiffe-sind-offenbar-juenger-als-vermutet-a-779284.html\">Ostseewracks neu datiert: Berühmte Schiffe sind offenbar jünger als vermutet.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

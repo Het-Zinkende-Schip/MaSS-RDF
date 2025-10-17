@@ -1,0 +1,27 @@
+{
+  "id": "4195",
+  "code": "vlieger",
+  "name": "Vlieger",
+  "type": "wreck",
+  "lat": "57.2561522",
+  "lon": "10.8607708",
+  "location": "Læsø., Denemarken",
+  "firstdate": null,
+  "firstyear": "1781",
+  "firstyearend": null,
+  "lastdate": "1784-11-20",
+  "lastyear": "1784",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2024-06-20 10:39:27",
+  "modified_on": "2025-06-16 22:11:38",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>&sup1;'s lands Kotter&nbsp;<em><strong>De Vlieger </strong></em>vertrok 5 november vanuit Texel naar Denemarken om daar Nederlandse koopvaarders op te vangen en veilig te begeleiden naar Nederland.* De kotter is ter hoogte van het eiland L&aelig;s&oslash; op 20 november 1784 in het Kattegat (DK) gestrand en verloren gegaan.</p> <p>De Vlieger kwam ca 7 uur in de ochtend tijdens zware storm vast te zitten met het eiland L&aelig;s&oslash; in zicht. Masten werden gekapt en de kanonnen overboord gezet om het schip lichter te maken. Dit alles hielp niet en men moest het schip verlaten. De sloep werd te water gelaten maar dreef door de storm meteen weg. Uiteindelijk lukte het met een vlot om de wal te bereiken en een lijn vast te maken tussen wal en schip. Daarmee kon, op twee man na, de gehele bemanning gered worden. (<a href=\"https://www.delpher.nl/nl/kranten/view?query=Vlieger&amp;page=1&amp;sortfield=datedesc&amp;coll=ddd&amp;facets%5Bperiode%5D%5B%5D=2%7C18e_eeuw%7C1780-1789%7C1784%7C&amp;identifier=ddd:010576488:mpeg21:a0012&amp;resultsidentifier=ddd:010576488:mpeg21:a0012&amp;rowid=2\">Leeuwarder Courant</a>)</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004203.png\" alt=\"Gemaakt door Gerrit Groenewegen circa 1790\"> <figcaption class=\"img-description\">Afgebeeld een vergelijkbare kotter uit dezelfde periode. Het gaat hier om de Kotter Snelheid (gravure Gerrit Groenewegen ca. 1790)</figcaption> </figure> <p class=\"note\">* De Vierde Engels-Nederlandse Oorlog (1780-1784) was net afgelopen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Waarschijnlijk in Enkhuizen. De dienst van de Vlieger werd 'gecontinuerd' in 1781.<a href=\"https://www.delpher.nl/nl/kranten/view?query=Vlieger&amp;facets%5Bperiode%5D%5B%5D=2%7C18e_eeuw%7C1780-1789%7C1784%7C&amp;page=3&amp;sortfield=date&amp;coll=ddd&amp;identifier=ddd:010717359:mpeg21:a0003&amp;resultsidentifier=ddd:010717359:mpeg21:a0003&amp;rowid=6\">&sup1;</a></p> <p>Bewapening: 12 kanonnen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hendrik Noordziek</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>60</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Nationaal Archief.<br />NL-HaNA_1.01.46_3185_034.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.01.46/invnr/3185/file/NL-HaNA_1.01.46_3185_034?eadID=1.01.46&amp;unitID=3185&amp;query=vlieger\">3185.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Vlieger&amp;page=1&amp;sortfield=datedesc&amp;coll=ddd&amp;facets%5Bperiode%5D%5B%5D=2%7C18e_eeuw%7C1780-1789%7C1784%7C&amp;identifier=ddd:010576488:mpeg21:a0012&amp;resultsidentifier=ddd:010576488:mpeg21:a0012&amp;rowid=2\">Leeuwarder courant (15-12-1784).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

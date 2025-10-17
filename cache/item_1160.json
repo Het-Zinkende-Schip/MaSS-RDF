@@ -1,0 +1,27 @@
+{
+  "id": "1160",
+  "code": "iepenrode",
+  "name": "Iepenrode",
+  "type": "wreck",
+  "lat": "-33.9077112",
+  "lon": "18.4695579",
+  "location": "Near Salt River Mouth, Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1731",
+  "firstyearend": null,
+  "lastdate": "1737-05-21",
+  "lastyear": "1737",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-24 14:44:20",
+  "modified_on": "2024-07-05 16:30:15",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 7 januari 1737 vertrok de retourvloot bestaande uit&nbsp;<em>Paddenburg</em>,&nbsp;<em><strong>Iepenrode </strong>en</em>&nbsp;<em>Flora</em> uit Batavia met bestemming Nederland.</p> <p>Tot de kust van Zuid-Afrika verliep de reis voorspoedig. Daar, ter hoogte van Cape Agulhas, werden de drie schepen tijdens een storm van elkaar gescheiden. (18 april 1737).</p> <p><strong>Tafelbaai</strong><br>Op de rede van Tafelbaai lagen nog acht VOC schepen, te weten: Paddenburg (27-4), Flora (29-4) , Goudriaan (6-5), Westerwijk (7-5), Rodenrijs (7-5), Papenburg (10-5), Buis (11-5) Duinbeek (16-5) en als laatste Iepenburg (20-5). Op 20 mei waren alle retourschepen gereed om in konvooi naar Nederland te vertrekken.</p> <p><strong>Stormramp 21 mei 1737</strong><br>De volgende ochtend om 8 uur waren de opperhoofden van de retourvloot aan land om de laatste papieren, brieven en instructies op te halen bij de gouverneur van de Kaap.</p> <p>Toen het steeds harder ging waaien, konden de schippers niet meer terug. Rond 11 uur klonken de eerste noodschoten. De<em> </em>Iepenrode raakte van haar ankers en de bemanning probeerde het schip op het strand te zetten. Dat lukte, maar daar braken de masten af en het schip werd tot spaanders gebeukt door golven en wind. De meeste bemanningsleden verdronken of werden geraakt door rondvliegend hout.</p> <p>Alle schepen op de rede troffen in de loop van de dag een vergelijkbaar lot. Ze kwamen allen terecht bij de monding van de Soute rivier.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, 1731<br>Tonnage: 325 last<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>650 ton (325 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97822\">Details of voyage 6991.2 from Batavia.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=29&amp;accessor=search_in_text&amp;source=10&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Generale missiven Deel 10, 18.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li>Dijkman, A.E. (2019).<br /><em>Ramp van 21 mei 1737. Het verhaal van de grootste scheepsramp uit de VOC-geschiedenis. [Unpublished paper].</em><br />Leiden University.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

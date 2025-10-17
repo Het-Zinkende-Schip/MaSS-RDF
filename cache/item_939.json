@@ -1,0 +1,27 @@
+{
+  "id": "939",
+  "code": "schollevaar",
+  "name": "Schollevaar",
+  "type": "wreck",
+  "lat": "-34.1416363",
+  "lon": "18.3008194",
+  "location": "Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1667",
+  "firstyearend": null,
+  "lastdate": "1668-05-31",
+  "lastyear": "1668",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-22 13:41:37",
+  "modified_on": "2025-04-05 16:35:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Rotterdamse Kamer was de eerste die in 1667 de bouw van een serie van vier hoekers startte (de Kokmeeuw, Rotgans, <em><strong>Schollevaar</strong></em> en Lepelaar).<a title=\"Glavimans schepenlijst Rotterdam\" href=\"https://cultureelerfgoed.info/mass/?file=00000007.pdf\" target=\"_blank\" rel=\"noopener\">*</a></p> <p>Deze kleinere schepen voldeden niet en werden na 1670 niet meer gebouwd. Nog slechts incidenteel werden er hoekers voor de VOC met iets grotere maten gebouwd. Na afloop van de Tweede Engelse Oorlog (1665-1667) gingen de vier hoekers naar de Oost. De Schollevaar is echter vergaan tijdens haar eerste uitreis op de kust van Afrika, ongeveer 9 mijl noord van de Kaap op 31 mei 1668; twee man, waaronder de schipper, verdronken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Rotterdam, 1667<br>Lengte: 76 &agrave; 82 voet<br>Breedte: 21 &agrave; 22 voet<br>Laadvermogen 45 last (90 ton)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Romboutz Hackert</td></tr><tr><th scope=\"row\">Tonnage</th><td>90 ton (45 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92169\">Details of voyage 1086.1.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li><em>SAHRA Database.</em></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/18/file/NL-HaNA_1.11.06.18_18_0059?eadID=1.11.06.18&amp;unitID=18&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 1-6-1668.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

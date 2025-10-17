@@ -1,0 +1,27 @@
+{
+  "id": "1207",
+  "code": "vrede-1653",
+  "name": "Vrede",
+  "type": "wreck",
+  "lat": "52.1862824",
+  "lon": "2.9641116",
+  "location": "North Sea, Nederland",
+  "firstdate": null,
+  "firstyear": "1653",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1667",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-12 13:54:57",
+  "modified_on": "2025-01-10 11:23:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Vrede werd gekocht voor fl. 30.000,- in april 1653.</p> <p>Tijdens de slag bij Lowestoft (13 juni 1665) was Laurens van Heemskerck vlaggenkapitein. Hij ontweek de strijd en werd aangeklaagd. Hij wachtte zijn veroordeling niet af en liep over naar de Engelsen. Tweede man aan boord, luitenant&nbsp;<a href=\"https://www.dbnl.org/tekst/_ned017198501_01/_ned017198501_01_0012.php\">Eland Du Bois</a>, werd toen kapitein.<br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: fregat<br>Gebouwd: Rotterdam door Adriaan Joosten, 1652-53<br>Lengte: 111<br>Breedte: 27<br>Holte: 12<br>Bemanning: 130, 20 soldaten (1665, Bender 181)<br>Kapitein: Laurens van Heemskerck, 1665 Eland Dubois<br>Bewapening: 40</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>James Bender (2014).<br /><em>Dutch warships in the age of sail p.182.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

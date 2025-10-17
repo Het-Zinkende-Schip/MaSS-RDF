@@ -1,0 +1,27 @@
+{
+  "id": "644",
+  "code": "admiraal-de-suffren",
+  "name": "Admiraal de Suffren",
+  "type": "wreck",
+  "lat": "17.2887222",
+  "lon": "112.4377537",
+  "location": "Lincoln eilanden, South Chinese Sea, China",
+  "firstdate": null,
+  "firstyear": "1785",
+  "firstyearend": null,
+  "lastdate": "1788-03-13",
+  "lastyear": "1788",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-04-17 16:14:07",
+  "modified_on": "2024-06-04 13:01:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De admiraal Suffren</strong></em> vertrok 17-11- 1786 uit Texel voor haar eerste uitreis naar Batavia. Op 5 mei 1787 kwam het schip daar aan.</p> <p>Ze vertrok daarna naar Canton in China. Op de terugweg naar Nederland is het schip verzeild en op een klip nabij de Lincoln-eilanden gevaren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (ed.).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/99038\">DAS 8218.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4580/file/NL-HaNA_1.04.02_4580_0020?eadID=1.04.02&amp;unitID=4580&amp;query=4580\">NL-HaNA_1.04.02_4580_0020 locatie.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

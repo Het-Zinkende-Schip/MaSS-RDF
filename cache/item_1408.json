@@ -1,0 +1,27 @@
+{
+  "id": "1408",
+  "code": "woerden-5",
+  "name": "Woerden 5",
+  "type": "wreck",
+  "lat": "52.0840295",
+  "lon": "4.8826375",
+  "location": "Woerden, Nederland",
+  "firstdate": null,
+  "firstyear": "100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "200",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-23 09:48:40",
+  "modified_on": "2025-06-10 16:23:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De Woerden 5 was een boomstamboot die in 1988 werd ontdekt bij saneringswerkzaamheden op het terrein van de voormalige gasfabriek aan de Oranjestraat. De stuurboordkant en een deel van de bodem is bewaard gebleven. De spanten zijn los van de bodem. In de wand zitten gaten die erop wijzen dat het gehele vaartuig is gebruikt als viskaar.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

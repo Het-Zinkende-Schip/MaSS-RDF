@@ -1,0 +1,26 @@
+{
+  "id": "2157",
+  "code": "se-512",
+  "name": "SE-512",
+  "type": "site",
+  "lat": "17.4670060",
+  "lon": "-62.9983010",
+  "location": "Oranje Bay, Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Ruud Stelten",
+  "created_on": "2020-09-16 15:20:17",
+  "modified_on": "2025-07-05 11:16:13",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>SE-512 is a 900-meter-long structure resembling SE-510 and SE-511. It is located 800 meters southeast of SE-511 and runs southeast&nbsp;&ndash; northwest at a heading of 70 degrees for 900 meters. The reef sits on a rocky outcrop, measuring between 3 and 35 meters wide. Its prominence from the sea floor ranges from 50 centimeters to 5 meters. SE-512 appeared to share many similarities to SE-511 and SE-510 in terms of shape and location amidst a sandy bottom.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002149.jpg\" alt=\"An anchor underwater that is completely covered in growth\"> <figcaption class=\"img-description\">Heavily overgrown anchor resting around 25 meters deep. Photo by Mike Harterink.</figcaption> </figure></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>SE-512 is located in the southern area of the historic roadstead of St. Eustatius. Here in the eighteenth-century, thousands of ships dropped anchor in order to trade at this free port. An investigation was held at the site in 2015 by the St. Eustatius Center for Archaeological Research in which the site was surveyed completely. Three anchors, intact except for their wooden stocks, were found within 145 meters of each other in the northeastern part of the site. Two of these had one arm completely stuck in the reef. One anchor was found on top of the reef&rsquo;s northern side. No other artifacts were found near these anchors. The site is surrounded by a sandy bottom, providing a suitable place for anchoring. All three anchors on SE-512 were found on its northern side, indicating that ships mainly anchored to the north of this reef. This fact, coupled with the anchoring depths known from ship logs, demonstrates that the sandy area between SE-511 and SE-512, which is between 12 and 13 fathoms deep, was a popular anchorage area.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Ruud Stelten (2019).<br /><em>From Golden Rock to Historic Gem: A Historical Archaeological Analysis of the Maritime Cultural Landscape of St. Eustatius Dutch Caribbean.</em><br />Leiden: Sidestone Press.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

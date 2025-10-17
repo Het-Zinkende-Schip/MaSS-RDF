@@ -1,0 +1,27 @@
+{
+  "id": "2686",
+  "code": "schuby-strand",
+  "name": "Schuby-Strand",
+  "type": "wreck",
+  "lat": "54.6085450",
+  "lon": "10.0190163",
+  "location": "Schuby-Strand, Duitsland",
+  "firstdate": null,
+  "firstyear": "900",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "950",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-11-22 10:03:35",
+  "modified_on": "2025-06-14 20:27:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The remains of this wreck were discovered by sport-divers in 1979 in a peat layer in Schwansen Lake, today damned off the Baltic Sea, which originally formed a sheltered bay and natural harbour. The find was reported to the director of the <em>Museum und Landesamt f&uuml;r Vor- und Fr&uuml;hgeschichte in Schleswig</em> (the predecessor institution of both the State Archaeology Museum of Schleswig-Holstein and the State Archaeology Museum of Schleswig-Holstein), i.e. Prof. Dr. Karl Wilhelm Struve, an expert of Slavonic Archaeology in East Holstein. This find induced him to dive to this site at the age of 62, which also happened to be his very first dive. The wreck was initially C14-dated into the 8th-9th century, but was later dated into the first half of the 10th century on the basis of a modern calibration curve of the carbon isotope C14 in the atmosphere. Aside from a find report by Struve himself, the wreck was subject to re-investigations in the context of other early medieval Slavonic wreck finds in Schleswig-Holstein, Mecklenburg-Vorpommern, Denmark and Poland.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The wreck was entirely built of oak in the lapstrake fashion with a T-shaped keel. The use of small treenails (12mm in cross-section) in the plank-to-plank fastenings instead of iron rivets are regarded as a typical Slavonic feature, as ironworking generally played a minor role in Slavonic society. The frame-distance was 90 cm and cattle hair was used as inlaid caulking material.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>39 &frac14; voet (12 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Inspired by this wreck find, a reconstruction was built in the Oldenburg Wall Museum. Other reconstructions of Slavonic ships, like the Bialy Kon (pictured), have been regularly used in Experimental Archaeology.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002864.jpg\" alt=\"black and white photo of a wooden ship with a large sail and a few people on it\"> <div class=\"img-source\">Nakoinz 2004</div> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Meier, G. (1995).<br /><em>Ein Schiff wie vor 1000 Jahren.</em><br />Jahrbuch Oldenburg 39.<br />pp 38-39.</li><li>Nakoinz, O. (1998).<br /><em>Das mittelalterliche Wrack von Schuby-Strand und die Schiffbautraditionen der südlichen Ostsee.</em><br />Archäologisches Korrespondenzblatt 28.<br />pp 311-322.</li><li>Nakoinz, O. (2004).<br /><em>Das Wrack von Schuby-Strand bei Damp und der slawische Schiffbau.</em><br />Jahrbuch Heimatgemeinschaft Eckernförde e.V. 62.<br />pp 145-152.</li><li>Struve, K. W.  (1980).<br /><em>Ein slawisches Schiffswrack aus der Eckernförder Bucht.</em><br />Offa 37.<br />pp 169-175.</li><li>Oldenburger Wallmuseum.<br /><a href=\"https://www.oldenburger-wallmuseum.de/termine-veranstaltungen/bootsbau/\">Early medieval Slavonic ship-reconstruction at the Oldenburg Wall Museum.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

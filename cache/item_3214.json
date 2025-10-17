@@ -1,0 +1,26 @@
+{
+  "id": "3214",
+  "code": "malmok-cemetery",
+  "name": "Malmok cemetery",
+  "type": "site",
+  "lat": "12.5969312",
+  "lon": "-70.0512230",
+  "location": "Malmok, Aruba",
+  "firstdate": null,
+  "firstyear": "900",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "600",
+  "lastyearend": "900",
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gendra Lacle",
+  "created_on": "2023-12-23 23:50:11",
+  "modified_on": "2025-06-16 20:27:14",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1989 is een opgraving uitgevoerd bij een pre-colombiaanse begraafplaats te <em><strong>Malmok</strong></em> noord Aruba.</p> <p>Malmok staat bekend als de nieuwste pre-keramische vindplaats op de ABC-eilanden en dateert uit 300-900 na Christus, in een tijd dat er ook op deze eilanden al populaties uit het keramische tijdperk bestonden.</p> <p>Daar werden de overblijfselen van veertig individuen opgegraven en onderzocht; het verslag, is in 1990 bij het Arubaanse archeologische museum verschenen.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>A. H. Versteeg, J. Tacoma, P. van de Velde (1990).<br /><em>Archaeological Investigations on Aruba: The Malmok Cemetery.</em><br />Archaeological Museum Aruba.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

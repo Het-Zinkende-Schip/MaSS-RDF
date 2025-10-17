@@ -1,0 +1,27 @@
+{
+  "id": "2588",
+  "code": "ss-ingrid-leonhardt",
+  "name": "SS Ingrid Leonhardt (1944-1945)",
+  "type": "wreck",
+  "lat": "54.5893330",
+  "lon": "10.9306670",
+  "location": "Fehmarn Belt (German EEZ), Duitsland",
+  "firstdate": null,
+  "firstyear": "1944",
+  "firstyearend": null,
+  "lastdate": "1945-04-22",
+  "lastyear": "1945",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-06-02 19:55:13",
+  "modified_on": "2025-07-11 17:39:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The INGRID LEONHARDT was built in 1944 by the <em>Rickmers Reism&uuml;hlen Rhederei &amp; Schiffbau A.G.</em> shipyard in Bremerhaven for the Hamburg-based <em>Leonhardt &amp; Blumberg</em> company. The ship was lost on 22 April 1945 when she struck a sea-mine in Fehmarn Belt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The scattered remains of the wrecksite were captured by Erhard Schulz.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002681.jpg\" alt=\"The scattered remains of the wrecksite\"> <div class=\"img-source\">Erhard Schulz</div> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002682.jpg\" alt=\"The scattered remains of the wrecksite\"> <div class=\"img-source\">Erhard Schulz</div> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002680.jpg\" alt=\"photo of a shipwreck covered with algae, underwater\"> <div class=\"img-source\">Erhard Schulz</div> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>280 &frac12; voet (85,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wrecksite is located in the German EEZ and thus is not protected by law.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>wrecksite.eu.<br /><a href=\"https://wrecksite.eu/wreck.aspx?5406\">SS Ingrid Leonhardt [+1945].</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

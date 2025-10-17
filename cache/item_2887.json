@@ -1,0 +1,27 @@
+{
+  "id": "2887",
+  "code": "helena",
+  "name": "Helena",
+  "type": "wreck",
+  "lat": "52.4755337",
+  "lon": "2.0993864",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1907",
+  "firstyearend": null,
+  "lastdate": "1916-11-21",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-14 16:44:20",
+  "modified_on": "2025-06-15 12:10:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De SS Helena</strong></em> was op reis van Rotterdam naar New york in ballast.</p> <p>Op 21 november 1916 om 14.15 uur vond een hevige ontploffing plaats onder het achterschip. 20 minuten later gevolgd door een tweede explosie.</p> <p>De Helena zonk snel, alle 22 opvarenden gingen in een reddingsboot en om 15.00 uur zag men het schip in de golven verdwijnen. De 22 opvarenden werden door een brits patrouillevaartuig gered.</p> <p>De Helena was op twee - door de Duitse onderzeeboot <em><strong>UC 11</strong></em> gelegde - mijnen gelopen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Typ : stoomschip<br>Gebouwd: Craig, Taylor &amp; Co. Ltd, Stockton-on-Tees, Great Britain<br>Eigenaar: N.V. A.C. Lensen's Stoomvaart Maatschappij, Terneuzen, Zeeland, Netherlands</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Visser, R.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>22</td></tr><tr><th scope=\"row\">Snelheid</th><td>10 knopen ~ 19 km/u (12 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>279 &frac34; voet (85,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>38 &frac12; voet (11,7 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 &frac14; voet (5,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1798 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Maritiem Historische Data.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=2746\">Helena ID 2746.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

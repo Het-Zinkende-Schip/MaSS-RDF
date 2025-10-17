@@ -1,0 +1,27 @@
+{
+  "id": "2937",
+  "code": "dina",
+  "name": "Dina",
+  "type": "wreck",
+  "lat": "55.3669782",
+  "lon": "-0.0383472",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1898",
+  "firstyearend": null,
+  "lastdate": "1916-06-15",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-01 14:51:10",
+  "modified_on": "2025-06-15 14:08:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Dina</strong></em> was onderweg met mijnstutten van Lolberst&ouml;n, Christianafjord (nu Oslofjord) naar West-Hartlepool. op ongeveer 60 mijl O.t.N. van deze haven door een Duitse U-Boot aangehouden en door middel van het plaatsen van explosieven tot zinken gebracht.</p> <p>Nadat zij eerst nog een Noorse schoener tot zinken had gebracht, nam de U-boot de redding sloepen van beide schepen op sleeptouw en bracht ze in de nabijheid van het Zweedse s.s. Onsala. Dit schip bracht de schipbreukelingen naar Nyborg.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: tweemaster gaffelschoener</p> <p>Eigenaar: J.J. Onnes, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Boerma J.R.</td></tr><tr><th scope=\"row\">Tonnage</th><td>165 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=1701\">marhisdata.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Dina&amp;cql%5B%5D=%28date+_gte_+%2214-07-1916%22%29&amp;cql%5B%5D=%28date+_lte_+%2231-07-1916%22%29&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;facets%5Bspatial%5D%5B%5D=Regionaal%\">Het vaderland      23-07-1916.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

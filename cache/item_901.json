@@ -1,0 +1,27 @@
+{
+  "id": "901",
+  "code": "britsum",
+  "name": "Britsum",
+  "type": "wreck",
+  "lat": "50.5641073",
+  "lon": "-0.6201782",
+  "location": "English Channel, Selsey, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1929",
+  "firstyearend": null,
+  "lastdate": "1940-07-04",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-10 10:33:54",
+  "modified_on": "2025-06-08 21:19:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het vrachtschip ss. 'Britsum' (1929) van de Stoomvaart Maatschappij 'Oostzee', op 04.07.1940 onderweg van Hull naar Fowey wordt ter hoogte van Selsey bij een Duitse luchtaanval door een vliegtuigbom op het achterschip geraakt, als gevolg waarvan het schip in brand vliegt. Hierbij komen negen opvarenden om het leven. De volgende dag kan het schip nog bij Selsey Bill, total loss, op het strand worden gezet.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Vrachtschip, Cargo vessel<br>Gebouwd: N.V. C. van der Giessen &amp; Zonen's Scheepswerven, Krimpen aan den IJssel (NL), 1929<br>Eigenaar: N.V. Stoomvaart Maatschappij 'Oostzee', Amsterdam (NL)</p> <p>Tonnage: 5255.00 Gross tonnage<br>Voortstuwing: Steam, Quadruple Expansion</p> <p>Complement: 9 bemanningsleden kwamen om<br>Kapitein: D. Bakker,</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

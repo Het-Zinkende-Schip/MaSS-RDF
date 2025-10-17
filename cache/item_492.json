@@ -1,0 +1,27 @@
+{
+  "id": "492",
+  "code": "alblasserdam",
+  "name": "Alblasserdam",
+  "type": "wreck",
+  "lat": "19.7330000",
+  "lon": "113.0000000",
+  "location": "Near Chinese Coast, China",
+  "firstdate": null,
+  "firstyear": "1725",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1735",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Annaliese Dempsey",
+  "created_on": "2015-01-29 00:00:00",
+  "modified_on": "2024-11-07 12:12:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Alblasserdam</em> maakte twee succesvolle retourreizen voor respectievelijk de VOC kamers Delft en Zeeland. Haar derde uitreis begon 25-4-1734 vanuit Texel voor de kamer Amsterdam. Ze kwam in Batavia aan op 12-12-1734 en bleef in Azi&euml; dienst doen.</p> <p>Op weg van Batavia naar Canton in China vergaan. Schipper en 11 man werden gered.&nbsp;Ze zonk bij de Chinese kust, waarschijnlijk in de buurt van Macau.&nbsp;De generale Missiven:<em> In volle zee gezonken De opvarenden op 9 na allen verdronken.</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=713&amp;accessor=search_in_text&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D0%26source%3D1\">Generale Missiven, Deel 9, 1729-1739, GS 2, p. 205.</a></li><li>NA_1.11.01.01 551.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0008?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

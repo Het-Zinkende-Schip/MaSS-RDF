@@ -1,0 +1,27 @@
+{
+  "id": "2823",
+  "code": "ares-1914",
+  "name": "Ares",
+  "type": "wreck",
+  "lat": "38.1200000",
+  "lon": "-10.1900000",
+  "location": "Atlantische Oceaan, Portugal",
+  "firstdate": null,
+  "firstyear": "1914",
+  "firstyearend": null,
+  "lastdate": "1917-03-08",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-06 12:23:32",
+  "modified_on": "2025-06-15 11:31:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op weg van Suez naar Rouen op de Atlantische Oceaan voor de Portugese kust ter hoogte van de Taag door de Duitse onderzeeboot UC-74 met kanonvuur tot zinken gebracht.</p> <p>De 44 opvarenden zetten met vier boten koers naar de wal. Bij het aan land gaan bij Cabo Roca sloeg een dezer boten in hoge deining om, waarbij twee Chinese schepelingen van de Ares om het leven kwamen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Nederlandsche Scheepsbouw-Maatschappij, Amsterdam, Noord-Holland, Netherlands <br>Eigenaar: N.V. Petroleum Maatschappij 'La Corona', The Hague, Zuid-Holland, Netherlands</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>44</td></tr><tr><th scope=\"row\">Lengte</th><td>346 &frac12; voet (105,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>47 voet (14,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>25 &frac12; voet (7,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3783 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=590\">Ares ID 590.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

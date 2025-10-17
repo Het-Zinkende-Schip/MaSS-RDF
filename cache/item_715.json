@@ -1,0 +1,27 @@
+{
+  "id": "715",
+  "code": "taiwan-01",
+  "name": "Taiwan",
+  "type": "wreck",
+  "lat": "23.3785646",
+  "lon": "119.9025879",
+  "location": "Taiwan",
+  "firstdate": null,
+  "firstyear": "1650",
+  "firstyearend": null,
+  "lastdate": "1654-08-09",
+  "lastyear": "1654",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-22 18:27:25",
+  "modified_on": "2025-06-27 22:11:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens het laden op de rede van Taiwan vergaan in storm 9 augustus 1654. Bemanning en lading werden gereed.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001567.jpg\" alt=\"Tekening van water met een zandeiland erin, waar een burcht op is gebouwd.\"> <figcaption class=\"img-description\">.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91842\">Details of voyage 0725.1 from Wielingen to Batavia.</a></li><li><em>Gommans, Jos, en Rob van Diessen, 2010: Grote Atlas van de Verenigde Oost-Indische Compagnie / Comprehensive Atlas of the Dutch United East India Company: VII Oost-Azië, Birma tot Japan / East Asia, Burma to Japan, Voorburg: Uitgeverij Asia.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

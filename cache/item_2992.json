@@ -1,0 +1,27 @@
+{
+  "id": "2992",
+  "code": "maria-1898",
+  "name": "Maria",
+  "type": "wreck",
+  "lat": "1.5694902",
+  "lon": "-31.3635314",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1898",
+  "firstyearend": null,
+  "lastdate": "1914-09-21",
+  "lastyear": "1914",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-14 11:32:04",
+  "modified_on": "2025-06-15 14:41:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis in charter van de Britse firma Watson, Munro &amp; Co., te Londen met een lading van ongeveer 5.000 ton tarwe van Portland (USA) naar Belfast vertrok de <em><strong>Maria</strong></em> op 20 juli 1914 van Astoria, (Oregon) via Straat Magelha&euml;n.</p> <p>Op 21 september 1914 werd zij op de Atlantische Oceaan in positie 01˚49&rsquo;ZB en 31˚50'WL aangehouden door de Duitse lichte kruiser Karlsruhe. De lading werd in verband met de bestemming contrabande verklaard, en de Maria werd met explosieven tot zinken gebracht..</p> <p>De 26 leden der bemanning van de Maria kwamen allen behouden in Tenerife aan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: J. Priestman &amp; Co., Sunderland</p> <p>Eigenaar: Holland Gulf Stoomvaart Maatschappij N.V.,</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jonker D</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>26</td></tr><tr><th scope=\"row\">Tonnage</th><td>3804 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4010\">marhisdata id 4010.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

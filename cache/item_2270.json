@@ -1,0 +1,27 @@
+{
+  "id": "2270",
+  "code": "anjelier",
+  "name": "Anjelier",
+  "type": "wreck",
+  "lat": "53.3237202",
+  "lon": "5.1373292",
+  "location": "Terschelling Vlie, Nederland",
+  "firstdate": null,
+  "firstyear": "1654",
+  "firstyearend": null,
+  "lastdate": "1662-07-28",
+  "lastyear": "1662",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-26 13:38:59",
+  "modified_on": "2024-11-07 17:49:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Anjelier </strong></em>was een jacht. Ze vertrok op 26 april 1654 vanuit Texel naar Batavia (21-10-1654). Vandaar voer ze o.a. naar Goa, Makassar, Deshima en Taiwan.</p> <p>De Anjelier vertrok op 30-1-1662 vanuit Batavia terug naar Nederland waar ze<br>alsnog in het Vlie, vlak voor&nbsp;Terschelling, verging. (<a title=\"dagregister 1663 172 anjelier\" href=\"https://cultureelerfgoed.info/mass/?file=00000196.pdf\" target=\"_blank\" rel=\"noopener\">Dag Register 1663 p. 172</a>).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Barend Barendsz. Hans</td></tr><tr><th scope=\"row\">Tonnage</th><td>440 ton (220 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/96408\">DAS 5498.1.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000109.jpg\">Lijst van alle zoodanige Schepen in soorten als bij de Generale Oostindische Compagnie zijn gemaekt oft gekocht als gehuurt alsmede waer oft de zelfde zijn agter gebleven ofte verongelukt als genoomen en verbrand, vermist.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

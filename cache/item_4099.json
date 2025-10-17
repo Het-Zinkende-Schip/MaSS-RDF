@@ -1,0 +1,27 @@
+{
+  "id": "4099",
+  "code": "on6",
+  "name": "ON6",
+  "type": "wreck",
+  "lat": "52.5668770",
+  "lon": "5.7750440",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": "1610",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 15:45:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een scheepswrak gevonden op kavel N6 in Oostelijk Flevoland werd in 1959 verkend. Het bleek te gaan om een zeer compleet schip, nog aanwezig met opboeisel en gangboord. Het wrak werd daarom gereserveerd voor nader onderzoek. In 1984 vond uiteindelijk een herverkenning plaats. Hieruit werd duidelijk dat het een karveel gebouwd vrachtschip betrof, waarvan de ondergang aan het begin van de 17de eeuw wordt geschat. De grootste gemeten lengte over de stevens is 16,5 meter en de grootste breedte 5,5 meter, met een grootste diepte van het ruim van 2,1 meter. Na de verkenning is het object weer toegedekt. Uit het voorschip zijn enkel twee scherven keramiek geborgen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zkw-wjm5\">Opgravingsdocumentatie scheepswrak ON6.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

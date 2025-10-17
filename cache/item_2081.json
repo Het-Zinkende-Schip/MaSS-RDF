@@ -1,0 +1,27 @@
+{
+  "id": "2081",
+  "code": "za87-i",
+  "name": "ZA87-I",
+  "type": "wreck",
+  "lat": "52.3641300",
+  "lon": "5.1348500",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-10-01 17:07:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Betreft op zichzelf geen scheepswrak, maar de vondst van een houten kerkkapconstructie. Tijdens het diepploegen in Zuidelijk Flevoland op kavel A87 (ten zuiden van het Lawsonpad en ten oosten van de IJmeerdijk) is in 1983 namelijk een partij van 50 tot 60 geprefabriceerde onderdelen van een kapconstructie van een middeleeuwse kerk aangetroffen. De onderdelen behoren tot een kerkkap van een type kerk die in westelijk Nederland en in Friesland in die tijd gebruikelijk was. In de Middeleeuwen was het gebruikelijk dat een dergelijke houtconstructie niet op de bouwwerf maar elders werd gefabriceerd en daarna per schip naar de locatie verzonden werd.</p> <p>De grootste onderdelen van de constructie, zoals de trekbalken, werden vermoedelijk op het dek vervoerd en zijn tijdens een storm overboord geslagen of vergaan met het schip. Een relatie met het gevonden vrachtschip op hetzelfde kavel, <a href=\"https://mass.cultureelerfgoed.nl/za87-iv\">ZA-87-IV</a>, is niet aangetoond. Ook de plek waar de houten onderdelen zijn gemaakt is niet bekend. Uit de gevonden onderdelen valt op te maken dat het gaat om een kap met een breedte van ca. 9 m en een lengte van tenminste 22 m. Ook zijn onderdelen gevonden van een zeskant klokkentorentje. Alle delen waren op de gebruikelijke wijze voorzien van zogenaamde telmerken, die nodig zijn om de onderdelen te kunnen monteren op de bouwplaats.</p> <p>Het was waarschijnlijk de bedoeling dat de kerkkap naar Franeker zou worden getransporteerd. Het is bekend dat er een kerkkap was in Kampen die op twee schepen werd geladen, klaar voor de reis van Kampen naar Friesland. Maar helaas liep de reis niet goed af. Op het 'Camper Diep', nog voor de monding van de IJssel, werden de schippers opgewacht door zeerovers uit Groningen die de beide schepen in beslag namen. Wat de dieven precies van plan waren met de kerkkap weet niemand, maar het is toch erg verleidelijk om een verband te leggen tussen de diefstal bij Kampen en de bijzondere vondst in Almere. Na het onderzoek zijn de onderdelen ter plaatse onder de grondwaterstand begraven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z8j-9s72\">Opgravingsdocumentatie scheepswrak ZA87-I.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "847",
+  "code": "m3-hrms",
+  "name": "Hr.Ms. M3",
+  "type": "wreck",
+  "lat": "52.4628709",
+  "lon": "4.5539703",
+  "location": "IJmuiden, Nederland",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": "1918",
+  "lastdate": "1940-05-14",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-15 08:50:57",
+  "modified_on": "2022-08-23 19:40:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Ex Anna</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: J. &amp; A. van der Schuyt, Papendrecht, 1915</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Gebouwd: J. &amp; A. van der Schuyt, Papendrecht, 1915</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

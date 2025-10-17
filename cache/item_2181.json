@@ -1,0 +1,27 @@
+{
+  "id": "2181",
+  "code": "eendracht-1619",
+  "name": "Eendracht",
+  "type": "wreck",
+  "lat": "53.4618904",
+  "lon": "3.9331055",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1619",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1639",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-02 12:43:57",
+  "modified_on": "2025-06-11 18:46:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Eendracht was het vlaggeschip van de admiraliteit van het Noorderkwartier.</p> <p>De Eendracht maakte in 1622 deel uit van de z.g. Nassause vloot van elf schepen o.l,.v. Jacques l'Hermite. De Nassause vloot was een joint venture van de Staten-Generaal en de VOC. Het doel was de verovering van Peru, inclusief de rijke zilvermijnen van Potosi (nu Bolivia) en Portoviejo in Ecuador. Neven opdracht was het verschalken van de zilvervloot. De opzet mislukte; Peru bleef vast in handen van de Spanjaarden en de zilvervloot werd niet gezien.</p> <p>&nbsp;De Eendracht ging verloren in 1639 en werd datzelfde jaar vervangen door de (Nieuwe) Eendracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: oorlogsschip<br>Gebouwd: 's lands werf Enkhuizen, 1619<br>Eigenaar: Admiraliteit Noorderkwartier<br>Complement: 105 crew, 5 soldiers (1623)<br>Kapitein:&nbsp;Hildebrand Gerbrandsz. Quast (1621)&nbsp;<br>Armament: 22</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan IJsbrandsz.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>110</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 voet (10,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Voorbeijtel Cannenburg, W. (1964).<br /><em>De reis om de wereld van De Nassausche Vloot 1623-1626.</em><br />Martinus Nijhof.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

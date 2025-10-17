@@ -1,0 +1,27 @@
+{
+  "id": "1513",
+  "code": "ss-laura",
+  "name": "SS Laura",
+  "type": "wreck",
+  "lat": "51.3855670",
+  "lon": "2.4743170",
+  "location": "België",
+  "firstdate": null,
+  "firstyear": "1918",
+  "firstyearend": null,
+  "lastdate": "1924-12-13",
+  "lastyear": "1924",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Martijn Heijink",
+  "created_on": "2020-07-31 14:57:33",
+  "modified_on": "2025-06-10 16:47:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>SS Laura is in 1918 in Canada gebouwd en droeg oorspronkelijk de naam War Storm. De Britse eigenaar, de Shipping Controller, verkocht het in 1919 aan Vincenzo de Luca uit Napels. Kort daarop werd het aan de Gulf Stoomboot Maatschappij verkocht en kreeg de naam SS Laura. Op 13 december 1924 kwam de Laura in aanvaring met SS Lorenzo en verging 1 mijl ten zuidoosten van het lichtschip West-Hinder. De lading zou bestaan hebben uit zout en fosfaten.</p> <p>De Laura was een F1 Standard Cargo Ship, een vereenvoudigd Brits standaardtype uit de Eerste Wereldoorlog. Deze schepen droegen de prefix 'War' voor hun naam. Er werden 821 schepen van dit type besteld bij Britse en buitenlandse werven. Daarvan werden er 416 aan de Britse regering geleverd. Na het sluiten van de wapenstilstand in 1918, werden de openstaande bestellingen geannuleerd, veel schepen die al op stapel stonden werden verkocht.</p> <p><em>&nbsp;</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Vermogen</th><td>303 pk</td></tr><tr><th scope=\"row\">Deplacement</th><td>3202 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>In 1978 door duikers van de marine onderzocht. Steekt ongeveer 9 meter boven de bodem uit, staat recht op de bodem. Voorschip is verwoest, ruimen leeg, opbouw op spanten na verdwenen. Achterschip staat rechtop, roer en schroef zijn nog aanwezig.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Agentschap Onroerend Erfgoed.<br /><a href=\"http://www.maritieme-archeologie.be/WK_Ship_GenView.aspx?ObjCId=1764&amp;type=1&amp;utype=guest\">Laura SS.</a></li><li>Dirk Termote en Tomas Termote (2009).<br /><em>Schatten en scheepswrakken: boeiende onderwaterarcheologie in de Noordzee.</em><br />z.p., Schuyt.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

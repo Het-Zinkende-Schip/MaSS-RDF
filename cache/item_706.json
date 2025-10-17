@@ -1,0 +1,27 @@
+{
+  "id": "706",
+  "code": "venenburg-1656",
+  "name": "Venenburg",
+  "type": "wreck",
+  "lat": "54.5364802",
+  "lon": "-11.9428552",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1656",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1667",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-20 13:23:20",
+  "modified_on": "2025-08-17 16:33:42",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De '<em>Venenburg'</em> was een fluit gebouwd in opdracht van de VOC. Ze maakte twee retourreizen. Ze vertrok voor haar eerste retourreis 24-12-1656 met 150 man aan boord naar Oost Indi&euml;. Ze reisde van Batavia terug naar Nederland 17-1-1661. De tweede retoureis begon 9-1-1662 van Texel naar Batavia. De Venenburg was pas in 1666 terug in Nederland.</p> <p>Het schip vertrok voor de 3e keer naar Oost Indi&euml; op 20-5-1667. De tweede Nederlandser-Engelse oorlog was gaande. De VOC vloot nam de route achterom om de Britse vloot te ontwijken. Achter Ierland werd de Venenburg veroverd door een Britse vlooteskader.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0123?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: In Amsterdam voor de VOC kamer. Venenburch staat op de liquidatie van timmering in 1656.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7348/file/NL-HaNA_1.04.02_7348_0494?eadID=1.04.02&amp;unitID=7348&amp;query=%207347\">&sup1;</a></p> <p><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>142 Amsterdamse&nbsp;voet (40,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>33 Amsterdamse&nbsp;voet (9,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>703 ton (352 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91560\">Details of voyage 1067.3 from Texel.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0123?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">NA_1.04.02_4932 uitreisboek.</a></li><li>Dam, Pieter van.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=519&amp;accessor=searchText&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=1&amp;view=\">Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.1.1  480.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

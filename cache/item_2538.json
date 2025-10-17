@@ -1,0 +1,27 @@
+{
+  "id": "2538",
+  "code": "hms-e5-1911",
+  "name": "HMS E5",
+  "type": "wreck",
+  "lat": "53.5654355",
+  "lon": "6.1303711",
+  "location": "Schiermonnikoog, Nederland",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": "1916-03-07",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Will Brouwers",
+  "created_on": "2021-04-01 12:19:48",
+  "modified_on": "2025-07-17 10:18:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Dienst</h2> <p><em>HMS E5 </em>was een onderzeeboot die diende in de eerste wereldoorlog. In december 1913 maakte de E5 deel uit van de 8e Onderzeevloot, gestationeerd in Portsmouth als deel van de '<em>Home Fleet</em>' (de vloot in Britse wateren). Ze lag op de werf voor onderhoud toen de oorlog uitbrak en de werfbeurt werd voortijdig be&euml;indigd zodat ze zich bij haar smaldeel kon voegen.</p> <p>Tijdens de oorlog was ze betrokken bij vele acties op de Noordzee, grotendeels gericht op het blokkeren van de Duitse scheepvaart. In april 1915 viel de <em>E5 </em>het Duitse stoomschip <em>Schwarzwald</em> aan, dat beschadigd werd maar ontsnapte.</p> <p>op 25 september 1915 torpedeerde de E5 de Duitse <em>Sperrbrecher</em> (een ondersteunende mijnenveger werkzaam in het breken van de geallieerde blokkade van de Duitse scheepvaart) <em>SP11</em>, waardoor deze strandde. Er werde pogingen ondernomen door de Duitsers om haar te redden, maar deze waren onsuccesvol.</p> <h2>Ondergang</h2> <p>Er zijn verschillende theorie&euml;n over de ondergang van de <em>E5</em>. Een daarvan is dat ze op een mijn liep op 7 maart 1916, mogelijkerwijs nadat ze in een mijnenveld terecht kwam na ontdekt te zijn door de Duitse kruiser <em>Regensburg</em>. Een andere theorie schrijft haar verlies toe aan een aanval met dieptebommen door torpedoboten die het slagschip <em>Seydlitz </em>escorteerden. Recente archeologische ontdekkingen lijken beide theorie&euml;n tegen te spreken.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002539.jpg\" alt=\"een scheepswrak op de bodem van de zee\"> <div class=\"img-source\">Duik de Noordzee Schoon, Cor Kuyvenhoven.</div> <figcaption class=\"img-description\">HMS E5 in situ.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Britise <a href=\"https://www.wikiwand.com/en/British_E-class_submarine\">E-klasse onderzee&euml;r</a>.<br>Werf: HM Dockyard, Chatham, Vickers, Barrow (kiellegging 1911, ingebruikname 1913).<br>Bemanning: 3 officieren en 28 bemanningsleden.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>31</td></tr><tr><th scope=\"row\">Snelheid</th><td>15 knopen ~ 28 km/u (17 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>177 &frac14; voet (54 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>15 &frac12; voet (4,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>In 2016 vonden duikers het wrak van de <em>E5</em> voor de kust van Schiermonnikoog. De luiken stonden open, wat suggereerd dat de bemanning had proberen te ontsnappen. Er waren geen tekenen van schade aan de romp, wat aangeeft dat ze niet gezonken is door vijandelijke handelingen.</p> <p>Het wrak werd gelokaliseerd als onderdeel van het Subident01 project, dat gericht was op het identificeren van mogelijke wrakken van onderzee&euml;rs boven de Nederlandse eilanden in de Noordzee. Een expeditie werd georganiseerd in samenwerking met De RCE, Rijkswaterstaat, de marine en de kustwacht, de stichtingen Nabestaanden Onderzeeboten en Noordzeewrakken en de duikteams Zeester en Duik de Noordzee schoon. De duikteams slaagden erin om een van de wrakken te identificeren als de <em>HMS E5</em>. Dit model werd gemaakt uit de videobeelden van duiker en cameraman Peter van Rodijnen:</p> <p><iframe src=\"https://sketchfab.com/models/3aa4b1e992af4fe0b0f628aa5296aeed/embed\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>wikiwand.<br /><a href=\"https://www.wikiwand.com/en/HMS_E5\">HMS E5.</a></li><li><a href=\"https://sketchfab.com/3d-models/submarine-hms-e5-3aa4b1e992af4fe0b0f628aa5296aeed\">Photogrammetry model of the E5.</a></li><li><a href=\"https://www.corkuyvenhoven.nl/\">Onderwaterfotograaf Cor Kuyvenhoven.</a></li><li><a href=\"https://www.duikdenoordzeeschoon.nl/\">Duik de Noordzee Schoon.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

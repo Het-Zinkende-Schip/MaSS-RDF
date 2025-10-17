@@ -1,0 +1,27 @@
+{
+  "id": "2249",
+  "code": "zwaag",
+  "name": "Zwaag",
+  "type": "wreck",
+  "lat": "-8.1283057",
+  "lon": "124.4459567",
+  "location": "Binongko, Indonesië",
+  "firstdate": null,
+  "firstyear": "1692",
+  "firstyearend": null,
+  "lastdate": "1704-03-21",
+  "lastyear": "1704",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-20 08:49:43",
+  "modified_on": "2025-06-20 12:11:39",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Zwaag</em></strong> vertrekt 31 december 1694 naar Azi&euml;. Ze vaart o.a. op Bengalen, Siam en later op routes in de Indonesische archipel.</p> <p>De Zwaag is 21 maart 1704 op weg van Batavia naar Banda. Op de hoogte van Timor loopt de fluit op een klip en vergaat ten westen van het eiland Binongko. De lading gaat verloren. De schipper, Bastiaan Pierraart, en de voltallige bemanning bereikten op 28 maart in zeer desolate toestand Amboina.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: op een werf in Enkhuizen. (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0172?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1,11,0101,551</a>)<br>Schipper: Bastiaan Pierraart<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>115 Amsterdamse&nbsp;voet (32,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>396 ton (198 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0172?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 169.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

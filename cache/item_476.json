@@ -1,0 +1,28 @@
+{
+  "id": "476",
+  "code": "zandloper",
+  "name": "Zandloper",
+  "type": "wreck",
+  "lat": "8.6455373",
+  "lon": "81.2430769",
+  "location": "Trincomalee, Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1695",
+  "firstyearend": null,
+  "lastdate": "1701-11-20",
+  "lastyear": "1701",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Annaliese Dempsey",
+  "created_on": "2014-10-29 00:00:00",
+  "modified_on": "2025-06-22 12:04:21",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Zandloper</strong></em> maakte &eacute;&eacute;n succesvolle reis naar Indi&euml; en terug naar Nederland. De tweede uitreis voerde van Wielingen (22-2-1700) naar Ceylon (20-9-1700).</p> <p>De Zandloper kapseisde en zonk tijdens een storm op 20 november 1701. Dit gebeurde voor de kust van Trinconomale in het huidige Sri Lanka tijdens een reis van Bengalen naar Galle.</p> <p>Schipper Kornelis van de Kriek zou met zijn schip ten onder zijn gegaan. Een aantal opvarenden overleefden en konden de kust bereiken bij een plaats \"Caddrawally\".</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Delftshaven<br>schipper: Kornelis van de Kriek<br><br></p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003577.png\" alt=\"Overzichtskaart van Ceylon.\"> <div class=\"img-source\">NL-HaNA_4.VEL_236</div> </figure> <p><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/4.VELH/invnr/114/file/NL-HaNA_4.VELH_114?eadID=4.VELH&amp;unitID=114&amp;query=\">NL-HaNa_4.VEL_236&nbsp;</a></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch National Archives.<br />NA 1.04.02, inv. nr. 8915.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/8915/file/NL-HaNA_1.04.02_8915_0462?eadID=1.04.02&amp;unitID=8915&amp;query=8915\">8915, 442.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000122.jpg\">NA 1.04.01.01. 551, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "stories": "<h1 id=\"h-wijenwater\">Wij en Water</h1>\n<div class=\"nl\">Deze site wordt vermeld in de volgende verhalen van Wij en Water:</div>\n<ul class=\"list-wijenwater\"><li><div><strong><a href=\"../wij-en-water/fluitschip-de-zandloper\">Fluitschip De Zandloper&nbsp;</a></strong>door <strong>Yoric Engelsman en Sam Kolenbrander</strong></div></li></ul>",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

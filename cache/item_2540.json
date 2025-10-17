@@ -1,0 +1,27 @@
+{
+  "id": "2540",
+  "code": "meerman-1652",
+  "name": "Meerman",
+  "type": "wreck",
+  "lat": "50.5113307",
+  "lon": "-2.1423340",
+  "location": "Portland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1653-02-28",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-04-07 13:53:05",
+  "modified_on": "2025-10-07 18:28:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De '<em>Meerman</em>' werd gehuurd van de VOC. Het schip deed dienst in de slag bij de Hoofden (Kentish Knock) en de Drie daagse zeeslag (Battle of Portland).</p> <p>Tijdens die slag ging het schip verloren op de eerste dag van de drie daagse zeeslag (28 februari 1653):</p> <p><em>Kapitein Kleidyk van den Briel ontfing ten zelven daage de laag van drie groote Engelsche scheepen, en dus benardt leggende, quam de Zeeuwsche Kapitein Regemorter tusschen hem en een der Engelschen, op zyne zyde leggende, in booren: zoo dat Kleidyk, aan d'eene kant ontzet, den Engelsman aan d'andere zyde in den grondt schoot. Maar korts daarna trof hem 't zelve ongeluk. Doch hy en zyn volk bergden zich op een wonderbaare wyze: want zy raakten meest alle op het Engelsch schip, dat aan Regemorters zyde lagh, en van daar sprongen ze in der yl over in het schip van Regemorter, die met dertigh of veertigh van zyne matroozen was doodtgeschooten. Dies nam Kleidyk hier 't bewindt aan, en moedigde 't volk met zulke dapperheit, dat ze op dien Engelsman zoo vuur gaven, dat hy afweek, en korts daarna met groot gehuil zonk. </em>(<a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0005.php#268T\">Brandt 41</a>)</p>  <p>Zie <a href=\"/driedaagse-zeeslag\">Driedaagse zeeslag</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Rotterdam<br>Bewapening: 4 x 24 Ponders, 8 x 12, 12 x 8 , 6 x 6, 2 x 3</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Cleijdijck, Jacob</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>120</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=12013\">Three decks.org.</a></li><li>Brandt, Geeraardt.<br /><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0005.php#268T\">Het leven en het bedrijf van den Heere Michiel de Ruyter 1, 41.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

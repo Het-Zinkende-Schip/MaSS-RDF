@@ -1,0 +1,27 @@
+{
+  "id": "669",
+  "code": "deventer-3",
+  "name": "Deventer III",
+  "type": "wreck",
+  "lat": "52.2525568",
+  "lon": "6.1523159",
+  "location": "IJsselstraat, Deventer, Nederland",
+  "firstdate": null,
+  "firstyear": "910",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1020",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-10 12:27:59",
+  "modified_on": "2025-06-27 21:59:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1983 werden overblijfselen van schepen gevonden in de Ijsselstraat in Deventer.</p> <p>Drie middeleeuwse kadedelen die paralel aan de IJssel geplaatst waren, werden gevonden. Hierin waren houten scheepsdelen hergebruikt als beschoeiing. Artefacten die erbij gevonden werden dateerden de kades tussen te tiende en twaalfde eeuw. Deze manier van kades bouwen met delen van oude schepen was gebruikelijk in de omgeving in de Middeleeuwen. De archeologische scheepsoverblijfselen werden Deventer <a title=\"Deventer 1\" href=\"https://mass.cultureelerfgoed.nl/deventer-1\">I</a>, <a title=\"Deventer 2\" href=\"https://mass.cultureelerfgoed.nl/deventer-2\">II</a> en III genoemd. De afmetingen van het Deventer III fragment waren 5.3 x 1.5 meter.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001461.jpg?modifiedon=1705654371\" alt=\"Een overzichtsfoto van de gevonden beschoeiing\"> <div class=\"img-source\">K. Vlierman 1996</div> <figcaption class=\"img-description\">Een overzicht van de gevonden kadedelen.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De resten bestaan uit een kimgang, een fragment van een vlakgang en een aantal inhouten. Het mosbreeuwsel was vastgezet met houten prikken. De gangen waren op een specifieke wijze bevestigd aan de kimgang met een houten pen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001474.jpg\" alt=\"Getekend bovenaanzicht van twee gangen met een bevestiging ertussen\"> <div class=\"img-source\">RCE</div> <figcaption class=\"img-description\">Bevestiging van de gangen aan de kimgang.</figcaption> </figure> <p>De bouwwijze veroont verel gelijkenissen met de <em>Deventer I </em>en de <a title=\"Utrecht 3\" href=\"https://mass.cultureelerfgoed.nl/utrecht-3\">Utr<em>echt 3</em></a><em>.</em></p> <p>Dendrochronologische analyse heeft een kapdatum opgeleverd na circa 913. Het hout was waarschijnlijk afkomstig uit de Ardennen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Vlierman, K. (1996), Kleine bootjes en middeleeuws scheepshout met constructiedetails, Lelystad (Flevoberichten 404/Scheepsarcheologie II).</em></li><li>W. Brouwers/E. Jansma/M. Manders (2015).<br /><a href=\"https://www.academia.edu/27529112/Middeleeuwse_scheeps-_resten_in_Nederland\">Middeleeuwse scheepsresten in Nederland.</a><br />Archeo, 2015 (3).<br />pp 6-24.</li><li>E. Mittendorf (2017).<br /><em>Publicaties Archeologische Depot Overijssel 6 - Tussen Wal en schip.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

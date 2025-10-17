@@ -1,0 +1,27 @@
+{
+  "id": "2846",
+  "code": "dolfijn-ijm112",
+  "name": "Dolfijn (IJM 112)",
+  "type": "wreck",
+  "lat": "52.6157625",
+  "lon": "4.0918112",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1905",
+  "firstyearend": null,
+  "lastdate": "1917-07-09",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-15 11:15:25",
+  "modified_on": "2025-07-17 10:49:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Dolfijn verliet Ijmuiden op 9 juli 1917 om te gaan vissen op de Noordzee. Er werd van haar niets meer vernomen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003165.jpg\" alt=\"foto van een stroomtrawler in het water\"> <div class=\"img-source\">scheveningen-haven.nl</div> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003166.jpg\" alt=\"artikel uit het Algemeen Handelsblad, met de tekst: Weer een stoomtrawler vermist. van de ,,Mare De stoomtrawler &bdquo;Dolfijn&quot; Scheepsexploitatie-Maatschappij zaten&quot; te LJmuiden, welke 9 dezer naar de visscherij vertrok en waarvan men tot heden niets meer hoorde, wordt als vermist be schouwd. Do bemanning telde 11 koppen. Eshalve schipper Goedendorp woonde nog een opvarende in Velseroord, verder woon-den vier te Amsterdam, twee te Katwijk, cen to IJmuiden, een to Helder en een te Rotterdam.\"> <div class=\"img-source\">Delpher.nl</div> <figcaption class=\"img-description\">Algemeen Handelsblad 24-7-1917</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Smith's Dock Co. Ltd. (South Bank), Middlesbrough</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Goedendorp</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>11</td></tr><tr><th scope=\"row\">Tonnage</th><td>162 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>visserijschepen van Vlissingen.<br /><a href=\"https://www.scheveningen-haven.nl/info/schepen/index_ijm.php?nummer=112&amp;lijst=75&amp;af=IJM\">IJM 112.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22stoomtrawler+Dolfijn%22&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;page=1&amp;sortfield=date&amp;coll=ddd&amp;identifier=ddd:010651838:mpeg21:a0093&amp;resultsidentifier=ddd:010651838:mpeg21:a0093&amp;row\">Algemeen Handelsblad      24-07-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

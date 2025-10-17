@@ -1,0 +1,27 @@
+{
+  "id": "1241",
+  "code": "sloterdijk-1662",
+  "name": "Sloterdijk",
+  "type": "wreck",
+  "lat": "14.7609079",
+  "lon": "-17.5410643",
+  "location": "Cabo Verde, Senegal",
+  "firstdate": null,
+  "firstyear": "1661",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1662",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-22 12:10:13",
+  "modified_on": "2024-12-12 12:53:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Sloterdijk</em> vertrok op 14 mei 1662 uit Texel en kwam in juni aan bij Kaap Verde (Dakar, Senegal) waar het schip is vergaan volgens uitreisboek.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0111?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p><br>Gebouwd: Voor 1662. De Slooterdijk werd waarschijnlijk aangekocht. Het schip staat op de equipage lijst van 6 september 1662 maar niet op de lijst van timmering.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/151/file/NL-HaNA_1.04.02_151_0141?eadID=1.04.02&amp;unitID=151&amp;query=151\">&sup1;</a></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92091\">DAS 0974.1.</a></li><li>pp scan 111.<br />nationaal archief.<br />VOC NA_1.04.02.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0111?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">4932.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

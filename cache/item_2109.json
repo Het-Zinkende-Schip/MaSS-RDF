@@ -1,0 +1,27 @@
+{
+  "id": "2109",
+  "code": "zl26",
+  "name": "ZL26",
+  "type": "wreck",
+  "lat": "52.3310200",
+  "lon": "5.4392400",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": "1774",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:32:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het wrak dat op kavel L26 in Zuidelijk Flevoland is aangetroffen is in 1974 door het voormalige Centrum voor Scheepsarcheologie verkend. In 1980 is een herverkenning uitgevoerd. De locatie van de vindplaats ligt tussen de Bosruitertocht en de Bosruiterweg. Het betreft een vrachtschip waarvan de boorden overnaads zijn gebouwd. Het vlak is karveel gebouwd. Het schip was 17,5 meter lang en circa 5 meter breed. Tijdens de verkenning verkeerde het scheepshout in redelijke staat. Bij het afprikken met prikijzers werd duidelijk dat het wrak vrij compleet aanwezig was. Bij de tweede verkenning bleek dat het wrak door machinale werkzaamheden, die na de eerste verkenning hebben plaatsgevonden, behoorlijk was beschadigd. Het schip is onder zware slagzij over stuurboord afgezonken. Een bijzondere vondst die in het wrak is aangetroffen is een bronzen muntstuk van de stad Utrecht uit het jaar 1767. Op basis van de munt en het bodemprofiel is vastgesteld dat het schip in het derde kwart van de achttiende eeuw is vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een vrachtschip uit het derde kwart van de achttiende eeuw, Zeewolde.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002051.jpg\" alt=\"Een deel van de inventaris van het wrak.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Een deel van de inventaris van het wrak.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Gijsbers, W., L. Koehler &amp; J.-M.A.W. Morel (2010).<br /><em>Licht aan boord: Verlichtingsobjecten uit het Nationaal Scheepsarcheologisch Depot in Lelystad.</em><br />Lelystad: Nationaal Scheepsarcheologisch Depot &amp; Rijksdienst voor het Cultureel Erfgoed.</li><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xhq-r74m\">Opgravingsdocumentatie scheepswrak ZL26.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

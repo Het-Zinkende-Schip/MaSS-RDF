@@ -1,0 +1,27 @@
+{
+  "id": "990",
+  "code": "stad-alkmaar",
+  "name": "Stad Alkmaar",
+  "type": "wreck",
+  "lat": "52.4119974",
+  "lon": "1.8476258",
+  "location": "Lowestoft, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1940",
+  "firstyearend": null,
+  "lastdate": "1940-09-07",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-31 15:46:00",
+  "modified_on": "2025-06-09 12:26:36",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het vrachtschip ss. 'Stad Alkmaar' op 5 september 1940 van Methil vertrokken en varende in konvooi FS 273, werd op de Noordzee door de Duitse motortorpedoboot 'S 33' op 7 september 1940 om 02.20 uur in pos. 52.25. NB - 02.02. OL (ten zuid-oosten van Lowestoft) tot zinken gebracht.</p> <p>Even na het verlaten van het schip kapseisde dit. De schipbreukelingen werden door het s.s. \"Tolworth\" en de destroyer \"Wolsey\" opgepikt en respectievelijk te Gravesend en te Sheerness geland.</p> <p>De \"Wolsey\" was tot het aanbreken van de dag nog op de plaats des onheils gebleven om eventuele drenkelingen op te pikken, doch zonder resultaat.</p> <p>De volgende 14 opvarendende worden vermist:<br>D. Kentgens ' bootsman, H. Westerhoff donkeyman, L. G. Muller matroos/timmerman, M. Zeegers stoker, J. B. Kentgens matroos, J.Scbeele stoker, B.v.d. Bie lampenist H. P. Kleiss stoker, A. J. Riedijk matroos, H. Tb. G. Willebrands stoker, D. Langbroek matroos o/g, F. v.d. Brink tremmer,<br>J. Stad matroos o/g, G. Tansminen tremmer (Fin)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: vrachtschip<br>Gebouwd: Wilton-Feijenoord N.V., Schiedam, Zuid-Holland (NL)<br>Eigenaar: N.V. Halcyon Lijn te Rotterdam</p> <p>Tonnage: 5799.00 Gross tonnage<br>Length: 441.8 Feet (British) Registered<br>Beam: 59.2 Feet (British) Registered<br>Depth: 25.7 Feet (British) Registered<br><br>kapitein: N.C. de Neef</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

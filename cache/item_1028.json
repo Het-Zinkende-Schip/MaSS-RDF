@@ -1,0 +1,27 @@
+{
+  "id": "1028",
+  "code": "pollux-1765",
+  "name": "Pollux",
+  "type": "wreck",
+  "lat": "51.7529790",
+  "lon": "3.7997589",
+  "location": "Oosterbank, Brouwershavense gat, Nederland",
+  "firstdate": null,
+  "firstyear": "1758",
+  "firstyearend": null,
+  "lastdate": "1765-06-07",
+  "lastyear": "1765",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-08 12:05:55",
+  "modified_on": "2025-06-09 13:13:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 6 juni 1785 verlieten de <em>Pollux</em> en <em>Het Hof te Souburg</em> de rede van Hellevoetsluis. Op 7 juni was het zicht erg slecht <em>Het Hof te Souburg</em> kwam te dicht bij het eiland Schouwen en raakte vast op de Oosterbank/ punt van Schouwen. Even later raakte ook de Pollux vast. De <em>Souburg</em> kon weer los komen de Pollux echter niet. De bemanning moest het schip verlaten. De komende dagen werd zoveel mogelijk van de equipage van de Pollux gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: fregat charter<br>Gebouwd: Rotterdam, 1758, L. v. Zwijndregt<br>Eigenaar: Adm. Maaze<br>Afmetingen 137 x 37 x 17 vt<br>Bemanning:<br>Kapitein: J. van Gennep<br>Bewapening: 36</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001669.jpg\" alt=\"Leydse Courant 1765\"> <figcaption class=\"img-description\">De ondergang van de Pollux in de Leydse Courant 12-6-1765</figcaption> </figure></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

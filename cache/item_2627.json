@@ -1,0 +1,27 @@
+{
+  "id": "2627",
+  "code": "svartsaa-1",
+  "name": "Svartså",
+  "type": "wreck",
+  "lat": "60.3433959",
+  "lon": "25.5799484",
+  "location": "Svartså, Finland",
+  "firstdate": null,
+  "firstyear": "1397",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1403",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-08-25 18:43:21",
+  "modified_on": "2025-06-14 17:54:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Initially, this wreck found little interest, as the wooden construction did appear generic and was not thought to be particularly old.</p> <p>The ship-timbers were privately stored and freeze-dried by the local resident Kaj Karlsson for many years, before it was decided to take samples for a dendrochronological analysis.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The samples were analysed at the University of Lund (Sweden), yielding a surprising result: The ship was built in the late 14th or early 15th century and the wood originated from at least two different locations: The pine timber from which mainly the frames were made originated from central or southern Finland, whereas the oak planks originated from Pomerania in modern-day Poland (the latter probably timber-imports).</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Realising the significance, the timbers were transported to the Finnish Maritime Museum where they were incororated into the collections.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Linderson, H. (2006).<br /><em>Dendrokronologisk analys av Svartsåvraket, Finland: Nationella Laboratoriet för Vedanatomi och dendrokronologi, rapport nr 2006:15.</em><br />Lund University.</li><li>Wessman, S. (2007).<br /><em>Ship Fragments on the Seafloor – What Do We Know about Medieval Seafaring in Finland?.</em><br />pp 140-150.<br />Turku.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

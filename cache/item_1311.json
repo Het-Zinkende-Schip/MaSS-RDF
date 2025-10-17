@@ -1,0 +1,27 @@
+{
+  "id": "1311",
+  "code": "verwachting",
+  "name": "Verwachting",
+  "type": "wreck",
+  "lat": "21.3469440",
+  "lon": "112.0001221",
+  "location": "Macau, South China Sea, China",
+  "firstdate": null,
+  "firstyear": "1742",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1744",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-05-12 10:25:45",
+  "modified_on": "2024-11-12 10:36:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Verwachting</em> vertrok 29-8-1743 vanuit Wielingen Zeeland naar Batavia. Ze kwam aan 13-5- 1744. Vervolgens ging <em>De Verwachting</em> naar Kanton in China. Vandaar vertrok het schip begin november 1745 naar Surat (India). Ze kwam daar nooit aan . Volgens de <em>Lijst van alle zoodanige Schepen</em> vermist ter hoogte van Macao.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Middelburg, 1742<br>Lengte: 136 vt<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gerrit van der Tolle</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94317\">DAS 3279.1.</a></li><li>Von Imhoff.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=232&amp;accessor=search_in_text&amp;source=11&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26i\">Generale Missiven, oktober 1745.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000188.jpg\">NA 1.04.01.01. 551, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

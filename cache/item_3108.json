@@ -1,0 +1,27 @@
+{
+  "id": "3108",
+  "code": "alioth",
+  "name": "Alioth",
+  "type": "wreck",
+  "lat": "1.1660368",
+  "lon": "-17.0251222",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1937",
+  "firstyearend": null,
+  "lastdate": "1942-06-11",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-07-12 12:00:06",
+  "modified_on": "2025-06-15 21:24:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het motorschip <strong>Alioth</strong> was op 21 mei 1942 vertrokken van Birkenhead (Liverpool UK) naar Kaapstad met oorlogsmaterieel. Als onderdeel van het Britse konvooi OS 29.</p> <p>Op de Atlantische Oceaan (ca. 850 mijl van de west Afrikaanse kust) was het konvooi zeer verspreid. Op 10 juni werd de Alioth bij zonsondergang door de Italiaanse onderzee&euml;r <em>Leonardo da Vinci </em>aangevallen<em>.&nbsp;</em> Ze werd bestookt met drie torpedo's die alle doel misten. Omdat de Alioth bijdraaide en recht op de Da Vinci af koerste, brak deze de aanval af. In de nacht van de 11e juni hervatte de Da Vinci de aanval en wist de Alioth met een torpedo te stoppen. Met het boordkanon werd de Alioth vervolgens tot zinken gebracht.</p> <p>De bemanning wist zich te redden in twee reddingboten. De overlevenden bereikten na 10 dagen Freetown in Liberia.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Deutsche Werft AG Hamburg</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Dik,K.E.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>36</td></tr><tr><th scope=\"row\">Lengte</th><td>451 &frac12; voet (137,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>58 &frac34; voet (17,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>35 voet (10,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3246 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=253\">marhisdata id 253.</a></li><li><a href=\"https://www.marina.difesa.it/noi-siamo-la-marina/mezzi/mezzi-storici/Pagine/Smg/marconi_01_vinci.aspx\">Leonardo da Vinci.</a></li><li><a href=\"https://www.oorlogsbronnen.nl/thema/Scheepsramp%20Alioth\">de scheepsramp met de Alioth.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

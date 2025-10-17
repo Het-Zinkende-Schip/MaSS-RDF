@@ -1,0 +1,27 @@
+{
+  "id": "2497",
+  "code": "alt-archsum",
+  "name": "Alt-Archsum",
+  "type": "wreck",
+  "lat": "54.8758511",
+  "lon": "8.3969021",
+  "location": "Alt-Archsum, Duitsland",
+  "firstdate": null,
+  "firstyear": "800",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "900",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-08 14:03:15",
+  "modified_on": "2025-06-14 15:50:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>During the excavation of a 9th/10th-century Frisian settlement on the island of Sylt, ship-timbers in secondary use were discovered in a well. They were recycled as part of the well-lining.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The four ship-timbers were frame elements and originated from a clinker-built vessel. The composition of floor-timber, <em>bite</em>, and <em>bite</em> knee is characteristic for the Nordic clinker tradition of the Viking Age.</p> <p>The ship-timbers were typologically dated to the 9th-10th century.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The ship-timbers were documented and later conserved at the German Maritime Museum (<em>Deutsches Schifffahrtsmuseum</em>, Bremerhaven).</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Crumlin-Pedersen, O. (1997).<br /><em>Viking-Age Ships and Shipbuilding in Hedeby/Haithabu and Schleswig.</em><br />Schleswig &amp; Roskilde.</li><li>Kossack, G. et al. (1975).<br /><em>Zehn Jahre Siedlungsforschung in Archsum auf Sylt.</em><br />Bericht der Römisch-Germanischen Kommission 55 II.<br />pp 261-377.</li><li>Reichstein, J. (1975).<br /><em>Wikingerzeitliche Siedlungen an der Westküste.</em><br />Die Heimat 82.<br />pp 119-127.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

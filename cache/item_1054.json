@@ -1,0 +1,27 @@
+{
+  "id": "1054",
+  "code": "texelstroom",
+  "name": "Texelstroom",
+  "type": "wreck",
+  "lat": "63.2629485",
+  "lon": "-20.4815368",
+  "location": "Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1918",
+  "firstyearend": null,
+  "lastdate": "1941-02-22",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-14 13:33:39",
+  "modified_on": "2025-06-09 13:39:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis met een lading vis van Reykjavik naar Hull is de s.s. Texelstroom op 22 februari 1941 op de Atlantische Oceaan door de Duitse onderzeeboot U 108 getorpedeerd en gezonken. Bij deze ramp zijn alle 25 opvarenden van de s.s. Texelstroom, om het leven gekomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: stoomschip<br>Gebouwd: Maatschappij voor Scheeps- en Werktuigbouw Fijenoord N.V. <br>Voortstuwing: Stoom, Triple Expansion, Power: 1200</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>A.J.E. Lefering</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>25</td></tr><tr><th scope=\"row\">Snelheid</th><td>10 knopen ~ 19 km/u (12 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>273 &frac12; voet (83,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 &frac14; voet (12,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>16 &frac34; voet (5,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1617 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Alle 25 bemanningsleden kwamen om.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 72.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://uboat.net/allies/merchants/ship/772.html\">Maritiem Historische Data. ID 6485.</a></li><li><a href=\"https://uboat.net/allies/merchants/ship/772.html\">Uboat.net.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6485\">Maritiem Historische Data. ID 6485.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

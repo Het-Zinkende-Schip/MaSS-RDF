@@ -1,0 +1,27 @@
+{
+  "id": "2205",
+  "code": "wildschut",
+  "name": "Wildschut",
+  "type": "wreck",
+  "lat": "-6.7721379",
+  "lon": "112.9256555",
+  "location": "Madura, Indonesië",
+  "firstdate": null,
+  "firstyear": "1686",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1695",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-08 11:27:40",
+  "modified_on": "2025-01-12 18:30:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Wildschut</em> was een jacht dat sinds 1686 werd ingezet op intra-Aziatische routes. Haar laatste reis eindigde bij Madura waar het schip verging.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=765&amp;accessor=search_in_text&amp;source=5&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26\">Gen. Missiven 8 februari 1696.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

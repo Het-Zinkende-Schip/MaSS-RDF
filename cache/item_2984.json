@@ -1,0 +1,27 @@
+{
+  "id": "2984",
+  "code": "leonora",
+  "name": "Leonora",
+  "type": "wreck",
+  "lat": "55.0280846",
+  "lon": "-1.2901281",
+  "location": "Tyne, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1918-03-22",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-09 09:50:47",
+  "modified_on": "2022-09-09 10:31:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis met een lading steenkolen van Rotterdam naar Stockholm is de <em><strong>Leonora</strong></em> op 16 augustus 1917 op de Noordzee aangehouden door het Britse oorlogsschip H.M.S.Sybille en opgebracht naar Harwich. Het schip werd door een Brits prijzenhof prijs verklaard. Zo kwam de Leonora in Britse handen en werd hernoemd in <em><strong>Polleon. <br></strong></em><br><strong>Getorpedeerd<br></strong>Op reis van Blyth naar de Tyne met een lading steenkolen is de Polleon op 22 maart 1918 door de Duitse onderzee&euml;r UB 78 op 3 mijl oost noord oost van de monding van de Tyne getorpedeerd. De Polleon zonk en was verloren. 4 bemanningsleden kwamen om.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: N.V. Wilton's Machinefabriek en Scheepswerf, Schiedam<br>Eigenaar 1: N.V. Stoomvaart Maatschappij 'Leonora', Rotterdam<br>Eigenaar 2: The Shipping Controller, London</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Breedte</th><td>34 voet (10,4 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>13 voet (4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1155 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=3690\">marhisdata id 3690.</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/4842.html\">Uboat.net UB 78.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

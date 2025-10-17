@@ -1,0 +1,27 @@
+{
+  "id": "2849",
+  "code": "dolfijn-1898",
+  "name": "Dolfijn",
+  "type": "wreck",
+  "lat": "56.6588431",
+  "lon": "4.2000000",
+  "location": "Noordzee",
+  "firstdate": "1898-12-03",
+  "firstyear": "1898",
+  "firstyearend": null,
+  "lastdate": "1916-11-16",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-15 13:01:52",
+  "modified_on": "2025-06-15 11:49:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Dolfijn was op 16-11-1916 met een lading mijn stutten onderweg van Cristiania ( Oslo) naar New-Castle, op de Noordzee aangehouden door de Duitse onderzeeer U 47. De lading werd als contrabande bestempeld en de Dolfijn werd met bommen tot zinken gebracht. De bemanning werd aan boord genomen van de U 47 en dezelfde middag overgebracht op de Noorse brik <em><strong>Ethel</strong></em>. Deze droeg de equipage nog dezelfde dag weer over aan het Zweedse ss <em><strong>Ludwig Peyron</strong></em>, die hen 4 dagen later te North Shields aan wal bracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Schoenerl, tweemaster zeilschip<br>Gebouwd: Jacob Jans Pattje, Waterhuizen, Groningen, NL<br>Eigenaar: Tonnis Eppinga, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Eppinga, T.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>4</td></tr><tr><th scope=\"row\">Lengte</th><td>109 &frac14; voet (33,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>20 voet (6,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>141 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Uboat.net.<br /><a href=\"https://uboat.net/wwi/ships_hit/1672.html\">Dolfijn.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2040",
+  "code": "od15",
+  "name": "OD15",
+  "type": "wreck",
+  "lat": "52.4363000",
+  "lon": "5.4519800",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": "1702",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1740",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 16:59:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens het greppeltrekken in 1971 is op kavel D15 in Oostelijk Flevoland, nabij de kruising van de Meerkoetenweg met de Knarweg, een scheepsrest aangetroffen die in datzelfde jaar is verkend. In 1986 werd besloten het schip op te graven, omdat het door inklinking van de omringende bodem steeds hoger in het maaiveld kwam te liggen en daar zelfs boven uit ging steken. Het schip is waarschijnlijk vastgelopen op een locale ondiepte, de &lsquo;Knar&lsquo;. Uit jaarringonderzoek blijkt dat het hout gebruikt voor de bouw van het schip is gekapt in 1701 n. Chr. Op basis van de datering van voorwerpen afkomstig uit de inventaris moet het schip zijn vergaan na 1740. Opmerkelijk is de vondst van een strijkijzer. Van het schip zijn niet meer dan het vlak en de kim bewaard gebleven, terwijl ook het gehele voorschip ontbreekt. De beschadiging is mogelijk door ijsgang veroorzaakt. Het vaartuig is geheel karveel gebouwd en behoort tot de praamachtigen, met een (geschatte) lengte over de stevens van 18,8 meter bij een breedte van 4,7 meter en een (geschatte) holte van 2,1 meter. Ondanks het feit dat het schip incompleet in de bodem is aangetroffen, is toch een gedeelte van de lading boomstammen bewaard gebleven. Vijftien boomstammen lagen deels nog aan boord en deels naast het schip. De stammen zijn uit de broek gekapt, dat wil zeggen vlak boven de wortels. De bomen zijn plaatselijk gekantrecht, waarschijnlijk in verband met de stuwage. Op grond van het schoeisel kan worden vastgesteld dat er drie opvarenden aan boord waren, waaronder een vrouw. Aanwijzingen voor kinderen zijn niet gevonden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een praamachtig vaartuig geladen met boomstammen, Lelystad</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001963.jpg\" alt=\"Een strijkijzer afkomstig van het scheepswrak op kavel D15 in Oostelijk Flevoland, voor aanvang van de restauratie.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Een strijkijzer afkomstig van het scheepswrak op kavel D15 in Oostelijk Flevoland, voor aanvang van de restauratie.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Holk, A.F.L. van (1996).<br /><em>Archeologie van de binnenvaart: Wonen en werken aan boord van binnenschepen (1600–1900).</em><br />Lelystad: Nederlands Instituut voor Scheeps- en onderwater Archeologie/ROB (NISA).</li><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-284-p3rc\">Opgravingsdocumentatie scheepswrak OD15.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

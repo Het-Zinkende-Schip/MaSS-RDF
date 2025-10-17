@@ -1,0 +1,27 @@
+{
+  "id": "2424",
+  "code": "vogelzang-1655",
+  "name": "Vogelzang",
+  "type": "wreck",
+  "lat": "36.3943582",
+  "lon": "-9.6047602",
+  "location": "Faro, Portugal",
+  "firstdate": null,
+  "firstyear": "1655",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1666",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-02-07 13:49:06",
+  "modified_on": "2025-05-18 17:02:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Vogelzang</strong></em> maakte deel uit van de Retourvloot van 1666 o.l.v. Jacob Cauw. (<em>Wassende Maan Buienskerke, Venenburg, De Meerman, Kalf, Elburg en Vogelzang</em>)</p> <p>De Vogelzang was een zwak schip en had last van lekkage. Dat bleef de hele reis door zeuren. Na de Canarische eilanden te hebben aangedaan om proviand in te nemen, voer de vloot 1666 verder.</p> <p>Ze kwamen 18 augustus bij het eiland Fayal een van de Azoren vertrokken daar op 2 september.</p> <p>De Vogelsang en Elburg sijn omtrent 60 mijlen bewesten Fero in een sware storm van de andere schepen afgeraeckt . (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/319/file/NL-HaNA_1.04.02_319_0005?eadID=1.04.02&amp;unitID=319&amp;query=missive%201664\">NA_1.04.02_319_005</a>)</p> <p>het schip door leckte niet langer boven water hebben kunnen houden, naadat het volck in de Elburg is overgegaan in volle zee gezonken. (<a href=\"/NL-HaNA_1.04.02_319_0031\">NA_1.04.02_319_0031</a>)</p> <p>De Elburg voer verder via de route achterom. Ze werd door 3 schotse kapers aangevallen maar kon de kapers afslaan. Mede door het verdubbelde aantal opvarenden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Melchiorsz., Thomas</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>90</td></tr><tr><th scope=\"row\">Tonnage</th><td>680 ton (340 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/96452\">DAS 5542.2.</a></li><li>Aitzema, L.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/aitzema/#page=876&amp;accessor=toc&amp;source=5\">Zaken van staat en oorlog, XXXXIV, 863.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/319/file/NL-HaNA_1.04.02_319_0031?eadID=1.04.02&amp;unitID=319&amp;query=missive%201664\">NL-HaNA_1.04.02_319_0031.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2827",
+  "code": "whydah-gally",
+  "name": "Whydah Gally",
+  "type": "wreck",
+  "lat": "41.8920000",
+  "lon": "-69.9594000",
+  "location": "Cape Cod, Massachusetts, Verenigde Staten",
+  "firstdate": null,
+  "firstyear": "1715",
+  "firstyearend": null,
+  "lastdate": "1717-04-26",
+  "lastyear": "1717",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Mir Cox",
+  "created_on": "2022-04-07 20:49:16",
+  "modified_on": "2025-06-15 13:57:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Whydah Gally was as a fully rigged galley ship that was originally built as a passenger, cargo, and slave ship.</p> <p>On the return leg of her maiden voyage of the triangle trade, Whydah Gally was captured by the pirate Captain Samuel \"Black Sam\" Bellamy,</p> <p>Bellamy sailed Whydah Gally up the coast of colonial America, capturing other ships as he went along.</p> <p>On 26 April 1717, Whydah Gally was caught in a violent storm and wrecked off the coast of Cape Cod, Massachusetts. Only two of Whydah Gally's crew survived, along with seven others who were on a sloop captured by Bellamy earlier that day. Six of the nine survivors were hanged, two who had been forced into piracy were freed, and one Indian crewman was sold into slavery.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Samuel &quot;Black Sam&quot; Bellamy</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>150</td></tr><tr><th scope=\"row\">Snelheid</th><td>13 knopen ~ 24 km/u (15 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>111 &frac12; voet (34 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>300 ton (150 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Cape Cod National Seashore.<br /><a href=\"https://www.nps.gov/articles/whydah.htm\">The Wreck of the Whydah.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

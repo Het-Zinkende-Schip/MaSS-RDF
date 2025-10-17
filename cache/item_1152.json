@@ -1,0 +1,27 @@
+{
+  "id": "1152",
+  "code": "wendela",
+  "name": "Wendela",
+  "type": "wreck",
+  "lat": "-3.4549225",
+  "lon": "100.6833768",
+  "location": "pulau Stupai, Sumatra, Indonesië",
+  "firstdate": null,
+  "firstyear": "1716",
+  "firstyearend": null,
+  "lastdate": "1735-02-25",
+  "lastyear": "1735",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-20 11:27:15",
+  "modified_on": "2025-06-24 18:37:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens reis van Bengalen naar Batavia is <em><strong>de Wendela</strong></em> op een rif (genoemd in reghister eilandje Mit rif) 30 mijl van het Engelse fort Marlborough Bencoolen voor de westkust van Sumatra gestrand, op 25 februari 1735.</p> <p>De opvarenden zijn gered en de lading is geborgen door de Engelsen in Benkulu.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004321.png\" alt=\"De afbeelding toont een detail van een kaart of zeekaart\"> <div class=\"img-source\">NA 4.VELH_164,De zuidwestkust van Sumatra met het eilandje Met Recife</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf te Amsterdam, 1716<br>Lengte: 130 vt<br>Tonnage: 300 last (600 tons)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97438\">Details of voyage 6573.3 from Batavia to Texel.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0211?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=9&amp;page=674&amp;accessor=toc&amp;view=imagePane\">Generale missiven Deel 9, 661.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

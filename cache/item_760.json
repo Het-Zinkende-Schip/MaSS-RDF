@@ -1,0 +1,27 @@
+{
+  "id": "760",
+  "code": "avenhorn-1780",
+  "name": "Avenhorn",
+  "type": "wreck",
+  "lat": "-33.9211000",
+  "lon": "18.4482000",
+  "location": "Woodstock Beach, Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1780",
+  "firstyearend": null,
+  "lastdate": "1788-05-17",
+  "lastyear": "1788",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-13 17:01:56",
+  "modified_on": "2024-06-10 10:05:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Avenhorn is op 22 januari 1788 gezonken in de Tafelbaai te Zuid Afrika.<br>Ze had o.a. een lading porselein aan boord.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Thobiasz., A. Arend</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>100</td></tr><tr><th scope=\"row\">Tonnage</th><td>880 ton (440 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/99021\">Details of voyage 8201.1 from Batavia.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

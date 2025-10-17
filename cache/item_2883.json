@@ -1,0 +1,27 @@
+{
+  "id": "2883",
+  "code": "texel-i",
+  "name": "Texel I",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1902",
+  "firstyearend": null,
+  "lastdate": "1915-05-29",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-06 12:56:47",
+  "modified_on": "2025-06-14 21:45:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De stoomtrawler T<em><strong>exel </strong></em>was oorspronkelijk een schelpenzuiger.<br>In 1915 als trawler ingericht. Ze vertrok 29 mei uit Ijmuiden. Er werd daarna niets meer van het schip of bemanning vernomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Stoomvischerij mij. Texel P. Boon</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Roobol, P.</td></tr><tr><th scope=\"row\">Lengte</th><td>115 &frac34; voet (35,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>21 &frac34; voet (6,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>207 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>wrecksite.eu.<br /><a href=\"https://www.wrecksite.eu/wreck.aspx?201363\">FV Texel.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=%22IJM%22&amp;cql%5B%5D=%28date+_gte_+%2226-05-1915%22%29&amp;cql%5B%5D=%28date+_lte_+%2217-06-1915%22%29&amp;facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&amp;redirect=true&amp;sortfield=datedesc&amp;identifier=MMSAVL02:\">Nieuwe Vlaardingsche courant      16-06-1915.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

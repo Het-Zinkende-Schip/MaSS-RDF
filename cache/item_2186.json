@@ -1,0 +1,27 @@
+{
+  "id": "2186",
+  "code": "deutekom",
+  "name": "Deutekom",
+  "type": "wreck",
+  "lat": "56.0539418",
+  "lon": "12.6308441",
+  "location": "Sont, Denemarken",
+  "firstdate": null,
+  "firstyear": "1658",
+  "firstyearend": null,
+  "lastdate": "1659-10-29",
+  "lastyear": "1659",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-05 11:18:45",
+  "modified_on": "2025-06-11 18:48:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens de slag in de Sont door eigen bemanning in brand gestoken om verovering door Zweden te voorkomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: fregat<br>Gebouwd: 's lands werf te Amsterdam, 1658<br>Eigenaar: Admiraliteit Amsterdam<br>Armament: 24</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Waerdenburgh, Abraham van</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=1419\">Threedecks.org.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

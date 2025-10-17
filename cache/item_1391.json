@@ -1,0 +1,27 @@
+{
+  "id": "1391",
+  "code": "gouda-1656",
+  "name": "Gouda",
+  "type": "wreck",
+  "lat": "52.9765036",
+  "lon": "4.7063141",
+  "location": "Noorderhaaks, Texel, Nederland",
+  "firstdate": null,
+  "firstyear": "1656",
+  "firstyearend": null,
+  "lastdate": "1683-11-15",
+  "lastyear": "1683",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-16 15:44:51",
+  "modified_on": "2025-06-10 16:10:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Gouda werd in 1656 gebouwd. <br>Het linieschip had een lange staat van dienst o.a. tijdens de Engels-Nederlandse oorlogen.</p> <p><strong>Laatste missie<br></strong>In augustus 1683 werd een vlooteskader onder het bevel van luitenant-admiraal Willem Bastiaensz Schepers uitgezonden naar de Sont om Zweden bij te staan tegen Denemarken. Denemarken werd bijgestaan door de Franse vloot. De Hollandse vloot kwam te laat en kon niets uitrichten.&nbsp;<br><br>Op thuisreis werd het eskader vlak bij huis door een zware storm die dagen aanhield (11-15 november). Veel schepen kwamen in moeilijkheden. Hierbij vergingen negen grote schepen: <em><strong>Woerden, Hollandia, Tijdverdrijf, Prins te Paard, <a href=\"/leeuwen\">Leeuwen</a>, Gouda, Wapen van Monnickendam</strong></em>.</p> <p>De Gouda dreef zonder mast voor Texel. De bemanning en kapitein werden gered, het schip zonk. (De Jonge, III, p. 18)<br><br>In totaal kost deze ramp aan circa 1200 mensen het leven, waarmee het tot de grootste rampen uit de Nederlandse geschiedenis behoort.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: admiraliteitswerf Amsterdam, 1665<br>Bewapening: 72<br>Commandant: Schout bij nacht Sweers (1665)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Zyll van, Abraham Fedinand</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>350</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>32 &frac14; voet (9,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jonge,  J.C.  (1860).<br /><em>Geschiedenis van he Nederlandsche zeewezen III, p. 18.</em><br />Haarlem Kruze.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

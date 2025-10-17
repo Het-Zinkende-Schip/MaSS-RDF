@@ -1,0 +1,27 @@
+{
+  "id": "1067",
+  "code": "groot-hollandia",
+  "name": "Groot Hollandia",
+  "type": "wreck",
+  "lat": "51.8276552",
+  "lon": "4.0881157",
+  "location": "Hellevoetsluis, Nederland",
+  "firstdate": null,
+  "firstyear": "1654",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1672",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-17 13:56:07",
+  "modified_on": "2025-06-09 15:47:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <strong><em>Groot Hollandia</em></strong> was bij alle grote zeeslagen in de drie Engels -Nederlandse oorlogen betrokken. <br>Grootste wapenfeit tijdens de Derde Engels-Nederlandse Oorlog in de Slag bij Solebay (1672) toen de <em>Groot Hollandia</em> onder kapitein Jan van Brakel de <em>Royal James</em> aanviel en hielp vernietigen.<br>Dit was de enige keer in de geschiedenis dat een zwaar Engels linieschip in een direct gevecht met de Nederlandse vloot tot zinken gebracht zou worden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: linieschip, 1e charter<br>Gebouwd: Dordrecht, Jan Salomonszoon van den Tempel, 1654<br>Eigenaar: Admiralty of Rotterdam<br>Lengte: 150 x 38 x 14.73 ft<br>Bemanning: 240<br>Kapitein: Laurens Davidszoon van Convent (tot 1671) J. van Brakel (in 1672)<br>Bewapening: 58-66</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

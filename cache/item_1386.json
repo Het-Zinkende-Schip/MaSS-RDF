@@ -1,0 +1,27 @@
+{
+  "id": "1386",
+  "code": "tijdverdrijf",
+  "name": "Tijdverdrijf",
+  "type": "wreck",
+  "lat": "52.6759379",
+  "lon": "4.4547726",
+  "location": "Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1654",
+  "firstyearend": null,
+  "lastdate": "1683-11-15",
+  "lastyear": "1683",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-14 10:04:31",
+  "modified_on": "2025-06-10 16:06:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Genoemd naar buitenverblijf van Nicolaas Witsen (burgemeester van Amsterdam en schrijver) Huis tijdverdrijf bij Egmond aan Zee.</p> <p>In juli 1655 onderdeel van de Ruyters eskader naar de Middellandse Zee.</p> <p>Het jaar daarop was de Tijdverdrijf vlaggenschip van Michiel de Ruyter.</p> <p>Tijdverdrijf was vlaggenschip van Albert Claessen Graeff tijdens de slag bij Lowestoft 1665. Tijdverdrijf vocht in beide gevechten bij Schooneveld in 1673.</p> <p>Het schip ging verloren tijdens een zware storm op de Noordzee 15 november 1683. Ze was op de terugweg van dienst in de Sont om Denemarken bij te staan tegen Zweden. 216 opvarenden kwamen om. Slechts 14 opvarenden konden gered worden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: admiraliteits werf Amsterdam, 1654?<br>Eigenaar: admiraliteit Amsterdam<br>Bewapening: 52 (22x12 p, 22x8 p ,8x3 p) in 1683</p> <p>Kapitein: Michiel Adriaenszoon de Ruyter (1659), <br>Willem van der Zaan (1665) <br>Schout-bij-nacht: Albert Claessen Graeff (1665 - 1666) <br>Kapitein: Hendrik Vroom 1666, <br>Thomas Fabricius, juli 1666<br>Gilles Schey 1673,<br>Frans Willem, 1674</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>230</td></tr><tr><th scope=\"row\">Lengte</th><td>136 &frac14; voet (41,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 voet (10,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://duckduckgo.com/?q=woerden+1683&amp;t=ffab&amp;atb=v192-1&amp;ia=web\">Storm van 15 november 1683.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

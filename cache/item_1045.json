@@ -1,0 +1,27 @@
+{
+  "id": "1045",
+  "code": "essen",
+  "name": "Essen",
+  "type": "wreck",
+  "lat": "38.2008514",
+  "lon": "13.7444585",
+  "location": "Palermo, Italië",
+  "firstdate": null,
+  "firstyear": "1667",
+  "firstyearend": null,
+  "lastdate": "1676-01-09",
+  "lastyear": "1676",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-10 17:21:50",
+  "modified_on": "2025-06-09 13:29:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Slag bij Stromboli was een zeeslag die plaatsvond op 8 januari 1676 tijdens de Frans-Nederlandse Oorlog, tussen een Franse vloot van 20 schepen onder leiding van Abraham Duquesne en een gecombineerde vloot van 19 Nederlandse en &eacute;&eacute;n Spaans schip onder leiding van luitenant-admiraal-generaal Michiel de Ruyter. De strijd duurde acht uur en eindigde onbeslist. De vloten vochten opnieuw bij de Slag bij Agosta.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001680.jpg\" alt=\"Slag bij Stromboli 1676\"></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: linieschip<br>Gebouwd: Admiraliteit yard Amsterdam, 1667<br>Eigenaar: Admiraliteit Amsterdam<br>Dimensies: 142 x 36.75 vt<br>Bemanning: 250<br>Kapitein: Gillis Schey<br>Bewapening: 50</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001681.jpg\" alt=\"Slag bij Stromboli 1676\"></figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Rijksmuseum, Amsterdam,<br /><a href=\"https://www.rijksmuseum.nl/nl/collectie/RP-P-OB-82.439\">RP-P-OB-82.439 Object FMH 2581prentmaker: anoniem 1676 uitgever: Jacobus Robijn (vermeld op object).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

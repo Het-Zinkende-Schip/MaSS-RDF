@@ -1,0 +1,27 @@
+{
+  "id": "4015",
+  "code": "nc40",
+  "name": "NC40",
+  "type": "wreck",
+  "lat": "52.7455940",
+  "lon": "5.6419220",
+  "location": "Espel, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1625",
+  "lastyearend": "1650",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:30:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1951 werd de vondst gemeld van een scheepswrak op kavel C40 in de Noordoostpolder. De vindplaats werd bezocht en er werd medegedeeld, dat men het wrak graag zou laten zitten totdat opgraving mogelijk zou zijn. Uiteindelijk is het verkend in 1988, nadat het wrak bij het aanleggen van drains beschadigd raakte. De verkenning wees uit dat het waarschijnlijk ging om een groot zwaar gebouwd vrachtschip, met een grootste breedte van ca. 7,5 meter, maar dat over een grote oppervlakte scheepshout was aangetroffen. Als enige vondst werd een leren schoenzool aangetroffen. Na afloop zijn de proefsleuven weer dichtgegooid. Enkele van de losgeraakte stukken scheepshout zijn in de toenmalige werkplaats in Ketelhaven gedocumenteerd.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xer-2e4z\">Opgravingsdocumentatie scheepswrak NC40.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

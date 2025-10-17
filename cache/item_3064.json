@@ -1,0 +1,27 @@
+{
+  "id": "3064",
+  "code": "angerlo",
+  "name": "Angerlo",
+  "type": "wreck",
+  "lat": "51.9960497",
+  "lon": "6.1577099",
+  "location": "Bevermeer, Angerlo, Nederland",
+  "firstdate": null,
+  "firstyear": "250",
+  "firstyearend": "285",
+  "lastdate": null,
+  "lastyear": "300",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-04-07 10:57:37",
+  "modified_on": "2023-04-07 10:57:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De boomstamboot van Angerlo is in 1965 aangetroffen tijdens werkzaamheden van de stoomgemaal Bevermeer. Op basis van C14-datering is de boot gedateerd op 1700&plusmn;135 BP.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De boomstamboot is later overgedragen aan RIJPKetelhaven en is hier behandeld met PEG 4000.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Maarleveld, Thijs J.  (2006).<br /><em>Schematisch overzicht boomstamboten.</em><br />Glavimans bundel 10, bijlage.</li><li>Lanting, J.N. &amp; J. van der Plicht (2011).<br /><a href=\"https://ugp.rug.nl/Palaeohistoria/article/view/25177\">De 14C-chronologie van de Nederlandse Pre- en Protohistorie VI: Romeinse tijd en Merovingische Periode, Deel B: Aanvullingen, toelichtingen en 14C-dateringen. Palaeohistoria 53/54. pp.32.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

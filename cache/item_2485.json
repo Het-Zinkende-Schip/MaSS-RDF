@@ -1,0 +1,27 @@
+{
+  "id": "2485",
+  "code": "langeness-1744",
+  "name": "Langeness",
+  "type": "wreck",
+  "lat": "54.6369293",
+  "lon": "8.6544800",
+  "location": "Langeness, Duitsland",
+  "firstdate": null,
+  "firstyear": "1744",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1750",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-04 20:02:39",
+  "modified_on": "2025-07-08 17:48:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>In the tidal mudflats south of Nordmarsch-Langeness the outline of a shipwreck became visible by the frames projecting out from the sediment cover. The site was surveyed and partially excavated by Dr. Hans-Joachim K&uuml;hn (State Archaeology Department of Schleswig-Holstein) in 1997. The stem- and sternpost were unearthed, respectively, revealing draught marks up to 8 feet (bow) and 10 feet (stern). Thus, the remaining hull is preserved up to ca. 3 metres under the sediment cover. A further test-trench dug in the midship section revealed ceiling planks, a keelson and an indication for a proper keel instead of a flat-bottom.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002456.jpg\" alt=\"the outline of a shipwreck became visible by the frames projecting out from the sediment cover.\"> <div class=\"img-source\">K&uuml;hn, H.-J. (1999). Gestrandet bei Uelvesb&uuml;ll - Wrackarch&auml;ologie in Nordfriesland. Husum.</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The vessel was built with oak planks in the carvel method, with an additional planking of pine, which arguably served as protection against marine borers.</p> <p>Tin spoons with the Amsterdam coat-of-arms and Dutch coins were scattered in the surrounding area.</p> <p>The dendrochronological analysis was carried out by Sigrid Wrobel (University of Hamburg) and yielded a date of around/after 1744.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>59 voet (18 m)</td></tr><tr><th scope=\"row\">Grootste wijdte</th><td>17 voet (5,2 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The vessel has sunk in a former tidal creek, which silted up subsequently. This explains the excellent <em>in situ</em> preservation.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Kühn, H.-J. (1999).<br /><em>Gestrandet bei Uelvesbüll - Wrackarchäologie in Nordfriesland.</em><br />Husum.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

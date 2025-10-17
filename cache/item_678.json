@@ -1,0 +1,27 @@
+{
+  "id": "678",
+  "code": "druten",
+  "name": "Druten",
+  "type": "wreck",
+  "lat": "51.8847361",
+  "lon": "5.6004266",
+  "location": "Druten, Nederland",
+  "firstdate": null,
+  "firstyear": "200",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "230",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-10 18:34:11",
+  "modified_on": "2025-06-27 22:05:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1973 is in een verlande Waal arm bij de Romeinse villa van Druten een platbodemvaartuig aangetroffen. Er is 16 meter bewaard gebleven. De oorspronkelijke lengte bedroeg circa 27 meter en met een breedte van minder dan 4 meter was het schip vrij slank. De dwarsverbanden bestonden uit paarsgewijs geplaatste leggers met zijtakken die als kniestukken dienden. De spanten waren met ijzeren spijkers en houten pennen op vlak en kim bevestigd. De kim is niet strikt l-vormig, maar eerder rond en de boorden stonden wat schuin op het vlak. Daarmee wijkt Druten af van de overige schepen van het type Zwammerdam in Nederland. De leggers waren in paren geplaatst. Er zijn overblijfselen van een dek of cabine gevonden.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001489.jpg\" alt=\"Schematische tekening van de bouw van een Zwammerdam\"> <figcaption class=\"img-description\">Doorsnede Zwammerdam type</figcaption> </figure> <p><strong>Datering en lading</strong><br>Het Druten schip wordt gedateerd rond 200 na Christus. Verkoolde houtresten doen vermoeden dat het schip door vuur als gevolg van een ongeluk is vergaan. In het schip is steengruis en dakpanmateriaal aangetroffen dat een indicatie geeft van de laatste lading van het schip.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001837.jpg\" alt=\"Houten schip opgegraven\"> <figcaption class=\"img-description\">Het Romeinse schip in Druten tijdens de opgraving 1973</figcaption> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Lehmann Th.<br /><em>International Journal of Nautical Archaeology.</em><br />International Journal of Nautical Archaeology, 34 (2), 179-210.</li><li>Brouwers,W.  Jansma, E.  Manders, M.<br /><em>Romeinse scheepsresten in Nederland.</em><br />Archeobrief 4 2013,</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1066",
+  "code": "gouverneur-falck",
+  "name": "Gouverneur Falck",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Vermist tussen Batavia en de Kaapkolonie",
+  "firstdate": null,
+  "firstyear": "1784",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1792",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-16 14:30:03",
+  "modified_on": "2024-07-25 11:04:54",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Gouverneur Falck</strong></em> maakte twee reizen naar Azi&euml;. De eerste begon op 31 januari 1788 vanuit Texel naar Ceulon. Ze was terug in Nederland op 25 augustus 1789.</p> <p>De tweede reis begon op 25 mei 1790. Ze kwam in Batavia aan op 27 december 1790. Voor haar retourreis vertrok De Gouverneur Falck op 21 februari 1790 uit Batavia met bestemming Nederland. Het schip kwam niet aan bij de Kaap voor een tussenstop. De Gouverneur Falck is vergaan in de Indische Oceaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: op een werf in Amsterdam in 1786</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95708\">Details of voyage 4670.2 from Texel to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/6801/file/NL-HaNA_1.04.02_6801_0007?eadID=1.04.02&amp;unitID=6801&amp;query=Falck\">Grootboek en journaal, 1790 1790.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

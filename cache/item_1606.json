@@ -1,0 +1,26 @@
+{
+  "id": "1606",
+  "code": "vos",
+  "name": "Vos",
+  "type": "wreck",
+  "lat": "53.3505513",
+  "lon": "4.8806763",
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1623",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1632",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-08 10:26:20",
+  "modified_on": "2020-09-14 13:10:45",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Vos was een snel jacht meermalern genoemd door de Laet, <br /><br />De Vos was o.a. aanwezig bij de verovering van Bahia 1623/1624.<br />Piet Hein's vloot 1626.<br />Verovert een Spaans schip bij Cuba.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Jacht<br />Gebouwd: voor 1623<br />Eigenaar: WIC kamer Stad en Lande<br />Complement: 54 crew, 23 soldiers (1629)<br />Schikpper: Jan de Braem tot 1628, Claes Hendriksz.<br />Armament: 2 bronze , 10 iron, stone</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Claes Hendriksz.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>74</td></tr><tr><th scope=\"row\">Tonnage</th><td>140 ton (70 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Laet, J.<br /><em>Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, zedert haer begin, tot het eynde van 't jaer sesthien-hondert ses-en-dertich.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

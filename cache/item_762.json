@@ -1,0 +1,27 @@
+{
+  "id": "762",
+  "code": "barneveld",
+  "name": "Barneveld",
+  "type": "wreck",
+  "lat": "51.0246396",
+  "lon": "2.0951615",
+  "location": "Gravelines, Grevelingen, België",
+  "firstdate": null,
+  "firstyear": "1706",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1724",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-13 17:21:45",
+  "modified_on": "2024-06-10 11:42:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Barneveld</strong></em> was in dienst van de kamer van Amsterdam.&nbsp;Het schip maakte zeven retourreizen naar Azi&euml;.</p> <p>Haar laatste reis begon op 10 februari 1724 vanuit Texel met 275 man voor haar achtste reis naar Batavia. De Barneveld kwam niet ver. Op 14 februari 1724 is het schip vergaan op de zandbanken ter hoogte van Calais.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/9132/file/NL-HaNA_1.04.02_9132_0692?eadID=1.04.02&amp;unitID=9132&amp;query=\">*</a></p> <p>Getuigen van de Prattenburg beschrijven de ramp. De VOIC vloot van 9 schepen was te dicht onder de Frans/ Vlaamse kust gekomen. Daar kwam de Barneveld vast te zitten. De grote en fokke mast sloegen overboord en het schip verging.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Gideon Kuiper</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93604\">Details of voyage 2566.8 from Texel.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000105.jpg\">NA 1.01.11.01.o1 551.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/9132/file/NL-HaNA_1.04.02_9132_0692?eadID=1.04.02&amp;unitID=9132&amp;query=\">NA_1.04.02_9132_0692.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4112",
+  "code": "zp37-i",
+  "name": "ZP37-I",
+  "type": "wreck",
+  "lat": "52.3191490",
+  "lon": "5.5284450",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1720",
+  "lastyearend": "1740",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:29:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In november 1971 werd in Zuidelijk Flevoland op kavel P23, later omgedoopt tot kavel P37, onderzoek verricht naar een scheepswrak dat was gevonden tijdens het trekken van een greppel voor ontwatering van de kavel. Hierbij werd een praamachtig vrachtschip aangetroffen van ongeveer 18 bij 3 meter. Het karveel gebouwde vlak ging over in overnaadse boorden. In 1973 werd opnieuw op het wrak gestoten bij werkzaamheden. In juli en augustus 1980 is door de Nederlandse Jeugdbond ter Bestudering van de Geschiedenis (NJBG) tijdens een educatief project met 12 deelnemers het scheepswrak onder begeleiding opgegraven. Hierbij werden onder meer twee ijzeren haardplaten, plavuizen, bakstenen en fragmenten turf gevonden, die hebben behoord tot een stookplaats. Tot de overige voorwerpen behoorden onder meer vaatwerk van roodbakkend aardewerk, fragmenten van meerdere leren schoenen, een heidebezem en een benen mesheft. Op een gevonden koperen duit was helaas geen jaartal meer te ontwaren. Hoewel het waarschijnlijk is gebruikt als vrachtschip, werd in het ruim geen spoor van een lading aangetroffen. Dit zou echter kunnen betekenen dat deze van lichte aard was en makkelijk wegdreef, bijvoorbeeld turf. De ondergang van het wrak wordt ergens tussen 1720 en 1740 geplaatst.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zc4-vfjr\">Opgravingsdocumentatie scheepswrak ZP37-I.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

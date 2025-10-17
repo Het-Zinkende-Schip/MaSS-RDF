@@ -1,0 +1,27 @@
+{
+  "id": "1053",
+  "code": "beursplein",
+  "name": "SS Beursplein",
+  "type": "wreck",
+  "lat": "54.6717133",
+  "lon": "-14.5590815",
+  "location": "West of Ireland, Ierland",
+  "firstdate": null,
+  "firstyear": "1920",
+  "firstyearend": null,
+  "lastdate": "1941-02-26",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-14 12:45:54",
+  "modified_on": "2025-06-09 13:39:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>SS Beursplein</em> vertrok op 24 februari 1941 in ballast van Gourock (Schotland) naar New York, varend in konvooi OB290 werd het schip op 26 februari 1941 ten westen van Ierland, tijdens een Duitse luchtaanval door &eacute;&eacute;n of meer bommen getroffen en ging brandend ten onder. Bij de ramp verloren 22 opvarenden van de <em>SS Beursplein</em> het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: vrachtschip<br>Gebouwd: Deutsche Werft A.G., Hamburg, Germany <br>Eigenaar: N.V. Scheepvaart Maatschappij 'Millingen', Rotterdam, NL<br>Dimensies: 391.50 x 50.30 x 26.90 Feet (British) Registered<br>Tonnage: 4368<br>Voortstuwing: Steam, Triple Expansion, Power: 2300<br>Snelheid: 10<br>Bemanning:<br>Kapitein: A. Feijes</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>22 opvarenden van de BEURSPLEIN verloren het leven.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 71.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=958\">Maritiem Historische Data ID 958.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

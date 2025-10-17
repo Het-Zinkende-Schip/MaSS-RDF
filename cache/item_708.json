@@ -1,0 +1,27 @@
+{
+  "id": "708",
+  "code": "leeuwin-wic-1628",
+  "name": "Leeuwin",
+  "type": "wreck",
+  "lat": "-7.9906936",
+  "lon": "-34.7121276",
+  "location": "Recife, Brazilië",
+  "firstdate": null,
+  "firstyear": "1628",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-21 17:04:38",
+  "modified_on": "2025-05-23 10:55:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: yacht</p> <p>Built : Zeeland</p> <p>Owner: WIC chamber of Zeeland</p> <p>Complement: 46</p> <p>Armament: 2 / 16 1639</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>NA, Den Haag, OWIC, 1.05.01.01,  57; 185. Lijst van schepen en jachten te Brazilië.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

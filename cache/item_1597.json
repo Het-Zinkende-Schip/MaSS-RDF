@@ -1,0 +1,27 @@
+{
+  "id": "1597",
+  "code": "soutelande",
+  "name": "Soutelande",
+  "type": "wreck",
+  "lat": "43.0046471",
+  "lon": "-25.0927734",
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1640",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1645",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-06 14:49:22",
+  "modified_on": "2025-06-11 16:24:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Aankomst 9 september in patria vanuit Recife met lading suiker en hout en olifantstanden voor de WIC kamer Zeeland. (bron: Delpher)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?facets%5Bperiode%5D%5B%5D=1%7C17e_eeuw%7C1640-1649%7C&amp;query=Zelandia&amp;coll=ddd&amp;page=1&amp;identifier=ddd:010555090:mpeg21:a0005&amp;resultsidentifier=ddd:010555090:mpeg21:a0005\">Courante uyt Italien, Duytslandt, &amp;c.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

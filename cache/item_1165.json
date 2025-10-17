@@ -1,0 +1,27 @@
+{
+  "id": "1165",
+  "code": "huis-te-persijn",
+  "name": "Huis te Persijn",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Zuid Chinese Zee",
+  "firstdate": null,
+  "firstyear": "1743",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1748",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-25 11:06:30",
+  "modified_on": "2025-06-09 23:12:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Huis te Persijn. Op weg met de Schellaken de Jager naar Japan. Het schip is op de 23 NB van de andere twee gescheiden en nooit meer gezien.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004200.jpg\" alt=\"Collectie RCE. Anoniem, De driemaster, 177. Olieverf op doek, 138 x 134 c. Objectnummer C60. In langdurig bruikleen bij Museum Kaap Skil, Texe. Foto: Paul van We. Onder dit scheepsportret staat: &lsquo;de JONGE LIEVE opderhee van TEXEL. UITGERUSTVOORBATAVIA inano 177. Het schilderij is in 1946 aan het Rijk geschonken door een nakomeling van een van de passagiers van het schip, de jurist Jan Jansz. Wichers.\"> <div class=\"img-source\">RCE</div> <figcaption class=\"img-description\">De Jonge Lieve een vergelijkbaar schip als Huis te Persijn</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Rotterdam, 1743<br>Lengte: 136<br><br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94470\">Details of voyage 3397.2 from Texel to Batavia.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=750&amp;accessor=search_in_text&amp;source=11&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%2\">Generale missiven Deel 11, 739.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "956",
+  "code": "drie-gebroeders",
+  "name": "Drie Gebroeders",
+  "type": "wreck",
+  "lat": "-34.1903437",
+  "lon": "18.4458146",
+  "location": "Roman's Reef, Simon's Bay, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1787",
+  "firstyearend": null,
+  "lastdate": "1792-06-03",
+  "lastyear": "1792",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-24 12:24:14",
+  "modified_on": "2024-06-16 14:05:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Drie Gebroeders was een gehuurde fluit, in eerste instantie door de kamer van Zeeland in 1787. Het schip maakte twee reizen.</p> <p>De tweede reis voor de kamer Amsterdam begon in Texel op 27 april 1791.</p> <p>Ze kwam aan in Batavia 14 december 1791. Ze bleef slechts kort in de Oost.</p> <p>Op 27 februari vertrok ze uit Batavia met bestemming Nederland. Op 2 juni 1792 kwam De Drie Gebroeders aan in Simon's baai, Zuid Afrika.</p> <p>Het schip was ernstig lek geraakt en men zette haar op het strand.</p> <p>De lading werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: fluitschip<br>Gehuurd door de Kamer van Zeeland<br>Laadvermogen: 414 last (828 ton)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jan Roelofsz de Groot</td></tr><tr><th scope=\"row\">Tonnage</th><td>828 ton (414 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/99121\">DAS 8338.2.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

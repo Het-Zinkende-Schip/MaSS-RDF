@@ -1,0 +1,27 @@
+{
+  "id": "4065",
+  "code": "nk53",
+  "name": "NK53",
+  "type": "wreck",
+  "lat": "52.8070070",
+  "lon": "5.7787130",
+  "location": "Lemmer, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": "1800",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:14:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Dit scheepswrak werd door Pieter (P. J.R.) Modderman uitgegraven in 1943. Het werd echter niet getekend en een beschrijving van het wrak ontbreekt. De locatie wordt omschreven als 'in de Hopweg', De vondsten uit het vermoedelijk 18de-eeuwse wrak worden in de documentatie wel beschreven, en een aantal ervan zijn bewaard gebleven in het Nationaal Scheepsarcheologisch Depot te Lelystad. Het gaat onder meer om roodbakkend gebruiksaardewerk, een koperen braadpan, een luizenkam en een benen mesheft. Niet bewaard gebleven is een loden penning met het wapen van Haarlem, die echter iets zou kunnen zeggen over waar het schip gevaren heeft.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zaf-q49u\">Opgravingsdocumentatie scheepswrak NK53.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

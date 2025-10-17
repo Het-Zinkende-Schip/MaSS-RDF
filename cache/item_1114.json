@@ -1,0 +1,27 @@
+{
+  "id": "1114",
+  "code": "eibergen",
+  "name": "SS Eibergen",
+  "type": "wreck",
+  "lat": "47.9232129",
+  "lon": "-31.8867145",
+  "location": "Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1914",
+  "firstyearend": null,
+  "lastdate": "1941-06-03",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-04 11:26:17",
+  "modified_on": "2025-06-09 16:29:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>&lsquo;Eibergen&rsquo;</strong></em> vertrok op 23 mei 1941 van Newcastle-on-Tyne in konvooi <em><strong>OB- 327</strong></em> naar West-Afrika. Op 3 juni 1941 werd zij &ndash; het konvooi was intussen verspreid op 600 mijl ten noord-oosten van de Azoren - door de Duitse onderzeeboot &lsquo;<em><strong>U 75</strong></em>&rsquo; getorpedeerd en zonk. Hierbij verloren 4 opvarenden van de &lsquo;EIBERGEN&rsquo; het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Cargo vessel<br>Gebouwd: Wm. Pickersgill &amp; Sons Ltd, Sunderland<br>Eigenaar: N.V. Zuid Hollandsche Scheepvaart Mij<br>Dimensies: 391 x 52 x 29 voet&nbsp;<br>Tonnage: 4801<br>Voortstuwing: Steam, Triple Expansion, 1800 pk<br>Snelheid: 11<br>Bemanning: 39, 4 slachtoffers<br>Kapitein: R. Hilbrandie</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Vermist/ omgekomen:</p> <p>J. Holdermans,&nbsp;2e machinist <br>A. Rombeek , olieman<br>F. Thomas, kanonnier (Eng.)<br>A. Me. Leod, kanonnier (Eng.)</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=1949\">Maritiem Historische Data ID 1949.</a></li><li><a href=\"https://uboat.net/allies/merchants/ship/966.html\">U boat.net.</a></li><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 96.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

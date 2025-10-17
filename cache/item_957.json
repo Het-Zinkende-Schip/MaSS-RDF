@@ -1,0 +1,27 @@
+{
+  "id": "957",
+  "code": "europa",
+  "name": "Europa",
+  "type": "wreck",
+  "lat": "-6.6387254",
+  "lon": "111.1635708",
+  "location": "Juwana, Indonesië",
+  "firstdate": null,
+  "firstyear": "1770",
+  "firstyearend": null,
+  "lastdate": "1784-07-23",
+  "lastyear": "1784",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-24 12:54:36",
+  "modified_on": "2024-06-20 09:52:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het schip Europa maakte twee succesvolle retourreizen naar Indi&euml;. Na haar derde uitreis op 19 juli 1778) bleef ze in Indi&euml;. (<a href=\"https://www.vocsite.nl/schepen/10331/\">VOC site</a>).</p> <p>In 1784 was het schip nog nauwelijks inzetbaar. Haar laatste reis maakte ze van Batavia naar Java (Juwana). Op de terugreis is ze door lekkage verloren gegaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: spiegelretour schip<br>Gebouwd:&nbsp;op de VOC-werf in Middelburg in 1770<br>Eigenaar: VOC Kamer van Zeeland <br>Lengte: 155 voet<br>Tonnage: 600 last (1200 ton)<br>Bemanning: 259-353</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.vocsite.nl/schepen/detail.html?id=10331\">Gegevens VOC-schip Europa.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000255.jpg\">NA 1.04.01.01. 551-47, Lijst van alle zoodanige Schepen.</a></li><li><a href=\"https://sejarah-nusantara.anri.go.id/pagebrowser/icaatom-dasa-anri-go-id_339-ead-xml-1-2609/#source=1&amp;page=135&amp;accessor=thumbnails&amp;size=1168&amp;view=imagePane\">Marginalia Archive File: 2609 1784 January 1 - 1784 December 31.</a></li><li><a href=\"https://www.atlasofmutualheritage.nl/nl/page/5596/juwana\">Juwana.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

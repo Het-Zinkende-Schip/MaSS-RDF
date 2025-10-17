@@ -1,0 +1,27 @@
+{
+  "id": "4032",
+  "code": "ne72",
+  "name": "NE72",
+  "type": "wreck",
+  "lat": "52.6300760",
+  "lon": "5.6769960",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1820",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 14:33:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1956 werd de vondst gemeld van een wrak nabij het huidige Creil, op kavel E72 in de Noordoostpolder. De pachter meende een stuk los hout te kunnen verwijderen, maar trof bij het uitgraven ter plekke een heel schip aan. Hierop volgende een verkenning/opgraving in hetzelfde jaar. Het bleek te gaan om een klein vissersschip van het type schokker, met een grootste lengte van ca. 10 meter, een breedte van ca. 4 meter en een holte van 1,3 meter, in de bodem terecht gekomen onder zware slagzij. Er bleek eerder al een drainagebuis dwars door het wrak te zijn aangelegd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Afmetingen op basis van de opgraving:</p> <p>Lengte: ca. 10 meter</p> <p>Breedte: ca. 4 meter</p> <p>Holte : 1,3 meter</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004214.jpg\" alt=\"Rijksmuseum, RP-P-OB-6.69. Een 'schokker' met daarop vissersgerei en drie figuren, waarvan er een aan het roer zit. Deze prent maakt deel uit van een serie van twaalf prenten met verschillende zeilschepen. Gerrit Groenewegen, 1791.\"> <div class=\"img-source\">Rijksmuseum</div> </figure> <p>Een schokker met vistuig en drie figuren. Gerrit Groenewegen, 1791.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak werd niet van grote betekenis geacht en is derhalve niet systematisch opgegraven. Desalniettemin werden tijdens de uitgraving toch diverse maten genomen en werd in het schip een vrij complete inventaris aangetroffen, van aardewerk en ijzeren gereedschappen tot diverse lepels en leren schoenen. Op basis hiervan kon de datering van de ondergang gesteld worden op de eerste helft van de 19de eeuw, maar wel na 1820, gezien de aanwezigheid in het wrak van een bakenloodje voor het Amelander Zeegat uit dat jaar (een soort bewijs van betaling van tolgeld). Opmerkelijk zijn verder een gegraveerde tabaksdoos en een soort holle bamboe schacht, voorzien van de letters &lsquo;WW&rsquo;.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004009.jpg?modifiedon=1705654519\" alt=\"Een scheepsarcheologische tekening uit de documentatie van wrak NE72.\"> <div class=\"img-source\">Batavialand Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Een scheepsarcheologische tekening uit de documentatie van wrak NE72.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xvk-x44v\">Opgravingsdocumentatie scheepswrak NE72.</a></li><li><a href=\"http://www.schoklanddoordeeeuwenheen.nl/schokkers-korver-1811.htm\">Schokland door de Eeuwen heen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

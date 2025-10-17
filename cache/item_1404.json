@@ -1,0 +1,27 @@
+{
+  "id": "1404",
+  "code": "eenhoorn-1672",
+  "name": "Eenhoorn",
+  "type": "wreck",
+  "lat": "52.9488018",
+  "lon": "4.6996106",
+  "location": "Kijkduin, Nederland",
+  "firstdate": null,
+  "firstyear": "1672",
+  "firstyearend": null,
+  "lastdate": "1673-08-21",
+  "lastyear": "1673",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-22 12:24:30",
+  "modified_on": "2023-10-26 09:35:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Ingezet en vergaan tijdens de slag bij Kijkduin 11 augustus 1673.<br><br>De Slag bij Kijkduin (Engels: Battle of Texel) was een zeeslag bij Den Helder tussen een Nederlandse en een Frans-Engelse vloot op 11 augustus (Juliaanse kalender) 1673 Het was de laatste grote slag tijdens de Derde Engels-Nederlandse Oorlog.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Rave, Willem de,</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://nl.wikipedia.org/wiki/Slag_bij_Kijkduin\">Slag bij Kijkduin.</a></li><li>NIMH scheeepsdocumentatie.<br /><em>Eenhoorn.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1531",
+  "code": "schonenberg",
+  "name": "Schonenberg",
+  "type": "wreck",
+  "lat": "-34.8135117",
+  "lon": "20.0595861",
+  "location": "Cape Agulhas, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1717",
+  "firstyearend": null,
+  "lastdate": "1722-12-20",
+  "lastyear": "1722",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-13 12:07:51",
+  "modified_on": "2025-04-06 12:27:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Schonenberg</strong></em> vertrok op 26 september 1722 van Batavia naar Nederland. Bij Kaap Agulhas Zuid-Afrika aangekomen, liep ze aan de grond op een rif bij Northumberland Point.</p> <p>De schipper Van Soest werd er later van verdacht dat hij zijn schip opzettelijk aan de grond had laten lopen als onderdeel van een samenzwering met enkele lokale boeren om de lading te stelen.</p> <p>De waardevolle lading werd (door mede-samenzweerders) weggevoerd en nooit meer gezien. Het ongeluk kostte geen levens en alle honderd mensen aan boord slaagden erin veilig aan land te komen.<br>Nadat de lading door Van Soest was geborgen, brandde hij het schip tot aan de waterlijn af.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Oostenburg Amsterdam, 1717</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Albert van Soest</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>100</td></tr><tr><th scope=\"row\">Tonnage</th><td>800 ton (400 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97406\">DAS 6541.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/72/file/NL-HaNA_1.11.06.18_72_0178?eadID=1.11.06.18&amp;unitID=72&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap , 24-11-1722.</a></li><li>La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives.</a><br />SAHRA.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

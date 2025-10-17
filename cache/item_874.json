@@ -1,0 +1,27 @@
+{
+  "id": "874",
+  "code": "nassau-1614",
+  "name": "Nassau",
+  "type": "wreck",
+  "lat": "0.2174487",
+  "lon": "102.6141582",
+  "location": "Kampar river, Riau province, Indonesië",
+  "firstdate": null,
+  "firstyear": "1612",
+  "firstyearend": null,
+  "lastdate": "1619-09-26",
+  "lastyear": "1619",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-11-01 15:46:52",
+  "modified_on": "2025-06-23 12:35:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Nassau</em> is aangekocht door de VOC kamer Amsterdam (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/227/file/NL-HaNA_1.04.02_227_0096?eadID=1.04.02&amp;unitID=227&amp;query=227\">resolutie 27-12-1612</a>).</p> <p>In juni/ juli 1613 vertrok De Nassau vanuit Texel met opperkoopman Pieter van den Broecke aan boord naar Azi&euml;. Op 17 augustus 1614 bereikte hij als eerste Nederlander de stad Aden (Jemen). Hij voer verder naar Mokka, toen het centrum voor koffiehandel.</p> <p>Op 24 december 1614 kwam De Nassau op de rede van Bantam aan. Ze bleef tot 1619 in Azi&euml; dienst doen. De Nassau was in de vloot van Jan Pieterszoon Coen aanwezig bij de verovering van Jacatra (mei 1619). Na de verovering van Jacatra werd de aandacht weer gericht op de aankoop van specerijen.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003516.png\" alt=\"kaart van de rivier Andrahira met links de Hollandse loge bij de koningsstad Troisan.\"> <div class=\"img-source\">NL-HaNA_4.VEL_363</div> </figure> <p class=\"figcaption\"><br>De rivier Andrahira met links de Hollandse loge bij de koningsstad Troisan.</p> <p><br>De Nassau vertrok naar Jambi en Indragiri op Sumatra om peper te kopen. Bij het \"opkorten\" van de rivier Indragiri liep de Nassau op 29 september 1619 op een zandbank, waar het \"van oudheid is gebarsten\" [Colenbrander, p. 557] De lading werd geborgen. Op de afgebeelde kaart staat een (onbekende)&nbsp;<em>Hollandse loge</em> in Troisan vermeld. Bij Pelalawan stroomopwaarts ligt het koninklijke paleis (Istana Sayap). Het is mogelijk dat de Nassau daar naar onderweg was.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: aangekocht van particulier Jan Thysen Enkhuizen 1613<br>Tonnage: 150 last<br>Schipper: Jan Pietersz.<br>Opperkoopman: Pieter Jansz. van den Broecke</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91213\">Details of voyage 0175.1 from Texel to Bantam.</a></li><li>Colenbrander H.T. (1921).<br /><a href=\"https://archive.org/details/janpieterszcoenb01coen/page/512/mode/2up?q=nassau\">Bescheiden Coen dl. 3, p. 512.</a></li><li><em>NA 1.04.02 (VOC) 227.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1383",
+  "code": "alexander",
+  "name": "Alexander",
+  "type": "wreck",
+  "lat": "59.7807340",
+  "lon": "-1.1425781",
+  "location": "Shetland, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1651",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1652",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-10 11:55:50",
+  "modified_on": "2025-06-10 16:04:38",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Alexander werd door het Directoraat van Amsterdam gehuurd van Cornelis Jansz. Brouwer om toegevoegd te worden aan de parate vloot.</p> <p>De Alexander verging met man en muis in een storm bij de Shetland eilanden in augustus 1652.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: bewapende koopvaarder, gehuurd<br>Eigenaar: Brouwer, Cornelis Jansz.<br>Bewapening: 28</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Meijckes, Jan</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>95</td></tr><tr><th scope=\"row\">Lengte</th><td>131 voet (39,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>27 voet (8,2 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J.A. (2014).<br /><em>Dutch warships in the age of sail, p. 206.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

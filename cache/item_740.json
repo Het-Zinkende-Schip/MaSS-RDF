@@ -1,0 +1,27 @@
+{
+  "id": "740",
+  "code": "aschat",
+  "name": "Aschat",
+  "type": "wreck",
+  "lat": "-7.4844398",
+  "lon": "117.3485314",
+  "location": "Sabalana eilanden, Indonesië",
+  "firstdate": null,
+  "firstyear": "1760",
+  "firstyearend": null,
+  "lastdate": "1776-08-02",
+  "lastyear": "1776",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-01 20:06:16",
+  "modified_on": "2025-06-27 22:20:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Aschat</strong></em> maaktevijf retourreizen. Na haar zesde vertrek op 27-10-1774 uit Texel bleef ze in Azi&euml; dienst doen.</p> <p>Het schip strandde op een rif bij de Pater Nostre eilanden in de Javazee.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004121.jpg\" alt=\"Getekende landkaart van een rif bij de Pater Nostre eilanden in de Javazee.\"> <div class=\"img-source\">NL-HaNA_4.VEL_459</div> <figcaption class=\"img-description\">.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94876\">DAS 3825.1.</a></li><li>NA 1.11.01.01 inv. Nr. 551.<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000197.jpg\">Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

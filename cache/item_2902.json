@@ -1,0 +1,27 @@
+{
+  "id": "2902",
+  "code": "catania",
+  "name": "Catania (IJM 39)",
+  "type": "wreck",
+  "lat": "58.6281045",
+  "lon": "2.6252526",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1916-01-19",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-01 11:56:34",
+  "modified_on": "2025-07-17 11:01:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Catania IJM 39verliet de haven van Ijmuiden 17 januari 1916. Er is daarna niets meer vernomen van schip en bemanning.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003228.jpg\" alt=\"tekst: Vergaan? IJMUIDEN, 28 Jan, De stoomtrawler. Catania van hier, die voor de vischvangst 14 dagen geleden is uitgegaan, is nog niet teruggekeerd van de reis. Men vreest, dat het schip gedurende den zware storm een ongeluk is overkomen.\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Algemene Vischerij maatschappij, Ijmuiden</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Stam, J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>10</td></tr><tr><th scope=\"row\">Tonnage</th><td>132 ton (66 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Catania&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1916%7C&amp;page=2&amp;sortfield=date&amp;coll=ddd&amp;identifier=ddd:110548605:mpeg21:a0318&amp;resultsidentifier=ddd:110548605:mpeg21:a0318&amp;rowid=6\">Telegraaf 28-1-1916.</a></li><li>Zuiderzee collectie.<br /><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40032819\">Centraal_Visserijregister-40032819.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

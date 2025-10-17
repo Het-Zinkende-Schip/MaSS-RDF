@@ -1,0 +1,27 @@
+{
+  "id": "1134",
+  "code": "margaretha-2",
+  "name": "Margaretha",
+  "type": "wreck",
+  "lat": "-6.2458533",
+  "lon": "108.3460169",
+  "location": "Indramayu, Indonesië",
+  "firstdate": null,
+  "firstyear": "1715",
+  "firstyearend": null,
+  "lastdate": "1733-09-28",
+  "lastyear": "1733",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-17 16:29:09",
+  "modified_on": "2025-06-24 18:37:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het fluitschip <em>Margaretha</em> voer voor de eerste keer naar Azi&euml; 3-6-1716. Ze maakte 3 retour reizen.<a href=\"https://www.vocsite.nl/schepen/10648/\">&sup1;</a> <br>Aan het einde van haar economische bestaan werd ze nog ingezet als houthaler in de Indonesische archipel. Het zo goed als afgeschreven schip voer 1733 naar midden Java om hout te laden Op de rede van Indramayu is het schip gezonken tijdens het laden van hout omdat het schip zo versleten en lek was dat ze niet meer drijvend gehouden kon worden.</p> <p>[...] <em>tot den 27 (september 1733) d=o doenmaals de riemhouten en jassemse balkjes en duijgen had geladen souden de ander dag weer boomen laden, maar door swaare Leccagie van het schip hebben die dag niet durven overneemen, na dat ik den 24 d=o een pomp in het watergat hade laten setten, so koesten wij egter met drie pompen en balijen [scan 600] ons uijterste devoir gedaan, dog het was alles te vergeeft, alsoo het schip algaande weg sinckende , dewijl het op geen eene plaats manqueerde, maar door sijn geheel lichaam en hol dieper sackte wat het water meerder aanwaste, het welk te bedenken is, soo is het gebeurd te drie uur na de middag dat het schip in de modder is komen te sinken</em> [NA 1.04.02 (VOC) 2295]</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004391.png\" alt=\"De rede van (de rivier) Indramayo aangegeven midden boven op de kaart\"> <div class=\"img-source\">NA_4.VEL_1159</div> <figcaption class=\"img-description\">De rede van (de rivier) Indramayo aangegeven midden boven op de kaart</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Enkhuizen, 1715<br>Lengte: 130<br>Tonnage: 300 last<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Frederiksen, Pieter</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/93732\">DAS 2650.4.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/2295/file/NL-HaNA_1.04.02_2295_0599\">NA 1.04.02 inv.2295 scan 0599.</a></li><li><a href=\"https://www.vocsite.nl/schepen/10648/\">VOC site.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

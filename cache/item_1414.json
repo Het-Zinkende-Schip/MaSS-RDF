@@ -1,0 +1,27 @@
+{
+  "id": "1414",
+  "code": "woerden-3",
+  "name": "Woerden 3",
+  "type": "wreck",
+  "lat": "52.0870160",
+  "lon": "4.8766872",
+  "location": "Woerden, Nederland",
+  "firstdate": null,
+  "firstyear": "200",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "225",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-24 09:43:04",
+  "modified_on": "2025-06-10 16:28:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00000288.jpg\" alt=\"Image 14 : Laurium on the Peutinger map. Left upper corner\"></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De Woerden 3 is een opgeboeide boomstamboot die in 1988 bij saneringswerkzaamheden op het terrein van de voormalige gasfabriek aan de Oranjestraat is ontdekt. De lengte bedroeg circa 12 meter bij een breedte van 1,2 meter. Er was een mastbankje aanwezig. Het scheepje kon dus gezeild worden. De kapdatum van het hout is dendrochronologisch gedateerd in circa 202 na Christus.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brouwers,W.,  Jansma, E.,  Manders, M. (2013).<br /><a href=\"https://docplayer.nl/14735693-Romeinse-scheepsresten-in-nederland.html\">Romeinse schepenresten in Nederland.</a><br />Archeobrief 4.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

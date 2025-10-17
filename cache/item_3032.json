@@ -1,0 +1,27 @@
+{
+  "id": "3032",
+  "code": "leiden",
+  "name": "Leiden",
+  "type": "wreck",
+  "lat": "53.5693159",
+  "lon": "3.2666255",
+  "location": "Noordzee, Doggersbank, Nederland",
+  "firstdate": null,
+  "firstyear": "1647",
+  "firstyearend": null,
+  "lastdate": "1667-01-03",
+  "lastyear": "1667",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-12-11 13:15:54",
+  "modified_on": "2025-06-15 17:22:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Leiden </em></strong>werd gebouwd in 1647/48 in Amsterdam.</p> <p>Ze maakte onderdeel uit van de vloot onder admirraal M.H. Tromp die uitgezonden werd eind juli 1652 om de handel - en visserijvloot op de Noordzee te beschermen. Tromp volgde de Engelse vloot naar het noorden en kwam in een storm terrecht ten noorden van de Shetlands. Vele schepen raakte beschadigd en een deel verging. N.a.v. deze ramp werd Tromp tijdelijk op non actieg gesteld.</p> <p>De Leiden nam deel aan de slag bij de Hoofden (Kentish Knock) 8-10-1652</p> <p><strong><br>Tweede Engels-Nederlandse oorlog<br></strong>Op 3 januari 1667 werd een Nederlands eskader van 5 schepen o.l.v. Jan David Bont naar de Doggersbank gezonden om te kruisen en eventuele handelsschepen te beschermen.*<br>Ze kregen een Engels konvooi in zicht onderweg van de Sont naar Engeland.**</p> <p><strong>Gevecht Doggersbank</strong><br>De Hollandse schepen schaarden zich in linie. De Engelsen openden het vuur en doorbraken de Nederlandse linie. Ze wisten in het gevecht drie van de vijf Nederlandse schepen uit te schakelen. <br>De Kleine Herder werd overmeesterd en in brand gestoken. De Elias werd overmeesterd. Kapitein Blankenburg van de Leiden sneuvelde. De Leiden werd overmeesterd en verbrand. De twee overige schepen wisten te ontsnappen.</p> <p><strong>&nbsp;</strong></p> <p class=\"note\">* De Leiden, Kleine Herder, <a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=13750\">Elias</a> Popkensburg en een onbekend schip<br><br>** Engelse bron (<a href=\"https://threedecks.org/index.php?display_type=show_battle&amp;id=340\">London Gazette 1667</a>) spreekt over 18 schepen. De Jonge II 156, spreekt van 11 kloeke schepen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Complement: 140<br>Bewapening: 28-36</p> <p>Commandant: Cornelis Cornelisz. Jol (= Hola) (1652) Kroeger (1653) Blankenburg (1666)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Blankenberg</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>110</td></tr><tr><th scope=\"row\">Lengte</th><td>117 &frac12; voet (35,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 &frac12; voet (8,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jonge,  J.C (1859).<br /><a href=\"https://www.dbnl.org/arch/jong102gesc05_01/pag/jong102gesc05_01.pdf\">Geschiedenis van Het Nederlandsche Zeewezen, II, 156.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

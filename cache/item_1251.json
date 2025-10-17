@@ -1,0 +1,27 @@
+{
+  "id": "1251",
+  "code": "naaldwijk",
+  "name": "Naaldwijk",
+  "type": "wreck",
+  "lat": "21.7294877",
+  "lon": "87.9653228",
+  "location": "Ganges, India",
+  "firstdate": null,
+  "firstyear": "1679",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1688",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-24 11:03:08",
+  "modified_on": "2025-04-12 18:31:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Naaldwijk</em></strong> is in 1688 op de Ganges in Bengalen vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Amsterdam, 1679<br>Lengte: 110 voet<br>Breedte: 26 &frac12; voet<br>Holte: 12 voet<br>Tonnage: 116 last</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92461\">DAS 1401.1.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=5&amp;page=267&amp;view=imagePane\">Generale Miss. Deel 5, 252.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1385",
+  "code": "prins-te-paard-1658",
+  "name": "Prins te paard",
+  "type": "wreck",
+  "lat": "52.9937380",
+  "lon": "4.6801758",
+  "location": "Texel Noordzee, Nederland",
+  "firstdate": null,
+  "firstyear": "1658",
+  "firstyearend": null,
+  "lastdate": "1683-11-15",
+  "lastyear": "1683",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-13 15:58:28",
+  "modified_on": "2025-07-02 17:35:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1683 was een vlooteskader onder het bevel van luitenant-admiraal Willem Bastiaensz Schepers uitgezonden naar de Baltische Zee om Denemarken bij te staan tegen Zweden.</p> <p>&nbsp;Op thuisreis werd het eskader op de Noordzee overvallen door een zware storm. Hierbij vergingen in de nacht van 15 november 1683 de volgende schepen: Woerden. Hollandia. Tydverdryf. Prins te Paard. Leeuwen. Gouda. Westvriesland. Wapen van Monnickendam.</p> <p>In totaal kost deze ramp aan circa 1200 mensen het leven, waarmee het tot de grootste rampen uit de Nederlandse geschiedenis behoort. (<a href=\"https://nl.wikipedia.org/wiki/Storm_van_15_november_1683\">wikipedia</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: admiraliteit werf Amsterdam, 1658?<br>Eigenaar: admiraliteit van Amsterdam<br>Bewapening: 52, (22: 12 Ponders, 22: 8, 8: 3)</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001830.jpg\" alt=\"schets van een schip, de voorgevel naar voren\"> <div class=\"img-source\">National Maritime Museum, Greenwich, London</div> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Minne, Jan</td></tr><tr><th scope=\"row\">Lengte</th><td>136 &frac14; voet (41,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 voet (10,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bender, J.A. (2014).<br /><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=1260\">Dutch warships in the age of sail p 200.</a></li><li><a href=\"https://nl.wikipedia.org/wiki/Storm_van_15_november_1683\">Storm van 15 november 1683.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%28+storm%29+or+st%C3%B6rm+or+gestormt&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;facets%5Bspatial%5D%5B%5D=Regionaal%7Clokaal&amp;page=1&amp;cql%5B%5D=%28date+_gte_+%2201-11-1683%22%29&amp;cql\">Oprechte Haerlemse courant.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

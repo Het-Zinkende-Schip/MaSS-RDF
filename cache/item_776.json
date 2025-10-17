@@ -1,0 +1,27 @@
+{
+  "id": "776",
+  "code": "amelisweert",
+  "name": "Amelisweert",
+  "type": "wreck",
+  "lat": "17.3517990",
+  "lon": "69.3135872",
+  "location": "Indische Oceaan?",
+  "firstdate": null,
+  "firstyear": "1753",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1763",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-18 18:02:51",
+  "modified_on": "2025-06-27 10:05:44",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Ameliweert</strong></em>&nbsp;maakte twee succesvolle retour reizen. Haar derde uitreis begon op 12-12-1761 in Texel met bestemming Ceylon. Ze kwam daar aan op 23-6- 1762. Ze bleef vervolgens in Azi&euml; dienst doen.</p> <p>Ze vertrok in augustus 1763, samen met de Vrouwe Rebecca Jacoba van de rede van Batavia, rechtstreeks naar Surat. Ze kwam daar echter nooit aan. Ze is met man en muis vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam 1753, (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0010?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01-551</a>)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1150 ton (575 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/94875\">DAS 3824.3.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0010?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 8.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=353&amp;accessor=search_in_text&amp;source=14_2&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5\">Generale missiven Deel 14, 880.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

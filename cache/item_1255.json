@@ -1,0 +1,27 @@
+{
+  "id": "1255",
+  "code": "walenburg",
+  "name": "Walenburg",
+  "type": "wreck",
+  "lat": "48.5699096",
+  "lon": "-4.7146797",
+  "location": "Portsall, Bretagne, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1764",
+  "firstyearend": null,
+  "lastdate": "1770-01-12",
+  "lastyear": "1770",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-25 14:48:32",
+  "modified_on": "2025-06-20 11:39:13",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Walenburg</em></strong> maakte twee retourreizen voor de VOC kamer Rotterdam. Haar derde uitreis maakte ze voor de VOC kamer Amsterdam en begon 29 december 1769.</p> <p>Voornamelijk beladen met masten is de '<em>Walenburg</em>' in de nacht van 12 op 13 januari 1770 bij Portsal (Bretagne, Frankrijk) gestrand en vergaan:</p> <p><em>\"Al op de hoogte van Bretagne verongeluckt Enige dagen na vertrek 1770. Een gedeelte vant wrak komen aandrijven zonder enig menschen zoo levent als doot</em>.\"(<a title=\"W-10_551\" href=\"https://cultureelerfgoed.info/mass/?file=00000116.jpg\" target=\"_blank\" rel=\"noopener\">NA 1.11.01 551 fol. 211</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Rotterdam, 1746. De Waalen burch wordt een nieuw model fregat genoemd (NA 1.11.01 551 fol. 211)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Andries Brusse</td></tr><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>880 ton (440 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>NL-HaNA_1.02.14_248_0001.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.02.14/invnr/248/file/NL-HaNA_1.02.14_248_0001?eadID=1.02.14&amp;unitID=248&amp;query=Walenburg\">Stukken betreffende de schipbreuk op de kust van Bretagne van het schip `Walenburg', eigenaar de VOC,</a></li><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95123\">DAS 4072.3.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0214?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 211.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

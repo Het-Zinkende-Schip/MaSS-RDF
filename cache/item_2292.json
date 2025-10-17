@@ -1,0 +1,26 @@
+{
+  "id": "2292",
+  "code": "core-gut-bay-indigo-vats",
+  "name": "Core Gut Bay Indigo Vats",
+  "type": "structure",
+  "lat": "17.6306985",
+  "lon": "-63.2188532",
+  "location": "Core Gut Bay, Saba, Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": "1655",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1772",
+  "lastyearend": null,
+  "country": "Bonaire, Sint Eustatius en Saba",
+  "countrycode": "BQ",
+  "author": "Ryan Espersen",
+  "created_on": "2020-11-07 20:13:45",
+  "modified_on": "2025-07-06 19:15:08",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This site is located upon the shoreline of Core Gut Bay and consists of a stone and mortar well together with a series of two exposed indigo vats. The seaside-facing remnants of the structure have been destroyed from coastal erosion, with only the opposite walls still mostly intact. These indigo vats were part of the Spring Bay Plantation. The location of the indigo vats upon the shore of Core Gut Bay allowed the indigo to be processed and loaded directly upon rowboats, wherein the dried indigo would be ferried to a ship either at anchor in nearby Spring Bay, or brought over to Fort Bay or Ladder Bay. No artifacts were found during a surface survey, but twentieth and twenty-first century debris deposited by the sea litters the shore, extending upslope of the site itself, indicating the extent to which the indigo vats and the well are being exposed and damaged by sea swells. It is only a matter of time before the site is outright destroyed from coastal erosion. No artifacts were found during surveys by Ryan Espersen between 2013-2018, but no indigo production was noted on Saba after 1816, therefore it probably stopped operations after all Saba&rsquo;s plantations were destroyed in the &ldquo;Great Hurricane&rdquo; of 1772 (Espersen 2017:75, 203)</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002261.jpg\" alt=\"A coastline\"> <figcaption class=\"img-description\">A coastline</figcaption> </figure> <p><em>Figure 1: View of Core Gut Bay, looking north.</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The well is situated approximately 30m from the shore, and constructed of unmodified locally sourced andesite, bonded with a white plaster consisting of coarse gravel, crushed shell, and lime. It measures 132cm in diameter, with a depth of 133cm to a sediment deposit. The first basin measures 280cm north to south, an unknown distance wide as it is destroyed, and at least 69cm deep, from what remains of the western wall. The second basin is smaller, measuring 184cm north to south, 170cm east to west, and over 100cm deep. This basin is filled with sediment, and the bottom was not visible. The third basin measures 110cm east to west, an unknown distance north to south, and over 65cm deep. This basin is also filled with sediment. A square drain at the surface level measuring 14cm x 14cm connects the second with the third basin.</p> <p>REFERENCES</p> <p>Espersen, Ryan (2017). &ldquo;Better Than We&rdquo;: Landscapes and materialities of race, class, and gender in pre-emancipation colonial Saba, Dutch Caribbean. Unpublished PhD dissertation, Leiden University, Leiden.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

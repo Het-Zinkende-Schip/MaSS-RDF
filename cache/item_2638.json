@@ -1,0 +1,27 @@
+{
+  "id": "2638",
+  "code": "wismar-big-ship",
+  "name": "Wismar 'Big Ship'",
+  "type": "wreck",
+  "lat": "53.9111337",
+  "lon": "11.4422607",
+  "location": "Wismar, Duitsland",
+  "firstdate": null,
+  "firstyear": "1184",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1200",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-09-02 20:38:49",
+  "modified_on": "2024-06-06 08:53:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens de voorbereidingen in 2016 voor een geplande uitbreiding van de haven werden drie middeleeuwsew scheepswrakken gevonden in de Baai van Wismar in Noord-Duitsland die later onderzocht werden in het kader van een reddings-opgraving.</p> <p>Het wrak wat het Wismar 'Grote Schip' genoemd wordt, is het grootste van de drie en werd in 26 dagen in november en december 2017 opgegraven door maritieme archeologen onder leiding van Dr. Jens Auer van het Landsdepartement voor Archeologie in Mecklenburg-Vorpommern (<em>Landesamt f&uuml;r Kurtlur und Denkmalpflege Mecklenburg-Vorpommern</em>, LAKD)).</p> <p>Het wrak werd onder water gedemonteerd en de losse houten scheepsonderdelen werden vervolgens omhoog gebracht en naar de conserveringslocatie voor met water verzadigd hout van de LAKD gebracht. Er werden <em>ex situ</em> 3D opnames van de scheepsonderdelen gemaakt met een Artec scanner, wat leidde tot de ontwikkeling van een techniek voor de snelle opname van houten delen die een grote kostenbesparing oplevert en die de '<em>3D annotated scans method'</em> genoemd werd.</p> <p>Het wrak heeft een aantal kenmerken die verbonden zijn aan de Scandivavische overnaadse bouwtraditie, waarvan de meest duidelijke de aanwezig heid van <em>bitis</em> is (dit is een bepaald type dwarsbalk waarop roeiers konden zitten die typerend zijn voor Vikingschepen). De resultaten van het dendrochronologisch onderzoek tonen aan dat het schip gebouwd is van eiken- en dennenhout dat in Zweden tussen 1184 en 1190 gekapt is. De bouwwijze vertoont opvallende gelijkenissen met een aantal andere grote vrachtschepen uit de 12e eeuw, zoals het wrak van Karschau (Noord-Duitsland) het Lyn&aelig;s 1 wrak (Denemarken) en het 'Grote Schip van Bergen (Noorwegen).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002812.png?modifiedon=1705654447\" alt=\"Compositietekening door M. Ditta van hoe het wrak gevonden werd.\"><div class=\"img-source\">M. Ditta</div><figcaption class=\"img-description\">Compositietekening door M. Ditta van hoe het wrak gevonden werd.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p><iframe src=\"https://sketchfab.com/models/b5fed783ac59405ea632be614398ebbc/embed\" width=\"440\" height=\"248\" frameborder=\"0\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" allowfullscreen=\"allowfullscreen\"></iframe></p> <p class=\"figcaption\">Een 3D model van het wrak gemaakt door M. Ditta voor de LAKD.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De houten scheepsonderdelen zijn geconserveerd en bewaard in de faciliteit hiervoor van de LAKD en onderzoek is nog steeds gaande.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Auer, J., Ditta, M. (2019).<br /><em>Bergung und Dokumentation des Bodendenkmals Wismar, Ostsee II, Fpl. 32 im Rahmen des Projektes „Seehafen Wismar, Fpl. 32” (3544-5504).</em><br />Schwerin: Landesamt für Kultur und Denkmalpflege.</li><li>Ditta, M., Auer, J. (2021).<br /><em>The 'Big Ship' of Wismar: A well-preserved 12th century cargo vessel from the harbour of Wismar.</em><br />Open Sea … Closed Sea. Local and inter-regional traditions in shipbuilding (= Proceedings of the 15th International Symposium on Boat &amp; Ship Archaeology, Marseille 22-27 October 2018).<br />pp 191;195;209.</li><li>Van Damme, T., Auer, J., Ditta, M., Grabowski, M., Couwenberg, M. (2020).<br /><em>The 3D annotated scans method: a new approach to ship timber recording.</em><br />Heritage Science 8:75.<br />pp 1-18.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

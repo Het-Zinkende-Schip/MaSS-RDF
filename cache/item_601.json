@@ -1,0 +1,26 @@
+{
+  "id": "601",
+  "code": "hooge-springer-1",
+  "name": "Hooge Springer 1",
+  "type": "structure",
+  "lat": "51.3871513",
+  "lon": "3.6903763",
+  "location": "Hooge Springer bij Hoofdplaat, Westerschelde, Nederland",
+  "firstdate": null,
+  "firstyear": "1600",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Leon Derksen",
+  "created_on": "2019-02-11 10:45:24",
+  "modified_on": "2025-06-06 22:25:57",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>In 2003 two softwood beams were found in a national park in Zeeland. Both beams were full of nail-holes and imprints of large nail heads. This could be prove of a technique that was used to protect East Indiaman ships from shipworm (<em>Teredo navalis</em>). The technique&nbsp;involved applying an outer layer of (usually small) planks that were covered&nbsp;with wide-headed nails. These nails would eventually corrode and form a protective layer against shipworm. The beams are thus suspected to have been used as a protective layer for a ship, pier or quay. The beams are unofficially dated between the 17th and 19th century.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Akker van den, J., M. Manders, W. van der Wens, A. Zandstra (2007).<br /><em>Bundel Maritieme Vindplaatsen 1, p. 96-97.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

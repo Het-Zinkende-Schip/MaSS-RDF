@@ -1,0 +1,27 @@
+{
+  "id": "2376",
+  "code": "rotterdam-1695",
+  "name": "Rotterdam",
+  "type": "wreck",
+  "lat": "38.7809045",
+  "lon": "-9.4994163",
+  "location": "Cabo da Roca, Portugal",
+  "firstdate": null,
+  "firstyear": "1695",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1706",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-18 10:36:21",
+  "modified_on": "2025-06-12 12:25:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Rotterdam</strong></em> was onderdeel van een Nederlands eskader (De Muiderberg, Rotterdam. Gaasterland Schermer, Rozendaal)- onder bevel van Roemer Vlacq (1637-1703) - dat 110 Engelse en Nederlandse koopvaarders van Lissabon naar Holland en Engeland zou begeleidden.</p> <p><strong>De slag bij Cabo da Roca</strong><br>Op 22 mei 1703 kwamen ze bij Cabo da Roca - net buiten de Taag- een Frans eskader van vijf zware linie schepen tegen. Vlack besloot het gevecht aan te gaan in een poging de koopvaarders te laten ontsnappen. Dat lukte maar de prijs was hoog. Het vlaggenschip Muiderberg werd vernietigd en de rest van het flottielje werd genomen door de Fransen. De Rotterdam werd overmeesterd en aan de Franse vloot toegevoegd als <em><strong>Le Rotterdam. </strong></em>1706 uit dienst .</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: 's Lands werf Rotterdam door Van Leeuwen <br>Bewapening: 34 (De Jonge, 3.318) <a title=\"Glavimans schepenlijst Rotterdam\" href=\"https://cultureelerfgoed.info/mass/?file=00000007.pdf\">Glavimans lijst</a> noemt 52 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Forman, Samuel</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>120</td></tr><tr><th scope=\"row\">Lengte</th><td>123 &frac34; voet (37,7 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>34 voet (10,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jonge, J.C.  (1859).<br /><em>Geschiedenis van het  Nederlandsche Zeewezen III, p618.</em><br />Keuzeman, Haarlem.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

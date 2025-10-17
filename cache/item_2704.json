@@ -1,0 +1,27 @@
+{
+  "id": "2704",
+  "code": "amsterdam-4",
+  "name": "Amsterdam",
+  "type": "wreck",
+  "lat": "12.0242776",
+  "lon": "-62.2952271",
+  "location": "60 miles west of Grenada",
+  "firstdate": null,
+  "firstyear": "1922",
+  "firstyearend": null,
+  "lastdate": "1942-04-16",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-11-25 11:47:03",
+  "modified_on": "2025-02-06 11:34:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Amsterdam</em> verliet op 4 april Smith's Bluff (Beaumont, Texas) met bestemming Freetown. Op 100 mijl ten noordwesten van Trinidad werd ze aangevallen door de Duitse '<em>U 66</em>'. De tanker wordt door twee torpedo's getroffen. De eerste torpedo trof de tanker midscheeps en de tweede torpedo de machinekamer. Daarna zonk het schip snel. De bemanning kon de twee bakboord reddingsboten te water laten en verliet het schip. Even later bleek in de boot dat er vier opvarenden waren vermist. Later stierf de stoker H. Fial aan zijn verwondingen. In totaal waren er vijf slachtoffers te betreuren.</p> <p>De overlevenden werden opgepikt door het Joegoslavische schip Ivan en in Venezuela aan land gebracht.</p> <p>Slachtoffers:<br>W Noorduyn 3e machinist<br>W.M. Kramer olieman<br>I. Rosenkranc matroos<br>Marshall pantry boy<br>H. Fial stoker</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Sir W.G. Armstrong, Whitworth &amp; Co. Ltd, Newcastle on Tyne (VK) <br>Eigenaar: N.V. American Petroleum Company, Rotterdam (NL)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Schol, H.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>40</td></tr><tr><th scope=\"row\">Lengte</th><td>440 voet (134,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>57 &frac12; voet (17,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>7329 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 175.</em></li><li><a href=\"https://www.uboat.net/allies/merchants/ship/1545.html\">Uboat.net U 66.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

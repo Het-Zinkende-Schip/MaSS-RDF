@@ -1,0 +1,27 @@
+{
+  "id": "1259",
+  "code": "stabroek",
+  "name": "Stabroek",
+  "type": "wreck",
+  "lat": "-33.9087000",
+  "lon": "18.4725000",
+  "location": "Salt River Mouth, Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1722",
+  "firstyearend": null,
+  "lastdate": "1728-07-03",
+  "lastyear": "1728",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-26 18:33:16",
+  "modified_on": "2025-06-24 19:06:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Stabroek</strong></em> vertrok op 24 januari 1728 samen met de Steenhove en Mijenberg naar Azi&euml;. Ze arriveerde bij de Kaap voor verversing. Het schip werd daar op 3 juli door een noordwester storm van het anker geslagen en strandde.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003767.png\" alt=\"De tekst beschrijft een noodlottige dag op 3 juli, gekenmerkt door extreem slecht weer en diverse scheepsrampen\"> <div class=\"img-source\">Cape archive 3-7-1728</div> </figure> <p>Twee andere schepen - <em>Middenrak</em> en <em>Haarlem</em> overkwam hetzelfde lot. De fluit Middenrak werd verbrijzeld en alle 75 opvarenden kwamen om. (<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=191&amp;accessor=search_in_text&amp;source=8&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=968\">Gen.Miss. 8, 180</a>). De Haarlem had meer geluk. Op twee na konden alle matrozen van het gestrande schip aan wal komen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Amsterdam, 1722<br>Tonnage: 450 last<br><br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Barend van der Zalm</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>180</td></tr><tr><th scope=\"row\">Lengte</th><td>145 voet (44,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>900 ton (450 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93806\">DAS 2724.3.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=191&amp;accessor=search_in_text&amp;source=8&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%\">Generale missiven Deel 8, 180.</a></li><li><em>SAHRA Database.</em></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li><li>Fick, J. (2018).<br /><em>The Wrecking of the VOC-Ship Stabroek and the changing Maritime Landscape of the Cape of Good Hope 1722-1743. [Unpublished Paper].</em><br />Leiden University.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

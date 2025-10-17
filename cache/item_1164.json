@@ -1,0 +1,27 @@
+{
+  "id": "1164",
+  "code": "foreest",
+  "name": "Foreest",
+  "type": "wreck",
+  "lat": "-6.0344032",
+  "lon": "106.7365432",
+  "location": "Pulau Onrust, Indonesië",
+  "firstdate": null,
+  "firstyear": "1770",
+  "firstyearend": null,
+  "lastdate": "1783-08-22",
+  "lastyear": "1783",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-25 10:54:07",
+  "modified_on": "2025-06-20 11:21:28",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Huis te <em><strong>Foreest </strong></em>is gebouwd in 1770 voor de VOC Kamer Hoorn. Voor die kamer voer ze alleen haar eerste reis. Ze vertrok op 20 oktober 1772 en was terug in Texel op 8 juni 1774.<br>Daarna maakte ze voor de VOC kamer Amsterdam nog een retourreis naar Azi&euml;.</p> <p>Haar derde en laatste uitreis naar Azi&euml; begon op 13 september 1777. Ze kwam in Batavia aan op 3 mei 1778. Vervolgens bleef Foreest dienst doen in Azi&euml;.</p> <p>Ze is afgevaren of verbrand volgens <a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0225?eadID=1.04.02&amp;unitID=4935&amp;query=\">NH VOC 4935</a>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Hoorn,<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>850 ton (425 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98778\">DAS 7958.2.</a></li><li>VOC site.<br /><a href=\"https://www.vocsite.nl/schepen/11298/\">Foreest.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0057?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen, fol. 54.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0224?eadID=1.04.02&amp;unitID=4935&amp;query=\">1.04.02 4935 Lijsten van voor de VOC uitgevaren schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

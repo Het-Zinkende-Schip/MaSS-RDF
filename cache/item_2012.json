@@ -1,0 +1,27 @@
+{
+  "id": "2012",
+  "code": "ob20",
+  "name": "OB20",
+  "type": "wreck",
+  "lat": "52.5079300",
+  "lon": "5.4622800",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": "1530",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 16:42:16",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het scheepswrak is in 1964 aangetroffen bij de aanleg van een tocht op kavel B20 in Oostelijk Flevoland. Toen is een eerste verkennend onderzoek gedaan. Het wrak is vervolgens blijven liggen. Tijdens de verkenning is vastgesteld dat de huid karveel was gebouwd. De lengte van het schip is bepaald op 18 meter en de breedte op 6,2 meter. De karveelbouw wijst er op dat het schip na 1530 moet zijn gebouwd. De dikte van de huidplanken bedraagt 5 cm. In 1975 werd het wrak opnieuw geraakt bij de aanleg van de riolering voor de woonwijk de Schouw. Bij de tweede verkenning bleek dat het voordek nog vrij compleet aanwezig was. De enige vondsten uit de verkenning waren vijf kalkstenen netverzwaarders. Het schip is niet opgegraven, maar bewaard voor nader onderzoek. In 2004 is het schip opnieuw (exact) gelocaliseerd in het kader van de Actualisatie Archeologische Monumenten Kaart (AMK) Flevoland.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een zestiende-eeuws vissersschip (waterschip) in de Schouw, Lelystad</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001948.jpg\" alt=\"Detail van het dek van het stuurboord bij het voorschip.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Detail van het dek van het stuurboord bij het voorschip.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zcd-pcy6\">Opgravingsdocumentatie scheepswrak OB20.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1536",
+  "code": "vredenhof-1776",
+  "name": "Vredenhof",
+  "type": "wreck",
+  "lat": "14.2643831",
+  "lon": "-26.0156250",
+  "location": "Atlantic ocean",
+  "firstdate": null,
+  "firstyear": "1776",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1779",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-14 11:22:13",
+  "modified_on": "2025-07-03 10:03:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Vredenhof vertrok 9-12-1777 voor de VOC kamer Amsterdam naar Batavia (aankomst 5-7-1778) Vervolgens ging de reis naar Kanton in China. Om vandaar met een lading thee naar Nederland te vertrekken (29-1-1779). Het schip deed de Kaap nog aan. Vertrok van daar 24-6-1779 en is vervolgens vermist op de Atlantische Oceaan.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001864.jpg\" alt=\"Schilderij van water met schepen met daar achter land met huisjes.\"> <figcaption class=\"img-description\">gezicht op Kanton met de VOC factorij rechts</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Oostenburg VOC-werf Amsterdam in 1776<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Uijt, Reindert den</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>118</td></tr><tr><th scope=\"row\">Lengte</th><td>150 voet (45,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1150 ton (575 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/98854\">DAS 8034.1.</a></li><li>Yong, Liu (2007).<br /><em>The Dutch East India Company's tea trade with China 1757 - 1781.</em><br />Leiden: TANAP, Brill.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

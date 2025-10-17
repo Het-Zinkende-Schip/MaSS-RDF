@@ -1,0 +1,27 @@
+{
+  "id": "4256",
+  "code": "marken",
+  "name": "Marken",
+  "type": "wreck",
+  "lat": "1.9389585",
+  "lon": "-33.4838896",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1937",
+  "firstyearend": null,
+  "lastdate": "1941-09-10",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-03-12 16:48:13",
+  "modified_on": "2025-03-13 10:35:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Marken</em> was op weg van Cardiff naar Kaapstad en Calcutta. Ze was uit Trinidad vertrokken op 4 september vertrokken. Ze voer in ballast met 5 trainingsvliegtuigen als deklading.</p> <p>Ze voer onge&euml;scorteerd 335 mijl N-NO van Fortaleza (Brazili&euml;) toen ze werd opgemerkt door de Duitse onderzeeboot 'U 111' . Deze vuurde een torpedo af waardoor het schip stopte en de bemanning in de reddingsboten het schip verliet. Een tweede torpedo bracht het schip tot zinken op positie 01.36&deg; N / 36.55&deg; W.</p> <p>De bemanning kon op 13 september worden opgepikt door de Panamese tanker <em>Stanvac Manilla</em>. De 'Stanvac Manilla' zette de bemanning vervolgens in Santos aan wal.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Machinefabriek en Scheepswerf van P. Smit Jr. N.V., Rotterdam<br>Eigenaar: NV Stoomvaart Mij &ldquo;Rotterdam&rdquo; (W. Ruys &amp; Zonen), Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Anthonie Kokké</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>37</td></tr><tr><th scope=\"row\">Lengte</th><td>431 &frac12; voet (131,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>55 &frac12; voet (16,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>5665 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>marhisdata.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=4089\">id 4089.</a></li><li><a href=\"https://www.uboat.net/allies/merchants/ship/1093.html\">uboat.net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2778",
+  "code": "amstel-ii",
+  "name": "Amstel II",
+  "type": "wreck",
+  "lat": "53.6797914",
+  "lon": "1.3568115",
+  "location": "Spurn point, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1906",
+  "firstyearend": null,
+  "lastdate": "1915-03-29",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-28 13:07:31",
+  "modified_on": "2025-06-14 21:52:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>SS Amstel II</strong></em> was het tweede schip dat verloren ging van de rederij <br>P.A. van Es &amp; Co., Rotterdam, Zuid-Holland</p> <p>De Amstel was op weg van Rotterdam naar Goole in VK, op de Noordzee, 45 mijl ten oosten van Spurn Point, bij de ingang van de Humber op een mijn gelopen.</p> <p>Alle opvarenden wisten zich met beide sloepen te redden. De volgende dag werden zij gered door de Britse trawler 'Pinewold', die hen naar Grimsby bracht.</p> <p>Zie ook <a href=\"/ss-amstel-i\">Amstel I</a>, en <a href=\"/ss-amstel-iii\">Amstel III</a>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Flensburger Schiffbau-Gesellschaft (D)</p> <p>Eigenaar: P.A. van Es &amp; Co., Rotterdam, Zuid-Holland, Netherlands</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Vermogen</th><td>650 pk</td></tr><tr><th scope=\"row\">Lengte</th><td>211 voet (64,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 &frac34; voet (9,4 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>14 voet (4,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>853 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=356\">Amstel 356.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4074",
+  "code": "nl23",
+  "name": "NL23",
+  "type": "wreck",
+  "lat": "52.7626690",
+  "lon": "5.7751320",
+  "location": "Bant, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:22:30",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1944 verkende Pieter (P.J.R.) Modderman een scheepswrak op kavel L23 in de Noordoostpolder. Het bleek te gaan om een overlangs in drie stukken gebroken, uiteengeslagen schip. Het lag op 1 meter onder het maaiveld en gaf de indruk te zijn stukgeslagen op het laagterraszand. Na het aantreffen van vondsten in het voorschip die op een jonge (19de-eeuwse) datering wezen, waaronder een koperen pan en enige lood-geglazuurde scherven, is het door hem afgeschreven voor verder onderzoek.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xag-t63t\">Opgravingsdocumentatie scheepswrak NL23.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1312",
+  "code": "victoria",
+  "name": "Victoria",
+  "type": "wreck",
+  "lat": "-33.9171069",
+  "lon": "18.4578173",
+  "location": "Tafel baai, Cape Town, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1724",
+  "firstyearend": null,
+  "lastdate": "1737-05-21",
+  "lastyear": "1737",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-05-12 10:54:39",
+  "modified_on": "2025-06-10 13:24:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op de rede van de Tafel baai gestrand tijdens een zware storm op 21 mei 1737.</p> <p>Tijdens de ramp werden de schepen<strong><em> <a href=\"/iepenrode\">Iepenrode</a>, <a href=\"/goudriaan\">Goudriaan</a>, <a href=\"/flora\">Flora</a>, Buis</em></strong> en <em><strong><a href=\"/duinbeek\">Duinbeek</a></strong></em> kapot geslagen. De schepen <em><strong>Westerwijk, Rodenrijs</strong> </em>en <em><strong>Victoria</strong></em> strandde. Alleen de <em><strong>Papenburg</strong></em> bleef op 'miraculeuze' wijze behouden. 208 opvarenden verloren het leven. (GM)<br>Naar aanleiding van deze ramp werd onderzocht of de Saldahna baai 100 km naar het noorden niet een betere rendez-vous plaats zou zijn voor de VOC. Dit gebeurde uiteindelijk niet.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Brigantijn<br>Gebouwd: Hoorn, 1724<br>Eigenaar: VOC kamer Hoorn<br>Lengte: 75 vt<br>Tonnage: 80<br>Complement: 30<br>Kapitein: Jakob Groot</p> <p><strong>Brigantijn</strong><br>Een brigantijn is een van oorsprong mediterraan roof vaartuig. Al in de 14e eeuw werd het type overgenomen door de Portugezen. Alleen de voorste mast was vierkant getuigd was. De achterste mast is gaffelgetuigd en voert bovenin nog een of twee razeilen.</p> <p>De brigantijn was snel en wendbaarheid had goede vaareigenschappen. Het was een geliefd schip bij piraten en smokkelaars. (bron:Wikipedia)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jakob Groot</td></tr><tr><th scope=\"row\">Lengte</th><td>75 &frac14; voet (22,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>160 ton (80 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93690\">DAS 2608.1.</a></li><li>Valckenier 1737.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=29&amp;accessor=search_in_text&amp;source=10&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id\">Generale missiven van gouverneurs-generaal en raden aan heren XVII der Verenigde Oostindische Compagnie.</a></li><li><em>SAHRA Database.</em></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2254",
+  "code": "zijp-1690",
+  "name": "Zijp",
+  "type": "wreck",
+  "lat": "-6.0568789",
+  "lon": "106.7578153",
+  "location": "Teluk Jakarta, Indonesië",
+  "firstdate": null,
+  "firstyear": "1672",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1689",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-20 15:48:14",
+  "modified_on": "2024-07-22 11:53:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Zijp</em></strong> vertrekt 11-9-1673 uit Texel naar Azi&euml;. Ze doet daar dienst tot eind 1689. <br>De Zijp heeft een lading rijst aan boord. Ze ontploft op de rede van Batavia: <em>Op batavias rhede den 6en xber 1689 gesprongen.(<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1457B/file/NL-HaNA_1.04.02_1457B_0112?eadID=1.04.02&amp;unitID=1457B&amp;query=1456\">1</a>)</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 &frac34; voet (9,4 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>488 ton (244 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/92333\">DAS 1250.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0136?query=\">NL-HaNA_1.04.02_4932_0136.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000235.jpg\">NA 1.04.01.01. 551, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4100",
+  "code": "no27",
+  "name": "NO27",
+  "type": "wreck",
+  "lat": "52.6699060",
+  "lon": "5.7749630",
+  "location": "Emmeloord, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1200",
+  "lastyearend": "1600",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 15:46:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1947 en 1948 werd de vondst gemeld van houtresten, vermoedelijk van een scheepswrak, op kavel O27 in de Noordoostpolder. De vindplaats werd gereserveerd worden voor verkennend onderzoek in 1949, maar het is helaas onduidelijk wat de resultaten hiervan zijn geweest, als er al een wrak is aangetroffen. Hierna bleef het velen jaren stil. Begin jaren '90 meldde de pachter van de kavel zich met een oude maar intacte kruik. Hij wist zich te herinneren, dat het wrak begin jaren '60 met een rupstrekker in een del was geschoven en geplet. De Dienst Domeinen zou slechte grond boven het wrak weg hebben willen laten halen en toen op het wrak gestoten zijn. De boorden werden vrijgegraven, waarbij de intacte steengoed kruik werd gevonden. Vervolgens zouden ze naar buiten toe plat zijn gedrukt en zou de drainmachine door het schip zijn gegaan. Voor zover bekend werden er geen sporen van ballast opgemerkt. Op enig moment hierna is een gebied op de kavel met een prikijzer van 2.5 m lang afgeprikt; het wrak kon hierbij echter niet gelokaliseerd worden. Wel werd op de kavel een vermoedelijk opgeploegd fragment scheepshout met een ijzeren bout aangetroffen, dat is gedocumenteerd en daarna afgevoerd. Door een gebrek aan archeologisch onderzoek zijn scheepstype en ouderdom onduidelijk, maar (losse?) vondsten die in 1948 werden aangetroffen op de kavels O27 en O28 wijzen in de richting van een mogelijke ondergangsdatering ergens tussen 1200 en 1600.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-29u-znqq\">Opgravingsdocumentatie scheepswrak NO27.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

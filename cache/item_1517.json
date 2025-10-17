@@ -1,0 +1,27 @@
+{
+  "id": "1517",
+  "code": "caroline",
+  "name": "Caroline",
+  "type": "wreck",
+  "lat": "51.2514330",
+  "lon": "2.9414000",
+  "location": "Bredene bad, België",
+  "firstdate": null,
+  "firstyear": "1959",
+  "firstyearend": null,
+  "lastdate": "1959-01-16",
+  "lastyear": "1959",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Martijn Heijink",
+  "created_on": "2020-07-31 15:34:36",
+  "modified_on": "2025-06-10 16:48:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 16 januari 1959 liep het Nederlandse jacht Caroline, met thuishaven Scheveningen, rond 23 uur bij laagwater vast op strandhoofd 6 in Bredene. Er ontstond een scheur in de romp waardoor vrijwel meteen water binnen begon te stromen. De opvarenden zonden een noodsignaal uit. Omstreeks middernacht zonk het jacht, maar de opvarenden werden gered door de sleepboot Zeetijger.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>2</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Pieters, M.<br /><a href=\"http://www.maritieme-archeologie.be/WK_Ship_GenView.aspx\">Maritieme Archeologie.</a></li><li>Dirk Termote en Tomas Termote (2009).<br /><em>Schatten en scheepswrakken: boeiende onderwaterarcheologie in de Noordzee.</em><br />z.p., Schuyt.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

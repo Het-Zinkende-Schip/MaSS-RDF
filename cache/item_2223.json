@@ -1,0 +1,27 @@
+{
+  "id": "2223",
+  "code": "alida-en-dirk",
+  "name": "Alida en Dirk",
+  "type": "wreck",
+  "lat": "52.4671171",
+  "lon": "1.7710304",
+  "location": "Lowestoft, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1783-03-29",
+  "lastyear": "1783",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-10 11:05:41",
+  "modified_on": "2024-11-20 09:52:33",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Alida en Dirk</em> was een walvisjager onderweg van Amsterdam naar Groenland vergaan bij Lowestoft (UK).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://babel.hathitrust.org/cgi/pt?id=hvd.32044105232995&amp;view=1up&amp;seq=65\">New Loyds list 1783.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

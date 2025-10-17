@@ -1,0 +1,27 @@
+{
+  "id": "296",
+  "code": "albenga-wreck",
+  "name": "Albenga wreck",
+  "type": "wreck",
+  "lat": "44.0425500",
+  "lon": "8.2287600",
+  "location": "Albenga, Italië",
+  "firstdate": null,
+  "firstyear": "-100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-90",
+  "lastyearend": null,
+  "country": "Italië",
+  "countrycode": "IT",
+  "author": "Will Brouwers",
+  "created_on": "2011-12-30 00:00:00",
+  "modified_on": "2025-06-19 20:32:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Found in 1925 by local fishermen. The first investigations took place in 1950. In ten&nbsp;days 1100 (wine) amphora&rsquo;s were retrieved from the wreck with a mechanical bucket. Only 110 stayed intact. There were no site plan or drawings made.</p> <p>However primitive, this was one of the first maritime archeology investigations. It urged the new discipline of maritime archeology to develop more scientific methods (see also Grand Conglou&eacute; wreck).</p> <p>Between 1961-1971 archaeologist Nino Lamboglia supervises the recovery of the&nbsp;<br>remaining cargo. The site was dated to ca. 100 BC by Campanian black glazed ware indicates port of call in the Naples region.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p><iframe src=\"https://www.youtube-nocookie.com/embed/f2DI7z4Xjgc\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://oxrep.classics.ox.ac.uk/databases/sites/italy/albenga/\">Databases | The Oxford Roman Economy Project.</a></li><li><em>B.M. Encyclopaedia of Underwater and Maritime Archaeology.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

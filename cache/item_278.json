@@ -1,0 +1,26 @@
+{
+  "id": "278",
+  "code": "henrica-maria",
+  "name": "Henrica Maria",
+  "type": "wreck",
+  "lat": "51.6880000",
+  "lon": "4.8080000",
+  "location": "Maasdriel, Nederland",
+  "firstdate": null,
+  "firstyear": "1898",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1978",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Johan Opdebeeck",
+  "created_on": "2011-06-08 00:00:00",
+  "modified_on": "2020-04-09 11:06:09",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><div>River Barge type: Hevelaak/Hagenaar. Transporter for bulk goods on rivers. <br />Built in 1898 at the shipyard of P &amp; A Ruijtenberg.<br /> <ul> <li>Length : 21 m.</li> <li>Width : 4 m.</li> <li>Displacement 75 tons.</li> </ul> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000523.jpg\" alt=\"Henrica Maria.\" height=\"568\" /><figcaption class=\"img-description\">Henrica Maria.</figcaption></figure> </div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

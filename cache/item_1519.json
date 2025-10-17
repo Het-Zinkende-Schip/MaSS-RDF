@@ -1,0 +1,27 @@
+{
+  "id": "1519",
+  "code": "mv-callisto",
+  "name": "MV Callisto",
+  "type": "wreck",
+  "lat": "51.6989830",
+  "lon": "2.6217500",
+  "location": "België",
+  "firstdate": null,
+  "firstyear": "1951",
+  "firstyearend": null,
+  "lastdate": "1959-02-24",
+  "lastyear": "1959",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Martijn Heijink",
+  "created_on": "2020-07-31 15:46:44",
+  "modified_on": "2025-06-10 16:49:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Callisto</em> was met 9600 ton ijzererts onderweg van Pepel (Sierra Leone) naar IJmuiden. Op 24 februari 1959 passeerde het om 23:00 uur het lichtschip Noord-Hinder. Even later voer het schip door dikke mist, om 23:24 werd de motor gestopt omdat een ander schip op de radar werd waargenomen. Men hoorde om 23:29 &eacute;&eacute;n stoot van de misthoorn van het andere schip. Toen dit schip, de Liberiaanse <em>Andros Stream</em>, in zicht kwam, zette de <em>Callisto</em> volle kracht achteruit. Een aanvaring viel niet meer te voorkomen. Na de aanvaring voer de <em>Andros Stream</em> zonder hulp te bieden door. Om 23:55 scheepten de 34 opvarenden van de reddeloze <em>Callisto</em> zich in op een van de sloepen. Precies om middernacht zonk de <em>Callisto</em>. De bemanning werd op 25 februari om 3:30 gered door de Duitse kustvaarder <em>Julia</em>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>J. van der Zwan</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>34</td></tr><tr><th scope=\"row\">Vermogen</th><td>3300 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>12 knopen ~ 22 km/u (14 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>441 voet (134,4 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>26 voet (7,9 m)</td></tr><tr><th scope=\"row\">Deplacement</th><td>5824 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak van<em> MV Callisto</em> bevindt zich rechtop, de maximale bodemdiepte is 34 meter en de zichtbare resten zijn over een gebied van 110 bij 16 meter verspreid. Het midscheepse en achterste deel van het wrak staan rechtop, het voorschip is afgebroken en ligt onder een hoek van 45 graden naar bakboordzijde. Het deel tussen boeg en middenschip is sterk verzand.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Agentschap Onroerend Erfgoed.<br /><a href=\"http://www.maritieme-archeologie.be/WK_Ship_GenView.aspx?ObjCId=1791&amp;type=1&amp;utype=guest\">Callisto MV.</a></li><li>Stichting Maritiem-Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip?id=1211\">Callisto - ID 1211.</a></li><li>Dirk Termote en Tomas Termote (2009).<br /><em>Schatten en scheepswrakken: boeiende onderwaterarcheologie in de Noordzee.</em><br />z.p., Schuyt.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

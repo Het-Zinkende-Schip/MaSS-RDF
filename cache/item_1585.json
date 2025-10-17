@@ -1,0 +1,27 @@
+{
+  "id": "1585",
+  "code": "vrouwe-petronella",
+  "name": "Vrouwe Petronella",
+  "type": "wreck",
+  "lat": "21.9874299",
+  "lon": "88.0753267",
+  "location": "Janne gat, India",
+  "firstdate": null,
+  "firstyear": "1755",
+  "firstyearend": null,
+  "lastdate": "1768-01-11",
+  "lastyear": "1768",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-01 09:55:14",
+  "modified_on": "2025-06-04 12:43:21",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 11 januari 1768 is de 'Vrouwe Petronella' tijdens een reis van Batavia naar Bengalen vergaan op de rivier Ganges. Het schip is verzeild tussen <em>Ingeli</em> en <em>Cassarij </em>. De bemanning en goederen zijn geborgen.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001798.jpg?modifiedon=1705654390\" alt=\"Op de kaart de twee eilanden aan de westoever van de monding van de Ganges.\"> <div class=\"img-source\">Nationaal Archief</div> <figcaption class=\"img-description\">Op de kaart de twee eilanden aan de westoever van de monding van de Ganges.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Op de VOC werf te Enkhuizen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Booms, Steven</td></tr><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>880 ton (440 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Johan Splinter Stavorinus (1798).<br /><em>Voyages to the East-Indies.</em></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0203?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0202?eadID=1.04.02&amp;unitID=4935&amp;query=\">1.04.02 4935 Lijsten van voor de VOC uitgevaren schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

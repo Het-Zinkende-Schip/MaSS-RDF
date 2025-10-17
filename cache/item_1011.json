@@ -1,0 +1,27 @@
+{
+  "id": "1011",
+  "code": "santa-lucia",
+  "name": "MV Santa Lucia",
+  "type": "wreck",
+  "lat": "54.7010058",
+  "lon": "-5.5846252",
+  "location": "Belfast, Bangor bay, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1937",
+  "firstyearend": null,
+  "lastdate": "1940-11-01",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-05 15:27:19",
+  "modified_on": "2025-06-09 12:50:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Onderweg van Belfast naar Portugal en bezig om naar een boei te varen om het kompas te stellen, in het Belfast Lough op een mijn gelopen op 3,5 mijl van Pile Light en gezonken.</p> <p>De kapitein en drie bemanningsleden kwamen hierbij om het leven. De vier omgekomen bemanningsleden zijn: Kapt. G.S. van Dijk, Machinist J v/d Meulen, Matroos G.J. de Jong en Kok Y.C. Sweenk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type:<br>Gebouwd: Firma Gebr. Niestern &amp; Co., Delfzijl, Groningen<br>Eigenaar: Guitje Seiko van Dijk, Groningen<br>Dimensies: 45.00 x 7.50 x 3.75 Meters<br>Tonnage: 379<br>Voortstuwing: Benz Diesel motor van 300 pk<br>Snelheid: 9<br>Bemanning: 4 men died<br>Kapitein: G.S. van Dijk</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 47.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

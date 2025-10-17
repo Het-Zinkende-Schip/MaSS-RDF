@@ -1,0 +1,27 @@
+{
+  "id": "1300",
+  "code": "noordbeek-1707",
+  "name": "Noordbeek",
+  "type": "wreck",
+  "lat": "-5.3419597",
+  "lon": "123.2141918",
+  "location": "Buton, Indonesië",
+  "firstdate": null,
+  "firstyear": "1707",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1730",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-21 12:54:37",
+  "modified_on": "2025-06-24 23:41:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Noordbeek</em> maakte 6 retour reizen naar Azi&euml;. Haar zevende reis begon 30-12-1727 in Rammekens Zeeland. Na aankomst in Batavia bleef ze dienst doen in Indi&euml; op de relatief veilige route tussen Ternate en Batavia. Het schip Noordbeek is op reis van Ternate naar Bima op de Zuidoostelijke hoek van Button verongelukt met o.a. een lading Sapanhout. De schipper was overleden de bemanning gered door de <em>Nederhoven</em>. (<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=136&amp;accessor=search_in_text&amp;source=9&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1120\">GM 9, 123, 150</a>)<br>Het geschut is door de vorst van Button van het wrak gelicht .</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004323.png\" alt=\"Op deze kaart staat op de zuidoost kust van het eiland Bouton de plek van de verongelukte Noordbeek aangegeven.\"> <div class=\"img-source\">NL-HaNA_4.VELH 239E,Op deze kaart staat op de zuidoost kust van het eiland Bouton de plek van de verongelukte Noordbeek aangegeven.</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf Middelburg, 1707<br>Lengte: 145 vt<br>Tonnage: 430<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>vocsite.nl.<br /><a href=\"https://www.vocsite.nl/schepen/10742/\">Noordbeek reizen.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=136&amp;accessor=search_in_text&amp;source=9&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26\">Generale missiven Deel 9, 123, 150.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

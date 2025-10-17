@@ -1,0 +1,27 @@
+{
+  "id": "1143",
+  "code": "koning-david",
+  "name": "Koning David",
+  "type": "wreck",
+  "lat": "-25.0736762",
+  "lon": "47.0327316",
+  "location": "Madagaskar",
+  "firstdate": null,
+  "firstyear": "1623",
+  "firstyearend": null,
+  "lastdate": "1639-08-29",
+  "lastyear": "1639",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-18 15:35:40",
+  "modified_on": "2024-07-10 15:06:08",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Koning David</em> is in september 1638 in Amsterdam gekocht voor de kamer Zeeland. Daar is het schip later in dat jaar naar toe gebracht om verder te worden uitgerust. Vrijwel zeker was het een fluit, maar in de bronnen wordt het vaker als jacht aangeduid.</p> <p><strong>Storm<br></strong>De Koning David was in maart 1639 met 66 opvarenden uit Zeeland vertrokken naar Azi&euml;. Ze kwam in juli ten zuiden van Kaap de Goede Hoop in een storm en het schip werd zwaar beschadigd. De grote mast was overboord geslagen en de bezaan mast was gescheurd zodat die geen zeil meer kon voeren. Zo voer men verder de Indische Oceaan op. Na beraad aan boord besloot men naar 't <em>Hollandse kerkhof</em> (Nosy Manitse, Madagaskar) te varen om daar reparaties uit te voeren.</p> <p><strong>Stranding<br></strong>Op 16 augustus kwam Madagaskar in zicht en het schip laveerde langs de kust oostwaarts. Op 28 augustus kwamen ze voor een grote baai. Er werd besloten daar te ankeren. Plotseling stak er een harde wind op het schip raakte van zijn ankers en op drift, richting de wal. Het schip kwam tussen twee riffen klem te zitten maar bleef drijven dankzij de lading masten in het ruim. Elf man die zwemmend de kust trachtten te bereiken, verdronken. De rest kon zich redden. Met een zelfgemaakt vaartuig bereikten 33 overlevenden in februari 1640 de Tafelbaai. Daar werden zij opgepikt door de VOC retourvloot op weg naar Nederland. Het goud en geld hadden ze van het wrak weten te redden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: het schip bleef drijven op de ingeladen masten. Het moet dus een vaartuig met zogenaamde laadpoorten zijn geweest. Fluitschepen (noordvaarder) die waren ontworpen om lange balken en stammen hout te laden hadden een dergelijke laadpoort. Ze werden noordvaarders genoemd en waren doorgaans onbewapend.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jean Jasperss van Middelburg</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>66</td></tr><tr><th scope=\"row\">Tonnage</th><td>200 ton (100 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>.R. Bruijn, F.S. Gaastra, I. Schöffer.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91641\">DAS 0524.1.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2640",
+  "code": "prerow",
+  "name": "Prerow (FPL-77)",
+  "type": "wreck",
+  "lat": "54.4578829",
+  "lon": "12.4882472",
+  "location": "Prerow, Duitsland",
+  "firstdate": null,
+  "firstyear": "1590",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1625",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-09-18 17:41:25",
+  "modified_on": "2025-06-14 18:12:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This wreck fragment was documented by postgraduate students of the Maritime Archaeology Programme of the University of Southern Denmark in summer 2009 under the direction of Prof. Thijs Maarleveld and Dr. Jens Auer, who carried out the fieldwork in cooperation with the responsible state authority of Mecklenburg Western Pomerania, i.e. the <em>Landesamt f&uuml;r Kultur und Denkmalpflege</em>.</p> <p>Located on a beach exposed to waves, the wreck was sketched and photo-documented <em>in situ</em>, but dismantled for a more detailed <em>ex situ</em> timber recording.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>This vessel is a clinker-construction, which has been re-planked with an additional layer of flush-laid (carvel) planks. Filling pieces were inserted into the cavities of the joggled exterior side.</p> <p>The dendrochronological analysis was conducted by Dr. Aoife Daly. The felling date is around/after 1590 and there seem to be at least two distinct provenances: The clinker planks seem to have originated from eastern Denmark or southern Sweden (&Oslash;resund region) and the carvel planks from northern Germany. All planks were radially cleft and dressed with adzes.</p> <p>This style of construction was noted throughout the Baltic Sea region since the mid 16th century, with corresponding finds from Estonia, Germany, Poland, Sweden and Russia.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The waterlogged ship-timbers were kept wet during the entire documentation process: During day-time with lawn sprinklers and at night with a cover.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Auer, J., Grue, M.-L., Fawsitt, S., Lofthus, L., Thomsen, C.  (2010).<br /><em>Fieldwork Report: Ostsee Bereich IV, Fischland, FPL 77 (4am wreck).</em><br />Esbjerg Maritime Archaeology Reports 2.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

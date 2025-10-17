@@ -1,0 +1,27 @@
+{
+  "id": "1388",
+  "code": "brak-2",
+  "name": "Brak",
+  "type": "wreck",
+  "lat": "50.5178509",
+  "lon": "-0.0981452",
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1666",
+  "firstyearend": null,
+  "lastdate": "1693-04-07",
+  "lastyear": "1693",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-14 17:07:47",
+  "modified_on": "2025-06-10 16:08:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: jacht, fregat<br>Bewapening: 25</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Cast, W.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>75</td></tr><tr><th scope=\"row\">Lengte</th><td>100 voet (30,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>24 voet (7,3 m)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

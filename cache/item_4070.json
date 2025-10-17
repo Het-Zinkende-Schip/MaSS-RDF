@@ -1,0 +1,27 @@
+{
+  "id": "4070",
+  "code": "nk7",
+  "name": "NK7",
+  "type": "wreck",
+  "lat": "52.8412430",
+  "lon": "5.7364990",
+  "location": "Lemmer, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1875",
+  "lastyearend": "1925",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:18:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1948 werd de vondst van een scheepswrak gemeld op kavel K7 in de Noordoostpolder. De vindplaats werd bezocht en men besloot dat het wrak in aanmerking kwam voor systematische opgraving, hetgeen echter niet op korte termijn kon plaatsvinden. Uiteindelijk zou het pas tot een verkenning komen in 1985. Hieruit kon worden opgemaakt dat het gaat om een vrij compleet, karveel gebouwd vrachtschip, met een lengte over de stevens van ca. 19,5 meter en breedte over de boorden van ca. 4,3 meter. Mogelijk vervoerde het een lading afval of compost, gezien het uiteenlopende materiaal dat in de proefsleuf ter hoogte van het ruim werd aangetroffen. Na afloop is het weer toegedekt. Er werd vastgesteld dat inkuilen, dat wil zeggen, het kunstmatig verhogen van de grondwaterstand bij het wrak, niet mogelijk zou zijn vanwege de losse grondsoort ter plaatse. Op basis van een koperen kraantje waar 'l'empereur 1883' op staat, kan de ondergangsdatering tenminste op 1883 of daarna gesteld worden (terminus postquem), waarschijnlijk zo rond 1900. Verder wordt een relatie vermoed tussen dit wrak en een fragment opboeisel van soortgelijke ouderdom, dat werd aangetroffen op de tegenoverliggende kavel K28. Gezien de nabije ligging van de toenmalige kust kan kruiend ijs het scheepsfragment hier naartoe hebben gedrukt.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-ze7-zukt\">Opgravingsdocumentatie scheepswrak NK7.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

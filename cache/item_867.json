@@ -1,0 +1,27 @@
+{
+  "id": "867",
+  "code": "zwarte-vos",
+  "name": "Zwarte Vos",
+  "type": "wreck",
+  "lat": "9.9385521",
+  "lon": "106.7184448",
+  "location": "Cambodja",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1657",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-25 14:45:26",
+  "modified_on": "2025-06-07 21:13:22",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Zwarte Vos</em> was een galjoot. Die door de VOC kamer Amsterdam werd uitgerust. Ze vertrok 4-9-1652 van Texel naar Batavia.</p> <p>De Zwarte Vos is vergaan in de monding van de Mekong rivier in Cambodja . Met aan boord een lading van 28 last zwarte rijst en 24&frac12; picol sapanhout voor Batavia. De bemanning werd gered, maar de lading ging verloren.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001592.jpg\" alt=\"VOC kaart cambodja detail\"></figure> <p class=\"figcaption\"><em>Detail van VOC kaart Cambodia en Vietnam uit ca. 1666 (Vingboons).</em><br><em>Links boven ligt de stad Phnom Pen met een Hollandse loge.</em></p> <p>De VOC probeerde vaste voet te krijgen in Cambodja. Voornamelijk om hertenhuiden te verkrijgen. Die konden ze dan weer verhandelen in Japan. Japanners deden dat tot 1635 zelf, maar door de isolationistische politiek van de Shogun mochten Japanners niet meer het land uit.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf te Amsterdam, 1652<br>Schipper: Teunis Eissen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>60 ton (30 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://archive.org/details/daghregistergeh00rijkgoog/page/n106/mode/2up\">Dagregister Batavia, 29-12-1656.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

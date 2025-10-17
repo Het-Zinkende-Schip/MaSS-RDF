@@ -1,0 +1,27 @@
+{
+  "id": "1393",
+  "code": "amsterdam-3",
+  "name": "Amsterdam",
+  "type": "wreck",
+  "lat": "52.8792143",
+  "lon": "4.6817321",
+  "location": "Callantsoog, NH, Nederland",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1653-11-10",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-17 12:00:45",
+  "modified_on": "2025-06-10 16:11:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Er werd in september 1653 een vloot eskader onder vice admiraal Witte de With samengesteld. Deze werd uitgezonden om de koopvaardijvloot naar huis te escorteren die door de oorlog met Engeland niet via het Engelse Kanaal maar achterom (ten westen van Ierland en tussen de Shetland eilanden) in de Noord Zee aankwamen. Op 21 oktober waren er 400 koopvaarders (Oost Indi&euml; vaarders Oostvaarders en Noordvaerders) en &rsquo;s Lands vloot van de With 84 verzameld bij Flekker&ouml; Noorwegen. 3 november kwam men behouden bij Texel aan. De oorlogsvloot moest buitengaats vlak bij de kust blijven om nieuwe voorraden in te kunnen nemen. De With was geen voorstander om zijn vloot dicht onder de kust te laten ankeren en zo bloot te stellen aan de gevaren van de herfststormen. <br><br>De With besloot niet te dicht onder de kust te blijven omdat hij dit te gevaarlijk achtte in dit jaargetijde. En inderdaad in de nacht van 8 november brak een storm uit die pas 11 november wat bedaarde. Vele schepen verloren masten en roer. W.o. ook de Witte&rsquo;s schip huis van Swieten. De With meldde 13 schepen van oorlog als gestrand of verloren waar onder 1 bevoorrading schip (een fluit) en een Oost-Indi&euml;vaarder.</p> <p>Het was een grote ramp. Totaal aantal slachtoffers 1300 a1400 doden. De vloot had minsten 9 schepen verloren en de meeste anderen waren zwaar beschadigd</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: admiraliteit Zeeland<br>Bewapening: 32</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Kempen, Adriaan</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De Amsterdam strandde en ging verloren op 10 november 1653.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

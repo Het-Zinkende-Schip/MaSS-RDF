@@ -1,0 +1,27 @@
+{
+  "id": "2920",
+  "code": "vrouwe-anna-br-19",
+  "name": "Vrouwe Anna (BR 19)",
+  "type": "wreck",
+  "lat": "51.4249450",
+  "lon": "3.4488129",
+  "location": "Schelde monding, Nederland",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1915-07-16",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-13 09:52:07",
+  "modified_on": "2025-07-18 16:49:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00003251.jpg\" alt=\"tekst: Mijnen. Den 16 Juni is een visschersvaartuig van Breskens, de Br. 19, op een mijn in den mond der Schelde geloopen. Het vaartuig werd vernietigd, en de vier opvarenden zijn om het leven gekomen. De bemanning bestond uit 4 personen, de gebroeders E. en A. Hoogstad, en twee jon gens, genaamd van Overbeeke en Tange. De ontploffing werd te Breskens gehoord. De stukken hout van het schip werden meer dan 150 meters in den omtrek geslingerd. De omgekomenen zijn allen uit Breskens afkomstig; in het dorp heerschtte natuurlijk groote verslagenheid.\"> <div class=\"img-source\">Delpher</div> </figure> <p>Bataviaasch nieuwsblad 26-07-1915</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: kust visserij garnalen visserij</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>4</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40001876\">Centraal Visserijregister.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

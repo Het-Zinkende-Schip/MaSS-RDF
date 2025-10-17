@@ -1,0 +1,27 @@
+{
+  "id": "2076",
+  "code": "zg13",
+  "name": "ZG13",
+  "type": "wreck",
+  "lat": "52.3616600",
+  "lon": "5.2702600",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1575",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:40:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens de aanleg van de oostelijke sloot op kavel G13 in Zuidelijk Flevoland werd in 1981 het wrak van een vrachtschip uit het midden van de zestiende eeuw aangetroffen. Hetzelfde jaar is er verkennend onderzoek uitgevoerd door het toenmalige Nederlands Instituut voor Scheepsarcheologie (NISA). Het scheepswrak wordt in het westen begrensd door de Watersnipweg, in het noorden door de Rondebeltweg en ten oosten door het trac&eacute; van Rijksweg A6. De lengte van het aangetroffen wrak is 16 m, oorspronkelijk is dit 17 meter geweest, en de breedte is 5 meter. Het betreft een karveel gebouwd schip met een plat vlak, rechte zijden en een ronde kim. Omdat het wrak zich onder een dikke laag klei bevindt, is het hout goed geconserveerd. Alleen de vlakrand aan bakboordzijde, die zich het dichtst bij de oppervlakte bevindt, is minder van kwaliteit door uitdroging en de aantasting van schimmels. Door middel van de vondsten; een slijpsteen, een fragment van een gele plavuis, een breeuwijzer en een kleine hamer, kon de datering worden vastgesteld op het midden van de zestiende eeuw. Door de natuurlijke bescherming van de klei kan dit wrak tot een van de meest gave en best bewaarde scheepswrakken worden gerekend. Om verdere aantasting van schimmels te vertragen is besloten om na het verkennende onderzoek het scheepswrak fysiek te beschermen door middel van een verticaal plastic foliescherm.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Vrachtschip uit het midden van de zestiende eeuw, Almere</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002028.jpg\" alt=\"Opgegraven houten deel van een schip\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Overzicht van het achterschip inclusief binnenboord, bolder en ballaststeen.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002029.jpg\" alt=\"Opgegraven stuurboodhuis van een houten schip\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Detail van de stuurboordhuid.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-2c6-yhez\">Opgravingsdocumentatie scheepswrak ZG13.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

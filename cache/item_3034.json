@@ -1,0 +1,27 @@
+{
+  "id": "3034",
+  "code": "groningen-2",
+  "name": "Groningen (2)",
+  "type": "wreck",
+  "lat": "51.2841271",
+  "lon": "1.7108023",
+  "location": "Noordzee, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1658",
+  "firstyearend": null,
+  "lastdate": "1666-06-12",
+  "lastyear": "1666",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-12-13 12:50:29",
+  "modified_on": "2025-07-18 17:17:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong>Tweede Engels-Nederlandse oorlog<br></strong></p> <p>In 1665 waren er meerdere schepen met de naam Groningen, De Groningen 1 (1641) Groningen 2 (1658) in de Nederlandse vloot.</p> <p>De Groningen 2 nam deel aan de slag bij Lowestoft in het IVe eskader o.l.v. Cornelis Tromp. Kapitein was toen Pieter Uitenhout. Het schip werd nagejaagd door Engelse schepen maar kon veilig op de rede van Texel terugkeren.</p> <p><strong>In Engelse handen<br></strong>De Groningen werd door de Engelsen veroverd 3-9-1665 en in de vaart genomen als <em><strong>Black Eagle</strong></em>. Op de tweede dag van de Vierdaagse zeeslag (11-14 juni 1666) werd het schip- in Britse dienst- zo zwaar beschadigd dat ze zonk.<a href=\"https://nl.wikipedia.org/wiki/Vierdaagse_Zeeslag\">*</a></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001685.jpg?modifiedon=1609094274\" alt=\"schilderij van een zeeslag met rokende schepen\"> <figcaption class=\"img-description\">Vierdaagse zeeslag\" door Abraham Storck</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: 's Lands werf, Amsterdam<br>Bewapening: 40 (1665)<br>Complement: 199<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>132 voet (40,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 &frac34; voet (9,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>NIMH scheepsdocumentatie nr 339.</em></li><li>Elias, J.E. (1933).<br /><em>De vlootbouw in Nederland 1596-1655 p 154, Bijlage III.</em></li><li><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=473\">Threedecks.com.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

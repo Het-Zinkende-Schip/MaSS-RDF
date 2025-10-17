@@ -1,0 +1,27 @@
+{
+  "id": "2710",
+  "code": "steinsegler",
+  "name": "\"Steinsegler\"",
+  "type": "wreck",
+  "lat": "54.5255000",
+  "lon": "11.1941670",
+  "location": "Puttgarden Riff, Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-11-26 19:28:33",
+  "modified_on": "2025-06-14 20:44:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This is a late 19th or early 20th century wreck of an - as yet - unidentified vessel, colloquially referred to as <em>\"Steinsegler\"</em> (stone-sailer) due to its stone ballast.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>A notable freature are the massive frames.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>65 &frac12; voet (20 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The hull has collapsed under the stone ballast, while remaining parts are either exposed by scouring or covered by new sediments.</p> <p>Due to its shallow depth of 2,5-4 metres, this is a popular site for recreational wreck divers.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Oppelt, I. (2019).<br /><em>Wracktauchen: Die schönsten Tauchplätze der Ostsee.</em><br />Wetnotes.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

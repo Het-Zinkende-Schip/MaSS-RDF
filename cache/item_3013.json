@@ -1,0 +1,27 @@
+{
+  "id": "3013",
+  "code": "meeuw",
+  "name": "Meeuw",
+  "type": "wreck",
+  "lat": "52.2775117",
+  "lon": "3.0032383",
+  "location": "12 mijl ZO Noordhinder",
+  "firstdate": null,
+  "firstyear": "1908",
+  "firstyearend": null,
+  "lastdate": "1918-04-21",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-30 13:53:58",
+  "modified_on": "2025-07-18 17:00:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De motorschoener <em><strong>De Meeuw</strong></em> was onderweg van London naar Rotterdam met een lading pek. Ze is door vijf Duits vliegtuig aangevallen en tot zinken gebracht.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003354.png\" alt=\"de afbeelding toont een zeilschip op zee, die in brand staat\"> <div class=\"img-source\">Marhisdata</div> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003355.jpg\" alt=\"tekst: Nederland en de oorlog. De Moenw. Gisteroohtend is met het stoomschip Vlissingen uit Londen alhier aangekomen de heer B. C. Weltevreden, to Hillegersberg woonachtig, kapitein op den motor-schoener Meeuw, die op Zondag den 21 April des voormiddags to 8 uur, 12 mijl oost ten zuiden van den Noordhinder, door vijf Duitsche vliegtuigen in den grond is geschoten. De Meeuw was met een lading pelk van Londen op weg naar Rotterdam. De stuurman en de machinist bevinden zich nog to Londen, terwijl do beide matrozen overgemonstard zijn op het stoomschip Leerdam.\"> <div class=\"img-source\">Delpher</div> <figcaption class=\"img-description\">De Meeuw in NRC 13-5-1918</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: J.J.G. Wortelboer, Westerbroek, Groningen<br>Eigenaar: N.V. Maatschappij Motorkotterschip 'Meeuw', Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>B.C. Weltevreden</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>5</td></tr><tr><th scope=\"row\">Lengte</th><td>111 voet (33,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>22 &frac14; voet (6,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>127 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Meeuw+visser%2A&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1918%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;identifier=MMMAAS01:210216035:mpeg21:a00051&amp;resultsidentifier=MMMA\">Maaschluise Courant (27-4-1918).</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4184\">marhisdata id 4184.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Meeuw&amp;cql%5B%5D=%28date+_gte_+%2211-05-1918%22%29&amp;cql%5B%5D=%28date+_lte_+%2214-05-1918%22%29&amp;redirect=true&amp;sortfield=date&amp;identifier=ddd:010036095:mpeg21:a0002&amp;resultsidentifier=ddd:010036095:mpe\">MRC 13-5-1918.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

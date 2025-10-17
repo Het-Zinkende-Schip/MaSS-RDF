@@ -1,0 +1,27 @@
+{
+  "id": "2095",
+  "code": "zo45",
+  "name": "ZO45",
+  "type": "wreck",
+  "lat": "52.2794300",
+  "lon": "5.4904700",
+  "location": "Zeewolde, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1950",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-01-30 12:44:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens het greppeltrekken is in 1974 een scheepswrak aangetroffen op kavel O45 in Zuidelijk Flevoland. De locatie van de vindplaats ligt ten zuiden van de Spiekweg en ten oosten van de Nijkerkerweg. In hetzelfde jaar is er een verkenning door het toenmalige Centrum voor Scheepsarcheologie uitgevoerd. Bij de verkenning is een zeer beschadigd wrak aangetroffen. Het schip was ongeveer 5 meter lang en 1,50 meter breed. Uit het peilen van het wrak met behulp van prikijzers werd duidelijk dat het wrak niet meer compleet was. Naderhand was duidelijk te zien dat de greppel dwars door het wrak was getrokken. In de naar boven getrokken grond lagen stukken hout van de vlakplanken, de boorden, de leggers, de kromhouten en stukken van de oplangers. Bij een van de boorden lag een ijzeren roeidol. Dit wijst erop dat het wrak vermoedelijk een vrij recente roeiboot is geweest. Na het onderzoek en de documentatie is het wrak opgeruimd, verder onderzoek is niet uitgevoerd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een vermoedelijk vrij recente roeiboot, Zeewolde</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xu5-fj4a\">Opgravingsdocumentatie scheepswrak ZO45.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

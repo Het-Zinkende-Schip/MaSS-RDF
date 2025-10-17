@@ -1,0 +1,27 @@
+{
+  "id": "4149",
+  "code": "val1460",
+  "name": "VAL1460",
+  "type": "wreck",
+  "lat": "52.5501281",
+  "lon": "5.4609569",
+  "location": "Informatiepaneel, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1465",
+  "lastyearend": "1510",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-02-09 14:44:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Scheepswrak VAL1460 is een restant van een laatmiddeleeuws schip in Lelystad. Het houten vrachtschip is in het derde kwart van de 15de eeuw vervaardigd. In de scheepsbouw is onder meer een overnaadse romp van zo'n 20 meter lengte toegepast. In 1999 trof men het onder water aan als scheepswrak bij het uitdiepen van de vaargeul Amsterdam-Lemmer ongeveer vijf kilometer ten noorden van Lelystad. Het hout dat werd teruggevonden bleek mede door de zuurstofarme omgeving van zeer goede kwaliteit. De vondst van het schip is bijzonder onder meer omdat er weinig gegevens van schepen bekend zijn uit deze periode; een periode waarin internationale handel via de Zuiderzee plaatsvond en grote ontwikkelingen in de Nederlandse scheepsbouw gaande waren. Ter behoud zijn in 2008 de restanten in situ met een laag klei afgedekt. In 2012 kreeg het scheepswrak de status van rijksmonument. (Bron: wikipedia, zie https://nl.wikipedia.org/wiki/Scheepswrak_VAL1460)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-27u-2ew3\">Opgravingsdocumentatie scheepswrak.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

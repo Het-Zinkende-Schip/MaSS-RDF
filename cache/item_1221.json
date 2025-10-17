@@ -1,0 +1,27 @@
+{
+  "id": "1221",
+  "code": "snoeper",
+  "name": "Snoeper",
+  "type": "wreck",
+  "lat": "1.0311978",
+  "lon": "74.7182975",
+  "location": "Malediven, ter hoogte van , Maldiven",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1674",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-17 11:51:23",
+  "modified_on": "2024-10-15 09:59:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Snoeper</strong></em> was een galjoot, gehuurd door de VOC kamer Amsterdam van de particulier Barend Fokke.</p> <p>Ze vertrok op 20 april 1674 uit het Vlie met bestemming Ceylon. Op 1 augustus werd De Kaap aangedaan vanwaar ze op 10 augustus vertrok.</p> <p>Begin november 1674 kapseisde het schip ter hoogte van de Malediven. Schipper en bemanning konden het schip verlaten en landden op het eiland St. Andries op 7 mijl van de stad Cochim* op de Malabar kust. [<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1299/file/NL-HaNA_1.04.02_1299_1142?eadID=1.04.02&amp;unitID=1299&amp;query=1299\">Relaas schipper Barend Fokke</a> 11-dec-1674]</p> <p class=\"note\">Cochin was in 1663 op de Portugezen veroverd door Rijcklof van Goens</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>gehuurd van de particulier Barend Fokke of Fockels door de VOC Kamer Amsterdam<br>Bemanning: 11<br>Schipper: Barend Fokke</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92346\">DAS 1263.1.</a></li><li>Barend Focke(ls).<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1299/file/NL-HaNA_1.04.02_1299_1141?eadID=1.04.02&amp;unitID=1299&amp;query=1299\">NL-HaNA_1.04.02_1299_1141.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

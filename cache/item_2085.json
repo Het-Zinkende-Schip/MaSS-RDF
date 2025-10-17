@@ -1,0 +1,27 @@
+{
+  "id": "2085",
+  "code": "za91",
+  "name": "ZA91",
+  "type": "wreck",
+  "lat": "52.3728500",
+  "lon": "5.1656100",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1850",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:43:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens landbouwwerkzaamheden op kavel A91 in Zuidelijk Flevoland werd in 1989 een scheepswrak aangetroffen. In hetzelfde jaar is door het toenmalige Centrum voor Scheepsarcheologie een verkennend onderzoek uitgevoerd. De vindplaats is ten zuiden van de Galjootweg en ten westen van de Heliplaats. Het betreft een karveel gebouwd vrachtschip uit de eerste helft van de negentiende eeuw. De grootste lengte van het wrak is circa 12 meter en de grootste breedte is circa 3,6 meter. Het vrachtschip is onder lichte slagzij over stuurboord afgezonken. De kiel van het wrak ligt op 80 cm onder het maaiveld. De voorsteven is niet aangetroffen. Tijdens de verkenning werd duidelijk dat het hout van goede kwaliteit was. Op het vlak in de verkenningssleuf zijn brandsporen gevonden. Tevens is er een scheepszwaard aangetroffen dat bij het wrak heeft gehoord. Het zwaard bestaat uit vier delen die met ronde ijzeren pennen van een doorsnee van ca. 12 mm aan elkaar vastzitten. Op basis van deze bevestigingsmethode kon het wrak worden gedateerd in de eerste helft van de negentiende eeuw. Het type scheepszwaard dat is aangetroffen werd vroeger gebruikt in de binnenvaart. De lengte van het zwaard, gemeten over het midden, is 3,42 m, de breedte is 1,38 meter en de dikte is 5 cm. Na de verkenning in 1989 is het wrak met een beschermende laag grond toegedekt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een karveel gebouwd vrachtschip uit de eerste helft van de negentiende eeuw, Almere</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002019.jpg\" alt=\"Gegraven baan in de aarde met hout op de ondergrond en houten planken voorin.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Overzicht van de proefsleuf met zaathout, wegering en de oplangers.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002020.jpg\" alt=\"De zwaardklamp van een opgegraven schip\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Detail van de zwaardklamp aan de buitenzijde van de scheepshuid.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xwy-7cg2\">Opgravingsdocumentatie scheepswrak ZA91.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

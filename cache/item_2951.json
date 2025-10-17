@@ -1,0 +1,27 @@
+{
+  "id": "2951",
+  "code": "gamma",
+  "name": "Gamma",
+  "type": "wreck",
+  "lat": "51.0800000",
+  "lon": "-8.5600000",
+  "location": "Atlantische oceaan, Ierland",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": "1917-01-02",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-11 11:14:00",
+  "modified_on": "2025-06-15 14:17:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Gamma</strong></em> was op reis met een lading lijnkoeken van New York naar Amsterdam. De Gamma kwam terecht in door de Duitsers verklaard sperrgebiet. Ze werd op 1 februari 1917 ter hoogte van Fastnet, in positie 51&deg;08&rsquo;NB. en 08&deg;56&rsquo;WL., door de Duitse onderzeeboot <em><strong>UC 46</strong></em> aangehouden. Men moest wegens varen in verboden gebied het schip verlaten, dat vervolgens tot zinken werd gebracht doordat men enige bommen in het schip plaatste.</p> <p>Alle 21 opvarenden werden na enige uren uit de sloepen gered door het Nederlandse passagiersschip <em><strong>Vondel</strong></em>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Wm. Gray &amp; Co. Ltd., West Hartlepool<br>Eigenaar: N.V. Vrachtvaart Maatschappij Bothnia, Amsterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Bossinga, J.R</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>21</td></tr><tr><th scope=\"row\">Lengte</th><td>276 voet (84,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 &frac14; voet (12,3 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>17 voet (5,2 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>2115 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=2366\">Marhisdata ID 2366.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

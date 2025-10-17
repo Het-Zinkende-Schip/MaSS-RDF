@@ -1,0 +1,27 @@
+{
+  "id": "3140",
+  "code": "batavier-v-2",
+  "name": "Batavier V",
+  "type": "wreck",
+  "lat": "50.8719599",
+  "lon": "1.5517920",
+  "location": "gris nez, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1921",
+  "firstyearend": null,
+  "lastdate": "1941-11-03",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-10-10 10:07:41",
+  "modified_on": "2025-06-16 19:02:15",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Batavier V</strong></em> was opvolger van de <a href=\"https://mass.cultureelerfgoed.nl/batavier-v\">Batavier V </a>die op 15-5-1916 op een mijn liep en verging. De Batavier V kwam juni 1921 in de vaart en voer op London voor de <em>Batavierenlijn</em> de oudste stoommaatschappij van Nederland (1827). H et schip was uitgerust met drie doorlopnde dekken met plaats voor 150 passagiers.</p> <p>De Batavier V werd 27-05-1940 in beslag genomen in de haven van Rotterdam door de Kriegsmarine, in gebruik genomen als logementschip, 05-08-1940 door de Kriegsmarine bestemd voor de operatie \"Seel&ouml;we\" als <em>RO 19.</em></p> <p>08-1941 in gebruik als logementschip.27-10-1941 door de Kriegsmarine ingezet ter bevoorrading van de Duitse troepen op de Kanaal Eilanden. 03-11-1941 onder Duitse vlag varend getorpedeerd ten westen van Cap Gris Nez door een Britse torpedoboot, daarbij vielen 13 slachtoffers.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>260 &frac14; voet (79,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>35 voet (10,7 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>15 &frac12; voet (4,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1573 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=%22Batavier+V%22&amp;cql%5B%5D=%28date+_gte_+%2231-05-1921%22%29&amp;cql%5B%5D=%28date+_lte_+%2201-10-1921%22%29&amp;redirect=true&amp;sortfield=date&amp;page=1&amp;facets%5Bspatial%5D%5B%5D=Landelijk&amp;identifier=ddd:0100\">Het Vaderland : staat- en letterkundig nieuwsblad (4-6-1921).</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=845\">marhisdata id 845.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

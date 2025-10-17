@@ -1,0 +1,27 @@
+{
+  "id": "2213",
+  "code": "kat-1587",
+  "name": "Kat",
+  "type": "wreck",
+  "lat": "51.0741764",
+  "lon": "2.0234952",
+  "location": "Vlaamse Banken, België",
+  "firstdate": null,
+  "firstyear": "1587",
+  "firstyearend": null,
+  "lastdate": "1589-09-11",
+  "lastyear": "1589",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-09 11:28:44",
+  "modified_on": "2025-06-11 19:07:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Kat was een schip in opdracht van Pieter van Opmeer gebouwd in Holland.</p> <p>Ze zou in 1588 toegevoegd worden ter versterking van de Spaans Armada. Ze werd gedirigeerd van Hamburg naar Duinkerken.</p> <p>Het schip geheel toegerust voor oorlog werd op 17 oktober 1587 in beslag genomen door de admiraliteit van Amsterdam.</p> <p>Van november 1588 werd de Kat ingezet bij de blokkade vloot van de Vlaamse kust onder Jacob Anthonisz. van Haarlem.</p> <p>Het schip lag op 9 september 1589 alleen op wacht tussen Calais en Duinkerken. De kapitein was aan de wal gebleven wegens ziekte.</p> <p>De Kat werd aangevallen door een aantal koningsschepen (Spaanse oorlogsschepen) uit Duinkerken. Het schip werd omsingeld en dreigde te worden overmeesterd. De plaatsvervangende bevelvoerende luitenant heeft toen het eigen schip laten ontploffen. Daarbij werden ook Spaanse schepen vernietigd.</p> <p>(bron NIMH)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Vlieboot<br>Complement: 48 matrozen 13 soldaten<br>Kapitein: Jacob Anthonisz. van Haarlem</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Elias, J.E.<br /><a href=\"https://www.delpher.nl/nl/boeken/view?query=Schetsen+uit+de+geschiedenis+van+ons+zeewezen+I&amp;coll=boeken&amp;identifier=MMKB24:076681000:00059\">Schetsen uit de geschiedenis van ons zeewezen I.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

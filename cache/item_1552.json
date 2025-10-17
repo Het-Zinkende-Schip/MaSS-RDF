@@ -1,0 +1,27 @@
+{
+  "id": "1552",
+  "code": "odm-vi",
+  "name": "ODM VI",
+  "type": "wreck",
+  "lat": "51.8122443",
+  "lon": "5.4456463",
+  "location": "Moordhuizen, Nederland",
+  "firstdate": null,
+  "firstyear": "900",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1000",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-20 11:23:46",
+  "modified_on": "2025-06-10 19:03:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <strong><em>ODM VI</em></strong> is een vroegmiddeleeuwse platbodem vaartuig. Het is een type vaartuig dat al sinds de Romeinse tijd op de grote rivieren voer.</p> <p>Afmeting 21 x 2,5 m.</p> <p><strong>ODM schepen&nbsp;<br></strong>We kunnen hier spreken van het grootste binnenlandse en archeologisch meest waardevolle scheepskerkhof van Nederland. Er zijn tot nu toe 23 scheepsresten gevonden in het gebied.<br><br><iframe src=\"https://www.youtube-nocookie.com/embed/h86KPNJtOp0\" width=\"440\" height=\"248\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>overzicht van de voorlopige resultaten van de archeologische begeleiding en opgravingen bij het zandwin-en natuurontwikkelingsproject &ldquo;Over de Maas&rdquo; door de archeologische werkgroep Over de Maas te Dreumel en Alphen (Gld), 2010-2021</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Nils Kerkhoven.<br /><a href=\"http://www.expeditie-overdemaas.nl/\">Expeditie over de Maas.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

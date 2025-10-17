@@ -1,0 +1,27 @@
+{
+  "id": "4051",
+  "code": "oh27",
+  "name": "OH27",
+  "type": "wreck",
+  "lat": "52.5834640",
+  "lon": "5.6175240",
+  "location": "Swifterbant, Nederland",
+  "firstdate": null,
+  "firstyear": "1625",
+  "firstyearend": "1650",
+  "lastdate": null,
+  "lastyear": "1637",
+  "lastyearend": "1675",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:01:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Op kavel H27 in Oostelijk Flevoland, nabij het huidige Swifterbant, werd in september 1961 een verkenning verricht op de 11de drain van de weg op 76 meter uit sloot H 26/27. Daar ontdekten de onderzoekers het door een mengwoeler zwaar beschadigde wrak van een ongeveer 15 meter lang vrachtschip: een bakachtig vaartuig met steile wanden. Vanwege de verstoringen van zowel het wrak als het profiel werd besloten dat systematisch onderzoek niet de moeite waard zou zijn, maar dat uitgraven wel zin zou hebben om zo een mogelijke inventaris van het schip te bergen. Dit vond in het daarop volgende jaar plaats, waarbij inderdaad diverse objecten werden aangetroffen. Van netverzwaarders, die later op de plaats van het wrak waren achtergebleven, tot (onder andere) tegels en kookgerei van het schip zelf. Besloten werd om een goed bewaard gedeelte van het boord van het schip, voorzien van puttingijzers en een spuikoker, te bergen en conserveren. Op basis van alle vondsten wordt de ondergang van het schip ongeveer geplaatst in het midden of de tweede helft van de 17de eeuw.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xc3-gvby\">Opgravingsdocumentatie scheepswrak OH27.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

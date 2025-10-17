@@ -1,0 +1,27 @@
+{
+  "id": "1411",
+  "code": "vechten-schip",
+  "name": "Vechten schip",
+  "type": "wreck",
+  "lat": "52.0584191",
+  "lon": "5.1617832",
+  "location": "Vechten, Nederland",
+  "firstdate": null,
+  "firstyear": "50",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "150",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-23 13:37:11",
+  "modified_on": "2025-06-10 16:26:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het basistype gevechtsschip in de oudheid was de galei. Deze lange, ranke schepen waren bewapend met een ramspoor en werden voortbewogen door roeiers, al dan niet in meerdere lagen boven elkaar.</p> <p>Er zijn in Nederland maar heel weinig resten van dergelijke militaire schepen gevonden. Tijdens de opgravingen in Vechten bij het Romeinse castellum Fectio in de jaren 1892-1894 werden resten van een Romeinse galei aangetroffen. Deze zijn beschreven maar daarna verloren gegaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Het vaartuig had een eikenhouten kiel met aan weerskanten zeven huidgangen.<br>De planken waren op mediterrane wijze aan elkaar bevestigd door middel van veer-en-deuvel techniek. <br><br>Eikenhouten spanten waren op de huid (als grenenhout omschreven) bevestigd met houten pennen. De lengte van het schip bedroeg meer dan 12 meter bij een breedte van 3 meter en een holte van circa 1,5 meter. Er zijn aanwijzingen voor een roei-inrichting gevonden. Er was plaats voor een bemanning van circa twintig roeiers.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001841.jpg\" alt=\"Opgravingstekening Vechten galei\"></figure> <p><em>Opgravingstekening Vechten gal</em><em>ei (Muller)</em></p> <p><br>Het Vechten-schip komt daarmee qua bouw en grootte overeen met de twee galeien die in Oberstimm (Duitsland) zijn opgegraven.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brouwers,W.,  Jansma, E. ,  Manders, M. (2014).<br /><a href=\"https://docplayer.nl/14735693-Romeinse-scheepsresten-in-nederland.html\">Romeinse scheepsresten in Nederland.</a><br />Archeobrief 4 2013.</li><li>Muller, S.F.  (1895).<br /><em>Verslag van de opgravingen van Romeinsche oudheden te Vechten  in de jaren 1892-1894.</em><br />Verslag van het verhandelde in de Algemeene Vergadering van het Provinciaal Utrechts Genootschap van Kunsten en Wetenschappen.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

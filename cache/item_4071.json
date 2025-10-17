@@ -1,0 +1,27 @@
+{
+  "id": "4071",
+  "code": "ok83",
+  "name": "OK83",
+  "type": "wreck",
+  "lat": "52.5257180",
+  "lon": "5.6838250",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:18:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1969 werd telefonisch de vondst een scheepswrak gemeld bij drainagewerkzaamheden op kavel K83 in Oostelijk Flevoland. Bij het graven van een kanovijver in het Wisentbos werd het wrak geraakt door een dragline. In het archeologisch dossier van dit wrak wordt het volgende vermeld: \"Onzerzijds is meegedeeld dat wij zo spoedig mogelijk zouden komen kijken. De verkenning op 20 augustus - na vooraf telefonische melding dat iemand zou komen - leverde het resultaat op dat het scheepje totaal vergraven was. Er restten nog slechts enkele verspreide brokken.\" Door de ernstige vergraving en verspreiding konden verder geen uitspraken meer over de vorm en bouw van het schip gedaan worden. Wel werden nog gevonden een klein stokanker, een kleine geglazuurde plavuis en enkele aardewerkscherven, waaronder een fragment van een schotel met uitgeknepen voet, die op een vermoedelijke ondergangsdatering in de 17de eeuw wijzen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xtg-6a53\">Opgravingsdocumentatie scheepswrak OK83.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

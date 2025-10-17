@@ -1,0 +1,27 @@
+{
+  "id": "2093",
+  "code": "zc41",
+  "name": "ZC41",
+  "type": "wreck",
+  "lat": "52.4270300",
+  "lon": "5.2402300",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2024-01-30 12:43:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens de aanleg van een ecologische zone vlakbij de Oostvaardersplassen op kavel C41 in Zuidelijk Flevoland is in 1997 een scheepswrak aangetroffen. In hetzelfde jaar is door het toenmalige Nederlands Instituut voor Scheep en onderwater Archeologie verkennend onderzoek uitgevoerd. De locatie van kavel C41 is ten noorden van de Pampusweg, tussen het spoor en de A6. Het betreft een zwaar uitgevoerd vrachtschip, dat onder zware slagzij is afgezonken. Aan een zijde ontbreekt het boord en een groot deel van het vlak. De tegenoverliggende zijde is in alle waarschijnlijkheid wel aanwezig. Dit kon niet worden onderzocht omdat de proefsleuven daarvoor niet breed genoeg waren. De grootste aangetroffen lengte van het vrachtschip is 16 meter bij een breedte van circa 4 meter. Het schip is oorspronkelijk een stuk langer geweest, vermoedelijk 22 m, maar door de beschadigingen aan het wrak kon dit tijdens de verkenning niet worden vastgesteld. De grootste diepte is 2,5 tot 3 meter onder het maaiveld. Het scheepswrak dateert vermoedelijk uit de zestiende of zeventiende eeuw. De kwaliteit van het hout is zeer goed. Het schip ligt voor een groot deel in een dikke laag klei, wat een goede conservering waarborgt. Het is mogelijk dat er in het verleden een deel van het achterschip verloren is gegaan. De geul die het schip doorsnijdt werd gemaakt omdat men klei nodig had voor het aanleggen voor een dijk. Bij controle van deze dijk werd er hout aangetroffen. Dit hout is afkomstig van het achterdeel van het wrak. Na de verkenning werd het wrak ingekuild om verdroging en beschadiging van landbouwmachines te voorkomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een vrachtschip uit de zestiende of zeventiende eeuw, Almere</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z6r-sh6z\">Opgravingsdocumentatie scheepswrak ZC41.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

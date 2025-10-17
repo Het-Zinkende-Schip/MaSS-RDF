@@ -1,0 +1,27 @@
+{
+  "id": "1541",
+  "code": "amsterdam-1652",
+  "name": "Amsterdam",
+  "type": "wreck",
+  "lat": "59.7768630",
+  "lon": "-1.3128662",
+  "location": "Shetland, Verenigd Koninkrijk",
+  "firstdate": "1652-01-01",
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1652-08-10",
+  "lastyear": "1652",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-17 21:01:09",
+  "modified_on": "2025-06-10 17:02:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Neemt deel aan de tocht van Tromp naar Hitland (Shetland eilanden) in de nazomer van 1652 tijdens de Eerste Engelse oorlog. Door een storm vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 30</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Dordrecht, Pieter Barendsz.</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

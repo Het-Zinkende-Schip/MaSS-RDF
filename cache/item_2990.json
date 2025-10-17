@@ -1,0 +1,27 @@
+{
+  "id": "2990",
+  "code": "maria-christina",
+  "name": "Maria Christina (VL 40)",
+  "type": "wreck",
+  "lat": "52.4800000",
+  "lon": "3.3600000",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1914-10-27",
+  "lastyear": "1914",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-11 11:25:17",
+  "modified_on": "2025-07-07 14:42:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De<em><strong> Maria Christina</strong></em> was afkomstig uit Vlaardingen. Ze was op 27 oktober 1914 35 mijl buiten IJmuiden op haring aan het vissen samen met de KW 152 en IJM 155. Schipper van de KW 152 zag een jongen met een theeketel op dek lopen. De rest van de bemanning was toen beneden dek. Het was erg rustig weer toen een enorme ontploffing de stilte verbrak. De Maria Christina had een zeemijn geraakt en zonk binnen een minuut.</p> <p>Alle 14 opvarenden kwamen om.</p> <p><strong>Namen van de slachtoffers</strong></p> <p>J. van der Hoeven, schipper, 40 jaar, <br>L. van der Hoeven, 15 jaar; <br>J. Vermeer, Stuurman, 30 jaar <br>woonachtig te Vlaardingen.</p> <p>K. Kes, 30 jaar, <br>W. Visser, 27 jaar, <br>C. Kes Cz., 38 jaar,&nbsp;<br>P. Zondervan, 45 jaar, <br>D. Zondervan, 22 jaar,&nbsp;<br>P. de Wit, 27 jaar, <br>K. de Groot, 41 jaar,<br>P. Taanman, 19 jaar, <br>D. Moens, 15 jaar, <br>woonachtig te Marken.</p> <p>W. van der Steen, 18 jaar, <br>Leerschoon, D. Kooijman, 14 jaar, <br>woonachtig te Rotterdam,<br>J. Bos, 34 jaar, te Monnikendam.<br><br>K. Kes was 31 jaar<br>W. Visser was 28 jaar<br>O. Kes is C. Kes<br>P. Zondervan (zonder spatie)<br>P. Taanman was 20 jaar<br>D. Moenis (met i ertussen)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: geheel gedekte stalen motorlogger<br>Gebouwd : Gebr. Boot, Leiderdorp (1912)<br>Eigenaar: J.B. Goudappel Jzn. Vlaardingen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hoeve, J. van der</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22VL+40%22&amp;coll=ddd&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=1%7C20e_eeuw%7C1910-1919%7C&amp;identifier=MMKB08:000190214:mpeg21:a0001&amp;resultsidentifier=MMKB08:000190214:mpeg21:a0001&amp;rowid=4\">Uitspraken van den Raad voor de Scheepvaart (3-12-1914).</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22VL+40%22&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1914%7C&amp;page=4&amp;sortfield=date&amp;coll=ddd&amp;identifier=MMSAVL02:000480164:mpeg21:a00003&amp;resultsidentifier=MMSAVL02:000480164:mpeg21:a00003&amp;rowid=\">Nieuwe Vlaardingsche courant  (28-10-1914).</a></li><li>Edwin van der Ham.<br /><a href=\"https://www.vlaardingsnieuws.nl/artikel/120/de-ramp-van-de-vl40-maria-christina\">De ramp met de VL 40.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

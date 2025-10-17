@@ -1,0 +1,27 @@
+{
+  "id": "2233",
+  "code": "zaanstroom-1785",
+  "name": "Zaanstroom",
+  "type": "wreck",
+  "lat": "49.7003599",
+  "lon": "-1.2743155",
+  "location": "Barfleur, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1785",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1791",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-13 11:47:50",
+  "modified_on": "2025-01-17 16:45:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Zaanstroom vertrok 20-2-1791 voor haar tweede uitreis naar de Kaap.</p> <p>Ze voer in konvooi samen met de Christoffel Columbus, de Constitutie, de Kraai en de Schagen.</p> <p>Een week later op 28 februari strandde het schip op de Franse kust bij Barfleur.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam 1785<br>Lengte: 132 vt</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Droop,Jan Jobst</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.vocsite.nl/schepen/11417/\">Zaanstroom.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4935/file/NL-HaNA_1.04.02_4935_0248?eadID=1.04.02&amp;unitID=4935&amp;query=\">1.04.02 4935 Lijsten van voor de VOC uitgevaren schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

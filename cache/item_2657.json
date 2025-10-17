@@ -1,0 +1,27 @@
+{
+  "id": "2657",
+  "code": "granade",
+  "name": "Granade",
+  "type": "wreck",
+  "lat": "49.4946230",
+  "lon": "0.0137329",
+  "location": "Le Havre, Frankrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1694-07-26",
+  "lastyear": "1694",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-10-06 04:38:36",
+  "modified_on": "2022-06-06 14:42:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Door een voltreffer voor Le Havre getroffen en gezonken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: bombardeer galjoot</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Granade.</em><br />NIMH.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

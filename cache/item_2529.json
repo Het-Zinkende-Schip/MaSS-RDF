@@ -1,0 +1,27 @@
+{
+  "id": "2529",
+  "code": "fahrdorf-1",
+  "name": "Fahrdorf",
+  "type": "wreck",
+  "lat": "54.5042575",
+  "lon": "9.5869875",
+  "location": "Fahrdorf, Duitsland",
+  "firstdate": null,
+  "firstyear": "1121",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1150",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-26 19:17:11",
+  "modified_on": "2025-03-08 16:27:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Ontdekking door een visser</h2> <p>In 20014 werd een wrang (een spant in het vlak van een schip) van een wrak per ongeluk opgevist door een visser in de Schlei Fjord in Noord Duitsland, die de vondst rapporteerde aan het Landsarcheologiedepartement van Sleeswijk-Holstein (ALSH). Een wrak werd gevonden, dicht bij het dorp Fahrdorf (waar het naar vernoemd is) bij Sleeswijk in een geringe diepte van ca. twee meter. Het werd tussen 2015 en 2017 onderzocht onder leiding van de ALSH en door studenten en duikers van het Programma Maritieme Archeologie van de Universiteit van Zuid-Denemarken (SDU) en de Werkgroep voor Maritieme en Limnische Archeologie (<em>Arbeitsgruppe f&uuml;r Maritime und Limnische Arch&auml;ologie</em>, AMLA) van de Universiteit van Kiel.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004393.jpg\" alt=\"The floor timber that was raised in 2014 by a fisherman which led to the discovery of the Fahrdorf wreck\"><div class=\"img-source\">ALSH/Jonas Enzmann</div><figcaption class=\"img-description\">De gevonden wrang die leidde tot de ontdekking van het wrak.</figcaption></figure> <p>Doordat er bijna geen zicht onder water is in de Schlei Fjord, werd het wrak in eerste instantie op de tast beoordeeld door de duikers. In latere campagnes, uit gevoerd door AMLA, werd het wrak opgenomen door het bouwen van een frame waarlangs een onderwatercamera op dichte afstand langs het wrak bewogen kon worden in zicht van slechts 30-40 cm. Dit werd in de winter met iets betere zichtbaarheid herhaald. De onderwateropnames werden omgezet in beelden, die verwerkt werden met <em>Structure-from-Motion</em> (SfM) software om een 3D model van het wrak te cre&euml;ren. Door deze baanbrekende methode werd een model van het wrak gegenereerd wat gedetailleerd genoeg was om zelfs details op constructieniveau van af te lezen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002506.jpg\" alt=\"A d3-image that was created of the wreck\"><div class=\"img-source\">Enzmann et al 2019</div><figcaption class=\"img-description\">Het model dat van het wrak gecre&euml;erd is.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De dendrochronologische analyse geeft een kapdatum van tussen 1106 en 1122. Het hout is waarschijnlijk van lokale oorsprong.</p> <p>Het wrak heeft diverse karakteristieken van de Noordse overnaadse bouwwijze, zoals een <em>bite</em>-staander.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak vertoont tekenen van verval veroorzaakt door paalworm (<em>teredo navalis</em>) en andere zoutwaterboorders. Normalerwijs kan de paalworm niet overleven in de Schlei Fjord door het lage zoutgehalte, maar in de late zomermaanden stijgt het zoutgehalte, en dan kan er in zeldzame gevallen een instroom van zoutwaterboorders zijn in, wat niet noodzakelijkerwijs recent is.</p> <p>De vindplaats is ook blootgesteld aan erosie en sedimentatie, dus de staat van behoud wordt op regelmatige tijdstippen gemonitord door de ALSH samen met duikers van AMLA.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Enzmann, J., Jürgens, F., Wilkes, F. (2019).<br /><em>Der letzte Wikinger? Ein Wrack aus dem 12. Jh. bei Fahrdorf, Kr. Schleswig-Flensburg.</em><br />Archäologie in Schleswig 17.<br />pp 133–152.</li><li>D. Wilken, T. Wunderlich, H. Hollmann, M. Schwardt, W. Rabbel, C. Mohr, D. Schulte-Kortnack, O. Nakoinz, J. Enzmann, F. Jürgens, F. Wilkes (2019).<br /><a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1002/arp.1735\">Imaging a medieval shipwreck with the new PingPong 3D marine reflection seismic system.</a><br />Archaeological Prospection 26.3.<br />pp 211-223.</li><li>Enzmann, J., Jürgens, F., Wilkes, F. (forthcoming).<br /><a href=\"https://journals.openedition.org/archaeonautica/1468\">The Fahrdorf wreck: another large 12th-century cargo ship in the Schlei, northern Germany.</a><br />pp 211-216.<br />Marseille.</li><li>Christian-Albrechts-Universität zu Kiel.<br /><a href=\"https://www.ufg.uni-kiel.de/de/mitarbeiterinnen/ehemalige-mitarbeiter/fritz-juergens/projekte/fahrdorf\">Das hochmittelalterliche Wrack bei Fahrdorf.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

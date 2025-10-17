@@ -1,0 +1,27 @@
+{
+  "id": "3014",
+  "code": "zaanland",
+  "name": "Zaanland",
+  "type": "wreck",
+  "lat": "45.2900000",
+  "lon": "-31.4400000",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1900",
+  "firstyearend": null,
+  "lastdate": "1918-05-12",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-10-10 13:16:39",
+  "modified_on": "2025-03-13 11:23:11",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Nederlandse schip Zaanland lag in de haven van Newport toen het op 21 maartt door de Amerikaanse regering in beslag werd genomen ingevolge het Droit d'Angarie. Ze werd als hulpschip in dienst gesteld bij de U.S. Navy.</p> <p>In die hoedanigheid was de Zaanland op reis van Norfolk naar La Pallice. Op de Atlantische Oceaan kwam ze op 12 mei 1918 in aanvaring met het Amerikaanse tankstoomschip <em><strong>Hisco</strong></em>. De Zaanland raakte zwaar beschadigd en zonk. De (inmiddels) Amerikaanse bemanning werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar 1: Zuid-Amerika Lijn N.V., Amsterdam (1900-1908)</p> <p>Eigenaar 2: Koninklijke Hollandsche Lloyd, Amsterdam (1908-1918)<br>Eigenaar 3: U.S. Navy-Naval Overseas Transportation Service (1918)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>387 &frac14; voet (118 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>51 &frac14; voet (15,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>25 &frac12; voet (7,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>41600 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=7423\">marhisdata  id 7423.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

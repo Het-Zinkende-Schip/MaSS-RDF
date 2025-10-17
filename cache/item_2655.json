@@ -1,0 +1,27 @@
+{
+  "id": "2655",
+  "code": "groene-draak-1667",
+  "name": "Groene Draak",
+  "type": "wreck",
+  "lat": "51.3946913",
+  "lon": "0.5218506",
+  "location": "Upnor, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1666",
+  "firstyearend": null,
+  "lastdate": "1667-06-17",
+  "lastyear": "1667",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-10-05 16:01:35",
+  "modified_on": "2025-06-14 18:28:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Neemt deel aan de beroemde tocht naar Chattam, juni 1667 o.l.v. Lt. admiraal Michiel de Ruyter.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002833.jpg\" alt=\"Kaartdetail van de overval op Chatham, Michiel Comans II, 1667\"> <div class=\"img-source\">Rijksmuseum RP-P-OB-82.051</div> </figure> <p>De Groene Draak uitgerust als brander vaart bij het fort Upnor op de <a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=66\">Royal Oak</a> af en steekt haar in brand. De Royal Oak - een linieschip (2nd rate) 89 kanonnen - werd vernietigd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening : 4 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Willemsz., Willem</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>22</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brandt, G.<br /><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0013.php\">Leven en bedryf van den heere Michiel de Ruiter IX 577.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

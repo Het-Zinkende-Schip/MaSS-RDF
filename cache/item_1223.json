@@ -1,0 +1,27 @@
+{
+  "id": "1223",
+  "code": "rijnestein",
+  "name": "Rijnestein",
+  "type": "wreck",
+  "lat": "-20.3003586",
+  "lon": "57.2497559",
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1709",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1722",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-18 12:09:51",
+  "modified_on": "2024-08-12 17:00:19",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Rijnestein</strong></em> werd gebouwd in 1709 in Amsterdam. De fluit maakte tussen 1710 en 1720 vier retourreizen naar Azi&euml;. Ze was op 25 december 1719 uit Wielingen, Zeeland vertrokken naar Batavia waar ze op 17 augustus 1720 aankwam.</p> <p>De Rijnestein had in juli 1721 nog houtwerken in Samarang gehaald voordat ze aan haar laatste thuisreis begon (22-9- 1721). De retourvloot bestond uit de schepen Bleijenburg, Magdalena, Raadhuis van Middelburg, Purmerlust en De Rijnestein.<br>Het was gebruikelijk dat de vloot een tussenstop zou maken bij de Kaap kolonie in Zuid-Afrika. Op 22 november 1721 kwamen slechts twee schepen aan op de rede van de Tafelbaai; De Magdalena en de Purmerlust. De overige schepen waaronder De Rijnestein kwamen daar nooit aan; vergaan met alle zielen.*</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Oostenburg VOC werf in Amsterdam, 1709<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pieter Bitter</td></tr><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/97377\">DAS 6512.4.</a></li><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000142.jpg\">NA-1.11.01.01-551, Lijst van alle zoodanige Schepen in soorten als bij de Generale Oostindische Compagnie zijn gemaekt oft gekocht als gehuurt alsmede waer oft de zelfde zijn agter gebleven ofte verongelukt als genoomen en verbrand, vermist of.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

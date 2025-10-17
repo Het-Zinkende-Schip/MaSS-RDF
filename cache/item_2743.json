@@ -1,0 +1,27 @@
+{
+  "id": "2743",
+  "code": "saturnus",
+  "name": "Saturnus",
+  "type": "wreck",
+  "lat": "48.8285913",
+  "lon": "-64.1181859",
+  "location": "Cap-des-Rosiers, Canada",
+  "firstdate": null,
+  "firstyear": "1909",
+  "firstyearend": null,
+  "lastdate": "1942-09-15",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-06 10:25:34",
+  "modified_on": "2025-06-14 21:11:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip <em>Saturnus</em> verliet op 13 september 1942 Sydney in konvooi SQ-36 met bestemming Hull in Engeland.</p> <p>Op 15 september werd het konvooi aangevallen. Even nadat er alarm aan boord van de Saturnus was gegeven werd dit schip getroffen door een torpedo van de Duitse U 517. De <em><strong>Saturnus </strong></em>zonk snel, de bemanning die in de reddingboten had plaats genomen landde bij de vuurtoren van Cap-des-Rosiers. Een man, de pantryman/ kanonnier <a href=\"https://oorlogsgravenstichting.nl/persoon/82238/pieter-kool\">Pieter Kool</a> werd vermist.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>36</td></tr><tr><th scope=\"row\">Tonnage</th><td>2741 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5738\">Saturnus -ID 5738.</a></li><li>Haersolte, J.W.J. van (ed).<br /><em>Scheepsrampen in  oorlogstijd, nr. 222.</em></li><li><a href=\"https://www.oorlogsbronnen.nl/thema/Scheepsramp%20Saturnus\">Oorlogsbronnen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

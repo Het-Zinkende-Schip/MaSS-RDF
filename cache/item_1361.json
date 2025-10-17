@@ -1,0 +1,27 @@
+{
+  "id": "1361",
+  "code": "suikermolen",
+  "name": "Suikermolen",
+  "type": "wreck",
+  "lat": "50.7354556",
+  "lon": "0.2672768",
+  "location": "Beachy Head, Eastbourne, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1690-07-10",
+  "lastyear": "1690",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-26 10:47:15",
+  "modified_on": "2025-06-10 15:46:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Suikermolen was een afgedankt kleiner schip voor de gelegenheid ingericht als brander. Een brander was een schip dat vol gestouwd was met brandbaar materiaal. Primaire doel was het in brand steken van grote vijandelijke schepen.</p> <p>De admiraliteiten maakten veel gebruik van deze tactiek. Het was een gevaarlijke onderneming voor de bemanning. Een kleine crew moest de brander in positie brengen het roer vastzetten en dan op het laatste moment overboord springen. De brander botste dan al brandend op het beoogde schip en dit zou op haar beurt ook vlam vatten.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Abraham van Brakel</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nauticalarchaeologysociety.org/normans-bay-wreck\">Normans bay wreck.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

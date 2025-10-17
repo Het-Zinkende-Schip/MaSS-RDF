@@ -1,0 +1,27 @@
+{
+  "id": "3199",
+  "code": "oberon",
+  "name": "Oberon",
+  "type": "wreck",
+  "lat": "25.4194854",
+  "lon": "-22.0879010",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1911",
+  "firstyearend": null,
+  "lastdate": "1941-06-27",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-12-20 12:29:24",
+  "modified_on": "2025-06-16 20:17:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 19 juni 1941 vertrok de <em><strong>Oberon</strong></em> van Freetown naar Hull in konvooi S.L. 76,&nbsp;met een lading palmpitten en stukgoederen.</p> <p>Vlak voor middernacht op 27 juni 1941 werd het konvooi aangevallen door de Duitse U 123 op de Atlantische Oceaan in positie 25&ordm; 43' NB en 22&ordm; 47 WL. De U 123 vuurde drie torpedo's af. Twee daarvan troffen doel. Het Britse schip <a href=\"https://uboat.net/allies/merchants/ship/1011.html\">P.L.M. 22</a> en de Oberon.</p> <p>De Oberon werd door de torpedo in de machine kamer geraakt. Vijf man kwamen hierbij om. De overlevenden werden opgepikt door een Britse corvette. Later stierf nog een opvarende aan zijn verwondingen.</p> <p>Van de 16 opvarenden verloren 6 personen het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Clyde Shipbuilding &amp; Engineering Co Ltd, Port Glasgow</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>E.O.J. Jans</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>16</td></tr><tr><th scope=\"row\">Tonnage</th><td>1996 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4809\">marhisdata id 4809.</a></li><li><a href=\"https://www.uboat.net/allies/merchants/ship/1009.html\">uboat.net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

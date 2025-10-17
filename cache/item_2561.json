@@ -1,0 +1,27 @@
+{
+  "id": "2561",
+  "code": "mellum",
+  "name": "Mellum",
+  "type": "wreck",
+  "lat": "53.7140619",
+  "lon": "8.1254196",
+  "location": "Mellum, Duitsland",
+  "firstdate": null,
+  "firstyear": "1760",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1790",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-11 21:16:14",
+  "modified_on": "2025-06-14 16:36:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The hull was built of oak in the <em>'Dutch flush'</em> shell-first technique, as keel-less flat-bottomed vessel with a rounded turn-of-the-bilge. A mast-step was also discovered.</p> <p>The overall length was estimated with 20 metres, and the beam was not much greater than the preserved width of 3 metres. The overall length-to-beam ratio was reconstructed with 4,6 to 1. This uncommonly narrow hull gave the decisive clue for the DSM historian Dr. Albrecht Sauer in the identification of the ship-type: a small type of tjalk, locally known as <em>mutte</em>. The <em>mutte</em> was used for the peat transport in the narrow tidal creeks and inland canals of Eastern Frisia. Peat sods were indeed found in the hull, although it could not be established with certainty whether they formed part of the cargo or were later flushed into the wreck.</p> <p>Two samples taken from the wreck were dendrochronologically analysed at the University of Cologne and revealed cutting dates of around/after 1744 and 1760, respectively.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>In March 2006, the ornithological warden Lothar Rieke discovered the frames of a wooden shipwreck in the western part of the barrier island of Mellum. The circumstance that he was well acquainted with the island's geomorphological changes for over 35 years makes his observation very significant, as this was the first sighting of the wreck, which was evidently unearthed by coastal erosion.</p> <p>The site was investigated twice - in May and September 2006 respectively - led by Dr. J&ouml;rg Eckert of the responsible regional branch in Oldenburg of the Lower Saxony State Office for Monument Preservation (NLD: <em>Nieders&auml;chsisches Landesamt f&uuml;r Denkmalpflege</em>). He received assistance from staff of the German Maritime Museum (DSM), the Waterways and Shipping Office of Wilhelmshaven and two volunteers of the ornithological station.</p> <p>A small-scale excavation was carried out in September at low tide, which proved difficult due to the waterlogged silty sands. Nonetheless, the excavation team managed to unearth and record the structure in detail.</p> <p>In early 2007, after particularly violent November gales, the wrecksite has silted in again and only the frames protruded from the sediments. Several wreck fragments were dispersed some 150 metres further north.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Eckert, J., Rieke, L., Sauer, A., Wesemann, M. (2007).<br /><em>Ein Schiffswrack des 18. Jahrhunderts aus dem Watt bei der Insel Mellum.</em><br />Natur- und Umweltschutz. Zeitschrift der Naturschutz- und Forschungsgemeinschaft 2007.<br />pp 20-27.</li><li>Eckert, J., Wesemann, M. (2008).<br /><em>Ein Schiffswrack bei der Insel Mellum.</em><br />Archäologie in Niedersachen 11.<br />pp 117–120.</li><li>Fries, J. E. (2011).<br /><em>Die Wracks im Watt: Zwei neuzeitliche Zeugnisse des Handels an der niedersächsischen Nordseeküste.</em><br />Archäologie in Niedersachsen 14.<br />pp 71-74.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

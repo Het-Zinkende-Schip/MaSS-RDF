@@ -1,0 +1,27 @@
+{
+  "id": "3031",
+  "code": "sint-pieter",
+  "name": "Sint Pieter",
+  "type": "wreck",
+  "lat": "61.0055565",
+  "lon": "-1.4419340",
+  "location": "Unst, t.n.v.",
+  "firstdate": null,
+  "firstyear": "1651",
+  "firstyearend": null,
+  "lastdate": "1652-08-04",
+  "lastyear": "1652",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-12-10 14:11:22",
+  "modified_on": "2025-06-15 20:45:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Directie schip Sint Pieter maakte deel uit van slagvloot (92 schepen en branders) onder Tromp die op zoek naar het eskader van Blake naar het noorden koerste. Boven de Shertlandeilanden (Hitland) raakten ze in een zware storm en de vloot werd uit elkaar geslagen.</p> <p>11 schepen vergingen waaronder de Sint Pieter uit Rotterdam. (Elia, 126)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 28</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Elias, J.E. (1916).<br /><a href=\"https://www.delpher.nl/nl/boeken/view?coll=boeken&amp;identifier=MMKB21:049971000:00132&amp;objectsearch=Moorin&amp;pres%5Bmaxperpage%5D=36&amp;pres%5Bpage%5D=4&amp;pres%5Bnobuffer%5D=top\">Schetsen uit de geschiedenis van ons zeewezen, p 126.</a></li><li><em>NIMH schependocumentatie nr. 929.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

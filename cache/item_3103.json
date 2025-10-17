@@ -1,0 +1,27 @@
+{
+  "id": "3103",
+  "code": "sint-nicolaas",
+  "name": "Sint Nicolaas",
+  "type": "wreck",
+  "lat": "50.2328585",
+  "lon": "1.4979699",
+  "location": "Saint-Valery-sur-Somme, Frankrijk",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1652-08-16",
+  "lastyear": "1652",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-07-05 13:44:54",
+  "modified_on": "2025-06-15 21:21:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Sint Nicolaas</strong></em> was een gehuurd koopvaardijschip dat begin augustus 1652 ingedeeld werd in het eskader commandeur Michiel de Ruiter. De Ruiter (Neptunus) lag op 10 augustus ter hoogt van Calais (ca. 28 zeilen) wachtend op de koopvaarders uit Texel die via het Engelse Kanaal naar West Indi&euml; zouden varen.</p> <p><strong>Oorlog<br></strong>De Eerste Engelse-Nederlandse oorlog was uitgebroken (10 juli). De Nederlandse handel leed veel schade vanwege de Engelsen. Het Engelse kanaal was een gevaarlijke bottleneck.</p> <p>De Ruiter had opdracht om in het Kanaal te kruisen.</p> <p><strong>Ongeluk</strong><br>Ca 16 augustus werd een smaldeel van 3 schepen (Gelderland, Sint Nicolaas en de Haas) als escorte van een Zeeuws admiraliteitsschip naar het Franse vasteland gestuurd (rivier Somme) om een Zeeuws schip (gezandschap) te begeleiden. Op de terugweg kwam de Gelderland en de Sint Nicolaas in botsing. De Sint Nicolaas zonk en veel opvarenden verdronken. De Gelderland was masteloos en moest naar Le Havre worden gesleept door De Haas. (<a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0004.php\">Brandt 24</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 30 stukken: 12 x 8, 4 x6 6 x4, 2x 3 ponders</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Bouckhorst, Andries</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>90</td></tr><tr><th scope=\"row\">Lengte</th><td>116 &frac14; voet (35,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>26 voet (7,9 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brandt, Geeraardt.<br /><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0004.php\">Het leven en het bedrijf van den Heere Michiel de Ruyter.</a></li><li>Bender, J.A. (2014).<br /><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=24302\">Dutch warships in the age of sail. p. 229.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

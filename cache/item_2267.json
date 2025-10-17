@@ -1,0 +1,27 @@
+{
+  "id": "2267",
+  "code": "tara-1929",
+  "name": "Tara",
+  "type": "wreck",
+  "lat": "41.9567711",
+  "lon": "-12.2265640",
+  "location": "Cape Finisterre, Spanje",
+  "firstdate": null,
+  "firstyear": "1926",
+  "firstyearend": null,
+  "lastdate": "1940-02-21",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-23 14:22:19",
+  "modified_on": "2025-06-11 19:58:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis van Bahia Blanca naar Rotterdam is de TARA op 21 februari 1940 op de Atlantische Oceaan 60 mijl zuid-west van Kaap Finisterre in positie 42-49 NB en 10-13 WL zonder voorafgaande waarschuwing getorpedeerd door de Duitse onderzeeboot U 50, gezonken en verloren gegaan. Alle 35 opvarenden van de TARA kwamen veilig aan land.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Vrachtschip<br>Gebouwd: Machinefabriek en Scheepswerf van P. Smit Jr. N.V., Rotterdam<br>Eigenaar: N.V. Maatschappij Vrachtvaart, Rotterdam<br>Lengte 1: 406.0 Feet (British) Registered<br>Breedte: 54.1 Feet (British) Registered<br>Hold: 25.2 Feet (British) Registered</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Breedijkl, M.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>45</td></tr><tr><th scope=\"row\">Vermogen</th><td>2070 pk</td></tr><tr><th scope=\"row\">Tonnage</th><td>4760 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=6405\">Tara.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

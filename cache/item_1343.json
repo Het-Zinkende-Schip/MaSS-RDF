@@ -1,0 +1,27 @@
+{
+  "id": "1343",
+  "code": "voorburg",
+  "name": "Voorburg",
+  "type": "wreck",
+  "lat": "22.0848764",
+  "lon": "88.1845093",
+  "location": "Jannegat, ingang Ganges, India",
+  "firstdate": null,
+  "firstyear": "1753",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1756",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-06-08 16:22:58",
+  "modified_on": "2025-06-10 13:50:58",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De fluit <em>Voorburg</em> is verongelukt bij het opvaren van de Ganges bij het Jannegat. Een van de vaargeulen van de Ganges. Het ongeluk werd veroorzaakt door een fout van de loods Dirk Verburg zodat de Voorburg vastliep buiten de vaargeul. (Gen Mis Deel 13, GS 258 p.156)</p> <p>Het muntgeld werd geborgen de lading ter waarde van 94.951,- ging verloren.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001798.jpg\" alt=\"Houghli monding\"> <div class=\"img-source\">Nationaal Archief</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Delfshaven<br>Lengte: 140<br>Tonnage: 440</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Edmond Collier</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Mossel (1756).<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=167&amp;accessor=search_in_text&amp;source=13&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22\">Generale Missiven Deel 13, GS 258, 165.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

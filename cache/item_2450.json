@@ -1,0 +1,27 @@
+{
+  "id": "2450",
+  "code": "westerveld",
+  "name": "Westerveld",
+  "type": "wreck",
+  "lat": "22.2076301",
+  "lon": "88.0876076",
+  "location": "Hooghly rivier, India",
+  "firstdate": null,
+  "firstyear": "1674",
+  "firstyearend": null,
+  "lastdate": "1679-05-23",
+  "lastyear": "1679",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-02-16 16:36:26",
+  "modified_on": "2025-07-08 14:23:03",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Westerveld werd in 1674 of 1675 gekocht.</p> <p>Op 25 september 1679 bij het inzeilen van de rivier Ganges samen met de fluiten Sparwoude en Buuren vast komen te zitten op de hoek van de 'Oude Gyns'</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004244.png\" alt=\"De locatie van de Westerveld met de tekst : hier is de fluit Westervelt verongeluckt\"> <div class=\"img-source\">NL-HaNA_4.VELH_120</div> </figure> <p class=\"figcaption\"><br>De locatie van de Westerveld met de tekst : hier is de fluit Westervelt verongeluckt.(detail k<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/4.VELH/invnr/120/file/NL-HaNA_4.VELH_120?eadID=4.VELH&amp;unitID=120&amp;query=120\">aart 4.VELH-120</a>)&nbsp;<br><br></p> <p>Terwijl de Sparwoude en de Buuren weer met de schrik vrij kwamen lukte dat de Westerveld niet:</p> <p><em>door desselfs quaade timmeringh en swackte gesneuvelt, verklarende de scheepsoverheden dat dese ingekogte fluyt ten merendeele boven van grenehout en gemeen slecht getimmert was. [...]<br>gelovende, indien deselve een Comp\". maacksel was geweest, dat nevens d'andere twee daar wel sonder schaade afgecomen zoude zyn, hebbende maar even zooveel tyt gehadt om de contanten en peper, die al vry nat geworden was, daaruyt te ligten mitsgaders ook 't canon en andere gereetste goederen etc. (Daghtegister)<br></em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>100</td></tr><tr><th scope=\"row\">Tonnage</th><td>500 ton (250 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haan de, (1909).<br /><a href=\"https://babel.hathitrust.org/cgi/pt?id=mdp.39015020146307&amp;ui=embed&amp;seq=578&amp;q1=Westervelt\">Dagh-Register gehouden in 't Casteel Batavia anno 1679.</a><br />pp 569.<br />Batavia Landsdrukkerij.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

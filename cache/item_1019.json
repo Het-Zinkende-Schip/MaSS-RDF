@@ -1,0 +1,27 @@
+{
+  "id": "1019",
+  "code": "culip-vi",
+  "name": "Culip VI",
+  "type": "wreck",
+  "lat": "42.3315829",
+  "lon": "3.2498074",
+  "location": "Cala Tavallera, Spanje",
+  "firstdate": null,
+  "firstyear": "1280",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1300",
+  "lastyearend": null,
+  "country": "Spanje",
+  "countrycode": "ES",
+  "author": "Historia y Arqueología Marítima",
+  "created_on": "2020-01-06 23:25:30",
+  "modified_on": "2023-02-24 12:31:35",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>While surveying a roman cargo vessel on 1984 the remains of a Middle Ages ship where found under a thick layer of posidonius. The excavations works, under the Phd Xavier Nieto were conducted in two campaings, one from April to May 1988 and a second one from September to October 1990.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The shipwreck has been dated, thanks to the ceramic cargo found on it, on the last two S. XIII decades. The route that followed, again thanks to the ceramic cargo, started at some point of North Africa, calling in the Balearic Islands with destination at any Gulf of Lion port. The daily use pottery found has a catalan or lenguadoc origin and the timbers used are from the east Pyrenees, Colliure is thought to be the place of construction. The vessel dimensions are 16-17 meters from stem to stem, 13 meters of carene, 4,2 meters of beam and around 40 tons of displacement, one deck and two latin-rig. It's the kind of vessel called \"lleny gros cobert\" at the Low Middle Ages.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"https://www.academia.edu/986452/El_Vaixell_medieval_de_Culip_VI_la_construcci%C3%B3_d_un_model_hipot%C3%A8tic\">El Vaixell medieval de Culip VI: la construcció d'un model hipotètic.</a></li><li>Pujol i Hamelink, Marcel; Rovira Carbonell, Lluis (2004).<br /><a href=\"https://www.raco.cat/index.php/Drassana/article/view/106262\">El vaixell medieval de Culip VI,La construcció d'un model hipotètic.</a><br />Drassana: revistadel Museu Marítim, Núm. 12.<br />pp 94-105.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

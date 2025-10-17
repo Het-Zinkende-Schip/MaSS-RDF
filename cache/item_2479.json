@@ -1,0 +1,27 @@
+{
+  "id": "2479",
+  "code": "japsand-1609",
+  "name": "Japsand",
+  "type": "wreck",
+  "lat": "54.5819068",
+  "lon": "8.4889126",
+  "location": "Japsand, Duitsland",
+  "firstdate": null,
+  "firstyear": "1609",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-01 20:23:27",
+  "modified_on": "2025-07-08 14:36:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>In February and May 2017, respectively, wreck fragments were discovered off the shoals of Hallig Hooge in the North Frisian Wadden Sea. The area is strongly affected by tidal currents and the possibilities for archaeological research is restricted by the remoteness, the narrow time frame of receding tides, as well as the swiftness by which wreck remains in this area are reclaimed by the sea.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002427.jpg\" alt=\"The image shows a frozen landscape, probably a lake or sea inlet, with ice floes and part of a sunken ship or wreck protruding from the water\"> <div class=\"img-source\">ALSH (State Archaeology Department of Schleswig-Holstein)</div> <figcaption class=\"img-description\">photo of the remains of a shipwreck on the beach</figcaption> </figure> <p>Both wreck fragments were encountered 400m away from each other, and both originated from the same hull-side above the chine. They were broken apart along their plank-scarphs and fit together like puzzle pieces.</p> <p>The scattered and fragmented nature of the wrecksite points to a particularly dramatic ship-loss through a high impact historical event, like the Burchadi Flood on 11.-12. October 1634. According to written sources, several dykes broke and several ships were washed ashore, often ending up in the streets of the Hallig settlements.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002440.jpg\" alt=\"illustratie van een overstroomt dorp\"> <div class=\"img-source\">Anonymous</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The wreck features a peculiar construction, which combines clinker-planking in the lower part of the hull and carvel planking in the upper part, a construction known in Sweden as <em>Halvkravell</em> (half-carvel) since the mid 16th-century up to the early 20th century. It is primarily associated with small-scale shipping in rural communities. Although carvel ships were emulated through the visible portion of flush-laid planks above the water-line, the construction is inherently a shell-first clinker-construction.</p> <p>The dendrochronological samples taken from the frames and planks point to a possible southern Swedish origin, although there are generally high correlations with southern Scandinavia and northern Germany. Interestingly, with a <em>terminus post quem</em> of 1609, or 1617 with the sapwood margin, this is the third oldest wreck of its kind hitherto known (last update: March 2021).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002426.jpg\" alt=\"De afbeelding toont archeologen die wrakstukken onderzoeken die zijn ontdekt bij Hallig Hooge in de Noord-Friese Waddenzee, Duitsland. \"> <div class=\"img-source\">ALSH (State Archaeology Department of Schleswig-Holstein)</div> </figure> <p>Although this way of construction is primarily associated with Sweden and to a lesser extent Norway, the 2020 discovery of a similar wreck near Terschelling dating to ca. 1546 could point also to a local presence of this uncommon type (Alice Overmeer, pers. comm.). In contrast to the Scandinavian finds, the North Sea half-carvels are built entirely of oak.</p> <p>Another sub-variant with planks fitted in an alternating fashion above the waterline is also most common in Sweden, with corresponding finds in Denmark and Germany.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The first wreck-fragment close to a tidal creek was completely dismantled for sampling and documentation and the remains were carried away with the next tides. The second wreck-fragment (thanks to its elevated location on the Japsand) silted in again and is protected <em>in situ</em> now. It is part of a long-term remote-sensing case study conducted by the geologist Dr. Dennis Wilken (University of Kiel) to detect wooden structures under sediment layers through electromagnetic induction. Through this technique wrecks could theoretically be detected before they are unearthed through erosion.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Zwick et al. (2019).<br /><em>Archäologie an der Waterkant. Die Wrackteile vom Japsand bei Hallig Hooge.</em><br />Archäologische Nachrichten aus Schleswig-Holstein 25, 2019.<br />pp 152-163.</li><li>Daniel Zwick, Archaeologia Navalis.<br /><a href=\"https://archaeologia-navalis.org/shipwreck-research/1617-japsand-hallig-hooge/\">An early 17th-century Halvkravell from the North Frisian Wadden Sea.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

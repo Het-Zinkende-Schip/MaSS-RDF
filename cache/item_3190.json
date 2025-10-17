@@ -1,0 +1,27 @@
+{
+  "id": "3190",
+  "code": "hollandia-2",
+  "name": "Hollandia",
+  "type": "wreck",
+  "lat": "-35.1090409",
+  "lon": "18.0116370",
+  "location": "Off the coast of Simonstown , Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1858",
+  "firstyearend": null,
+  "lastdate": "1891-05-27",
+  "lastyear": "1891",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Henry Keyter",
+  "created_on": "2023-11-23 15:50:32",
+  "modified_on": "2025-07-25 13:03:55",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Hollandia</strong></em> was een driemaster onderweg met suiker van Mauritius naar New York.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003736.jpg\" alt=\"Een krantenartikel over het zinken van het schip Hollandia.\"> <div class=\"img-source\">Delpher.nl</div> </figure> <p>Artikel in het Algemeen Handelsblad van 24 juni 1891.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: P. Kater, Monnikendam</p> <p><em>Te Monnickendam is de 20e dezer (1858) van de werf Holland, toebehorende aan de scheepsbouwmeester J. Kater Pzn, met het beste gevolg te water gelaten het fregatschip Hollandia, groot 250 Rijkslasten.&nbsp;</em></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>M.A. Jansen</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>11</td></tr><tr><th scope=\"row\">Lengte</th><td>86 voet (26,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>14 &frac34; voet (4,5 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>8 &frac12; voet (2,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>459 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Jan Lettens.<br /><a href=\"https://www.wrecksite.eu/wreck.aspx?224580\">SV Hollandia (+1891).</a></li><li>La Grange, L., Williams, B.L., Gribble, J. Manders, M.R., Derksen, L.F., Brouwers, W.F.G.J.  (2024).<br /><a href=\"https://cultureelerfgoed.info/mass/?file=00000288.pdf\">Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives.</a><br />Cape Town: South African Heritage Resources Agency.</li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Hollandia&amp;cql%5B%5D=%28date+_gte_+%2227-05-1891%22%29&amp;cql%5B%5D=%28date+_lte_+%2215-07-1891%22%29&amp;redirect=true&amp;sortfield=date&amp;page=4&amp;facets%5Btype%5D%5B%5D=artikel&amp;identifier=ddd:010146687:mpeg21\">Algemeen Handelsblad (24-6-1891).</a></li><li>Willem Hendrik Eickelberg.<br /><a href=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Willem_Hendrik_Eickelberg_-_Study_of_the_Dutch_Barque.jpg/640px-Willem_Hendrik_Eickelberg_-_Study_of_the_Dutch_Barque.jpg\">Study of the Dutch Barque.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

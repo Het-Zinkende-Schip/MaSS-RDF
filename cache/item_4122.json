@@ -1,0 +1,27 @@
+{
+  "id": "4122",
+  "code": "oq57",
+  "name": "OQ57",
+  "type": "wreck",
+  "lat": "52.4415410",
+  "lon": "5.7742240",
+  "location": "Biddinghuizen, Nederland",
+  "firstdate": null,
+  "firstyear": "1250",
+  "firstyearend": "1850",
+  "lastdate": null,
+  "lastyear": "1250",
+  "lastyearend": "1850",
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-03-20 10:10:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1957 en nogmaals in 1963 werd een verkenning verricht naar een gemeld scheepswrak op kavel Q57 in Oostelijk Flevoland, die sindsdien met bos is beplant. Er werd een deel van een vlak gevonden van een platbodem met enkele leggers. Het werd vanwege de ernstige beschadigingen die het had ondergaan beschouwd als niet meer van belang voor nader archeologisch onderzoek en is derhalve verwijderd.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-25j-gqa2\">Opgravingsdocumentatie scheepswrak OQ57.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

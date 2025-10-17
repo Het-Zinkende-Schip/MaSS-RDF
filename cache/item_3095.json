@@ -1,0 +1,27 @@
+{
+  "id": "3095",
+  "code": "rijnland-2",
+  "name": "Rijnland",
+  "type": "wreck",
+  "lat": "53.0338793",
+  "lon": "4.8582791",
+  "location": "Texel, Nederland",
+  "firstdate": null,
+  "firstyear": "1753",
+  "firstyearend": null,
+  "lastdate": "1783-10-20",
+  "lastyear": "1783",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-06-13 07:54:54",
+  "modified_on": "2025-07-18 20:56:52",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Rijnland</em> lag 20 oktober 1783 op de rede van Texel. Het schip was klaar gemaakt voor de winter. Er was nog een kleine voorraad kruit aan boord voor seindoeleinden. Waarschijnlijk door onachtzaamheid van de konstabel raakte het kruit in brand. Het vuur verspreide zich snel over het schip dat volledig uit brandde. Met veel moeite kon het brandende wrak tegen de wal worden gezet.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004303.jpg\" alt=\"De afbeelding toont een gravure met meerdere zeilschepen, getiteld &quot; 't Vertrek der Voorste Schoener, van 's Lands Schip Retland, den 20 Mey 1830&quot;. \"> <div class=\"img-source\">RP-P-OB-85.196B</div> </figure> <p><br>Acht bemanningsleden verloren het leven, 38 raakten gewond. De overige 178 mannen konden ternauwernood het vege lijf redden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Armament: 52</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>C.H. Mulder</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>224</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>NIMH scheepsdocumentatie nr 448.</em></li><li><a href=\"https://www.dbnl.org/arch/jong102gesc11_01/pag/jong102gesc11_01.pdf\">Geschiedenis van Het Nederlandsche Zeewezen, V 68.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

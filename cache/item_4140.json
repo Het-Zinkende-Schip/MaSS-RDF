@@ -1,0 +1,27 @@
+{
+  "id": "4140",
+  "code": "nt100",
+  "name": "NT100",
+  "type": "wreck",
+  "lat": "52.6517330",
+  "lon": "5.9524430",
+  "location": "Kraggenburg, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1700",
+  "lastyearend": "1800",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:56:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1942 werd de vondst gemeld van een scheepswrak op kavel T100 in de Noordoostpolder gemeld. Pieter (P.J.R.) Modderman onderzocht het wrak datzelfde jaar en constateerde slechts dat het ging om een 18 m lang en 3 m breed schip, waarvan de ondergangsdatering in de 18de eeuw werd gesteld. Tot de vondsten die uit het wrak die geborgen werden behoren drie steengoed kruiken met blauwe versiering, een roodbakkend aardewerken schotel met slibversiering, een bruin geglazuurd kruikje. Tot slot vond men nog een aardewerken kookpot/grape, welke zich thans echter niet meer in het Nationaal Scheepsarcheologisch Depot te Lelystad bevindt.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-x83-t7ua\">Opgravingsdocumentatie scheepswrak NT100.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

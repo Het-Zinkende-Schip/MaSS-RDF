@@ -1,0 +1,27 @@
+{
+  "id": "530",
+  "code": "rarop",
+  "name": "Rarop",
+  "type": "wreck",
+  "lat": "7.0330000",
+  "lon": "79.8080000",
+  "location": "Between Colombo and Negombo",
+  "firstdate": null,
+  "firstyear": "1634",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2015-05-26 00:00:00",
+  "modified_on": "2025-06-16 19:29:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De fluit <em><strong>Rarop</strong></em> verliet de Republiek op 6 december 1634. Zij kwam op 14 juli 1635 in Batavia aan. Het schip bleef in Azi&euml; dienst doen.</p> <p>Volgens het uitreisboek verging de Rarop 1639 op de custe van Ceijlon gaande naar Negombo op de rivier.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0057?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">1.04.02 4932 uitreisboek.</a></li><li><a href=\"https://archive.org/details/daghregistergeh03kologoog/page/442/mode/2up?q=Rarop\">Dagregister Batavia, 18-9-1641.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

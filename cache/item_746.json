@@ -1,0 +1,27 @@
+{
+  "id": "746",
+  "code": "fazant",
+  "name": "Fazant",
+  "type": "wreck",
+  "lat": "-8.0646973",
+  "lon": "-34.8644188",
+  "location": "Recife, Brazilië",
+  "firstdate": null,
+  "firstyear": "1625",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-03 14:00:20",
+  "modified_on": "2023-01-06 15:56:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: yacht<br>Built: Middelburg after 1623<br>WIC chamber Zeeland<br>Tonnage: 30 last<br>Complement 25<br>Armament 10, (1635) 4 (1639)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

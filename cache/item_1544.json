@@ -1,0 +1,27 @@
+{
+  "id": "1544",
+  "code": "stavoren-stadsfenne",
+  "name": "Stavoren stadsfenne",
+  "type": "wreck",
+  "lat": "52.8907078",
+  "lon": "5.3030209",
+  "location": "Stavoren, Nederland",
+  "firstdate": null,
+  "firstyear": "-1000",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1200",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-18 10:03:16",
+  "modified_on": "2025-07-03 10:04:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001870.jpg\" alt=\"Modeltekening van een boomstamboot\"> <div class=\"img-source\">RCE</div> <figcaption class=\"img-description\">.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p><br>Het fragment bevat kleine houten pennetjes die bij de constructie zijn gebruikt om de dikte van de huid te bepalen.</p> <p>Tijdens de opgraving in de Stadsfenne werd in de laat middeleeuwse werf een (hergebruikt) fragment van een boomstamboot gevonden.</p> <p>Het fragment bestaat uit een stevengedeelte van ongeveer 280 cm lange en 59 cm breed, met een hoogte van 24 cm. De oorspronkelijke afmetingen van de kano zijn niet meer te reconstrueren.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het is niet duidelijk hoe oud de kano is, mogelijk dateert de kano in de 12e eeuw, maar mogelijk is de kano veel ouder. Het fragment was slecht geconserveerd: bij het lichten viel het grotendeels uit elkaar.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Heide, G.D. van der, (1974).<br /><em>Scheepsarcheologie: Scheepsopgravingen in Nederland en elders in de wereld.</em><br />Strengholt.</li><li>Geert Overmars.<br /><a href=\"https://stavoren.wordpress.com/2015/06/03/de-boomstamkano-van-stavoren/\">De boomstamkano van Stavoren.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

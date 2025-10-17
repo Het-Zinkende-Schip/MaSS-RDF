@@ -1,0 +1,27 @@
+{
+  "id": "2177",
+  "code": "wapen-van-friesland",
+  "name": "Wapen van Friesland",
+  "type": "wreck",
+  "lat": "13.7109448",
+  "lon": "80.1345636",
+  "location": "Pulicat, India",
+  "firstdate": null,
+  "firstyear": "1702",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1702",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-30 12:26:46",
+  "modified_on": "2024-11-29 15:04:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De sloep Wapen van Friesland verongelukt was op de rede van Palleacatta met een lading van 11441 lb peper.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.vocsite.nl/schepen/12384/\">vocsite.nl.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

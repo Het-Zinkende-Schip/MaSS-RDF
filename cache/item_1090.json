@@ -1,0 +1,27 @@
+{
+  "id": "1090",
+  "code": "celebes",
+  "name": "Celebes",
+  "type": "wreck",
+  "lat": "51.4802425",
+  "lon": "-6.6599118",
+  "location": "Irish Sea, Ierland",
+  "firstdate": null,
+  "firstyear": "1936",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-23 14:53:17",
+  "modified_on": "2025-06-09 16:06:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het m.s. \"Celebes\", eigenaar R. J. Kajuiter te Groningen, verliet 30 Maart 1941 Liverpool. Sinds die datum is noch van het schip, noch van de bemanning iets vernomen. Volgens de Engelse admiraliteit moet aangenomen worden dat de \"Celebes\" tengevolge van vijandelijke actie op 2 april 1941 verloren is gegaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: kustvaarder<br>Gebouwd: 1927, E.J. Smit &amp; Zoon's Scheepswerven N.V. Westerbroek, Groningen<br>Eigenaar: E. Wagenborg's Scheepvaart- &amp; Expeditiebedrijf N.V<br>Dimensies: 43.30 X 8 X 3.60 m<br>Tonnage: 453<br>Voortstuwing: Motor, Oil, 4-stroke single-acting<br>Snelheid: 10<br>Bemanning: 7<br>Kapitein: H. Menninga</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>De gehele bemanning kwam bij deze ramp om het leven:<br>H. Menninga gezagvoerder<br>W. Th. Beerlings matroos<br>M. Grootveld stuurman <br>H. Hilbrands matroos<br>H. Tillema le machinist<br>H. Wolf matroos<br>F. Brouwer 2e machinist</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 85.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=1340\">Maritiem Historische Data ID 1340.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

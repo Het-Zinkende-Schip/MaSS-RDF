@@ -1,0 +1,27 @@
+{
+  "id": "2672",
+  "code": "ses-llumetes",
+  "name": "Ses Llumetes",
+  "type": "wreck",
+  "lat": "39.5427859",
+  "lon": "3.3505898",
+  "location": "Porto Cristo, Mallorca, Spanje",
+  "firstdate": null,
+  "firstyear": "-60",
+  "firstyearend": "80",
+  "lastdate": null,
+  "lastyear": "80",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Sergio José López Martín",
+  "created_on": "2021-10-13 16:56:00",
+  "modified_on": "2025-06-14 18:46:44",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In de haven van Porto Cristo (Mallorca) is een schip uit de Romeinse tijd opgegraven in 2016.</p> <p>Het wrak was al 50 jaar eerder ontdekt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://sketchfab.com/3d-models/underwater-pecio-de-ses-llumetes-porto-cristo-e65690fcb07043c68215ad53dd72cd70\">3D model.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

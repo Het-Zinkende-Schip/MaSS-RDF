@@ -1,0 +1,27 @@
+{
+  "id": "2634",
+  "code": "nargen-1",
+  "name": "Nargen 1",
+  "type": "wreck",
+  "lat": "59.5807285",
+  "lon": "24.5616531",
+  "location": "Naissaare, Estland",
+  "firstdate": null,
+  "firstyear": "1550",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-08-31 11:40:13",
+  "modified_on": "2025-06-14 17:59:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>In 2015 the discovery of this site was reported by a German minesweeper to the Estonian Maritime Museum (<em>Eesti Meremuuseum</em>). A side-scan sonar survey was carried out by the museum&rsquo;s research vessel MARE to visualise the wrecksite under the lead of Vello M&auml;ss. Shortly thereafter, several artefacts were retrieved with a remotely operated underwater vehicle (ROV).</p> <p>Based on the general dimensions, this wreck was temporarily associated with a bojer-type vessel.</p> <p>The cargo contained several vessels and utensils, which are believed to be items of a pharmacist or <em>medicus</em> (barber-surgeon).</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Only casual observations could be made of the hull itself, indicating that this was a carvel-built vessel. It carried ballast stones and wooden boxes, which contain ceramic artefacts. Individual timbers and details in ship-construction were difficult to assess due to the general decay and deterioration.</p> <p>The wreck remains itself were not dated, but a German tankard produced in Siegburg could be confidently dated into the 1570&rsquo;s. The pottery assemblage &ndash; partly intact &ndash; included also glazed redware tripods and other bowl-shaped ware from the southern Baltic Sea. Of particular interest are the pharmaceutical artefacts, e.g. albarellis, a syringe, ointment jars and glass ware, offering a rare glimpse into late medieval healing practices.</p> <p>A perplexing find was a homogenous group of globular vessels with five bungholes each, for which the specialists have not found any direct comparative evidence. These are tentatively associated with chemist-bottles to saturate liquids with gases or used for vacuum distillation. Another hypothesis was the use as a weapon, in which these vessels were filled with incendiary substances.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The wrecksite is still<em> in situ</em> and has disintegrated into three parts.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Mäss, V., Russow, E. (2015).<br /><em>A delivery for a pharmacy? Exceptional collection of Early Modern Age finds from the sea bed of the Tallinn Bay.</em><br />Archaeological Fieldwork in Estonia 2015.<br />pp 211–224.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

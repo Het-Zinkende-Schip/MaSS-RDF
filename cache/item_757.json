@@ -1,0 +1,27 @@
+{
+  "id": "757",
+  "code": "van-ghent-hrms",
+  "name": "Hr.Ms. Van Ghent",
+  "type": "wreck",
+  "lat": "-3.0297150",
+  "lon": "107.3520813",
+  "location": "Bamijo, tussen Bangka and Beliton islands, Indonesië",
+  "firstdate": null,
+  "firstyear": "1925",
+  "firstyearend": null,
+  "lastdate": "1942-02-15",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-13 14:22:19",
+  "modified_on": "2025-06-07 14:48:17",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Van Ghent </em>werd gebouwd door Koninklijke Maatschappij de Schelde uit Vlissingen en werd in 1929 in dienst genomen onder de naam&nbsp;<em>De Ruyter</em>.</p> <p>In 1934 werd het schip hernoemd tot Van Ghent zodat een lichte kruiser die op dat moment door Wilton-Fijenoord werd gebouwd de naam De Ruyter kon gaan voeren.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00004397.jpg\" alt=\"https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ad86f33e-d0b4-102d-bcf8-003048976d84\"> <div class=\"img-source\">Fotocollectie Anefo</div> </figure> <p class=\"figcaption\">Opname van het brandende schip nadat ze verlaten was door de bemanning<br><br></p> <p>In de vroege ochtend van 15 februari rond half vijf liep de Hr.Ms. Van Ghent door een navigatiefout aan de grond in Stolze-straat op een rif bij het eiland Bamidjo.&nbsp;De navigatiefout werd veroorzaakt door slechte weersomstandigheden. De bemanning had het schip voor het verlaten in brand gestoken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: destr0yer, admiralen klasse<br>Gebouwd: Koninklijke Maatschappij De Schelde (Vlissingen) 1925<br>Commissioned: 22-10-1929</p> <p>Bewapening: 4 x 1 120 mm guns (Bofors No. 5), 2 x 75 mm-gun en 4 x .50 inch machinegun (Browning)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pieter Schotel</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>149</td></tr><tr><th scope=\"row\">Snelheid</th><td>34 knopen ~ 63 km/u (39 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>321 &frac34; voet (98,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>31 &frac14; voet (9,5 m)</td></tr><tr><th scope=\"row\">Deplacement</th><td>1316 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://uboat.net/allies/warships/ship/2858.html\">U boat.net.</a></li><li>Munching, L.L. von, (1978).<br /><em>Schepen van de koninklijke marine in de 2e wereldoorlog.</em><br />pp 27.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2780",
+  "code": "pauwenburg",
+  "name": "Pauwenburg",
+  "type": "wreck",
+  "lat": "51.4081154",
+  "lon": "3.4476471",
+  "location": "Westerschelde, noordkust Zeeuws vlaanderen, Nederland",
+  "firstdate": null,
+  "firstyear": "1740",
+  "firstyearend": null,
+  "lastdate": "1748-12-12",
+  "lastyear": "1748",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-30 13:07:16",
+  "modified_on": "2025-06-14 21:52:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Pauwenburg was een fregat met 20 stukken.</p> <p>12 december 1748 woedde een zware storm waarbij '<em>de scheepsmagt van de Staat merkelijke schade is bekomen' </em>zoals historicus de Jonge het uitdrukt.</p> <p>De Pauwenburg een fregat gestationeerd in Vlissingen raakte van de ankers en dreef masteloos tegen de Vlaamse kust. Daar werd het door Franse troepen in bezit genomen. Zes dagen later werd het schip kloekmoedig heroverd door de commandeurs Pezys en Walraven onder de ogen van de Fransen. Blijkbaar konden ze het schip niet meevoeren want het werd ter plaatse verbrand. (De Jonge pp 224-225)</p> <p><strong>Fransen in Vlaanderen</strong></p> <p>De Oostenrijkse Successieoorlog (1741-1748) woedde in die jaren. Frankrijk, Pruisen en Spanje namen het op tegen de nieuwe Oostenrijkse keizerin Maria Theresia en haar bondgenoten. Het Franse leger bezette toen delen van de de Zuidelijke Nederlanden en dus ook Vlaanderen, op dat moment Oostenrijks bezit.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>De Jong, J.C. (1861).<br /><em>Geschiendenis van Het Nederlandsche Zeewezen, IV, pp. 224-225.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

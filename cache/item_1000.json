@@ -1,0 +1,27 @@
+{
+  "id": "1000",
+  "code": "geelmuiden-1659",
+  "name": "Geelmuiden",
+  "type": "wreck",
+  "lat": "20.4976918",
+  "lon": "114.2352102",
+  "location": "Macaose eilanden, China",
+  "firstdate": null,
+  "firstyear": "1657",
+  "firstyearend": null,
+  "lastdate": "1659-07-25",
+  "lastyear": "1659",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-02 16:22:27",
+  "modified_on": "2025-06-24 23:44:13",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De fluit <em><strong>Geelmuiden</strong></em> en het jacht <em>Meliskerke</em> werden uitgezonden vanuit Batavia om de handel met China te bevorderen (25 juni 1659). Verantwoordelijk voor de lading en handel op De Geelmuiden was Hendrik Leverey.</p> <p><strong>Storm</strong><br>Het schip kwam op 24 juli ter hoogte van Macao in een zware storm terecht. Francois Lantsman, verantwoordelijk onderkoopman op De Meliskerke, deed verslag:</p> <p><em>... omtrent 30 mijlen van de Macouse eijlanden op den 25en Julij een seer swaren storm uijt de noordelijcke handt is ontmoet die des nachts met alsulcken cracht van windt toenam, dat die van&rsquo;t jacht Meliskercke tot behoudenis van menschen schip en goet gedongen wierden haer groote mast te kerven welcken nacht met groot gevaer van te sullen vergaen doorgebracht hebbende </em></p> <p><em>bevonden des morgens van &lsquo;t fluijtie geelmuijden verstecken te sijn </em><em>[...] ende haer eijndelijck op den 3en augustij in de Baij van Haijtemon behouden gebracht alwaer het gemiste fluijtien Geelmuijden hadden gemeint te vinden maer Eijlaes &lsquo;tselve is daer noch elders niet vernomen noch tevoorschijn gecomen soo dat niet anders t&rsquo;presumeren sij of moet god betert in zee wesen vergaen daer d&rsquo;E Comp behalven &rsquo;t schip en menschen f 27744:10: bij te verliesen comt.</em></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003504.png\" alt=\"landkaart van een baai. In het vierkant, de baai van Haijtemon met de Portugese stad Macao. De Chinese stad Kanton ligt iets ten n oorden van de baai.\"> <div class=\"img-source\">HaNA_4.VEL_272</div> </figure> <p class=\"figcaption\"><br>In het vierkant, de baai van Haijtemon met de Portugese stad Macao.<br>De Chinese stad Kanton ligt iets ten n oorden van de baai.</p> <p>Van De Geelmuiden werd nooit meer iets vernomen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf te Amsterdam 1657, (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/150/file/NL-HaNA_1.04.02_150_0648?eadID=1.04.02&amp;unitID=150&amp;query=150\">Resolutie Heren XVII, okt 1657)</a></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>79</td></tr><tr><th scope=\"row\">Lengte</th><td>100 Amsterdamse&nbsp;voet (28,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>22 &frac12; Amsterdamse&nbsp;voet (6,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92000\">DAS 08831.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1229/file/NL-HaNA_1.04.02_1229_0195?eadID=1.04.02&amp;unitID=1229&amp;query=1229\">NL-HaNA_1.04.02_1229_0195.</a></li><li>Pieter van Dam.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/vandam/#page=729&amp;accessor=searchText&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=3&amp;\">Beschrijvinge van de Oostindische Compagnie 1639-1701.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

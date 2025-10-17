@@ -1,0 +1,27 @@
+{
+  "id": "2486",
+  "code": "westerheversand-1912",
+  "name": "Westerheversand",
+  "type": "wreck",
+  "lat": "54.3786330",
+  "lon": "8.5995000",
+  "location": "Westerheversand, Duitsland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1912",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-04 20:06:40",
+  "modified_on": "2025-07-08 17:49:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This wrecksite of an early 20th-century steam-tug was discovered in the 1950's and was scrapped by the coastal population: Planks, metals and coals from the steam generator were recovered, thus the wreck was colloquially referred to by locals as <em>\"Kohlenschiff\"</em> (coal ship). The machine and generator were scrapped by a salvage company. Soon thereafter, the wreck remains were covered by sediments again. In the summer of 1994, the frames re-appeared. Due to the scouring effect, it took only six months until the wrecksite was almost entirely exposed again.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002447.jpg\" alt=\"shipwreck in the sand by the sea, with people next to it\"> <div class=\"img-source\">K&uuml;hn, H.-J. (1999). Gestrandet bei Uelvesb&uuml;ll - Wrackarch&auml;ologie in Nordfriesland. Husum.</div> </figure> <p>The site was investigated by Dr. Hans-Joachim K&uuml;hn (State Archaeology Department of Schleswig-Holstein) who identified the wreck as a steam-tug of the German Imperial Navy, which sank in 1912.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>59 voet (18 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Kühn, H.-J. (1999).<br /><em>Gestrandet bei Uelvesbüll - Wrackarchäologie in Nordfriesland.</em><br />Husum.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

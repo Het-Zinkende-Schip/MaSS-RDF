@@ -1,0 +1,27 @@
+{
+  "id": "2721",
+  "code": "triton-1928",
+  "name": "Triton",
+  "type": "wreck",
+  "lat": "30.6605995",
+  "lon": "-66.7968750",
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1928",
+  "firstyearend": null,
+  "lastdate": "1942-06-01",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-02 10:49:01",
+  "modified_on": "2025-06-14 20:51:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het stoomschip Triton was onderweg van Brits Guyana met bestemming New York. De lading bestond uit 3100 ton bauxiet en 60 ton hout. Het schip voer niet in konvooi en was bewapend met een 3 inch boord kanon.</p> <p>Op 1 juni werd ze aangevallen ten ZO van Bermuda door de Duitse onderzeeboot U 558.* Er werd een lichtkogel waargenomen onmiddellijk gevolgd door kanonvuur. Verschillende granaten troffen doel. De Triton probeerde nog weg te komen en schoot zelfs terug. Het mocht niet baten. Het schip was in brand geschoten en was zinkende. De bemanning redde zich in drie sloepen. De eerste stuurman werd dood gevonden drijvende op een vernield vlot. De 2e machinist De Graaf overleed in de reddingsboot aan zijn verwondingen.</p> <p>De overige vier waren vermist en vermoedelijk nog aan boord tijdens het zinken van de Triton.</p> <p>Van de opvarenden verloren zes personen hierbij het leven:</p> <table>  <tr> <td>J.P.J. Lendorf</td> <td>1e stuurman</td> </tr> <tr> <td>J. de Graaf</td> <td>2e machinist</td> </tr> <tr> <td>J. da Silva</td> <td>matroos</td> </tr> <tr> <td>M. Elmont</td> <td>matroos</td> </tr> <tr> <td>N. J.v. Eijk</td> <td>&nbsp;tremmer</td> </tr> <tr> <td>D. v. Leeuwerden</td> <td>kanonnier</td> </tr>  </table> <p>* Twee weken eerder op 18 mei had dezelfde onderzee&euml;r het Nederlandse schip <a href=\"/fauna\">Fauna</a> getorpedeerd en tot zinken gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: A.G. Neptun, Schiffswerft &amp; Maschinenfabrik, Rostock (D)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Dijk, Barteld van</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>36</td></tr><tr><th scope=\"row\">Tonnage</th><td>2078 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=6689\">Triton - ID 6689.</a></li><li>Haersolte, J.W.J. van (ed) (1947).<br /><em>Scheepsrampen in  oorlogstijd, nr. 185.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

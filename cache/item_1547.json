@@ -1,0 +1,27 @@
+{
+  "id": "1547",
+  "code": "dalen",
+  "name": "Dalen",
+  "type": "wreck",
+  "lat": "52.6975437",
+  "lon": "6.7403462",
+  "location": "Dalen, Nederland",
+  "firstdate": null,
+  "firstyear": "-700",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "300",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-18 10:38:17",
+  "modified_on": "2020-08-24 17:22:35",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Maarleveld T. (2008).<br /><em>Boten zonder geschiedenis, of wie is er bang voor een boomstamboot?.</em><br />Glavimans 10.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

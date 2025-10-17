@@ -1,0 +1,27 @@
+{
+  "id": "1218",
+  "code": "slot-ter-hoge-1776",
+  "name": "Slot ter Hoge",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Indische Oceaan",
+  "firstdate": null,
+  "firstyear": "1776",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1790",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-17 10:30:07",
+  "modified_on": "2025-04-05 16:28:33",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>Slot Ter Hoge</strong></em> vertrok 6 maart 1790 vanuit Batavia voor haar derde thuisreis. Het schip kwam nooit aan in de Kaapkolonie. Het schip is vermist en vermoedelijk met man en muis vergaan ergens op de Indische Oceaan .</p> <p>De Slot ter Hoge is genoemd naar de nog bestaande buitenplaats Ter Hooge bij Middelburg. Het huis dateert van de 18e eeuw. Meerdere bewindhebbers hebben op deze buitenplaats gewoond.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf in Middelburg, 1776<br>Tonnage: 575<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>150 Amsterdamse&nbsp;voet (42,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/99070\">DAS 8287.3.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

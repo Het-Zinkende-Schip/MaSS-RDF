@@ -1,0 +1,27 @@
+{
+  "id": "2881",
+  "code": "voorwaarts",
+  "name": "Voorwaarts",
+  "type": "wreck",
+  "lat": "56.0400000",
+  "lon": "-0.9695893",
+  "location": "Noordzee , Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1902",
+  "firstyearend": null,
+  "lastdate": "1917-04-12",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-06 12:02:19",
+  "modified_on": "2025-06-15 12:07:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De schoener<em><strong> Voorwaarts</strong></em> was onderweg van van Hartlepool naar Christiana in Denemarkwen met een lading kolen.</p> <p>Op 12.04.1917 werd ze aangehouden door de UC 31 en door kanonvuur tot zinken gebracht. De bemanning kon worden opgepikt door het Engelse<em><strong> s.s. Genese</strong></em> en te Yarmouth aan land worden gebracht.<br>NRC 14.04.1917: Het vaartuig &ldquo;Voorwaarts&rdquo; uit Groningen, varende van Hartlepool naar Christiana, met een lading kolen, is op 12 dezer, door middel van bommen, door een Duitse onderzeeboot tot zinken gebracht. Dit geschiedde in de namiddag. De bermanning is te Yarmouth geland.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: schoener, twee-master stalen zeilschip <br>Gebouwd: Gebr. J. &amp; G.. Verstockt, Martenshoek, Groningen</p> <p>Eigenaar Lukas van der Veen, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Buisman, J.</td></tr><tr><th scope=\"row\">Lengte</th><td>107 voet (32,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>20 &frac34; voet (6,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>147 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=7096\">ID  7096.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

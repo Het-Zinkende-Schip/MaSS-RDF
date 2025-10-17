@@ -1,0 +1,27 @@
+{
+  "id": "2528",
+  "code": "moeweninsel-1",
+  "name": "Möweninsel",
+  "type": "wreck",
+  "lat": "54.5079378",
+  "lon": "9.5646286",
+  "location": "Schleswig, Duitsland",
+  "firstdate": null,
+  "firstyear": "1163",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1190",
+  "lastyearend": null,
+  "country": "Denemarken",
+  "countrycode": "DK",
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-25 19:53:09",
+  "modified_on": "2025-06-14 16:11:29",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>In 1822, several wreck remains were observed east of the <em>M&ouml;weninsel</em> (literally: seagull-island), which is the site of a medieval castle controlling the harbour of Schleswig.</p> <p>In 2000, one of the wrecks was rediscovered by a fisherman at a depth of 1.2 metres, who reported the find to the State Archaeology Department of Schleswig-Holstein (ALSH).</p> <p>In the same year, an underwater archaeological investigation was carried out under the lead of Dr. Willi Kramer (ALSH) in cooperation with the <em>Arbeitsgruppe f&uuml;r Maritime und Limnische Arch&auml;ologie</em> (work-group for maritime and limnic archaeology) as well as the Scientific Diving Centre at the University of Kiel.</p> <p>Due to the shallow depth and erosion, the site was under threat and thus an emergency excavation of the ship-timbers with an airlift was carried out. The analysis of the ship-timbers was carried out by Dr. Mike Belasus as part of his diploma project at the University of Kiel.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Only a small slab of articulated planking and the keel was preserved. The construction is diagnostic for the Nordic clinker method, i.e. featuring radially cleft clinker planks of oak fastened together with iron rivets, double and triple mouldings along the plank edges, as well as the <em>biti</em>-system. It has been noted that the M&ouml;weninsel wreck features a deviation from the Nordic clinker tradition, as the <em>biti</em>-system is omitted in the midship-section, indicating a gradual change in the shipbuilding technique.</p> <p>The dendrochronological analysis revealed that the vessel was built of local timber cut around/after 1163.</p> <p>Based on the documentation of individual ship-timbers and a cardboard model, the approximate original dimensions of the vessel were reconstructed, rendering it a medium-sized sailing vessel.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>49 &frac14; voet (15 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>13 voet (4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The ship-timbers were conserved in the State Archaeology Museum of Schleswig-Holstein at Gottorf Castle.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Belasus, M. (2004).<br /><em>Das &quot;Möweninselschiff&quot;. Ein mittelalterlicher Schiffsfund aus der inneren Schlei (diploma thesis).</em><br />University of Kiel.</li><li>Belasus, M. (2009).<br /><em>Das hochmittelalterliche Schiff vor der Möweninsel bei Schleswig.</em><br />Bonn.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

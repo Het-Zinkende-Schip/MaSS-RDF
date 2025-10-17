@@ -1,0 +1,26 @@
+{
+  "id": "2295",
+  "code": "tent-bay",
+  "name": "Tent Bay",
+  "type": "site",
+  "lat": "17.6173515",
+  "lon": "-63.2548445",
+  "location": "Tent Bay, Saba, Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": "1646",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1950",
+  "lastyearend": null,
+  "country": "Bonaire, Sint Eustatius en Saba",
+  "countrycode": "BQ",
+  "author": "Ryan Espersen",
+  "created_on": "2020-11-08 03:57:30",
+  "modified_on": "2025-06-11 23:47:23",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Tent Bay is located along the southwest coast of Saba and served as one of Saba&rsquo;s few reliable anchorage zones. Tent Bay is located at the lee of the prevailing easterly current, creating an area of slack water and a sloping seafloor that makes for good anchorage, though the rocky bottom often snagged anchors to the point that there were not recoverable. As a result, there are many anchors in the area, though to date they have not been properly surveyed by archaeologists.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>During periods of heavy swells combined with occasional collapses of nearby cliffsides from coastal erosion and gas releases from the volcano, sediment collects along the coast of Tent Bay to produce a coarse sand beach. This may have been present during the time of initial Dutch colonization; Menno Hoogland (personal communication 2015) has pointed out that the word &ldquo;tent&rdquo; is an older Dutch word to describe a small house made of canvas or wood (http://gtb.inl.nl, last accessed 19/01/2016). This correlates to archeological evidence of 17th century homesteads on the hills that border Tent Bay, being Paris Hill and Bunker Hill.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

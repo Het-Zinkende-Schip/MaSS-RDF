@@ -1,0 +1,27 @@
+{
+  "id": "2385",
+  "code": "van-lansberge",
+  "name": "Van Lansberge",
+  "type": "wreck",
+  "lat": "-5.9100240",
+  "lon": "119.2181396",
+  "location": "Java zee,, 30 miles south of Sulawesi, Indonesië",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": "1942-02-04",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-24 15:48:20",
+  "modified_on": "2024-09-24 12:15:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis van Soerabaja naar Makassar is de <em><strong>Van Lansberge</strong></em> op 4 februari 1942 nabij de Bril-zandbank, 30 mijl ten zuiden van Makassar door een Japanse luchtaanval gebombardeerd. Het schip raakte in brand maar zonk niet. <br><br>Nog dezelfde dag werd ze door de Japanse onderzeeboot I-55 getorpedeerd. Bij die aanval verloren 20 opvarenden het leven. De overige opvarenden verlieten het nog drijvende wrak, dat vervolgens door het escorteschip H.M.S. mijnenveger Pieter de Bitter met geschutvuur tot zinken werd gebracht.</p> <p>Van het Indische varend personeel werden 9 man gedood, 3 man vermist en 19 man gewond.</p> <p>Onder de Badjo's vielen 2 doden, 6 vermisten en 19 gewonden.*</p> <p>* Badjo of Badjau (Orang), naam van de zee-nomaden. In kleeding, taal en gebruiken verschillen zij gewoonlijk van de bevolking der eilanden, waar ze zich tijdelijk ophouden; ze bestaan uitsluitend van de vischvangst. Een deel van hen heeft zich reeds in kampongs gevestigd, o.a. die aan de N.W. kust v. Borneo. De herkomst dezer zwervende stammen is niet met zekerheid bekend.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: stoomschip, vracht- passagiersschip<br>Gebouwd: Maatschappij voor Scheeps- en Werktuigbouw Fijenoord N.V., Rotterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Wonder, J.</td></tr><tr><th scope=\"row\">Vermogen</th><td>1100 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>10 knopen ~ 19 km/u (12 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>278 &frac12; voet (84,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>41 &frac14; voet (12,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>16 &frac34; voet (5,1 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1937 ton</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

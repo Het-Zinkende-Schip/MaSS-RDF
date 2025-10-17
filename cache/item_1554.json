@@ -1,0 +1,27 @@
+{
+  "id": "1554",
+  "code": "odm-vii",
+  "name": "ODM VII",
+  "type": "wreck",
+  "lat": "51.8147703",
+  "lon": "5.4574585",
+  "location": "Dreumel, Nederland",
+  "firstdate": null,
+  "firstyear": "0",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-08-21 11:00:12",
+  "modified_on": "2025-06-10 19:04:47",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

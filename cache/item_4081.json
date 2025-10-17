@@ -1,0 +1,27 @@
+{
+  "id": "4081",
+  "code": "om11",
+  "name": "OM11",
+  "type": "wreck",
+  "lat": "52.4726690",
+  "lon": "5.6998790",
+  "location": "Biddinghuizen, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1540",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-08-12 17:43:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In augustus 1984 werd na de melding van aangetroffen scheepshout bij het ploegen, een verkenning verricht naar wat een overnaads gebouwd 16de-eeuws vrachtschip bleek te zijn, gelegen op kavel M11 nabij het huidige Biddinghuizen. De omvang van het schip was 20 bij 4,5 meter. De achtersteven en stuurboordzijde van de huid bleken niet aanwezig. Het wrak werd uiteindelijk opgegraven in 1992. Bijzonder was niet alleen de vondst van meerdere tonnetjes met gekaakte haring, maar ook een partij van maar liefst zestien colfstokken. Deze waren voor zowel links- als rechtshandigen, in kinder- en in volwassenformaat, en om de handgreep resteerden in enkele gevallen zelfs nog delen van de kwetsbare windsels! Deze vondst gaf het schip de bijnaam het 'Biddinghuizer colfschip'. Op de bodem van het vooronder van het schip bevond zich een vuurkist met plavuizen, onder andere een aantal voorzien van de gotische teksten 'Alle dinc heeft siinen tiit' en 'die doot is snel - soe doedi wel'. Uit de datering van gevonden munten kon worden afgeleid dat het schip waarschijnlijk ca. 1540 is vergaan. Na de opgraving is het scheepswrak herbegraven op het velddepot bij Nijkerk, ook wel bekend als scheepsarcheologisch kerkhof. Daar is de grondwaterstand hoog en wordt het scheepshout niet aan zuurstof blootgesteld.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003906.jpg\" alt=\"resten van een golfstok in de modder\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zqu-r44w\">Opgravingsdocumentatie scheepswrak OM11.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

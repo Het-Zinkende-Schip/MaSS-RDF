@@ -1,0 +1,27 @@
+{
+  "id": "943",
+  "code": "robijn",
+  "name": "Robijn",
+  "type": "wreck",
+  "lat": "24.4411489",
+  "lon": "58.6395264",
+  "location": "Golf van Oman",
+  "firstdate": null,
+  "firstyear": "1648",
+  "firstyearend": null,
+  "lastdate": "1653-10-11",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-22 14:16:32",
+  "modified_on": "2025-06-27 10:00:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Robijn</em></strong> was, geladen met zijde uit Perzi&euml;, onderweg naar Batavia. Ze voer in konvooi met <em>De Morgenster, Saphir, Jacques</em> en <em>De Zijdeworm</em>. Net buiten de Perzische Golf stak er plotseling een storm op. In een brief, verstuurd uit Gamron (VOC factorij Bandar Abbas in Iran ), met als datum 9 november wordt de ramp door de schipper van De Zijdeworm beschreven:</p> <p><em>\"...sagen den Robijn van al sijn masten, en wijders de Saphier als morgenstar van haer groote masten ontbloot, [....] misten het jacht den Robijn, twelcq omtrent een uijr daer na van seecker persoon (die uijt &lsquo;tselve sinckende geswommen, die bij haer geborgen was) verstonden door een ongemeene overstort van water (die op den overloop als in&rsquo;t ruijm viel) geborsten, als die ingevolge daer door te gronde gegaen te wesen.\"</em></p> <p>Uit de brief blijkt dus dat er 1 overlevende was die zwemmend de Zijdeworm had bereikt.</p> <p><em>Het verhaal is ook online in verkorte vorm te vinden (Coolhaas 1964,<a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=778&amp;accessor=search_in_text&amp;source=2&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1219\">Generale Missiven dl. II p 765</a>) </em><em>Zie ook <a href=\"/morgenster-1649\">de Morgenster</a><br></em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf in Amsterdam, 1648<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>100</td></tr><tr><th scope=\"row\">Tonnage</th><td>480 ton (240 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Dutch-Asiatic Shipping.<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91818\">Details of voyage 0701.1 from Texel to Batavia.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1203/file/NL-HaNA_1.04.02_1203_0954?eadID=1.04.02&amp;unitID=1203&amp;query=1203\">NA 1.04.02 (VOC) 1203, 818ev [scan 954] Brief van 23-4-1654 uit Gamron naar Nederland.</a></li><li>Coolhaas (1964).<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=778&amp;accessor=search_in_text&amp;source=2&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26\">Generale Missiven dl II.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

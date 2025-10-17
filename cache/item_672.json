@@ -1,0 +1,27 @@
+{
+  "id": "672",
+  "code": "cothen",
+  "name": "Cothen",
+  "type": "wreck",
+  "lat": "51.9948806",
+  "lon": "5.2868860",
+  "location": "Cothen, Nederland",
+  "firstdate": null,
+  "firstyear": "825",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "850",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-05-10 13:20:22",
+  "modified_on": "2025-06-07 12:41:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>A flat-bottomed vessel was found in Cothen in 1995 in the bed of the Oude Rijn. Parts of the shelf, curved wood and a flat board have been found.</p> <p>The dimensions of the barge were approximately 20 by 2.5 to 4 by 1.25 meters. Dendrochronological research gives a cutting date after around 826 AD.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>W. Brouwers/E. Jansma/M. Manders.<br /><a href=\"https://www.academia.edu/27529112/Middeleeuwse_scheeps-_resten_in_Nederland\">Middeleeuwse scheeps- resten in Nederland.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

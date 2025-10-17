@@ -1,0 +1,27 @@
+{
+  "id": "2833",
+  "code": "batavier-ii-1897",
+  "name": "Batavier II",
+  "type": "wreck",
+  "lat": "53.0468273",
+  "lon": "4.4384766",
+  "location": "Noordzee Texel, Nederland",
+  "firstdate": null,
+  "firstyear": "1897",
+  "firstyearend": null,
+  "lastdate": "1917-07-27",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-14 16:19:51",
+  "modified_on": "2025-07-14 13:52:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Batavier II werd op reis van Rotterdam naar Londen op 24 sept. 1916 op de Noordzee aangehouden door de Duitse onderzee&euml;r UB 6. Het schip werd in beslag genomen en opgebracht naar Zeebrugge. Een maand later werd de Batavier II door het Duitse Prijzenhof te Hamburg tot prijs verklaard.</p> <p>Ze werd uitgerust met een Duitse prijs bemanning die haar van Zeebrugge naar Hamburg, zou brengen. Ter hoogte van Texel werd het schip op 27 juli 1917, door de Britse onderzeeboot HMS E-55 met geschutvuur tot stoppen gedwongen. De Duitse bemanning verliet daarop het schip. De Batavier II werd nu door een Engelse prijsbemanning bemand. Het schip bleek te zeer beschadigd. Het schip werd daarop tot zinken gebracht nog binnen de Nederlandse territoriale wateren.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003140.jpg\" alt=\"Een stukje getypte tekst met als titel &quot;de ondergang van de Batavier II&quot;\"> <div class=\"img-source\">Delpher.nl</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>244 voet (74,4 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>33 &frac12; voet (10,2 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>14 voet (4,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1328 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=838\">Batavier II id 838.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Batavier+II%22&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;page=1&amp;sortfield=date&amp;coll=ddd&amp;identifier=ddd:010296350:mpeg21:a0080&amp;resultsidentifier=ddd:010296350:mpeg21:a0080&amp;rowid=1\">Rotterdams Nieuwsblad 7-1-1917.</a></li><li>Delpher.nl.<br /><em>Telegraaf 29-7-1917.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

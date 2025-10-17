@@ -1,0 +1,27 @@
+{
+  "id": "4069",
+  "code": "ok76",
+  "name": "OK76",
+  "type": "wreck",
+  "lat": "52.5242880",
+  "lon": "5.6536540",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": "1850",
+  "firstyearend": "1870",
+  "lastdate": null,
+  "lastyear": "1870",
+  "lastyearend": "1900",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 12:18:00",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In juni 1960 werd melding gemaakt dat een scheepswrak was ontdekt bij het in cultuur brengen van kavel K76 in Oostelijk Flevoland. Het bleek een jong, vrij compleet en met steenkool beladen vrachtschip te zijn, vetkolen om precies te zijn. Het object kwam in aanmerking voor opgraving en derhalve werd gevraagd het wrak ongemoeid te laten. In 1962 werden bij een verkenningsrit achter een schuur op kavel K56 echter stukken scheepshout aangetroffen. Uit telefonische navraag bleek dat veel losliggend hout van het wrak op kavel K76 was verwijderd. Uit een bezoek later dat jaar aan de opslagplaats van scheepshout op zanddepot K72 kon worden opgemaakt, dat er zowel met plaatijzer beslagen scheepshout, als vormen die op een overnaadse constructie wijzen aanwezig waren. Geadviseerd werd over te gaan tot opgraving van het inmiddels ernstig beschadigde schip, hetgeen het jaar daarop plaatsvond in 1963. Na documentatie en het bergen van diverse vondsten werd het wrak verwijderd. Naast allerhande stukken scheepsuitrusting en -inventaris werden onder meer een Belgische centime uit 1847 en een kopje met daarop de naam 'Joris' aangetroffen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xha-ghyj\">Opgravingsdocumentatie scheepswrak OK76.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

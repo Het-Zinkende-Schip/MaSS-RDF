@@ -1,0 +1,27 @@
+{
+  "id": "2915",
+  "code": "janna",
+  "name": "Janna",
+  "type": "wreck",
+  "lat": "51.9136519",
+  "lon": "3.3723314",
+  "location": "Noordzee 20 nm van Nieuwe Waterwehg, Nederland",
+  "firstdate": null,
+  "firstyear": "1910",
+  "firstyearend": null,
+  "lastdate": "1917-07-25",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-12 15:40:56",
+  "modified_on": "2025-07-18 16:46:50",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De schoener<em><strong> Janna</strong></em> was onderweg met een lading levensmiddelen en stukgoederen van Rotterdam naar Hậvre. Ze werd door de Duitse U-boot UB 18 op 20 mijl van de Nieuwe Waterweg aangehouden en tot zinken gebracht door het plaatsen van bommen aan boord. De bemanning werd gered en te Hoek van Holland aan land gebracht.<br>Op dezelfde dag werd ook het zeilschip <a href=\"https://mass.cultureelerfgoed.nl/spes-mea\">Spes Mea</a> aangehouden en tot zinken gebracht door de UB-18.<br>De UB-18 heeft in haar carri&egrave;re Nederlandse schepen tot zinken gebracht.<a href=\"https://uboat.net/wwi/boats/successes/ub18.html\">*</a></p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003540.jpg\" alt=\"De nederlandsche vloot verloor de s. Bre-da en s. Batavier II, de motorbooten Timor, Sirra en Nerens en de zeilschepen Janna en Spes Mea; de visschersvaartuigen VL 91 en 134, MA 16 en 103, YM 181 en SCH 23, 134, 136, 170, 254, 382 en 479. \"> <div class=\"img-source\">Delpher</div> </figure> <p>Rotterdams Nieuwsblad 28-7-1917</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Klaas Harm Dost, Groningen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Visser</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>5</td></tr><tr><th scope=\"row\">Tonnage</th><td>145 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=3157\">marhisdata.</a></li><li><a href=\"https://uboat.net/wwi/boats/successes/ub18.html\">uboat.net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1125",
+  "code": "middelburg-1659",
+  "name": "Middelburg",
+  "type": "wreck",
+  "lat": "11.1814633",
+  "lon": "-60.7387433",
+  "location": "Scarborough, Trinidad en Tobago",
+  "firstdate": null,
+  "firstyear": "1659",
+  "firstyearend": null,
+  "lastdate": "1677-03-03",
+  "lastyear": "1677",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-02-10 13:29:03",
+  "modified_on": "2025-06-09 22:37:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>1661 De Middelburg veroverde een Turkse piratenschip (7 -12-1661) in het Middelandse zeegebied.</p> <p>1665 maakt ze deel uit van de vloot van De Ruyter om WIC posten te heroveren pd engelsen in West Africa en de Caribische zee.</p> <p>1677 Tijdens de zeeslag in de baai van<a href=\"/battle-of-scarborough\"> Scarborough</a> raakte ze in brand en dreef tegen de Gouden Monnik aan die samen met de Middelburg in brand raakte en zonk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: linieschip<br>Gebouwd: 1659<br>Eigenaar: Admiraliteit Amsterdam<br>Dimensies: 125 x 32<br>Complement: 180 (1665), 85 (1677) <br>Kapitein: Jan Swart<br>Armament: 38</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Goslinga C. C. (1971). The Dutch in The Caribbean and on the Wild Coast: 1580 - 1680. Gainesville, Florida: University of Florida Press.</em></li><li><em>Jason Paterniti, Douglas Inglis, 2014, The Explorerers Club Flag, 117 Report, In Search of the Dutch Fleet of 1677 Tobago, West Indies (pdf).</em></li><li><em>Bender, J., 2014, Dutch warships in the age of sail. p. 205.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

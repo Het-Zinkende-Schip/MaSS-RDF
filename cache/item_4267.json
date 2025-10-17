@@ -1,0 +1,27 @@
+{
+  "id": "4267",
+  "code": "polydorus",
+  "name": "Polydorus",
+  "type": "wreck",
+  "lat": "9.0183951",
+  "lon": "-28.7577132",
+  "location": "Atlantischer Oceaan",
+  "firstdate": null,
+  "firstyear": "1925",
+  "firstyearend": null,
+  "lastdate": "1942-11-27",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-04-15 09:55:09",
+  "modified_on": "2025-04-15 10:43:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De 'SS <em>Polydorus'</em> was een vrachtschip. Ze voer in konvooi ON-145 van Liverpool naar Freetown met een lading van o.a. 1500 ton ammunitie.</p> <p><strong>Aanval<br></strong>Het konvooi werd door Duitse onderzee&euml;rs aangevallen op 21 november. Er werden 5 schepen tot zinken gebracht (3 Britse schepen en 2 Nederlandse schepen; Polydorus en Tjileboet). <br>De Polydorus werd door de '<em>U 176</em>' achtervolgd. De U-boot miste met zes torpedo's tijdens een 50 uur durende achtervolging, de langste geregistreerde achtervolging door een U-boot in de Tweede Wereldoorlog.</p> <p>Kapitein Brouwer , 66 bemanningsleden, 11 kanonniers en 2 passagiers verlieten het schip in vier reddingsboten direct na de treffers. E&eacute;n Chinees bemanningslid kwam om het leven bij een ongeluk tijdens het neerlaten van de boten.</p> <p>De overlevenden werden opgepikt door de Spaanse stoomboot Eolo (kapitein Urgelles) en landden op 5 december in Las Palmas, Canarische Eilanden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Scott&acute;s Shipbuilding &amp; Engineering Co Ltd, Greenock<br>Eigenaar: Nederlandsche Stoomvaart Maatschappij 'Oceaan' N.V., Amsterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Brouwer, H.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>81</td></tr><tr><th scope=\"row\">Lengte</th><td>449 &frac12; voet (137 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>54 &frac34; voet (16,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>6248 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=5213\">ID 5213.</a></li><li><a href=\"https://www.uboat.net/allies/merchants/ship/2470.html\">uboat.net.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

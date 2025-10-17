@@ -1,0 +1,27 @@
+{
+  "id": "4292",
+  "code": "weldam",
+  "name": "Weldam",
+  "type": "wreck",
+  "lat": "54.8193173",
+  "lon": "3.4732006",
+  "location": "Noordzee, Doggersbank",
+  "firstdate": null,
+  "firstyear": "1693",
+  "firstyearend": null,
+  "lastdate": "1696-06-18",
+  "lastyear": "1696",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-06-23 13:32:25",
+  "modified_on": "2025-06-26 14:13:53",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De '<em>Weldam</em>' was een fregat gebouwd in Amsterdam in 1693.</p> <p>In het voorjaar van 1696 maakte de Weldam deel uit van een smaldeel van vijf Nederlandse fregatten dat een konvooi koopvaarders begeleidde van de Sont en Noorwegen naar Nederland.</p> <p>Het konvooi werd opgewacht en aangevallen door een Frans eskader onder admiraal Jean Bart. Hij wist het Nederlandse smaldeel te overmeesteren en tot overgave te dwingen. <br>Tijdens de actie werden vier van de vijf veroverde schepen verbrand waaronder ook de Weldam (<a href=\"https://mass.cultureelerfgoed.nl/doggersbank-slag-1696\">Zie de slag bij Doggersbank</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam 1693 (<a title=\"DeJonge III,734 2\" href=\"https://cultureelerfgoed.info/mass/?file=00000293.pdf\" target=\"_blank\" rel=\"noopener\">Lijst De Jonge</a>)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Sweers, Isaac</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.dbnl.org/arch/jong102gesc08_01/pag/jong102gesc08_01.pdf\">Geschiedenis van Het Nederlandsche Zeewezen, III, 500.</a></li><li>threedecks.org.<br /><a href=\"https://threedecks.org/index.php?display_type=show_ship&amp;id=26379\">Weldam.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

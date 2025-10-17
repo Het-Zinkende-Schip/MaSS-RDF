@@ -1,0 +1,27 @@
+{
+  "id": "4278",
+  "code": "huis-te-noordwijk",
+  "name": "Huis te Noordwijk",
+  "type": "wreck",
+  "lat": "-6.8547464",
+  "lon": "110.4553332",
+  "location": "Demak, Indonesië",
+  "firstdate": null,
+  "firstyear": "1668",
+  "firstyearend": null,
+  "lastdate": "1683-01-24",
+  "lastyear": "1683",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-05-28 10:42:55",
+  "modified_on": "2025-06-16 17:28:09",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het VOC jacht '<em>Huis te Noordwijk</em>' vertrok 25-6-1669 van Texel naar Batavia</p> <p>Ze bleef vervolgens dienst doen in Azi&euml;.<a href=\"https://www.vocsite.nl/schepen/10749/\">&sup1;</a></p> <p>Het Huis te Noordwijk vertrok voor haar laatste reis van Batavia naar Ternate. Op de terugreis was ze geladen met rijst en suiker. In de gen. Miss. genoemd de '<em>Nieuwe Noordwijck</em>' komende van Ternate voor Demak (Java) vergaan met rijst en suiker. (<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=603&amp;accessor=search_in_text&amp;source=4&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;view=\">Gen. Missiven deel 4, 588</a>)<br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Enkhuizen , 1668.<a href=\"https://resources.huygens.knaw.nl/retroboeken/vandam/#page=531&amp;accessor=searchText&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fvandam%2FsearchText%2Findex_html%3Fpage%3D0%26source%3D1%26id%3DsearchText&amp;source=1&amp;view=\">&sup2;</a></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>130 Amsterdamse&nbsp;voet (36,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 Amsterdamse&nbsp;voet (8,5 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=602&amp;accessor=search_in_text&amp;source=4&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26\">Generale missiven Deel 4, 588.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

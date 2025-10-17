@@ -1,0 +1,27 @@
+{
+  "id": "1",
+  "code": "hendrika",
+  "name": "Hendrika",
+  "type": "wreck",
+  "lat": "51.7170000",
+  "lon": "3.6460000",
+  "location": "Banjaard, Zeeland, Nederland",
+  "firstdate": null,
+  "firstyear": "1800",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1850",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Peter Lunshof",
+  "created_on": "2010-02-01 00:00:00",
+  "modified_on": "2025-06-18 21:37:57",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Hendrika was a small frigate build in 1836 in Rotterdam for the firm Hoboken &amp; sons. She sailed between Holland and Asia. On the 26th November she sailed from Brouwershaven to Batavia in the Dutch East Indies with 40 passengers and cargo. She had only travelled a few miles from Brouwershaven to the banjaard on the morning of the 4th December when she ran aground and sank.<br>She sank on the banjaard. Crew and passengers, 73 in all, died.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000003.jpg\" alt=\"painting of the side of a sailing ship arriving at a village, there are also many rowing boats sailing in the water\"> <figcaption class=\"img-description\">Fregat Den Elshout in harbour of Nagasaki 1845.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Frigate build in 1836 on shipyard 'Rotterdams Welvaren'. 864 tons.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000001.jpg\" alt=\"Drawing W.Boon, The only depiction of the Hendrika.\" height=\"317\"> <figcaption class=\"img-description\">Drawing W.Boon, The only depiction of the Hendrika.</figcaption> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"http://rjb.x-cago.com/GARJB/1998/12/19981231/GARJB-19981231-0335/story.pdf\">De ondergang van het fregatship Hendrika (pdf file in Dutch).</a></li><li>Vrieze, Wim de en Giel Overbeeke (2005).<br /><em>Stranding en schipbreuk voor de Schouwse kust 1824-1999.</em><br />Goes.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2977",
+  "code": "thor-vl-91",
+  "name": "Thor VI (VL 91)",
+  "type": "wreck",
+  "lat": "60.3996799",
+  "lon": "-3.5717892",
+  "location": "Atlantische Oceaan, ten west van Shetland",
+  "firstdate": null,
+  "firstyear": "1912",
+  "firstyearend": null,
+  "lastdate": "1917-07-03",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-15 11:37:11",
+  "modified_on": "2022-08-15 12:08:07",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De<em><strong> <a href=\"https://mass.cultureelerfgoed.nl/proefneming-i\">Proefneming I</a></strong></em> (VL 134) en de <em><strong>Thor VI</strong></em> (VL 91) waren in juli 1917door de Britten opgebracht te Stornoway. Kort nadat ze weer vrij gelaten waren en de haven hadden verlaten werden ze beide tot zinken gebracht door de Duitse onderzee&euml;r U 49. De bemanning werd gered en kwam veilig in Stornoway aan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: A. de Jong, Vlaardingen<br>Rederij: Mercurius (Joost &amp; Frank Pot), Vlaardingen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>14</td></tr><tr><th scope=\"row\">Vermogen</th><td>105 pk</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40026370\">Centraal Visserij register 40026370.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=Thor&amp;cql%5B%5D=%28date+_gte_+%2204-07-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2225-07-1917%22%29&amp;redirect=true&amp;sortfield=date&amp;identifier=MMKB04:000186909:mpeg21:a0004&amp;resultsidentifier=MMKB04:00018690\">Delpher,  De Maasbode (07-07-1917).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

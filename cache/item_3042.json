@@ -1,0 +1,27 @@
+{
+  "id": "3042",
+  "code": "bruinvis-3",
+  "name": "Bruinvis",
+  "type": "wreck",
+  "lat": "7.3869276",
+  "lon": "124.2027118",
+  "location": "Sugut bay, Filipijnen",
+  "firstdate": null,
+  "firstyear": "1645",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1658",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-01-13 12:54:15",
+  "modified_on": "2025-07-18 20:34:20",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Bruinvis was een klein jacht gebouwd in Amsterdam. Ze vertrok 14-4-1645 van Texel naar Azi&euml;. En bleef daar dienst doen voor de VOC.</p> <p>In september 1657 werd de Bruinvis naar Mindanao (Filipijnen) gestuurd om daar onderkoopman Maximiliaan de Jong bij te staan. Deze was bezig met het opzetten van een steunpunt voor de VOC aldaar.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003430.jpg\" alt=\"De afbeelding toont een historische zeekaart.\"> <div class=\"img-source\">NL-HaNA_4.VEL_299</div> </figure> <p>De Spanjaarden en de inheemse bevolking van Mindanao voelden daar weinig voor. Bij aankomst van de Bruinvis bij de riviere <em>Mindanauw</em> kwam een Spaans schip op de rede aan. Er werden schoten gewisseld. De Bruinvis raakte in het gevecht in brand. Hetzij door een eigen fout of door een Spaans vlot dat als brander op de Bruinvis was afgestuurd.</p> <p>De schipper en stuurman zwommen aan land en werden gevangen genomen en gedood. Jaren later kwamen 18 overlevenden terug in Batavia.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Tonnager: 60 last</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/91758\">DAS 0641.1.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=264&amp;accessor=search_in_text&amp;source=3&amp;view=&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%\">Generale missiven Deel III, 251.</a></li><li><em>NA 1.04.02 (VOC) 1225, Missive van Ternate 12-4-1658.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

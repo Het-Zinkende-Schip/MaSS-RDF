@@ -1,0 +1,27 @@
+{
+  "id": "4050",
+  "code": "ng98",
+  "name": "NG98",
+  "type": "wreck",
+  "lat": "52.7151910",
+  "lon": "5.7436490",
+  "location": "Emmeloord, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1250",
+  "lastyearend": "1900",
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-03-20 10:17:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1952 werd melding gedaan van een 'fragment van een scheepswrak' op kavel G98 in de Noordoostpolder. Na verkenning in datzelfde jaar werd het echter beschouwd als van geen belang en werd geadviseerd tot verwijdering. Er zijn geen vondsten in het Nationaal Scheepsarcheologisch Depot te Lelystad opgenomen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xfe-smq5\">Opgravingsdocumentatie scheepswrak NG98.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

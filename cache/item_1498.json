@@ -1,0 +1,27 @@
+{
+  "id": "1498",
+  "code": "antwerp-vikingship",
+  "name": "Antwerp Vikingship",
+  "type": "wreck",
+  "lat": "51.2222333",
+  "lon": "4.3955398",
+  "location": "Antwerpen, België",
+  "firstdate": null,
+  "firstyear": "1400",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1599",
+  "lastyearend": null,
+  "country": "België",
+  "countrycode": "BE",
+  "author": "Martijn Heijink",
+  "created_on": "2020-07-31 10:52:42",
+  "modified_on": "2025-01-07 10:39:28",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Resten van een overnaads gebouwd schip opgevist uit de Schelde bij Antwerpen.</p> <p>Qua type vergelijkbaar met de Noorse Gokstad-snek, grootste scheepstype uit de vroege Viking periode. <br><br>C14-datering post-Vikingperiode van de resten geven een satering tussen 1400-1599. Dat sluit een Viking connectie uit.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>&nbsp;resten: <br>2 rompplank fragmenten<br>2 spanten</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://www.maritieme-archeologie.be/WK_Ship_GenView.aspx\">AOE.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

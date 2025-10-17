@@ -1,0 +1,27 @@
+{
+  "id": "1203",
+  "code": "middelwijk",
+  "name": "Middelwijk",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Zuid Chinese Zee",
+  "firstdate": null,
+  "firstyear": "1783",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1787",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-11 10:13:48",
+  "modified_on": "2025-07-02 11:12:03",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>In 1787 vertrekt <em><strong>D</strong><strong>e Middelwijk </strong></em>vanuit Batavia voor een reis naar Canton. In plaats van het schip de St. Laurens.</p> <p>Ze is vergaan op de heenreis ergens in de Chinese Zee.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf in Rotterdam, 1783<br><br></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>140 Amsterdamse&nbsp;voet (39,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/95517\">DAS 4466.1.</a></li><li><a href=\"https://www.vocsite.nl/schepen/detail.html?id=10692\">VOC Site Middelwijk.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

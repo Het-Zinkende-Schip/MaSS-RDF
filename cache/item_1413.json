@@ -1,0 +1,27 @@
+{
+  "id": "1413",
+  "code": "meern-2",
+  "name": "Meern 2",
+  "type": "wreck",
+  "lat": "52.0861800",
+  "lon": "5.0211453",
+  "location": "Leidse Rijn, Nederland",
+  "firstdate": null,
+  "firstyear": "100",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "200",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-07-24 09:34:30",
+  "modified_on": "2025-07-02 17:44:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op het Nieuwe Veld in De Meern is een fragment van een boomstamboot aangetroffen. Circa 6 meter is waargenomen. Gaten in de wand wijzen op een hergebruik als visbun of kaar. <br>Het fragment wordt gedateerd in de tweede eeuw na Christus.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001834.jpg\" alt=\"Deze kaart toont een deel van het Romeinse Rijk en Germania, met specifieke focus op waterwegen en nederzettingen in wat nu Nederland is.\"> <div class=\"img-source\">RCE</div> </figure> <p><em><a title=\"Romeinse scheepsresten in Nederland\" href=\"https://cultureelerfgoed.info/mass/?file=00000073.pdf\" target=\"_blank\" rel=\"noopener\">Romeinse schepen</a> in Nederland</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

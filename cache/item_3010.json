@@ -1,0 +1,27 @@
+{
+  "id": "3010",
+  "code": "sterne",
+  "name": "Sterne",
+  "type": "wreck",
+  "lat": "58.4499678",
+  "lon": "5.4665824",
+  "location": "Egersund, t.h.v.",
+  "firstdate": null,
+  "firstyear": "1910",
+  "firstyearend": null,
+  "lastdate": "1918-04-07",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-28 11:00:24",
+  "modified_on": "2025-06-15 17:00:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Sterne vertrok op 3 april 1918 in ballast van Stavanger naar Helsingor (DK). OP 7 april tegen de avond werd ze door een Duitse U-boot beschoten. De bemanning ging in de sloep maar keerde toen het schieten ophield terug. Er volgde een tweede beschieting. De 5 koppige bemanning ging weer in de sloep en roeide nu naar de onderzee&euml;r toe. Ze werden op sleeptouw genomen en kregen koffie en brood. In de ochtend werd de sloep losgekoppeld Na twee dagen in open zee landde men alsnog op de Noorse kust. bij Jaedern.</p> <p>De beschadigde Sterne dreef ondertussen roerloos en sloeg op de klippen bij Udsire en was verloren.<br>NRC 14.04.1918: Stavanger, 9 april. Hedenvoormiddag zijn 5 man der bemanning van de Nederlandse aak &ldquo;Sterne&rdquo; in een reddingsboot op Jaedern geland. Verschenen woensdag vertrok dit schip van hier en l.l. zondag tegen n.m. 3 uur is de &ldquo;Sterne&rdquo; door een onderzee&euml;r met geschutsvuur in de grond geboord. De bemanning, welk in een boot het schip had verlaten, kon, omdat het gunstig weer was, behouden de kust van Jaedern bereiken. De Nederlandse tweemastaak &ldquo;Sterne&rdquo; kapitein Schuitema, in 1910 gebouwd, groot 108 ton bruto reg. ton, was eigendom van de gezagvoerder en behoorde te Groningen thuis</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Fa. Gebrs. E. &amp; M. Coops, Hoogezand</p> <p>Eigenaar: reder Schuitema te Groningen.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Jonk, J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>5</td></tr><tr><th scope=\"row\">Lengte</th><td>92 &frac34; voet (28,3 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>18 &frac14; voet (5,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>107 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=6235\">marhisdata id 6235.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Sterne&amp;coll=ddd&amp;sortfield=title&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1918%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;identifier=MMKB19:003543145:mpeg21:a00048&amp;resultsidentifier=MMKB19:0035431\">De Courant (27-06-1918).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

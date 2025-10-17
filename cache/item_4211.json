@@ -1,0 +1,27 @@
+{
+  "id": "4211",
+  "code": "ss-aghios-markos",
+  "name": "SS Aghios Markos",
+  "type": "wreck",
+  "lat": "37.8826600",
+  "lon": "23.4719000",
+  "location": "Κακή Βίγλα, Σαλαμίνα, Griekenland",
+  "firstdate": null,
+  "firstyear": "1919",
+  "firstyearend": null,
+  "lastdate": "1941-04-21",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Griekenland",
+  "countrycode": "GR",
+  "author": "Kimon Papadimitriou",
+  "created_on": "2024-09-05 20:04:02",
+  "modified_on": "2024-10-14 10:00:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p><em>References</em></p> <ul> <li>Dounis Ch. Shipwrecks in the Greek Seas [&Nu;&alpha;&upsilon;ά&gamma;&iota;&alpha; &sigma;&tau;&iota;&sigmaf; &Epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;έ&sigmaf; &Theta;ά&lambda;&alpha;&sigma;&sigma;&epsilon;&sigmaf;]. 1900-1950 (vol. A). Athens: Finatec S.A., 2000, p. 74</li> <li>WRECKSITE - AGHIOS MARKOS CARGO SHIP 1919-1941 [WWW Document], n.d. URL&nbsp;<a href=\"https://www.wrecksite.eu/wreck.aspx?98550\">https://www.wrecksite.eu/wreck.aspx?98550</a> (accessed 4.10.24)</li> <li>GrafasDIVING- Shipwreck S/S Agios Markos [WWW Document], n.d. URL <a href=\"https://www.grafasdiving.gr/en/shipwrecks/ss-agios-markos/\">https://www.grafasdiving.gr/en/shipwrecks/ss-agios-markos/</a> (accessed 4.10.24)</li> <li>TOP2BOTTOM DIVINGTEAM- Wreck Agios Markos 2023 (RTL) [WWW Document], n.d. URL <a href=\"https://top2bottom.tech/wreck-agios-markos-2023-rtl/\">https://top2bottom.tech/wreck-agios-markos-2023-rtl/</a> (accessed 4.10.24)</li> <li>ADDICTED2H2O- SS AGHIOS MARKOS [WWW Document], n.d. URL <a href=\"https://addicted2h2o.com/ss-aghios-markos/\">https://addicted2h2o.com/ss-aghios-markos/</a> (accessed 4.10.24)</li> </ul><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>376 voet (114,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>51 &frac34; voet (15,8 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>24 voet (7,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>4513 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The shipwreck was designated as a monument in 2024, according to the Law 4858/2021 (<a href=\"https://diavgeia.gov.gr/doc/65%CE%A4%CE%9946%CE%9D%CE%9A%CE%9F%CE%A4-5%CE%A8%CE%A0?inline=true\">https://diavgeia.gov.gr/doc/65%CE%A4%CE%9946%CE%9D%CE%9A%CE%9F%CE%A4-5%CE%A8%CE%A0?inline=true</a>).</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2974",
+  "code": "maas-1914",
+  "name": "Maas",
+  "type": "wreck",
+  "lat": "51.8381508",
+  "lon": "2.4830907",
+  "location": "Noord Hinder",
+  "firstdate": null,
+  "firstyear": "1914",
+  "firstyearend": null,
+  "lastdate": "1917-07-24",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-15 10:24:31",
+  "modified_on": "2025-06-15 14:30:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>SS De Maas</strong></em> was op weg van Tunis naar Rotterdam met een lading fosfaat. Op 24 juli 1916 liep ze op een Duitse mijn, 2 mijl ten oosten van het lichtschip, Noord Hinder.</p> <p>De Maas zonk twee minuten na de ontploffing. Er was geen tijd om de sloepen buiten boord te brengen.</p> <p>Spoedig te hulp geschoten reddingsboten van de Noord-Hinder en van HR.MS. Zeehond namen elf man veilig aan boord. In totaal hadden 10 opvarenden bij de ramp het leven verloren.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: A. Vuyk &amp; Zonen, Capelle aan den IJssel, Zuid-Holland, Netherlands</p> <p>Eigenaar: N.V. Houtvaart, Rotterdam,</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>21</td></tr><tr><th scope=\"row\">Lengte</th><td>235 voet (71,6 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>35 &frac34; voet (10,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1234 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=3846\">marhisdata id 3846.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

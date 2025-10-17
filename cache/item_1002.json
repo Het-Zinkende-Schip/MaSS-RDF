@@ -1,0 +1,27 @@
+{
+  "id": "1002",
+  "code": "gelukkig-uur",
+  "name": "Gelukkig Uur",
+  "type": "wreck",
+  "lat": "-5.9989315",
+  "lon": "106.8253899",
+  "location": "Indonesische archipel, Indonesië",
+  "firstdate": null,
+  "firstyear": "1707",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1720",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-03 07:41:54",
+  "modified_on": "2025-02-21 10:50:02",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>Het fregat 't Gelukkig Uur&nbsp;</em>deed dienst in de Indische archipel tot 1720. Volgens de 'lijst van alle zodanige schepen' op de rede van Batavia gezonken. Geladen en zeilklaar.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf in Amsterdam 1707<br>Lengte: 100 voet<br>Laadvermogen: 150 last (300 ton)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93150\">DAS 2090.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0063?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen , fol. 60.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

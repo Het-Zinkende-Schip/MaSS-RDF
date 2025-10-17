@@ -1,0 +1,27 @@
+{
+  "id": "2741",
+  "code": "rotterdam-1925",
+  "name": "Rotterdam",
+  "type": "wreck",
+  "lat": "18.0659681",
+  "lon": "-74.8855591",
+  "location": "Tussen Jamaica en Haiti",
+  "firstdate": null,
+  "firstyear": "1925",
+  "firstyearend": null,
+  "lastdate": "1942-08-28",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-12-06 09:22:42",
+  "modified_on": "2025-06-14 21:09:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Rotterdam</strong></em> vertrok op 25 augustus 1942 van Willemstad, N.A. via Key West naar Groot Britanni&euml; in konvooi T.A.W.15.</p> <p>Op 28 augustus 1942 werd zij getorpedeerd en tot zinken gebracht door de Duitse onderzeeboot U 511. De torpedo sloeg in ter hoogte van de machinekamer. Een gedeelte van het voorschip bleef nog ongeveer 2 uur boven water steken. Aangenomen wordt, dat al het zich in de machinekamer bevindende personeel door de ontploffing gedood is. De reddingboten midscheeps werden hierop te water gelaten en de bemanning nam hierin plaats.</p> <p>Geruime tijd werd nog rond geroeid, teneinde eventuele drenkelingen op te pikken. Er werden geen overlevenden van de <em><strong>Rotterdam</strong></em> meer gevonden. Wel werden twee drenkelingen opgepikt van een ander slachtoffer van de <a href=\"https://uboat.net/boats/successes/u511.html\">U 511</a>: het getorpedeerde schip de Amerikaanse <em><strong>San Fabian</strong></em>.</p> <p>De schipbreukelingen werden door de USS SC-522 een Amerikaanse duikbootjager opgepikt en vervolgens te Guantanamo aan wal gezet.</p> <p><a href=\"https://uboat.net/allies/merchants/crews/ship2096.html\">Lijst van opvarenden en slachtoffers</a>.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Friedr. Krupp A.G., 'Germaniawerft', Kiel, Germany</p> <p>Eigenaar: N.V. Petroleum-Industrie Maatschappij, Den Haag</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Raat, W. de</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>48</td></tr><tr><th scope=\"row\">Tonnage</th><td>8968 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=5595\">Rotterdam - ID 5595.</a></li><li>Haersolte, J.W.J. van (ed).<br /><em>Scheepsrampen in  oorlogstijd, nr. 217.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

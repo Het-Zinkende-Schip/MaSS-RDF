@@ -1,0 +1,27 @@
+{
+  "id": "1273",
+  "code": "potvis",
+  "name": "Potvis",
+  "type": "wreck",
+  "lat": "18.3911818",
+  "lon": "110.2944910",
+  "location": "Hainan, China",
+  "firstdate": null,
+  "firstyear": "1648",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-01 09:34:53",
+  "modified_on": "2024-07-26 15:49:57",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong><em>De Potvis</em></strong> was een kleine fluit voor de inter Aziatische handel. Ze vertrok op 14 mei 1649 uit Wielingen en kwam op 31 oktober 1649 in Batavia aan.&nbsp;<br>Vanuit Batavia vertrok De Potvis samen met De Witte Duif naar Taiwan (15-7- 1650) Beide schepen zijn daar nooit aangekomen. De officieren van Het Witte Paard dat wel aankwam in Taiwan verklaarde over het lot van de Potvis:</p> <p><em>de Trouw en de Potvisch den anderen tot Aynam toe waren bijgebleven, doch hadden aldaer door den harde storm op een lager wal malcanderen mede gemist. (<a href=\"https://resources.huygens.knaw.nl/retroboeken/taiwan/#page=176&amp;accessor=search_in_text&amp;source=3&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Ftaiwan%2Fsearch_in_text%2Findex_html%3Fpage%3D7%26source%3D2%26id%3Dsearch_in_text\">Dagregister III, 156</a>)</em></p> <p><em>dees droevige tijdinge namentlijcken dat de fluyten de Duyff en Potvis, 't verleden jaer van Batavia naer Tayouan gesonden, tot noch toe niet te </em></p> <p><em>voorschijn gecomen waren, maer praesumeerde men seeckerlijck deselve met alle de zielen en ingeladen goederen gesoncken en verongeluckt te zijn.<a href=\"http://resources.huygens.knaw.nl/retroboeken/taiwan/#page=237&amp;accessor=search_in_text&amp;source=3&amp;view=imagePane&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Ftaiwan%2Fsearch_in_text%2Findex_html%3Fpage%3D7%26source%3D2%26id%3Dsea\">*</a> <br></em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Fluit<br>Gebouwd/Built: Middelburg, 1649<br>Eigenaar/Owner: VOC chamber Zeeland<br>Tonnage: 150</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91825\">DAS 0708.1.</a></li><li>Huygens ING.<br /><a href=\"https://resources.huygens.knaw.nl/retroboeken/taiwan/#page=177&amp;accessor=search_in_text&amp;source=3&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Ftaiwan%2Fsearch_in_text%2Findex_html%3Fpage%3D7%26source%3D2%26id%3Ds\">De dagregisters van het kasteel Zeelandia, Taiwan 1629-1662, III, 156.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0084\">NL-HaNA_1.04.02_4932_0084.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2127",
+  "code": "nr13",
+  "name": "NR13",
+  "type": "wreck",
+  "lat": "52.7592600",
+  "lon": "5.8824300",
+  "location": "Noordoostpolder, Nederland",
+  "firstdate": null,
+  "firstyear": "1623",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1650",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:39:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit schip is gevonden op kavel R13 aan de blankenhammerweg in de Noordoostpolder. In 1946 is het wrak opgegraven. Het scheepswrak is een karveel gebouwd vissersschip van het type waterschip. Waterschepen waren de grootste en belangrijkste vissersschepen van de Zuiderzee gedurende de 16de en 17de eeuw. Ze zijn voorzien van een bun gevuld met water, waar de gevangen vis levend in vervoerd kan worden. De vroegste types waterschepen werden overnaads gebouwd, maar vanaf het tweede kwart van de zestiende eeuw werden deze schepen karveel gebouwd, dat wil zeggen gladboordig. Op basis van de inventaris kan het vergaan van het schip worden gedateerd tussen 1623 en 1650. Het schip is gebouwd op een kielbalk van 12,60 meter die in zijn geheel werd aangetroffen. Het schip was niet over de gehele lengte intact, uitgaande van de lengte van de kiel kan de lengte over de stevens van dit waterschip worden geschat op ca. 20 meter. Op basis van de gevonden bunschotten kan ook de breedte van dit schip worden gereconstrueerd, deze was ca. 6 meter. Het waterschip op dit kavel is daarmee &eacute;&eacute;n van de grootste waterschepen die zijn gevonden. Het is opmerkelijk dat de gaten in de huid van dit waterschip - die ter plaatse van de bun waren aangebracht zodat zeewater in en uit de bun kon stromen - waren dichtgemaakt. Hierdoor was de bun dus niet gevuld met water en was het niet mogelijk om levende vis te vervoeren. En dicht gemaakte bun wordt vaak geassocieerd met een functie die waterschepen in de 18de eeuw vervulden, namelijk die van sleepschip. Het waterschip op kavel NR13 dateert echter uit het begin van de 17de eeuw toen waterschepen vooral de functie van vissersschip hadden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een karveel gebouwd waterschip uit de zeventiende eeuw, Noordoostpolder</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00001945.jpg\" alt=\"Scheepswrak NR13, vergaan ca. 1625. Het schip is een Marker waterschip. In het midden ballast en daarachter een staand schot van de bun.\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Scheepswrak NR13, vergaan ca. 1625. Het schip is een Marker waterschip. In het midden ballast en daarachter een staand schot van de bun.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-26g-4c4d\">Opgravingsdocumentatie scheepswrak NR13.</a></li><li>R. Reinders &amp; M. Biersma (1994).<br /><em>Vis en Visvangst: Inleidingen gehouden tijdens het zevende Glavimans symposion, Vlaardingen.</em><br />Groningen.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

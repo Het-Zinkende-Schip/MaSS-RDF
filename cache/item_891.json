@@ -1,0 +1,27 @@
+{
+  "id": "891",
+  "code": "de-leeuw",
+  "name": "De Leeuw",
+  "type": "wreck",
+  "lat": "2.1293917",
+  "lon": "-40.4824197",
+  "location": "Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": "1620",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1640",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-11-29 12:59:19",
+  "modified_on": "2025-05-23 10:52:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Genoemd in de Courante Uyt Italien ende Duytslandt &amp;c. 4-1-1631. Als behouden aangekomen in Zeeland.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: West-Indi&euml; vaarder</p> <p>Eigenaar: WIC kamer van Zeeland</p> <p>Tonnage: 120</p> <p>Bemanning: 36</p> <p>Bewapening: 2 / 16</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

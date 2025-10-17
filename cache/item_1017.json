@@ -1,0 +1,27 @@
+{
+  "id": "1017",
+  "code": "ootmarsum",
+  "name": "SS Ootmarsum",
+  "type": "wreck",
+  "lat": "56.2539298",
+  "lon": "-16.7958974",
+  "location": "North Atlantic Ocean",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1940-11-24",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-06 12:23:01",
+  "modified_on": "2025-06-09 12:56:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De OOTMARSUM vertrok op 9 november 1940 met een volle lading ijzererts van Sydney, CB. (Canada) in konvooi. S.C. II naar de Clyde (U.K.) in de nacht van 23 op 24 november 1940 had het konvooi aanvallen van Duitse onderzeeboten te doorstaan en de OOTMARSUM raakte achter. De volgende morgen kon men het schip niet meer traceren.</p> <p>Na de oorlog bleek, dat de Ootmnarsum op 24 november 1940, 's nachts om 01.00 uur was getorpedeerd door de Duitse onderzeeboot U 100 op ongeveer 55&ordm; NB en 12&ordm; WL en gezonken. Bij deze ramp verloren 25 personen het leven.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Stoom, vrachtschip<br>Gebouwd: 1920 - A. Vuijk &amp; Zonen, Capelle an der Ijssel <br>Eigenaar: Stoomvaart Mij Oostzee NV (Vinke &amp; Co), Amsterdam<br>Tonnage: 3,628 tons</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van (1947).<br /><em>Scheepsrampen in oorlogstijd, no. 5.</em><br />J.F. Duwaer &amp; Zonen, Amsterdam.</li><li><a href=\"https://uboat.net/allies/merchants/ship/667.html\">Uboat.net.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4923\">Maritiem Historische Data ID 4923.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

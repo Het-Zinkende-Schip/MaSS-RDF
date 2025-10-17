@@ -1,0 +1,27 @@
+{
+  "id": "1582",
+  "code": "wachter-1656",
+  "name": "Wachter",
+  "type": "wreck",
+  "lat": "-2.9649844",
+  "lon": "104.8580350",
+  "location": "Palembang, Indonesië",
+  "firstdate": null,
+  "firstyear": "1656",
+  "firstyearend": null,
+  "lastdate": "1659-11-11",
+  "lastyear": "1659",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-01 09:16:29",
+  "modified_on": "2025-07-03 10:24:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><strong>Oorlog</strong><br>De VOC was in de periode min of meer in oorlog met Bantam. (Java) Palembang (Sumatra) lag in de invloedssfeer van Bantam. Er lagen twee VOC schepen Wachter en Jacatra bij de stad die werden in beslag genomen en de opvarenden werden gevangen genomen.</p> <p>De Compagnie blokkeerde daarop in begin 1659 de rivier die naar Palembang leidde. De geconfisqueerde Wachter en de Jacatra werden nog [vruchteloos] tegen deze blokkade ingezet en daarna bij de stad opgelegd. De Jacatra zou toen al niet meer in staat zijn geweest te varen.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003514.jpg\" alt=\"Schilderij van een grote burcht met daarvoor een gaande zeeslag\"> <figcaption class=\"img-description\">De verovering van Palembang</figcaption> </figure> <p>Bij de nadering van de strafexpeditie die de VOC eind 1659 tegen Palembang opzette werd de Wachter door de Palembangers in brand gestoken. De stad werd vervolgens door het VOC expeditieleger ingenomen en verwoest, De meeste gevangen gezette opvarenden van de Wachter en Jacatra werden gedood.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Op de 'afgelopen\" Wachter was Jacob Graaf stuurman of schipper</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91968\">DAS 0851.1.</a></li><li><em>NA 1.04.02 (VOC)  1229 fol 337v].</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

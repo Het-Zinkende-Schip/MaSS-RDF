@@ -1,0 +1,27 @@
+{
+  "id": "841",
+  "code": "sliedrecht-ms",
+  "name": "MV Sliedrecht",
+  "type": "wreck",
+  "lat": "56.4479195",
+  "lon": "-11.1049805",
+  "location": "120 miles SW of Rockall bank",
+  "firstdate": null,
+  "firstyear": "1924",
+  "firstyearend": null,
+  "lastdate": "1939-11-16",
+  "lastyear": "1939",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-07 11:08:16",
+  "modified_on": "2025-06-07 20:48:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Sliedrecht was een tanker die onderweg van Abadan (Iran) naar Noorwegen, op 150 mijl noordwestelijk van Ierland, aangehouden werd door de U 28 (kapitein Kuhnke). Uit papieren bleek namelijk dat het schip door de Britse autoriteiten naar de Britse haven Kirkwall was gedirigeerd . De tanker werd daarom door de Duitse kapitein niet als neutraal beschouwd en met een torpedo tot zinken gebracht.</p> <p>De bemanning kreeg een half uur om het schip te verlaten. Slechts &eacute;&eacute;n sloep met 5 opvarenden werd gered, Van de andere sloep met 26 opvarenden is nooit meer iets vernomen. De vijf overlevenden werden opgepikt door de trawler Meresia en naar Isla Barra gebracht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Tanker</p> <p>Gebouwd: NV Rotterdamsche Droogdok Mij, Rotterdam, 1924</p> <p>Eigenaar:&nbsp;V Phs. van Ommeren&acute;s Scheepvaartbedrijf, Rotterdam</p> <p>Tonnage:&nbsp;5,133</p> <p>Complement: 31 (26 slachtoffers 5 overlevenden)</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

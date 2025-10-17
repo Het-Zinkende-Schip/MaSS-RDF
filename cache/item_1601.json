@@ -1,0 +1,27 @@
+{
+  "id": "1601",
+  "code": "wapen-van-vlissingen",
+  "name": "Wapen van Vlissingen",
+  "type": "wreck",
+  "lat": "51.3117303",
+  "lon": "1.4447021",
+  "location": "Goodwin sands, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1667",
+  "firstyearend": null,
+  "lastdate": "1670-11-26",
+  "lastyear": "1670",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-09-07 09:39:26",
+  "modified_on": "2025-05-22 13:02:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het Wapen van Vlissingen is vlak na haar tweede uitreis ( 23-11-1670) vergaan op de beruchte zandbanken voor de kust van Kent, <em>De Goodwin Sands</em>.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0208?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">&sup1;</a></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC werf Middelburg, 1667 in de lijst voor 100 last.<strong>&sup1;</strong>.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>130</td></tr><tr><th scope=\"row\">Tonnage</th><td>725 ton (363 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Bruijn et al. (eds).<br /><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92258\">DAS 1175.2.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0208?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen , fol 205.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

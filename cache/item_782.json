@@ -1,0 +1,27 @@
+{
+  "id": "782",
+  "code": "wieringen",
+  "name": "Wieringen",
+  "type": "wreck",
+  "lat": "2.2096266",
+  "lon": "102.1547928",
+  "location": "Tanjung Kling, Malacca, Maleisië",
+  "firstdate": null,
+  "firstyear": "1627",
+  "firstyearend": null,
+  "lastdate": "1636-06-02",
+  "lastyear": "1636",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-07-02 11:42:34",
+  "modified_on": "2025-01-10 16:15:19",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het jacht <em>Wieringen</em> vertrok 12 oktober 1627 naar Azi&euml;.<a href=\"https://www.vocsite.nl/schepen/11183/\">&sup1; </a>Ze bleef dienst doen. in de intra-Aziatische handel van de VOC. Een Nederlandse vloot onder leiding van Cornelis Symonz van der Veer, die bestond uit 25 grote en kleine schepen verscheen eind mei 1636 voor de Portugese stad Malakka in Maleisi&euml;. De VOC was er al lang op gebrand de stad in te nemen en zo de straat van Malakka te beheersen.</p> <p>Bij het daarop volgende treffen op 2 juni met Portugese schepen werden drie Portugese schepen to zinken gebracht. Aangenomen wordt dat een van de Portugese schepen de <em>Madre De Dios</em> was waar 400 man mee ten onder ging. <br>Tijdens de beschietingen vatte ook de Wieringen vlam en zonk. Slechts 14 van de 50 bemanningsleden overleefden.</p> <p>De Wieringen werd in 2004 teruggevonden nabij Tanjung Kling.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>75</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91393\">DAS 0355.1.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

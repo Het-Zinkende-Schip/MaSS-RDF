@@ -1,0 +1,27 @@
+{
+  "id": "1307",
+  "code": "zwaan-1633",
+  "name": "Zwaan",
+  "type": "wreck",
+  "lat": "23.6989216",
+  "lon": "119.6040344",
+  "location": "Penghu, Pescadores, Taiwan",
+  "firstdate": null,
+  "firstyear": "1633",
+  "firstyearend": null,
+  "lastdate": "1637-02-26",
+  "lastyear": "1637",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-29 16:20:19",
+  "modified_on": "2025-07-02 17:28:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De fluit <em>Zwaan</em> bleef na vertrek uit Nederland (10-102-1633) in Azi&euml; dienst doen tussen vooral Japan en Batavia..</p> <p>Haar laatste reis ging van Hirado Japan naar Taiwan 16-2-1637 . Op 26-2 verging ze bij de \"vuile Eilanden' . De noordelijke eilanden van wat de Pescadores archipel.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00001753.png\" alt=\"De afbeelding toont een oude kaart met de titel &quot;PISCADORES&quot;\"></figure> <p><strong>Uit het dagregister van Het kasteel Zeelandia <br></strong><em>waerbij vernemen, dat op de ordre, door d'heer gouverneur Van der Burch hun den 16 stantij per derwarts affgepreste joncque aengeschreven, na het mancquerende casken Japans schuytsilver nieuwen ondersouck hebben gedaen ter plaetse, alwaer de contanten uut 't verongeluckte fluytschip d'Swaen, soo als in salvo te lande quamen, begraven hadden, [...]</em><br><em>Advijseren vorders dat noch goede perthij loot, weynig coper, houtwercquen etc. in 't wrack de Swaen resteerden, daermede tot opduycken ende aen lant brengen doorgaens besich bleven; was noch goede apparentie genougsaem alles gesalveert te sullen werden, uutgesondert de houtwercken, die te meerendeel gespilt, uut 't wracq geraect ende verdreven zijn.</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: De Zwaan komt niet voor op de lijst van timmeringen en is dus niet op een VOC werf gebouwd. Ze komt wel voor op de lijst van Equipage in augustus 1633 voor Zeeland.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7346/file/NL-HaNA_1.04.02_7346_0148?eadID=1.04.02&amp;unitID=7346&amp;query=\"><strong>&sup1;</strong></a> De fluit werd aangekocht door de VOC.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Waaghals, Adriaan</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>56</td></tr><tr><th scope=\"row\">Tonnage</th><td>200 ton (100 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91481\">DAS 0443.1.</a></li><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/taiwan/#page=343&amp;accessor=search_in_text&amp;source=1&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Ftaiwan%2Fsearch_in_text%2Findex_html%3Fpage%3D7%26source%3D2%26id%3Dsearch_in_text&amp;siz\">De dagregisters van het kasteel Zeelandia, Taiwan 1629-1662.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4010",
+  "code": "nc120",
+  "name": "NC120",
+  "type": "wreck",
+  "lat": "52.7264250",
+  "lon": "5.6660720",
+  "location": "Espel, Nederland",
+  "firstdate": null,
+  "firstyear": "1500",
+  "firstyearend": "1525",
+  "lastdate": null,
+  "lastyear": "1500",
+  "lastyearend": "1600",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2025-06-15 16:13:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In 1950 werd de vondst gemeld van een scheepswrak op kavel C120 in de Noordoostpolder. De vindplaats werd bezocht, waarbij men constateerde dat de ondergang in de sloeffase en daarmee v&oacute;&oacute;r de 17de eeuw moest hebben plaatsgevonden. Er werd dan ook gemeld, dat het wrak voor nader onderzoek moest blijven liggen. Tot nader onderzoek kwam het echter pas in 2003. Uit deze herverkenning werd duidelijk, dat de bovenkant van zowel voor- als achtersteven ontbrak, mogelijk als gevolg van beschadiging door netten. Ook eventuele gangboorden en dekken waren niet meer aanwezig. De lengte van de scheeprest zoals nog aanwezig in de bodem was 12,2 bij 3,1 meter. Het hoger gelegen hout was erg slecht van kwaliteit, maar dendrochronologisch onderzoek was wel mogelijk. Het jongste van twee houtmonsters had een kapdatum van na 1503 na Chr. Zie voor meer informatie het inventarisatierapport opgesteld door Andr&eacute; (A.F.L.) van Holk.</p> <p>In 2012 werd de vindplaats onderzocht met een magnetometer als onderdeel van een pilot-studie naar de prospectie van scheepswrakken met toepassing van geofysische methoden. Zie voor meer informatie het rapport van RAAP: 'Gezonken, maar weer boven water - Pilot-studie naar prospectie van scheepswrakken met geofysische methoden in provincie Flevoland (grondradar en magnetometer), door G. de Boer, W.B. Verschoof en J.A. Schenk uit 2012.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xff-jsvq\">Opgravingsdocumentatie scheepswrak NC120.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

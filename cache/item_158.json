@@ -1,0 +1,27 @@
+{
+  "id": "158",
+  "code": "germaine",
+  "name": "Germaine",
+  "type": "wreck",
+  "lat": "51.9253487",
+  "lon": "4.0618534",
+  "location": "Oostvoornse Meer, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1903",
+  "lastyearend": null,
+  "country": "België",
+  "countrycode": "BE",
+  "author": "Frank Stoop",
+  "created_on": "2010-04-16 00:00:00",
+  "modified_on": "2025-04-17 12:59:29",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Steam trawler</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Wreck area with engine, screw and parts of hull.</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

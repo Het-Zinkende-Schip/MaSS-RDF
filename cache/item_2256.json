@@ -1,0 +1,27 @@
+{
+  "id": "2256",
+  "code": "zoetigheid",
+  "name": "Zoetigheid",
+  "type": "wreck",
+  "lat": "-33.9104883",
+  "lon": "18.4661285",
+  "location": "woodstock beach, Zuid-Afrika",
+  "firstdate": null,
+  "firstyear": "1718",
+  "firstyearend": null,
+  "lastdate": "1722-06-17",
+  "lastyear": "1722",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-20 21:14:09",
+  "modified_on": "2025-03-28 13:35:34",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Zoetigheid was 23 -12-1721 vertrokken uit Goeree. Aan boord waren 150 opvarenden. Ze kwam 13-6-1722 in de Tafelbaai Zuid Afrika aan. Er waren 7 doden en 15 zieken aan boord. (<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/72/file/NL-HaNA_1.11.06.18_72_0097?eadID=1.11.06.18&amp;unitID=72&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 13-6</a> e.v.)</p> <p>15 juni voer de boot met de zieken nog naar de wal. In de nacht nam de wind sterk in kracht toe.</p> <p><strong>Schrikkelijk noodweer <br></strong>De volgende dag werd het erger en in de avond omtrent 7 uur hoorde men in het Kasteel aan de wal kanonschoten. Waaruit men opmaakte dat verschillende schepen op drift waren geraakt. Men ontstak een groot vuur op het minst klippige strand om de van hun ankers geslagen schepen te helpen.</p> <p>De volgende ochtend 17 juni zag men dat alle schepen die op de rede hadden geankerd waren gestrand. Zes VOC schepen (Standvastigheid, Rotterdam, Schotse Lorredraaier, Lakenman, Zoetigheid en de hoeker Gouda) en drie Engelse schepen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Abraham van der Ceel</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>150</td></tr><tr><th scope=\"row\">Lengte</th><td>130 voet (39,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/93533\">DAS 2485.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.06.18/invnr/72/file/NL-HaNA_1.11.06.18_72_0102?eadID=1.11.06.18&amp;unitID=72&amp;query=Dagregisters%20Kaap%20de%20goede%20hoop\">Dagregister Kaap 13-17-6-1722.</a></li><li>Lesa la Grange, Martijn Manders, Briege Williams, John Gribble and Leon Derksen (2024).<br /><em>Dutch Shipwrecks in South African Waters: A Brief History of Sites, Stores and Archives [Unpublished].</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

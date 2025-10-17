@@ -1,0 +1,27 @@
+{
+  "id": "2560",
+  "code": "kaiserbalje",
+  "name": "Kaiserbalje",
+  "type": "wreck",
+  "lat": "53.6127547",
+  "lon": "8.3678055",
+  "location": "Kaiserbalje (Hohe-Weg-Watt), Duitsland",
+  "firstdate": null,
+  "firstyear": "1875",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1950",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-11 20:33:14",
+  "modified_on": "2025-06-14 16:35:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The wreck fragment was preserved to a length of 13.5 metres and a width of 3 metres, representing a flat-bottomed vessel typical for the Wadden Sea. The surviving fragment featured floor-timbers, flush-laid bottom-planks, some ceiling planks and several knees, and iron concretions of the fasteners.</p> <p>Brick stones were discovered both in the stern section, still stacked together as originally stowed away, and also scattered in the wreck's vicinity.</p> <p>While a sample taken for a dendrochronological analysis could not be successfully dated, an approximate typological date could be inferred from the bricks' format, indicating a date between the late 19th to the mid-20th century.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>In autumn 2007, a wreck was reported to the authorities by yachtsmen. It was situated at the edge of a tidal creek and only accessible at low tide. The responsible regional branch in Oldenburg of the Lower Saxony State Office for Monument Preservation (NLD: <em>Nieders&auml;chsisches Landesamt f&uuml;r Denkmalpflege</em>) investigated the site in May 2008 in collaboration with the German Maritime Museum and the Waterways and Shipping Office of Wilhelmshaven.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Fries, J. E. (2011).<br /><em>Die Wracks im Watt: Zwei neuzeitliche Zeugnisse des Handels an der niedersächsischen Nordseeküste.</em><br />Archäologie in Niedersachsen 14.<br />pp 71-74.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

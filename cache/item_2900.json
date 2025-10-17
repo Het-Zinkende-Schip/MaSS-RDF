@@ -1,0 +1,27 @@
+{
+  "id": "2900",
+  "code": "burgemeester-vening-meinesz",
+  "name": "Burgemeester Vening Meinesz (IJM 97)",
+  "type": "wreck",
+  "lat": "53.5484022",
+  "lon": "3.1987742",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1916-09-15",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-01 11:07:15",
+  "modified_on": "2025-06-15 12:25:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De trawler Burgemeester Vening Meinesz IJM 97 verliet 15 september 1916 de haven van Ijmuiden. Er werd daarna nooit meer iets van schip of bemanning gehoord.</p> <p>De bemanning van den verongelukten stoomlogger Burgemeester Vening Meinesz, IJM 97 bestond uit de volgende personen:</p> <ul> <li>N. Rijke, schipper,</li> <li>J. Blenk, stuurman</li> <li>de 14 jarige A. Akkerman,</li> <li>C. Hofland</li> <li>M. Overslnizen,</li> <li>J. Verlegh,</li> <li>C, v. d. Sloot,</li> <li>A.Westerhont,</li> <li>K. Bootsman,</li> <li>Joh.den Boogert</li> <li>J. den Boer,</li> <li>de 14-jarige Duijm van Wykeroog</li> <li>machinist J. J. Kaercher</li> </ul></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Rijke, N.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>13</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Burgemeester+Vening+Meinesz&amp;coll=ddd&amp;sortfield=date&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1916%7C&amp;page=9&amp;identifier=MMKB19:001095246:mpeg21:a00013&amp;resultsidentifier=MMKB19:001095246:mpeg21:a\">Scheepvaart  23-11-1916.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22IJM+166%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1916%7C&amp;identifier=MMSAVL02:000499187:mpeg21:a00032&amp;resultsidentifier=MMSAVL\">Nieuwe Vlaardingsche courant (15-11-1916).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

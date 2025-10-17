@@ -1,0 +1,26 @@
+{
+  "id": "2164",
+  "code": "se-513",
+  "name": "SE-513",
+  "type": "site",
+  "lat": "17.4691275",
+  "lon": "-62.9824114",
+  "location": "Bonaire, Sint Eustatius en Saba",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Ruud Stelten",
+  "created_on": "2020-09-23 01:29:00",
+  "modified_on": "2025-07-05 11:23:01",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>About 50 meters from shore, between batteries Bouill&eacute; and Nassau, is a pile of cannon at snorkel site SE-513, otherwise known as Twelve Guns. The cannon are resting on a 4-meter-deep sandy bottom immediately next to a large rocky outcrop extending to a few centimeters below the water surface. The facts that it was customary to salvage cannon after the wrecking of a ship in shallow water due to their high value, and the absence of ship remains or other artifacts at this site, decrease the likelihood&nbsp;that these cannon are part of a wrecked ship. However, just north of this area one anchor was discovered by the St. Eustatius Center for Archaeological Research in 2015 along with a large metal fragment nearby the cannon in 2019 by the Shipwreck Survey field school, both of which may possibly belong to a wreck.</p> <p>In the nineteenth century, merchants traveled around the Caribbean looking for old cannon that could be used in forts and museums in the United States or that had a value as scrap iron. These merchants are known to have visited St. Eustatius as well. One such instance was described by Frederick A. Fenger, author of <em>Alone in the Caribbean</em>, a novel that describes his adventures in 1907 as he travelled by canoe to multiple Caribbean islands, including St. Eustatius. In his book, he mentions that an American schooner stopped at St. Eustatius in the late 1870s to collect scrap iron and bought four cast iron cannon. It must have been around this time, when cannon had become obsolete, that the cannon at Twelve Guns ended up at their present location. These guns were probably discarded from the nearby batteries and were thrown off the cliffs to be picked up on the beach. The vessel transporting the cannon between shore and ship most likely hit the nearby rocky outcrop and capsized, causing the cannon to fall overboard.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002173.jpg\" alt=\"A diver at the seabed among many cannons\"> <figcaption class=\"img-description\">A diver near the Twelve Guns site. Only seven guns are visible at the time but there has been reports of up to seventeen have been seen. Photo by Ruud Stelten.</figcaption> </figure> <p>The site is named Twelve Guns because twelve cannon can often be seen, but this is dependent on the movement of the sand. Some people have reported as many as seventeen cannon here, while others have never seen more than six. Eight cannon were visible at the time of the survey mentioned above in 2015. Although they are too encrusted to be identified, they are all small caliber guns, ranging from 135 to 176 centimeters in length.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Frederick A. Fenger (1917).<br /><em>Alone in the Caribbean: Being the yarn of a cruise in the Lesser Antilles in the sailing canoe Yakaboo.</em><br />United States of America.</li><li>Ruud Stelten (2019).<br /><em>From Golden Rock to Historic Gem: A Historical Archaeological Analysis of the Maritime Cultural Landscape of St. Eustatius Dutch Caribbean.</em><br />Leiden: Sidestone Press.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

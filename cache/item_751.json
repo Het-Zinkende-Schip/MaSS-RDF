@@ -1,0 +1,27 @@
+{
+  "id": "751",
+  "code": "oranjeboom-van",
+  "name": "Oranjeboom van Enkhuizen",
+  "type": "wreck",
+  "lat": "-12.8305481",
+  "lon": "-38.5640716",
+  "location": "Baia Todos os Santos, Brazilië",
+  "firstdate": null,
+  "firstyear": "1623",
+  "firstyearend": null,
+  "lastdate": "1627-03-04",
+  "lastyear": "1627",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-04 17:52:53",
+  "modified_on": "2025-05-23 10:56:45",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Oranjeboom van Enkhuizen was&nbsp;part of the fleet of Piet Hein to relieve Boudwijn Hendriksz. that was already in the Caribbean. Hein's fleet departed from Holland in May 1626.</p> <p>On 3 and 4 March 1627, Piet Hein attacked the city San Salvador in the Bay of all Saints. During the fight the Oranjeboom exploded.&nbsp;Many men were killed and only 12 were rescued.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Type: frigate, ship<br>Built: Enkhuizen<br>WIC chamber Noorderkwartier<br>Tonnage: 300 last<br>Complement: 152<br>Master:&nbsp;Gerrit Jansz Eisens<br>Armament: 4 bronze, 29 iron</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>600 ton (300 last)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The Oranjeboom van Enkhuizen should be in vicinity of the other Dutch wreck that sank the same day, The Amsterdam, which was the flagship of Piet Hein.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><em>De Laet IV. 104.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

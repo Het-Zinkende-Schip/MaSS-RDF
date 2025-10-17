@@ -1,0 +1,27 @@
+{
+  "id": "850",
+  "code": "hrms-bulgia",
+  "name": "Hr.Ms. Bulgia",
+  "type": "wreck",
+  "lat": "51.4452774",
+  "lon": "3.4948883",
+  "location": "Vlissingen, Nederland",
+  "firstdate": null,
+  "firstyear": "1876",
+  "firstyearend": null,
+  "lastdate": "1940-05-12",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-17 14:43:54",
+  "modified_on": "2025-06-07 20:57:05",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens het uitbreken van de Tweede Wereldoorlog was de Bulgia nog in dienst als mijnenlichter. Op 12 mei 1940 zonk het schip door een aanval van een Duits vliegtuig. Hierbij kwamen dertien opvarende om het leven. Het schip werd op 31 juli van datzelfde jaar gelicht. Elf lichamen werden geborgen. Ze werden begraven op het Erehof van de Noorderbegraafplaats in Vlissingen. Twee lichamen bleven vermist. De Bulgia zelf werd voor de sloop verkocht.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type:&nbsp;rivierkanonneerboot van de Thorklasse</p> <p>Gebouwd: scheepswerf Christie, Nolet &amp; Kuiper in Delfshaven</p> <p>Tewaterlating: 4 december 1879<br>In dienst gesteld: 22 oktober 1894<br>Uit dienst gesteld: 12 mei 1940</p> <p>Afmetingen: 27,8 x 8,5 x 2,2 m[<br>Waterverplaatsing: 270 ton<br>Bemanning: 34 koppen (13 slachtoffers)<br><br>Machinevermogen: 121 pk<br>Snelheid: 7,5 knopen<br>Bewapening: 1 x 3,7 cm kanon</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

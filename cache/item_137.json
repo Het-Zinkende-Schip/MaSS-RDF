@@ -1,0 +1,27 @@
+{
+  "id": "137",
+  "code": "ritthem-shipwreck",
+  "name": "Ritthem Shipwreck",
+  "type": "wreck",
+  "lat": "51.4357881",
+  "lon": "3.6163387",
+  "location": "Ritthem, Westerschelde, Nederland",
+  "firstdate": null,
+  "firstyear": "1500",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1550",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2010-03-30 00:00:00",
+  "modified_on": "2025-06-19 12:14:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><h2>Achtergrond</h2> <p>Het Wrak Ritthem bevindt zich nabij de invaart van de Sloehaven in Zeeland. Het ligt op een diepte van ongeveer 19-22 meter beneden NAP en een ander deel ligt in de nabijgelegen vaargeul op ongeveer 40 meter beneden NAP.</p> <p>Het schip komt waarschijnlijk uit Zeeland. De vindplaats bevat ten minste negen stukken geschut van verschillend kaliber. Een ervan draagt het wapen van Bourgondi&euml;.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000202.jpg?modifiedon=1705654274\" alt=\"Zicht op de rede van Fort Rammekens bij Vlissingen, Willem van Diest, 1657. To the left the Fort Rammekens, the Herring-buys lies approxomatly on the spot were the Ritthem wreck lies. Source: MMR, N500\"> <div class=\"img-source\">Maritiem Museum Rotterdam/Wikimedia Commons</div> <figcaption class=\"img-description\">Zicht op de rede van Fort Rammekens bij Vlissingen, Willem van Diest, 1657. Aan de linkerkant is Fort Rammekens te zien, de Haringbuis (rechts op de voorgrond) bevindt zich ongeveer op de plek waar het Wrak Ritthem ligt.</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Het is waarschijnlijk dat het Wrak Ritthem een bewapend koopvaardijschip is. Dit is een koopvaardijschip wat uitgerust is voor oorlogvoering of verdediging. Om hiervoor geschikt gemaakt te worden, moesten diverse aanpassingen gedaan worden. Zo werden de romp en de masten verstevigd en geschutspoorten en kanonnen toegevoegd.</p> <p>In Nederlandse wetgeving die in 1550/1551 werd ingevoerd, werden kooplieden verplicht hun schepen te bewapenen ter verdediging, dus vanaf toen werd dit een algemene praktijk.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000201.jpg\" alt=\"Burgundic heraldic weapon on a canon from the Ritthem\"> <div class=\"img-source\">RCE</div> <figcaption class=\"img-description\">Het wapen van Bourgondi&euml; op een kanon uit het Wrak Ritthem.</figcaption> </figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><h2>Archeologisch onderzoek</h2> <p>In 2005 vond een lokale duikgroep 't Zeebeest genaamd een grote hoop stenen, waarin ze de overblijfselen van een schip konden ontwaren. Ze zagen dat deze overblijfselen aan de rand van een erg diepe vaargeul lagen en vreesden dat een deel van het wrak daar al ingegleden was.</p> <p>In september 2006 was het archeologische duikteam van de voormalige ROB/NISA (de ROB is de voorloper van de RCE en NISA was hun duikteam) drie weken bezig met een archeologisch onderzoek, na een vraag om hulp van een lokale amateur duikvereniging (Wrakduikstichting de Roompot). Dit was een verkennend onderzoek, maar toch werden drie kanonnen en wat aardewerk geborgen omdat het risico op schatgravers hoog was.Andere kanonnen uit dit wrak waren al meegenomen en verkocht door duikers; waaronder een bronzen, rijk versierd kanon (kanon Rit-024). Het kanon heeft een inscriptie 'Mester Merten' (Meester Maarten). Een document in het stadsarchief van Middelburg uit 1532 noemt twee kanonnen (van het zgn. 'veldslang' type) die gekocht waren van een zekere Maarten Pasternakel, een kanongieter in Mechelen. Het is mogelijk dat dit kanon uit zijn werkplaats kwam.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000199.jpg\" alt=\"een kanon met een blauwe achtergrond\"> <div class=\"img-source\">RCE/Ton Penders</div> <figcaption class=\"img-description\">Kanon Rit-024.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000200.jpg\" alt=\"Detail van kanon Rit-024.\"> <div class=\"img-source\">RCE/Ton Penders</div> <figcaption class=\"img-description\">Detail van kanon Rit-024.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000194.jpg\" alt=\"Tekening van de vindplaats van het Wrak Ritthem.\"> <div class=\"img-source\">RCE/Peter Leensen</div> <figcaption class=\"img-description\">Tekening van de vindplaats van het Wrak Ritthem.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Vos, A. (2009).<br /><a href=\"https://www.cultureelerfgoed.nl/publicaties/publicaties/2009/01/01/wrak-ritthem-een-onverwacht-oud-scheepswrak-in-de-westerschelde-resultaten-van-het-waardestellend-onderzoek\">Wrak Ritthem, een onverwacht oud scheepswrak in de westerschelde.</a><br />Rapportage Archeologische Monumentenzorg 174.</li><li>Louis Sicking en Ronald de Graaf.<br /><a href=\"https://beta.nmgn.huygens.knaw.nl/geweld-oorlogvoering-ter-zee-1018-1568\">Nieuwe Maritieme Geschiedenis van Nederland, deel 1.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

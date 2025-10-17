@@ -1,0 +1,27 @@
+{
+  "id": "926",
+  "code": "parkiet",
+  "name": "Parkiet",
+  "type": "wreck",
+  "lat": "16.1660112",
+  "lon": "81.2264866",
+  "location": "Machilipatnam, India",
+  "firstdate": null,
+  "firstyear": "1659",
+  "firstyearend": null,
+  "lastdate": "1665-11-09",
+  "lastyear": "1665",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-14 09:25:59",
+  "modified_on": "2025-06-30 13:16:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De galjoot <strong><em>Parkiet</em></strong> is vergaan op 9 november 1665 tijdens een orkaan. De Parkiet lag op de rede van Masulipatnam (Coromandel kust) samen met de fluit <a href=\"https://mass.cultureelerfgoed.nl/elzenburg\">Elzenburg</a>.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003464.jpg\" alt=\"landkaart van de stad Masulipatnam\"> <div class=\"img-source\">Rijksmuseum NG-2008-60-29</div> <figcaption class=\"img-description\">De stad Masulipatnam</figcaption> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1659<br>Complement: ca. 20</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/92038\">Details of voyage 0921.1 from Vlie to Colombo.</a></li><li>Pieter van Dam.<br /><a href=\"http://resources.huygens.knaw.nl/retroboeken/vandam/#page=519\">Pieter van Dam’s Beschryvinge van de Oostindische Compagnie 1639-1701.</a><br />Huygens ING.</li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1258/file/NL-HaNA_1.04.02_1258_0977?eadID=1.04.02&amp;unitID=1258&amp;query=1258\">NA 1.04.02 (VOC) 1258, 2299 [scan 977].</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

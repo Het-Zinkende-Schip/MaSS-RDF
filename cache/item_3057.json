@@ -1,0 +1,27 @@
+{
+  "id": "3057",
+  "code": "fazant-2",
+  "name": "Fazant",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Nederland",
+  "firstdate": null,
+  "firstyear": "1646",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1685",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-02-19 16:41:55",
+  "modified_on": "2025-06-15 20:55:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Fazant werd gebouwd in Amsterdam 1648.</p> <p>De Fazant werd in het kader van een bijstandsverdrag (febr. 1666) met de Deense koning verhuurd aan Denemarken. De acht schepen (met bemanning) vertrokken 1 mei 1666 naar Kopenhagen onder commando van admiraal Cort Sivertsz. Adelar.<a href=\"http://runeberg.org/dbl/1/0107.html\">&sup1;</a></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00003463.jpg\" alt=\"Illustratie van de romp van een groot schip.\"> <div class=\"img-source\">NMM PAH3828</div> </figure> <p class=\"figcaption\"><br>De Fazant getekend door Willem van de Velde de Oudere in 1648</p> <p><strong><br>Gevecht 1667</strong><br>De Herderin en de Fazant raakten 26 mei 1667 slaags met het Engelse linie schip Princess (64 stukken) ter hoogte van Marstrand in Zweden. Zowel aan Britse als Deens- Hollandse kant was de schade aan mens en materieel groot. Men kwam overeen het gevecht af te breken. Kapitein Dawes, van de Princess, en kapitein Jan Van Dort, van de Fazant sneuvelden tijdens het uren durende gevecht.</p> <p><strong>Konvooier</strong><br>Na terugkeer in de Republiek eind 1667 als konvooier ingezet. In 1678 in de middellandse zee ter begeleiding van de Smyrna vloot onder kapitein Schey.<br>De Fazant werd waarschijnlijk na 40 jaren dienst in 1686 gesloopt.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: 1646 in Amsterdam (Elias)</p> <p>Bewapening: 28-36 stukken</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Dort, Jan van</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?facets%5Bperiode%5D%5B%5D=1%7C17e_eeuw%7C1660-1669%7C&amp;query=Fesant&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;identifier=ddd:010926769:mpeg21:p002&amp;resultsidentifier=ddd:010926769:mpeg21:a0004&amp;rowid=1\">Oprechte Haerlemsche courant 07-06-1667.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?facets%5Bperiode%5D%5B%5D=0%7C17e_eeuw%7C&amp;query=Fesant&amp;coll=ddd&amp;sortfield=date&amp;identifier=ddd:010927726:mpeg21:a0001&amp;resultsidentifier=ddd:010927726:mpeg21:a0001&amp;rowid=3\">Oprechte Haerlemsche courant 05-05- 1678.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

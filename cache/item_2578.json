@@ -1,0 +1,27 @@
+{
+  "id": "2578",
+  "code": "stein-1",
+  "name": "Stein 1",
+  "type": "wreck",
+  "lat": "54.4224606",
+  "lon": "10.2665949",
+  "location": "Stein, Duitsland",
+  "firstdate": null,
+  "firstyear": "1876",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1900",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-27 16:29:53",
+  "modified_on": "2025-07-11 14:28:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The dendrological analysis of the ship&rsquo;s timbers was carried out by Dr. Karl-Uwe Heu&szlig;ner (German Archaeological Institute, Berlin), indicating a cutting date in the 1870&rsquo;s and a North Sea provenance, particularly in the Oldenburg area. The limestone cargo originated from southern Denmark and could be confidently classified as &ldquo;Faxe chalk&rdquo;. Despite the increased availability of written documentation of ships in the late 19th century and a thorough archival research, the identity of the wreck could not be ascertained yet. This showcases that even fairly recent wrecks are often &ldquo;invisible&rdquo; in the historical record.</p> <p>Of the wreck itself only parts of the bottom section has survived, i.e. slabs of planking, frames in pairs, as well as ceiling planks.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>In 2007, the professional diver Rolf Lorenz reported the wreck to the authorities. It is located at a depth of 2-3 metres in the vicinity of a stone pier of the village of Stein, ca. 20 kilometres east of the city of Kiel.</p> <p>The wreck was subject to an investigation in 2013 by AMLA (the student working-group for maritime and limnic archaeology at the University of Kiel) under the lead of Dr. Florian Huber, in which the wreck was documented in 67 dives. A detailed report was submitted in the following year by Jana Ulrich as Master's thesis.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002626.jpg\" alt=\"photo of the remains of a wooden ship on the bottom of the sea, with a diver nearby\"> <div class=\"img-source\">Florian Huber</div> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002625.jpg\" alt=\"diver with a hammer on the bottom of the sea near wooden planks\"> <div class=\"img-source\">Florian Huber</div> </figure> <p>The wreck is badly preserved and its deterioration is accelerated by the marine borer <em>teredo navalis</em>.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Huber, F. (2014).<br /><em>Unterwasserarchäologische, nicht-invasive Prospektions- und Dokumentationsverfahren in schwierigen maritimen und limnischen Gewässern (=Dissertation).</em><br />Christian-Albrechts-Universität zu Kiel.</li><li>Ulrich, J. (2014).<br /><em>Ein neuzeitliches Wrack vor Stein: Der Weg als Ziel einer unterwasserarchäologischen Untersuchung und der Versuch einer historischen Rekonstruktion (=Master's thesis).</em><br />Christian-Albrechts-Universität zu Kiel.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "816",
+  "code": "marken-hr-ms",
+  "name": "Hr.Ms. Marken",
+  "type": "wreck",
+  "lat": "51.4718031",
+  "lon": "1.2661744",
+  "location": "Thames estuary, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1943",
+  "firstyearend": null,
+  "lastdate": "1944-05-20",
+  "lastyear": "1944",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-09-11 17:51:15",
+  "modified_on": "2025-06-07 17:05:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De&nbsp;Hr.Ms. Marken was een&nbsp;Nederlandse&nbsp;mijnenveger&nbsp;van het&nbsp;type MMS 105, genoemd naar het&nbsp;Noord-Hollandse&nbsp;eiland&nbsp;Marken.</p> <p>Tijdens de&nbsp;Tweede Wereldoorlog&nbsp;voerde het schip mijnenveeg-operaties uit in Britse wateren. De mijnenveger liep zelf op een mijn in de Noordzee op 20 mei 1944.</p> <p>Van de 16 bemanningsleden overleefde slechts &eacute;&eacute;n opvarende de explosie.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: mijnenveger MMS 105<br>Gebouwd: F. Curtis, Looe (UK), 1942<br>Tonnage: 225&nbsp;<br>Afmetingen: 36,3 x 7 x 2,9 m</p> <p>Voortstuwing: 1 diesel engine, single shaft, 1 screw<br>Vermogen: 375 b.h.p.<br>Snelheid: 12 knopen</p> <p>16 bemanningsleden stiereven toen het schip op een mijn liep. Slechts 1 bemanningslid heeft dit overleefd.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>netherlandsnavy.nl.<br /><a href=\"http://www.netherlandsnavy.nl/105ft.htm\">105ft-class wooden minesweepers.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

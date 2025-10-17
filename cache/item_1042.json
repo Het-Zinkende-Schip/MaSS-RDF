@@ -1,0 +1,27 @@
+{
+  "id": "1042",
+  "code": "wapen-van-reygersbergh",
+  "name": "Wapen van Reygersbergh",
+  "type": "wreck",
+  "lat": "52.9822469",
+  "lon": "4.6980286",
+  "location": "Texel, Nederland",
+  "firstdate": null,
+  "firstyear": "1692",
+  "firstyearend": null,
+  "lastdate": "1692-05-07",
+  "lastyear": "1692",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-01-10 11:35:45",
+  "modified_on": "2025-06-09 13:27:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Linieschip, 2e charter<br>Gebouwd: in Amsterdam, 1692<br>Eigenaar: Admiraliteit Amsterdam<br>Dimensies: 133.5 kiellengte, 41 x 15 vt<br>Bemanning:<br>Kapitein: Stelte , A.<br>Bewapening: 74</p><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

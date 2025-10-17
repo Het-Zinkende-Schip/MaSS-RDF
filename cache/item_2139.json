@@ -1,0 +1,27 @@
+{
+  "id": "2139",
+  "code": "ou86",
+  "name": "OU86",
+  "type": "wreck",
+  "lat": "52.4249400",
+  "lon": "5.5849100",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": "1565",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1625",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-06-11 17:44:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Dit schip is gevonden op kavel U86 in Oostelijk Flevoland aan de Kuilweg, in de gemeente Dronten. Het wrak is in 1968 verkend en in 1972-1973 volgde de opgraving. Het scheepswrak is een karveel gebouwd vissersschip van het type waterschip. Waterschepen waren de grootste en belangrijkste vissersschepen van de Zuiderzee gedurende de zestiende en zeventiende eeuw. Ze zijn voorzien van een bun gevuld met water, waar de gevangen vis levend in vervoerd kan worden. De vroegste types waterschepen werden overnaads gebouwd, maar vanaf het tweede kwart van de zestiende eeuw werden deze schepen karveel gebouwd, dat wil zeggen gladboordig. Het schip heeft een gebogen voorsteven, een rechte achtersteven en is voorzien van een keilbalk in plaats van een keilplank. De lengte van het schip is ca. 19 meter bij een breedte van ca. 6 meter. Op basis van jaarringonderzoek is de kapdatum van het scheepshout gedateerd in 1565 (&plusmn; 6). Uit de inventaris is gebleken dat het schip aan het begin van de zeventiende eeuw is vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Een karveel gebouwd waterschip uit de zestiende eeuw, Dronten</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002003.jpg\" alt=\"Het blootgelegde wrak, gezien van voorzijde (dichtbij) naar achterzijde (verder weg).\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het blootgelegde wrak, gezien van voorzijde (dichtbij) naar achterzijde (verder weg).</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xad-m6qn\">Opgravingsdocumentatie scheepswrak OU86.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

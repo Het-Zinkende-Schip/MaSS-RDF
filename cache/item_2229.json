@@ -1,0 +1,27 @@
+{
+  "id": "2229",
+  "code": "brak-1649",
+  "name": "Brak",
+  "type": "wreck",
+  "lat": "51.2206474",
+  "lon": "1.8182373",
+  "location": "Banc des Flandres, Noordzee",
+  "firstdate": null,
+  "firstyear": "1649",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1666",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-13 09:45:41",
+  "modified_on": "2020-10-13 10:05:04",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Roasaeus, Hendricus</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>14</td></tr><tr><th scope=\"row\">Lengte</th><td>115 &frac14; voet (35,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>23 voet (7 m)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

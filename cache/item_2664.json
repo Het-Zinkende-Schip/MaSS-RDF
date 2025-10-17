@@ -1,0 +1,27 @@
+{
+  "id": "2664",
+  "code": "bonaventura",
+  "name": "Bonaventura",
+  "type": "wreck",
+  "lat": "51.7052472",
+  "lon": "2.9443359",
+  "location": "Noord Zee, Nederland",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1654",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Will Brouwers",
+  "created_on": "2021-10-07 09:49:40",
+  "modified_on": "2025-06-14 18:39:37",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Bonaventura werd veroverd tijdens de slag bij Dunguness (10-12-1652). Het was een door de Engelse gehuurd schip dat dienst deed in de Middellandse zee.</p> <p>In dienst onder het directoraat Veere. Ze lag in Veere in juli 1653.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 42</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Harry Bonaventura.</em><br />NIMH.</li><li>Bender J.A. (2014).<br /><em>Dutch Warships in the Age of Sail 1600 - 1714 p. 226.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

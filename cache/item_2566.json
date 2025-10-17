@@ -1,0 +1,27 @@
+{
+  "id": "2566",
+  "code": "seekuh",
+  "name": "Seekuh",
+  "type": "wreck",
+  "lat": "54.5180526",
+  "lon": "10.2474976",
+  "location": "Kieler Bucht, Duitsland",
+  "firstdate": null,
+  "firstyear": "1940",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1945",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Daniel Zwick",
+  "created_on": "2021-05-18 18:31:33",
+  "modified_on": "2025-07-11 14:26:06",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The wooden wreck was one of the anomalies detected through a side-scan sonar survey carried out by the Institute of Geosciences at the University of Kiel. The anomaly at a depth of 12 metres was checked by the university's scientific divers on board the RV LITTORINA. They discovered an uncommon type of WWII watercraft, which is associated with minesweeping.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002617.png\" alt=\"photo of a sunken boat, with a diver above it\"> <div class=\"img-source\">Huber 2014, Unterwasserarch&auml;ologische, nicht-invasive Prospektionsund Dokumentationsverfahren in schwierigen maritimen und limnischen Gew&auml;ssern (Dissertation, Univ. Kiel)</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The oblong gap in the vessel's centre and the uncommon length-to-beam ratio helped to identify the wreck as a type of influence sweep colloquially known as <em>Seekuh</em> (literally: manatee), a wooden craft without propulsion, which was towed behind a minesweeper. This influence sweep emulated a ship signature through a magnetic generator, causing the mine to detonate. The 3,7 ton magnetic generator was placed in the aforementioned gap of the vessel. These type of craft were then towed behind as troika at a cable length of ca. 170 metres by a minesweeper, while also a distance was kept between the towed vessels to cover a greater area.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002616.png\" alt=\"This is a black and white photograph of two men standing on small, possibly military, vessels sailing through water.\"> <div class=\"img-source\">Huber 2014, Unterwasserarch&auml;ologische, nicht-invasive Prospektionsund Dokumentationsverfahren in schwierigen maritimen und limnischen Gew&auml;ssern (Dissertation, Univ. Kiel)</div> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>39 &frac14; voet (12 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>9 &frac34; voet (3 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Despite of the wooden hull, the wreck is in a good state of preservation with no signs of <em>teredo navalis</em>.</p> <p>Another <em>Seekuh</em> is on display at the Nautineum on the island of D&auml;nholm, an outpost of the German Oceanographic Museum (<em>Deutsches Meeresmuseum</em>) in Stralsund.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Huber, F. (2014).<br /><em>Unterwasserarchäologische, nicht-invasive Prospektionsund Dokumentationsverfahren in schwierigen maritimen und limnischen Gewässern (=Dissertation).</em><br />Christian-Albrechts-Universität zu Kiel.</li><li>Meyer, K. (2004).<br /><em>Hochseeminenboote 1939–1945.</em><br />Hamburg/Berlin/Bonn, Mittler.</li><li><a href=\"https://www.nautineum.de/\">Nautineum.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

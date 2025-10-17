@@ -1,0 +1,27 @@
+{
+  "id": "1236",
+  "code": "sperwer",
+  "name": "Sperwer",
+  "type": "wreck",
+  "lat": "33.3365710",
+  "lon": "126.0950317",
+  "location": "Cheju, Zuid-Korea",
+  "firstdate": null,
+  "firstyear": "1648",
+  "firstyearend": null,
+  "lastdate": "1653-08-16",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-03-21 13:06:54",
+  "modified_on": "2024-11-12 17:48:39",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Sperwer </strong></em>was in 1653 onderweg van Batavia naar Deshima in Japan.<br>Door plotselinge storm sloeg het schip kapot op de kust van het eiland Jeju, ten zuiden van Korea. Van de 64 opvarenden overleefden 36 de schipbreuk. Ze werden door de Koreaanse autoriteiten gevangen genomen en ge&iuml;nterneerd. Het wrak van het schip is door de Koreanen in brand gestoken.</p> <p><strong>Hendrick Hamel</strong><br>Een van de overlevenden was boekhouder Hendrick Hamel die een verslag schreef over de schipbreuk en hun 13 jaar lange verblijf in Korea. Uiteindelijk wist hij met 7 anderen in 1666 te ontsnappen in een klein bootje naar Japan. Zijn verslag was lange tijd de enige bron van kennis over het gesloten Korea.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1648<br>Tonnage: 220<br>Bemanning: 64, 25 soldaten, <a href=\"https://www.wiedenis.nl/hendrick-hamel-en-het-vergaan-van-de-sperwer/bemanningsleden-van-de-sperwer/\">Klik hier</a> voor meer over de bemanningsleden.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Reinier Egbertsz</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91811\">DAS 0694.1.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/1265/file/NL-HaNA_1.04.02_1265_0951\">NL-HaNA_1.04.02_1265_0951.</a></li><li>Valentine Wikaart.<br /><a href=\"https://www.wiedenis.nl\">Het vergaan van het jacht de Sperwer en het gedwongen verblijf in Korea.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

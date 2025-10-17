@@ -1,0 +1,26 @@
+{
+  "id": "226",
+  "code": "chakrajapur",
+  "name": "Chakrajapur",
+  "type": "structure",
+  "lat": "24.1250000",
+  "lon": "88.8580000",
+  "location": "Chakrajapur, Bagha, Rajshahi, Bangladesh",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1850",
+  "lastyearend": null,
+  "country": "Bangladesh",
+  "countrycode": "BD",
+  "author": "Will Brouwers",
+  "created_on": "2010-09-24 00:00:00",
+  "modified_on": "2019-04-17 09:23:10",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>A survey map from 1850 shows that two Pucca buildings are located at Chakrajapur village. During the British period, 18th century, many indigo factory were built along the Padma river. Two buildings still exist along the river. Many scholars suspect that these buildings were used as indigo factories. This site came to light in the middle of Padma river in summer season. Thousands of curious local people has visited site. Artifacts that are found include bricks, coin, bones, etc.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000356.jpg\" alt=\"Chakrajapur\" /><figcaption class=\"img-description\">Indigo factory.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Two building structures are located side by side in dilapidated condition. Area covered 3000 sqm.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000357.jpg\" alt=\"Chakrajapur\" /></figure></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

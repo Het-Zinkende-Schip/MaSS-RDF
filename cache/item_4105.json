@@ -1,0 +1,27 @@
+{
+  "id": "4105",
+  "code": "oo64a",
+  "name": "OO64a",
+  "type": "wreck",
+  "lat": "52.5242790",
+  "lon": "5.8497880",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": "1735",
+  "firstyearend": "1741",
+  "lastdate": null,
+  "lastyear": "1741",
+  "lastyearend": "1791",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 15:51:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Op kavel O64a kwam eind 1958 een melding binnen van een groot waarschijnlijk 18de-eeuws zeegaand vrachtschip dat in september 1982 uitgebreid is verkend. Het betreft een karveel gebouwd schip waarvan een deel, met een lengte van ca. 25 meter over de stevens, bewaard is gebleven. Het wrak ligt in het Revebos en enkele bomen moesten worden verwijderd om beschadiging te voorkomen. In 2004 is onderzoek gedaan naar het scheepswrak n.a.v. de aanleg van de spoortunnel in trac&eacute; Hanzelijn. Tot slot is het in 2016 opnieuw onderzocht met de International Fieldschool for Maritime Archaeology Flevoland (IFMAF). De datering van het schip is daarbij bepaald op basis van de inventaris (ondanks dat er slechts beperkte resten van de inventaris werden gevonden), die op een ondergangsdatum wees in vermoedelijk het einde van de achttiende eeuw of het begin van de negentiende eeuw.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-z8c-gyfn\">Opgravingsdocumentatie scheepswrak OO64a.</a></li><li>Koen Blok (2019).<br /><em>Scheepswrak in het Revebos (Flevoland): Verkennend onderzoek van een middelgroot 18de-eeuws zeegaand schip op kavel OO 64a. (52 redactie) (Grondsporen; Nr. 52).</em><br />Groningen: Groninger Instituut voor Archeologie (GIA).</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

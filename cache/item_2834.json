@@ -1,0 +1,27 @@
+{
+  "id": "2834",
+  "code": "boreas",
+  "name": "Boreas",
+  "type": "wreck",
+  "lat": "52.5603236",
+  "lon": "4.3505859",
+  "location": "Noordzee, 25 mijl NW van Ijmuiden, Nederland",
+  "firstdate": "1915-04-23",
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1917-05-15",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-14 17:01:16",
+  "modified_on": "2025-07-14 13:52:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De sloep van de stoomloodsboot heeft te IJmuiden 5 zeelieden aangebracht, onder wie een licht gewonde, zijnde de bemanning van de Nederlandse schoener &ldquo;Boreas&rdquo;, thuisbehorende te Rotterdam, van de rederij A. Jordens. De schoener was op weg van Gothenburg naar Rotterdam, en is hedennacht om 12 uur, 25 mijl ten NW van IJmuiden, zonder waarschuwing, getorpedeerd. Het vaartuig was geladen met zinkerts.</p> <p>Nader meldt men ons nog uit IJmuiden:<br>De plaatsbepaling, waar de schoener door de duikboot werd aangevallen, is moeilijk met juistheid vast te stellen, althans wat de lengte- en breedtegraad betreft. Volgens de mededeling van de kapitein had men de laatste drie dagen op bestek gezeild en kan alleen met enige nauwkeurigheid worden vastgesteld, dat men ongeveer 25 mijl noordwest van IJmuiden was, toen de duikboot-aanval midden in de nacht plaats greep. De beschieting was zeer hevig, men begaf zich in allerijl in de scheepsboot. Het schieten hield ook toen nog aan, er werden zelfs noch zes schoten gelost, toen men reeds in de boot had plaatsgenomen.</p> <p>Kapitein Goumare en een van de matrozen kregen zeer lichte verwondingen door granaatscherven. Of het schip dadelijk zonk is, weet men niet met zekerheid te zeggen, doch de treffers en de lading zinkerts in aanmerking genomen, is daaraan weinig twijfel.</p> <p>De duikboot zelf heeft men niet te zien gekregen. De loodsboot, die de 5 man (4 Nederlanders en 1 Deen) aanbracht, had hen overgenomen van de logger Katwijk 49, die daarop dadelijk naar de visserij is teruggekeerd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Gaffelschoener tweemaster stalen romp<br>Gebouwd: Firma W. Rubertus, Groningen, NL</p> <p>Eigenaar 1: Arke Boerma, Groningen <br>Eigenaar 2: rederij A. Jordens, Rotterdam (23-11-1916)</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003139.jpg\" alt=\"Een klein stukje getypte tekst uit een krant met de titel &quot;verkochte schepen&quot;\"></figure> <p>Telegraaf 2-1-1917 (Bron Delpher)</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Goumare</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>5</td></tr><tr><th scope=\"row\">Lengte</th><td>111 voet (33,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>22 voet (6,7 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>9 &frac14; voet (2,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>192 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=1051\">Boreas ID 1051.</a></li><li>Delpher.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Boreas&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;page=7&amp;sortfield=date&amp;coll=ddd&amp;identifier=ddd:010653957:mpeg21:a0154&amp;resultsidentifier=ddd:010653957:mpeg2\">Algemeen Handelsblad  17-5-1917.</a></li><li><a href=\"https://uboat.net/wwi/ships_hit/864.html\">Uboat.net U 71.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

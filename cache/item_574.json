@@ -1,0 +1,27 @@
+{
+  "id": "574",
+  "code": "burgzand-noord-15-bzn-15",
+  "name": "Burgzand Noord 15 (BZN 15)",
+  "type": "wreck",
+  "lat": "53.0490000",
+  "lon": "4.9290000",
+  "location": "Wadden sea, Nederland",
+  "firstdate": null,
+  "firstyear": "1640",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1680",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2018-01-03 00:00:00",
+  "modified_on": "2025-06-06 16:10:29",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>De Burgzand Noord 15 (BZN 15) is het wrak van een 17<sup>e</sup> eeuws schip.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>Het wrak Burgzand Noord 15 (BZN 15) is in 1999 voor het eerst ge&euml;valueerd. Het bestond uit gedeeltelijk uit elkaar gevallen scheepsdelen en vracht. Het meest uitstekende element was een lading ijzeren staven. Het wrak werd gedateerd in de 17<sup>e</sup> eeuw en werd in oktober 2012 voor het eerst met multibeam opgenomen. Een vergelijking met de opnames in 2013 en 2014 bracht verschillende lange objecten (&eacute;&eacute;n zelfs tot 4 m lang) aan het licht ten zuiden van de eerder gedocumenteerde ijzeren staven. Het gebied zelf verdiept zich, wat ook blijkt uit de opname uit 2015 (hoewel de resolutie van deze opname aanzienlijk lager is dan die van de eerdere opnames).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001313.png\" alt=\"de multibeam-opname van december 2015 en oktober 2012\"></figure></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

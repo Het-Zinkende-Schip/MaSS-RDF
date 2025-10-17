@@ -1,0 +1,27 @@
+{
+  "id": "2999",
+  "code": "nederland-1913",
+  "name": "Nederland",
+  "type": "wreck",
+  "lat": "51.6600000",
+  "lon": "2.5600000",
+  "location": "Noordzee, Noord Hinder",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": "1917-11-21",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-18 12:20:05",
+  "modified_on": "2025-06-15 14:46:13",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Nederland II was op weg van Rotterdam naar Leith (Schotland) met een lading stukgoederen. Ze werd aangehouden op de Noordzee ter hoogte van het lichtschip Noord Hinder do0r de Duitse onderzee&euml;r U 53. De 20 koppige bemanning werd gered.</p> <p>Op de zelfde dag werd ook <a href=\"https://mass.cultureelerfgoed.nl/megrez\"><em><strong>de Megrez</strong></em> </a>door de U 53 tot zinken gebracht</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Smit Jan - Scheepswerven Jan Smit, Alblasserdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>271 &frac34; voet (82,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>40 voet (12,2 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>18 voet (5,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1832 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4508\">marhisdata.nl.</a></li><li>Münching, L.L. (1981).<br /><em>De verliezen van de Nederlandse koopvaardij in de Eerste Wereldoorlog 1914-1918 p.40.</em><br />Haarlem, De Boer Maritiem.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

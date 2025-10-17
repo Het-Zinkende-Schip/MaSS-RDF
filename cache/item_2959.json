@@ -1,0 +1,27 @@
+{
+  "id": "2959",
+  "code": "simon-hvh-2",
+  "name": "Simon (HVH 2)",
+  "type": "wreck",
+  "lat": "53.5781100",
+  "lon": "3.6655841",
+  "location": "Terschelling lichtschip, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": "1917-05-05",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-11 16:52:47",
+  "modified_on": "2024-07-10 18:32:42",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>HVH 2 Simon</strong></em> uit Hoek van Holland vertrok 30 april uit de haven van Ijmuiden.</p> <p>De trawler is met geschutvuur tot zinken gebracht door de Duitse onderzee&euml;r UC 71. Hierbij is de 11 koppige bemanning omgekomen.</p> <p>Uit Scheveningen waren dit schipper Aalbert Verheij (35 jaar), Cornelis Verheij (26 jaar), Arie Cornelis Johannes Verheij (34 jaar), Johannes Verheij (20 jaar), Rijndert van der Plas (35 jaar), Arie Visser (28 jaar) en Jan Leendert Visser (18 jaar), uit Zandvoort A. Flipse, uit Lisse W Baas, uit Amsterdam D. van Hout en uit Haarlem G. de Klerk.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Maatschappij Hoek van Holland</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=HVH+2&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;identifier=MMKB04:000186932:mpeg21:a0003&amp;resultsidentifier=MMKB04:000186932:mpeg21:a0003&amp;rowid=8\">De Maasbode (15-05-1917).</a></li><li>uboat.net.<br /><a href=\"https://uboat.net/wwi/ships_hit/5577.html\">Trawler Simon.</a></li><li><a href=\"https://www.visserijnieuws.nl/nieuws/algemeen/39314/kransleggingen-in-scheveningen\">kransleggingen in Scheveningen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "317",
+  "code": "vlissingen-1720",
+  "name": "Vlissingen",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Atlantische Oceaan",
+  "firstdate": null,
+  "firstyear": "1732",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1747",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2012-06-26 00:00:00",
+  "modified_on": "2025-06-19 20:46:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De Vlissingen</em> was een retourschip gebouwd voor de VOC kamer van Zeeland. Ze vertrok voor haar vijfde uitreis uit Zeeland (Wielingen) op 9-1-1747 naar het Oosten</p> <p>Het schip bereikte het beoogde tussenstop de Kaap kolonie nooit. Ze is vermist ergens op de Atlantische Oceaan.</p> <p>De afbeelding representeert een retourschip rond 1760. Het is geen afbeelding van de Vlissingen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Middelburg, 1732<br>Lengte: 130 vt<br>Master: Adriaan Kakelaar<br>Complement: 214<br>Tonnage: 325 last</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/94462\">DAS 3389.5.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0198?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

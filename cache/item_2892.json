@@ -1,0 +1,27 @@
+{
+  "id": "2892",
+  "code": "mercedes",
+  "name": "Mercedes",
+  "type": "wreck",
+  "lat": "55.4234836",
+  "lon": "2.5616380",
+  "location": "Noordzee,Dogger bank",
+  "firstdate": null,
+  "firstyear": "1917",
+  "firstyearend": null,
+  "lastdate": "1918-11-17",
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-06-22 16:59:00",
+  "modified_on": "2025-07-17 11:01:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op reis in ballast van Rotterdam naar Noorwegen om Carbid en hout te laden is de Mercedes op 17 november 1918 om 04.50 uur op de Noordzee, 25 mijl noord oost van Doggersbank op twee mijnen gelopen. De Mercedes zonk en ging verloren. De tweede machinist J. Paauwe, stoker A. Akkerman en matroos H. Anderson verloren het leven.<a title=\"Mercedes De Zuid-Willemsvaart 23-11-1918 \" href=\"https://cultureelerfgoed.info/mass/?file=00000046.jpg\">*</a></p> <p>Het verhaal van de ramp wordt beschreven een der overlevenden (eesrste stuurman). De overlevende bemanning land in Helgoland en worden met een Duitse torpedoboot naar Wilhelmshafen in Duitsland gebracht.</p> <p>Deze stad is op dat moment in handen van revolutionairen raad van soldaten en matrozen. De bemanning van de Mercedes komt terecht in de Revolutie die uitgebroken was aan het einde van de Eerste Wereldoorlog in Duitsland. (<a href=\"https://duitslandinstituut.nl/artikel/29084/revolutie-1918-matrozen-kiel-leidden-val-monarchie-in\">De verloren Revolutie</a>).</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003218.jpg\" alt=\"groepsfoto van de bemanningsleden van een schip\"> <div class=\"img-source\">Bundesarchiv Bild 183 J09</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>&nbsp;Gebouwd: Wed. C. Boele &amp; Zonen, Slikkerveer, Zuid-Holland<br>Eigenaar: Rederij van der Eb &amp; Dresselhuys, Rotterdasm</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>181 voet (55,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>28 &frac14; voet (8,6 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1050 ton</td></tr><tr><th scope=\"row\">Deplacement</th><td>13 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Martiem-Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=4237\">Mercedes ID 4237.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Mercedes&amp;coll=ddd&amp;sortfield=datedesc&amp;page=5&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1918%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;identifier=MMKB08:000108599:mpeg21:a0028&amp;resultsidentifier=MMKB08:000\">Arnhemsche courant   02-12-1918.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

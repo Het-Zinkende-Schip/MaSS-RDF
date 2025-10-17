@@ -1,0 +1,27 @@
+{
+  "id": "898",
+  "code": "provincie-utrecht",
+  "name": "Provincie Utrecht",
+  "type": "wreck",
+  "lat": "-17.9581859",
+  "lon": "-38.7113228",
+  "location": "Abrolhos, Brazilië",
+  "firstdate": null,
+  "firstyear": "1621",
+  "firstyearend": null,
+  "lastdate": "1631-09-12",
+  "lastyear": "1631",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-09 13:21:24",
+  "modified_on": "2025-05-23 10:57:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Provintie Utrecht was onderdeel van de vloot van Adriaan Pater. Tijdens de slag bij Albrolhos in september 1631 viel samen met de admiraal het Spaanse vice admiraalsschip aan.</p> <p>De grote mast werd er af geschoten en de Provincie Utrecht raakte in brand. De nood was zo hoog dat men massaal op het Spaans oversprong. Men hoopte dit te kunnen overmeesteren maar dat lukte niet. Het Spaanse schip zonk ook.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Fregat, oorlogsschip<br>Gebouwd: Amsterdam,<br>Eigenaar: WIC kamer Amsterdam<br>Tonnage: 300 last</p> <p>Complement: 115 matrozen / 145 soldaten<br>Master: Dingen Jansz.<br>Bewapening: 8 brons, 30 ijzer</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>De Laet, VIII, 240 e.v. Francisco de Brito Freire, Historia da Guerra Brasilica (1675) p 214/220 David F. Marley, Wars of the Americas: A Chronology of Armed Conflict in the America's Volume 1. p. 183.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

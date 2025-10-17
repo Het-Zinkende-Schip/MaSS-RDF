@@ -1,0 +1,27 @@
+{
+  "id": "523",
+  "code": "vollenhoven",
+  "name": "Vollenhoven",
+  "type": "wreck",
+  "lat": null,
+  "lon": null,
+  "location": "Oost-Chinese zee",
+  "firstdate": null,
+  "firstyear": "1659",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1663",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Leon Derksen",
+  "created_on": "2015-05-25 00:00:00",
+  "modified_on": "2025-06-30 09:57:43",
+  "deleted_on": null,
+  "feet": "adam_feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De '<em>Vollenhoven'</em> is samen met de '<em>Loosduinen</em>' aangekocht in februari 1660 in Sardam voor f 16.500. De formulering &ldquo;<em>gekocht het hol van een fluit</em>&rdquo; doet een nieuw en nog niet afgetimmerd schip vermoeden.</p> <p>Er wordt bij vermeld dat het aanwezige geschut met een kaliber van 5 pond, wat een ongewone maat is, verkocht zal moeten worden en vervangen worden door een meer gangbare maat. Dat duidt weer op een gebruikt schip.</p> <p>De Vollenhoven was onderweg van Batavia, via Siam naar Japan (vertrek 23-5-1663).<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7612/file/NL-HaNA_1.04.02_7612_0431\">&sup1;</a> Het schip is daar nooit aangekomen. Ter hoogte van Macao werd het schip op 18 augustus nog gepraaid door De Vlissingen (Dagregister, 630)</p> <p>Volgens DAS vergaan ter hoogte van de Mishima eiland. Dat zou dan al vlak bij Japan zijn.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 8 stukken van 8 lb en 6 van 6 lb.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>138 Amsterdamse&nbsp;voet (39,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>29 &frac12; Amsterdamse&nbsp;voet (8,4 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/92044\">DAS 0927.1.</a></li><li>Chijs, van der, J.A. (1891).<br /><a href=\"https://babel.hathitrust.org/cgi/pt?id=mdp.39015020146059&amp;view=2up&amp;seq=658&amp;skin=2021&amp;ui=embed\">Dagh-Register Batavia 1663.</a></li><li>NA 1.04.02 (VOC) 236 (scan 238, 239).<br /><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.02/invnr/236/file/NL-HaNA_1.04.02_236_0239\">Res K Amst 26-2-1660.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7612/file/NL-HaNA_1.04.02_7612_0431\">NA_1.04.02_7612_0431.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2633",
+  "code": "viljo",
+  "name": "Viljo",
+  "type": "wreck",
+  "lat": "59.4415826",
+  "lon": "24.7823319",
+  "location": "Kadriorg, Tallinn, Estland",
+  "firstdate": null,
+  "firstyear": "1487",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1525",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Daniel Zwick",
+  "created_on": "2021-08-31 11:20:56",
+  "modified_on": "2025-06-14 17:58:46",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>This is one of the two medieval shipwrecks discovered in the former harbour area in the Kadriorg district in Estonian&rsquo;s capital Tallinn in the context of a housing development project. The finding was reported to the National Heritage Board of Estonia (<em>Muinsuskaitseamet</em>) and the wreck was documented and salvaged. The wreck was named after the site manager, Vilio Niit of the developer Nordecon AS, whose company dutifully reported the discovery to the authorities.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The original hull dimensions remain unknown, as only a fragment of 12 x 3,5 metres has survived. The vessel was built in the Nordic clinker-tradition from local pine around/after 1487.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The Viljo wreck was removed from the building site and sunk on Tallinn Bay, covered by sand bags, to keep the waterlogged-timber moist and thereby insure its long-term conservation. A conservation in a tank was ruled out on the grounds of the difficulty and lack of space to conserve such a large object.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Roio, M., Lõugas, L., Läänelaid, Al., Maldre, L., Russow, E., Sillasoo, Ü.  (2015).<br /><em>Medieval ship finds from Kadriorg, Tallinn.</em><br />Archaeological Fieldwork in Estonia 2015.<br />pp 139–158.</li><li>Roio, M., Lõugas, L., Läänelaid, A., Russow, E. (2017).<br /><em>Shipwrecks from Underground Kadriorg.</em><br />pp 19−23.<br />allinn: Estonian Academy of Arts.</li><li>Roio, M. (2020).<br /><em>Tallinn Harbour from the Middle Ages: Studies of the Former and Current Seabed.</em><br />In: J. A. Rodrigues &amp; A. Traviglia (eds.), IKUWA6 Shared Heritage: Proceedings of the Sixth International Congress for Underwater Archaeology.<br />pp 641−648.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

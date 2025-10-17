@@ -1,0 +1,27 @@
+{
+  "id": "2354",
+  "code": "eendracht-1652",
+  "name": "Eendracht",
+  "type": "wreck",
+  "lat": "52.0276556",
+  "lon": "4.1511154",
+  "location": "Ter Heijde, Nederland",
+  "firstdate": null,
+  "firstyear": "1652",
+  "firstyearend": null,
+  "lastdate": "1653-08-10",
+  "lastyear": "1653",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-11-30 11:30:17",
+  "modified_on": "2025-06-12 12:05:01",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Eendracht</strong></em>, of Eendracht van Zierikzee, werd op 10 augustus 1653 tijdens de <a href=\"https://mass.cultureelerfgoed.nl/zeeslag-bij-ter-heijde\">Slag bij Terheijde</a> in brand geraakt en gezonken. Tijdens de Eerste Engelse Nederlandse Oorlog.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 24</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Andries Veertien</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><em>Leven en bedrijf van den vermaarde zeeheld Cornelis Tromp, 130.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

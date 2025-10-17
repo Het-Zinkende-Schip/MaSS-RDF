@@ -1,0 +1,26 @@
+{
+  "id": "248",
+  "code": "tekta-burnu",
+  "name": "Tektaş Burnu",
+  "type": "wreck",
+  "lat": "38.4750000",
+  "lon": "26.3750000",
+  "location": "Çesme, Turkije",
+  "firstdate": null,
+  "firstyear": "-450",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "-400",
+  "lastyearend": null,
+  "country": "Griekenland",
+  "countrycode": "GR",
+  "author": "Will Brouwers",
+  "created_on": "2011-02-15 00:00:00",
+  "modified_on": "2022-10-16 10:53:16",
+  "deleted_on": null,
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The wreck, which lies along a rugged and remote stretch of coastline southeast of &Ccedil;esme and west of Sigacik, was located in 1996 during one of INA's annual surveys for shipwrecks.</p> <p>A small mound of approximately 60 amphoras of at least two distinct types. The first type, known from the 1996 survey, comes from the northern Greek city of Mende (Chalkidike) and dates to the third quarter of the fifth century B.C.</p> <p>Mende was famous for its wine. However most amphora's were refilled not with wine but with a gooey black pine tar. A pine tar such as this may have been used to caulk or repair a ship, treat a ships tackle, line transport amphoras for carrying wine, or even flavor wine</p> <p>The second amphora type recognized in 1999 can be identified only as pseudo-Samian because of its morphological resemblance to jars produced on Samos. The pseudo-Samian amphoras from Tektaş Burnu constitute the bulk of the ships cargo, with an estimated 200 total jars.</p> <h2>Pseudo-Samianware</h2> <p>Pseudo-Samian amphoras have been found along the eastern coast of Black Sea. Although found all over the Eastern mediteranean, archaeologists did not know where these jars were manufactured. As a result of the 2002 study season, we now have a good idea of where the pseudo-Samian jars from Tektaş Burnu may have been manufactured. Several of the amphoras bear stamps, generally on the neck, on the shoulder, or at the base of a handle. The most revealing stamp is a circle, 2 cm in diameter, framing the Greek letters ERU, located on the neck of the amphora. This monogram recalls the fifth-century coinage of nearby Erythrae. The attribution of pesudo-Samian amphoras to Erythrae is particularly intriguing because so little is known about the Classical city.</p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00000424.jpg\" alt=\"Tektas Burnu\"><figcaption class=\"img-description\">Stamp with ERU.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><div>Ancient Greek merchant ship from the 5th century BC. Possibly&nbsp;a Holkas.<br>Lies at a depth of 125 ft.</div> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000425.jpg\" alt=\"Tektas Burnu\"><figcaption class=\"img-description\">Kyrenia II, a Greek merchant ship 300 BC.</figcaption></figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The shipwreck at Tektaş Burnu was located during one of INA&rsquo;s annual Turkish shipwreck surveys and excavated by INA between 1999 and 2001. The ship sank to a depth of 45 m between 440 and 425 B.C. or shortly thereafter, making it the only shipwreck from the pinnacle of the Athenian maritime empire to be excavated in its entirety.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Institute of Nautical Archaeology.<br /><a href=\"https://nauticalarch.org/projects/tektas-burnu-classical-greek-shipwreck-excavation/\">Tektaş Burnu Classical Greek Shipwreck Excavation.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

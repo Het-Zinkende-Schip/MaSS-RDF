@@ -1,0 +1,27 @@
+{
+  "id": "2218",
+  "code": "amersfoort-1629",
+  "name": "Amersfoort",
+  "type": "wreck",
+  "lat": "53.3811304",
+  "lon": "5.1312447",
+  "location": "",
+  "firstdate": null,
+  "firstyear": "1629",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1636",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-10-09 13:03:48",
+  "modified_on": "2024-10-14 10:24:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: werf te Amsterdam, ca. 1628<br>Eigenaar: WIC kamer Amsterdam<br>Opvarenden: 87 bemanning, 54 soldaten<br>Bewapening: 8 brons,18 ijzer</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Dirck Symonsz van Medemblik</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>144</td></tr><tr><th scope=\"row\">Tonnage</th><td>400 ton (200 last)</td></tr></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

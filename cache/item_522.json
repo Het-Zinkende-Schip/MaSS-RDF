@@ -1,0 +1,27 @@
+{
+  "id": "522",
+  "code": "elswoud",
+  "name": "Elswoud",
+  "type": "wreck",
+  "lat": "7.6092045",
+  "lon": "81.8377840",
+  "location": "Baticaloa t.h.v., Sri Lanka",
+  "firstdate": null,
+  "firstyear": "1742",
+  "firstyearend": null,
+  "lastdate": "1756-01-09",
+  "lastyear": "1756",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2015-05-19 00:00:00",
+  "modified_on": "2024-08-09 09:53:48",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het retourschip <em><strong>De</strong></em> <em><strong>Elswoud</strong></em> heette eerst <em>De</em>&nbsp;<em>Eendracht </em>en maakte onder die naam vier retourreizen naar Azi&euml;. Op 20 mei 1754 vertrok ze voor haar vijfde reis vanuit Texel onder de naam&nbsp;<em>Elswoud</em>. Het schip verging op 9 januari 1756 onderweg van Batavia (Jakarta) naar Siam (Thailand), op een klein eiland 8 mijl zuid van Batticaloa (Sri Lanka). De bemanning werd op twee of drie man na gered.(<a href=\"https://cultureelerfgoed.info/mass/?file=00000253.jpg\">1</a>)</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001210.jpg?modifiedon=1609094096\" alt=\"Replica of a Dutch East Indiaman\"><div class=\"img-source\">Wikimedia Commons</div></figure><p><br>Replica van een VOC schip (de <em>Amsterdam</em>) bij het Scheepvaartmuseum in Amsterdam.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Dirk Stijven</td></tr><tr><th scope=\"row\">Lengte</th><td>150 voet (45,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1150 ton (575 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000253.jpg\">NA 1.04.11.01.01. 551-40, Lijst van alle zoodanige Schepen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

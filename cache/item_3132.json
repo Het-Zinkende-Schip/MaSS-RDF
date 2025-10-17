@@ -1,0 +1,27 @@
+{
+  "id": "3132",
+  "code": "gouden-ruiter",
+  "name": "Gouden Ruiter",
+  "type": "wreck",
+  "lat": "51.3597779",
+  "lon": "1.7314638",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1665",
+  "firstyearend": null,
+  "lastdate": "1666-06-05",
+  "lastyear": "1666",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2023-09-23 11:21:42",
+  "modified_on": "2025-07-25 12:42:51",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Gouden Ruiter</strong></em> was een als brander ingericht schip dat verging tijdens de Vierdaagse Zeeslag.</p> <p>Aan het eind van de eerste dag van de Vierdaagse Zeeslag wilde het zich op een Engels fregat storten. Commandeur Vermeulen stak de brand in zijn schip en koerste op het Engels fregat aan. De Gouden Ruiter werd zo hevig beschoten dat het alvorens het doel te bereiken zelf zonk.</p> <p><strong>Vierdaagse Zeeslag <br></strong>De Vierdaagse Zeeslag was een zeeslag tijdens de Tweede Engels-Nederlandse Oorlog. Het gevecht duurde van 11 juni tot 14 juni 1666, en werd uitgevochten tussen de Vlaamse en Engelse kust. De slag is een van de langste zeeslagen in de geschiedenis.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00001685.jpg\" alt=\"Schilderij van een zeeslag, met veel grote zeilschepen. Op de voorgrond zinkt een schip de zee in.\"></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>12</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Brandt, Geeraardt.<br /><a href=\"https://www.dbnl.org/tekst/bran002leve01_01/bran002leve01_01_0012.php?q=Vermeulen#hl3\">Het leven en het bedrijf van den Heere Michiel de Ruyter, IX, 483-484.</a></li><li><em>NIMH schependocumentatie nr. 304.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

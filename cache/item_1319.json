@@ -1,0 +1,27 @@
+{
+  "id": "1319",
+  "code": "oostkapelle",
+  "name": "Oostkapelle",
+  "type": "wreck",
+  "lat": "16.1534039",
+  "lon": "81.7044266",
+  "location": "Machilipatnam, India",
+  "firstdate": null,
+  "firstyear": "1745",
+  "firstyearend": null,
+  "lastdate": "1758-09-26",
+  "lastyear": "1758",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-05-23 09:25:14",
+  "modified_on": "2024-12-16 16:06:24",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Oostkapelle was onderweg via Coromandel naar Bengalen. Het schip werd aangehouden door het Franse oorlogsschip Centaur en te Machilipatnam gevisiteerd en 10 dagen vast gehouden. Het schip werd 25 september weer vrijgegeven en is vervolgens de 26e in een storm vergaan.</p> <p>In ruime zee ter hoogte van Vishakhapatnam, gezonken. 12 man wisten in de schuit de kust bij Srikakulam te bereiken.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Middelburg, 1767<br>Tonnage: 575 last, 1150<br><br></p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=13&amp;page=352&amp;view=&amp;accessor=toc\">Generale missiven Deel 13, 341.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

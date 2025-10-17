@@ -1,0 +1,27 @@
+{
+  "id": "4036",
+  "code": "of18",
+  "name": "OF18",
+  "type": "wreck",
+  "lat": "52.4869590",
+  "lon": "5.5463240",
+  "location": "Lelystad, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1475",
+  "lastyearend": "1525",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 11:49:26",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>In Natuurpark Lelystad werd in mei 1983 een klein platboomd, overnaads gebouwd roeibootje gevonden, op een plek waar een voeder/drinkplaats voor de wisenten was bedacht. Datzelfde jaar werd het verkend, en men besloot om het bootje gezien het beperkte formaat meteen verder op te graven en te bergen. Het kon dan later in Ketelhaven (dus ex situ, dat wil zeggen, buiten de oorspronkelijke vindplaats) getekend en desgewenst geconserveerd worden. De gevonden scheepsrest had een lengte van ongeveer 3 meter, maar de voorsteven ontbrak. In het achterste deel van het achterschip lag een restant van de oorspronkelijke lading: rode handvormstenen (bakstenen). Ook deze werden geborgen. Tot conservering van het scheepshout is het uiteindelijk niet gekomen, maar de gegevens van de vondst zijn wel gedocumenteerd.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xda-s9s7\">Opgravingsdocumentatie scheepswrak OF18.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

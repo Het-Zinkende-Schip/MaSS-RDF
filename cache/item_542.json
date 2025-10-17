@@ -1,0 +1,27 @@
+{
+  "id": "542",
+  "code": "poseidon",
+  "name": "Poseidon",
+  "type": "wreck",
+  "lat": "38.8216994",
+  "lon": "-75.1397324",
+  "location": "Cape Delaware, Verenigde Staten",
+  "firstdate": null,
+  "firstyear": "1914",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1918",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2015-09-15 00:00:00",
+  "modified_on": "2025-06-06 15:56:32",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The Poseidon sunk on 31 July 1918 at Cape Delaware after a collision with a British steamer.&nbsp;There were 6 casualties.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><ul> <li>Built: 1914 by Dunlop, Bremner &amp; Co, Glasgow</li> <li>Owner: KNSM NV, Amsterdam</li> <li>Length: 90.16 m</li> <li>Width: 13,18 m</li> <li>Speed: 10,5 knots</li> <li>Tonnage: 1909</li> </ul><table class=\"metavalues\"><tbody></tbody></table></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

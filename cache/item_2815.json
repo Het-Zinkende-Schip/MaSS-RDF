@@ -1,0 +1,27 @@
+{
+  "id": "2815",
+  "code": "piet-hein-ma16",
+  "name": "Piet Hein (MA16)",
+  "type": "wreck",
+  "lat": "57.0980656",
+  "lon": "2.8784180",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1917-07-06",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-03-22 11:11:32",
+  "modified_on": "2025-06-14 22:20:10",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 6 juli July 6, 1917 werden twee haringvissers (loggers) uit Maassluis Handel en Visscherij en Piet Hein door de Duitse onderzee&euml;r UC 33 aangehouden en tot zinken gebracht. De Duitse kapitein beweerde dat ze buiten de territoriale wateren voeren en daarom in overtreding waren. De bemanning dobberde drie dagen in de boten voordat ze opgepikt werden.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003101.jpg\" alt=\"schilderij van de Noordzee met molens aan de zijkant\"> <div class=\"img-source\">F.J. Rossum Du Chattel</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>100 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Uboat.net.<br /><a href=\"https://uboat.net/wwi/ships_hit/4796.html\">Piet Hein.</a></li><li>Het Vaderland.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Handel+en+Visscherij%22+1917&amp;coll=ddd&amp;sortfield=date&amp;identifier=MMKB23:001529052:mpeg21:a00031&amp;resultsidentifier=MMKB23:001529052:mpeg21:a00031&amp;rowid=6\">Het terorisme der Duitsche Duikboten.</a></li><li>Apeldoornsche Courant.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Handel+en+Visscherij%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;identifier=MMCODA01:000153818:mpeg21:a0010&amp;resultsidentifier=MMCODA01:000153818:mpeg21\">Per telegraaf 10-7-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

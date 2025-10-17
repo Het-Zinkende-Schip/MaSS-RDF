@@ -1,0 +1,27 @@
+{
+  "id": "858",
+  "code": "delft-1652",
+  "name": "Delft",
+  "type": "wreck",
+  "lat": "20.7133611",
+  "lon": "116.7305290",
+  "location": "Dongsha atoll, Pratas island, Taiwan",
+  "firstdate": null,
+  "firstyear": "1641",
+  "firstyearend": null,
+  "lastdate": "1652-10-03",
+  "lastyear": "1652",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-10-22 10:58:33",
+  "modified_on": "2025-06-23 12:31:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Delft maakte vier retourreizen tussen 1642-1652. Ze komt op 27 mei in Batavia aan en gaat vervolgens door naar Taiwan.</p> <p>Het schip <em><strong>De Delft</strong></em> is op 18 september 1652 uit de Piscadores op de zuyder Rhede van Taiwan gearriveerd. Ze was pas half gelost toen er op 3 oktober een zware storm losbarstte en De Delft van haar ankers sloeg.</p> <p><em>[&hellip;] verlies vant fluijtschip de koe ende &lsquo;t retour schip Delft die beijde met een cargasoen ter monture van f 1688837.3.7 in zee gesoncken sijn [&hellip;..] het tweede namentlijck Delft is op 3 october met een vreeselijcken storm uijt de noortoostelijcke hand soo als in sijn ladinge lagh vande Taijouanse suijder rheede gedreven sonder datmen oijt Taal of teken meer daer af vernomen heeft.<a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.21/invnr/286/file/NL-HaNA_1.04.21_286_0012?query=286&amp;start=0&amp;search-type=item_code\">*</a></em></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00002351.jpg?modifiedon=1610725121\" alt=\"De afbeelding toont waarschijnlijk een historische kaart van de Dongsha-eilanden (Pratas-eiland) in de Zuid-Chinese Zee. \"> <div class=\"img-source\">NL-HaNA_4.VEL_308</div> <figcaption class=\"img-description\">Ilha de Prata</figcaption> </figure> <p><em>Hebbende de onse aldaer een geschilderde cajuyts deure gevonden, die op Tayouan gebracht sijnde, aldaer door sommige bekent is, van het gemiste schip delft te wesen,[...]<a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=794&amp;accessor=search_in_text&amp;source=2&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%26id%3Dsearch_in_text&amp;size=1219\">**</a></em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: VOC-werf, Delfshaven, 1641<br>Laadvermogen: 350 (egalisatie 1641)<br>Schipper: Roggeveen, Kornelis Pietersz.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/91858\">DAS 0741.4.</a></li><li><a href=\"https://www.nationaalarchief.nl/en/research/archive/1.04.21/invnr/286/file/NL-HaNA_1.04.21_286_0012?query=286&amp;start=0&amp;search-type=item_code\">NA 1.04.21 [Factory Japan] 286, p. 16.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#source=2&amp;page=794&amp;view=imagePane\">Generale missiven Deel II, 781.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

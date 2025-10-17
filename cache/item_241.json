@@ -1,0 +1,27 @@
+{
+  "id": "241",
+  "code": "mainz-1",
+  "name": "Mainz 1",
+  "type": "wreck",
+  "lat": "49.7710000",
+  "lon": "7.8790000",
+  "location": "Mainz, Duitsland",
+  "firstdate": null,
+  "firstyear": "350",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "400",
+  "lastyearend": null,
+  "country": "Duitsland",
+  "countrycode": "DE",
+  "author": "Will Brouwers",
+  "created_on": "2010-12-21 00:00:00",
+  "modified_on": "2024-02-22 11:37:18",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>Ship 1 (Type Mainz A) from Mainz was discovered in the centre of Mainz with the construction of the Hilton Hotel II in 1981/82. In the same trench 4 more ships were discovered. The Mainz 2, 3, 4 and 5. The Mainz 3 is off a different type then 1, 2, 4, 5.</p> <p><strong>Navis Lusoria<br></strong>In the second half of the third century a new type of warship was developed to replace the <em>liburna </em>types. The new type was small compared with the previous liburna types. A lusoria had only one row of rowers. This in order to reduce manpower and skill needed to maneuver a ship. The small long ships were very fast and had a ram as weapon.</p> <p>Because lusoriae were easier to build, to man and were very effectively, patrolling the borders of the Roman empire was much better organized and effective then in the previous period.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000408.jpg\" alt=\"Mainz 1\"><figcaption class=\"img-description\">Mainz 1 frame.</figcaption></figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Mainz 1 type A. <em>Navis Lusoria</em> (dancing ship). A small Roman warship developed in the 3th century especialy for service on the border rivers.</p> <p>It is carvel-built employing 2 cm thick and 20 - 24 cm wide planks set one above another without additional mortise-and-tenon joints. The 2nd and 4th rows of planks are stealers.</p> <p>There is an obtuse scarf in the 5th row of planks at the stern. The 5 cm thick and 25 cm wide keel has a bilgerinne along the middle. At its stern end a sternpost of a naturally curved piece of wood has been attached. At intervals of 31 - 32 cm the ancient shipwright had scratched the position of the frames on the keel.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00000406.jpg\" alt=\"Replica of a Navis Lusoria.\" width=\"750\" height=\"528\"><figcaption class=\"img-description\">Replica of a Navis Lusoria.</figcaption></figure><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li><a href=\"https://www2.leiza.de/navis/object.html?id=100025\">Navis database.</a></li><li><em>Navis Lusoria, Ein Romerschiff in Regensburg, Hans Ferkel, H. Konen, C. Schafer. Scripta (mercaturae verlag 2004).</em></li><li><em>Vegetius.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

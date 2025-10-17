@@ -1,0 +1,27 @@
+{
+  "id": "2527",
+  "code": "karschau-1",
+  "name": "Karschau",
+  "type": "wreck",
+  "lat": "54.6220539",
+  "lon": "9.8906994",
+  "location": "Karschau, Duitsland",
+  "firstdate": null,
+  "firstyear": "1140",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1170",
+  "lastyearend": null,
+  "country": "Denemarken",
+  "countrycode": "DK",
+  "author": "Daniel Zwick",
+  "created_on": "2021-03-25 18:50:37",
+  "modified_on": "2025-06-14 16:11:12",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div lang=\"en\"><p>The wreck was investigated in summer 2001 by the State Archaeology Department of Schleswig-Holstein in cooperation with the <em>Arbeitsgruppe f&uuml;r Maritime und Limnische Arch&auml;ologie</em> (work-group for maritime and limnic archaeology) at the University of Kiel and the Maritime Archaeology Research Centre at the Danish National Museum in Roskilde.</p> <p>The wreck was acutely threatened by marine borers and erosion, so a recovery and preservation was undertaken. The ship-timbers were recovered by divers at a depth of only 1.2-1.5 metres with nearly no visibility.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>The wreck features constructional details diagnostic for the Nordic clinker building tradition, i.e. radially cleft clinker planks of oak fastened together with iron rivets, mouldings along the plank edges, as well as the <em>biti-</em>system.</p> <p>The wreck was repaired with a <em>sintel</em>-caulking (i.e. caulking cramps), which is untypical for the tradition it was built in. Several isolated <em>sintel</em>-finds have been also made in Schleswig for the first half of the 13th century, indicating that the <em>sintel</em>-technology has apparently crossed the land-bridge from Hollingsted to Schleswig, arguably by visiting tradesmen from the North Sea region &ndash; e.g. Frisia, Westphalia or Saxony &ndash; where the <em>sintel</em>-technology originated.</p> <p>The dendrochronological analysis has revealed that the wreck was built in the 1140's with timber from the island of Fyn, Denmark.</p> <p>Although the keel is only preserved up to a length of almost 8 metres, the reconstruction based on the individual timbers indicates a much larger vessel of ca. 25 metres in length. As such, it is one of the largest cargo vessels of the High Middle Ages.</p> <p>A multitude of smaller finds associated with the cargo were made during the underwater excavation, which prompted hypotheses on the vessel's route. For instance, 300 wooden pins were interpreted as fur-pins in the context of trade relations of Schleswig's St. Canute Guild with Russian fur traders.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>82 voet (25 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>21 &frac34; voet (6,6 m)</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>The ship-timbers were conserved with PEG in the State Archaeology Museum of Schleswig-Holstein at Gottorf Castle.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div lang=\"en\"><ul><li>Daly, A. (2006).<br /><em>The Karschau Ship, Schleswig‐Holstein: Dendrochronological Results and Timber Provenance.</em><br />International Journal of Nautical Archaeology 36.1.<br />pp 155-166.</li><li>Englert, A. (2000).<br /><em>Large Cargo Vessels in Danish Waters AD 1000-1250.</em><br />Univ. Kiel.</li><li>Englert, A., Fischer, J., Hartz, S., Kühn, H.-J., Nakoinz, O. (2000).<br /><em>Ein nordisches Frachtschiff des 12. Jahrhunderts in der Schlei vor Karschau.</em><br />Archäologische Nachrichten aus Schleswig-Holstein 11.<br />pp 34-57.</li><li>Englert, A., Fischer, J., Kühn, H.-J., Nakoinz, O. (2001).<br /><em>Ein Wrack des 12. Jahrhunderts aus der Schlei bei Karschau.</em><br />Nachrichtenblatt Arbeitskreis Unterwasserarchäologie, 7.<br />pp 55-58.</li><li>Englert, A., Fischer, J., Hartz, S., Kühn, H.-J., Nakoinz, O. (2001).<br /><em>Ein nordisches Frachtschiff des 12. Jahrhunderts in Schleswig-Holstein.</em><br />Archäologisches Korrespondenzblatt 31.<br />pp 141-154.</li><li>Englert, A. &amp; Kühn, H.-J. (2015).<br /><em>The Karschau ship.</em><br />Roskilde.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

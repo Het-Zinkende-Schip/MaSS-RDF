@@ -1,0 +1,27 @@
+{
+  "id": "4265",
+  "code": "nereus",
+  "name": "Nereus",
+  "type": "wreck",
+  "lat": "53.6756333",
+  "lon": "2.6120450",
+  "location": "Noordzee ",
+  "firstdate": null,
+  "firstyear": "1921",
+  "firstyearend": null,
+  "lastdate": "1941-04-17",
+  "lastyear": "1941",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2025-04-10 12:00:03",
+  "modified_on": "2025-04-10 12:05:29",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em>Nereus</em> voer in konvooi FS 464 van Dundee via Methil naar Londen. Met aan boord een lading stukgoederen en aardappelen. Op 17 april 1941 werd het konvooi op de Noordzee aangevallen door Duitse motortorpedoboten. De Nereus werd tot zinken gebracht . Alle opvarenden kwamen veilig aan land.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Lengte</th><td>226 voet (68,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>33 &frac34; voet (10,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1298 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4594\">marhisdata.nl  schip id 4594.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2839",
+  "code": "tres-frates",
+  "name": "Tres Frates (IJM 194)",
+  "type": "wreck",
+  "lat": "57.3000000",
+  "lon": "6.1000000",
+  "location": "Denemarken",
+  "firstdate": null,
+  "firstyear": "1906",
+  "firstyearend": null,
+  "lastdate": "1917-03-26",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-19 10:08:39",
+  "modified_on": "2025-06-14 21:26:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De trawler werd door een Duitse U boot tot zinken gebracht voor de Deense kust. De bemanning werd gered.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003149.jpg\" alt=\"foto van stoomtrawlers aan de kade in een rij\"> <div class=\"img-source\">Spaarnestad Photo</div> </figure></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Goole shipbuilding &amp; repairing Co. Goole , UK</p> <p>Eigenaar van 1906-1913 was Lancashire Steam Fishing Co. Fleetwood (UK)</p> <p>Van 1913 tot 1917: Groen L. Ijmuiden</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Prins, P</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>12</td></tr><tr><th scope=\"row\">Tonnage</th><td>297 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=Charlois+Noordzee&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;page=2&amp;sortfield=date&amp;coll=ddd&amp;identifier=MMKB04:000140190:mpeg21:a0031&amp;resultsidentifier=MMKB0\">Haagse Courant 28-3-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

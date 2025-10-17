@@ -1,0 +1,27 @@
+{
+  "id": "2457",
+  "code": "san-anton",
+  "name": "San Anton",
+  "type": "wreck",
+  "lat": "43.3653200",
+  "lon": "-8.3876580",
+  "location": "San Anton Castle, La Coruña, Spanje",
+  "firstdate": null,
+  "firstyear": "1500",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "David Rafael Ruiz Blanco",
+  "created_on": "2021-02-25 10:19:21",
+  "modified_on": "2025-06-14 15:20:25",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div lang=\"en\"><p>Massive presence of ship's structure. Cast iron guns, ammo, personal possesions and ships fittings.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div lang=\"en\"><p>Partially destroyed by dredging and buried in sand</p></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

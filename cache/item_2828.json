@@ -1,0 +1,27 @@
+{
+  "id": "2828",
+  "code": "themis",
+  "name": "Themis",
+  "type": "wreck",
+  "lat": "54.4496025",
+  "lon": "1.3513184",
+  "location": "Noordzee*",
+  "firstdate": null,
+  "firstyear": "1903",
+  "firstyearend": null,
+  "lastdate": "1916-12-22",
+  "lastyear": "1916",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-04-08 10:07:11",
+  "modified_on": "2025-07-14 13:43:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 21 december 1916 vertrok de stoomboot Themis van Newcastle-on-Tyne met bestemming naar Amsterdam met een lading van 1.006 ton steenkolen. Sindsdien is nooit meer iets van het schip of de 19 opvarenden vernomen.</p> <p><strong>Lot onbekend</strong><br>Naar berekening had het schip op 23 december 1916 te Amsterdam moeten aankomen. De aard van het ongeval ligt volkomen in het duister, aangezien alle nasporingen vruchteloos zijn gebleven en ook geen wrakstukken zijn aangespoeld.</p> <p>Op 21 en 22 december 1916 was het weer op de oostkust van Engeland en de Noordzee niet slecht, ook geen mist; op 23 en 24 december 1916 heerste er echter zwaar stormweer.Toen zou de Themis al bij Ijmuiden moeten zijn aangekomen.</p> <figure class=\"img-wrapper\"><img src=\"/photos/l/00003123.jpg\" alt=\"Klein stukje tekst uit een krant met de titel &quot;de Themis&quot;\"> <div class=\"img-source\">Delpher</div> </figure> <p>Meest waarschijnlijke is dat het schip op 22 december op een mijn is gelopen en met man en muis is vergaan.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Burghout, P.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>19</td></tr><tr><th scope=\"row\">Lengte</th><td>213 voet (64,9 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>30 &frac12; voet (9,3 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>897 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Stichting Maritiem Historische Databank.<br /><a href=\"https://www.marhisdata.nl/schip&amp;id=6514\">Themis ID 6514.</a></li><li>Delpher.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=Themis&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;page=1&amp;sortfield=date&amp;coll=ddd&amp;identifier=MMKB08:000139776:mpeg21:a0005&amp;resultsidentifier=MMKB08:000139776:mpeg21:a0005&amp;rowid=3\">Delftschwe Courant 2-1-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

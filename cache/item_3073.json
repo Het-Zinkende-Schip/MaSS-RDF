@@ -1,0 +1,27 @@
+{
+  "id": "3073",
+  "code": "meern-3",
+  "name": "Meern 3",
+  "type": "wreck",
+  "lat": "52.0000000",
+  "lon": "5.0000000",
+  "location": " De Heldammer stroomrug, De Meern, Nederland",
+  "firstdate": null,
+  "firstyear": "100",
+  "firstyearend": "200",
+  "lastdate": null,
+  "lastyear": "200",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Amber Krooder",
+  "created_on": "2023-05-31 18:44:01",
+  "modified_on": "2025-05-27 09:50:40",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De tweede boomstamboot van De Meern is aangetroffen in de opvulling van een oude rivierbedding, namelijk van de Heldammer stroom.(Aarts, 2012: 17) Het fragment dateert uit de tweede eeuw na Christus.(Brouwers, Jansma &amp; Manders, 2013 22)</p> <p><br>&nbsp;<br><br></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Aarts A.C. (2012).<br /><a href=\"https://erfgoed.utrecht.nl/fileadmin/uploads/documenten/zz-erfgoed/publicaties/rapporten-archeologie/BrArch_43_Scherven_schepen_schoeiingen_1_.pdf\">Scherven, schepen en schoeiingen. Archeologisch onderzoek in een fossiele rivierbedding bij het castellum van De Meern.</a><br />Basisrapportage Archeologie 43.</li><li>Brouwers,  W. , Jansma, E. Manders, M. (2013).<br /><em>Romeinse scheepsresten in Nederland.</em><br />Archeobrief 4, jaargang 17.</li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

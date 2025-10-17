@@ -1,0 +1,27 @@
+{
+  "id": "2675",
+  "code": "bantam-1683",
+  "name": "Bantam",
+  "type": "wreck",
+  "lat": "51.4155540",
+  "lon": "3.4579367",
+  "location": "Wielingen, Nederland",
+  "firstdate": null,
+  "firstyear": "1683",
+  "firstyearend": null,
+  "lastdate": "1697-12-03",
+  "lastyear": "1697",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2021-10-20 15:15:52",
+  "modified_on": "2024-06-10 11:38:49",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De Bantam verongelukte bij het binnenlopen in de Westerschelde bij Wielingen.</p> <p>Op 3 december 1697 is het in de Scheldemonding bij Vlissingen vergaan.</p> <p>dat in 't inkomen op de Elleboog bij Vlissingen is verongeluckt. (Van Dam Deel II, 68. 282)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Rande, Pieter de</td></tr><tr><th scope=\"row\">Tonnage</th><td>1138 ton (569 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/das/detailVoyage/96311\">DAS 5962.5.</a></li><li> Pieter van Dam (1704).<br /><em>Beschrijvinge van de Oostindische Compagnie 1639-1701. Deel I.2.68 p. 282.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

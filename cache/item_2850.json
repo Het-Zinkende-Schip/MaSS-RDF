@@ -1,0 +1,27 @@
+{
+  "id": "2850",
+  "code": "epsilon-1913",
+  "name": "Epsilon",
+  "type": "wreck",
+  "lat": "50.1134160",
+  "lon": "-4.9757081",
+  "location": "Falmouth, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1913",
+  "firstyearend": null,
+  "lastdate": "1917-01-31",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-05-15 13:13:45",
+  "modified_on": "2025-06-15 11:50:43",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Epsilon</strong></em> was onderweg van Buenos Aires naar Amsterdam. Het vrachtschip liep bij het verlaten van de haven van Falmouth op een door de Duitse onderzeeboot 'UC 11' gelegde mijn. De bemanning wist zich te redden in de sloepen. Ze werd aan boord van het ss. <em><strong>Gamma</strong></em> genomen. De Epsilon was vertrokken in konvooio met de Nederlandse schepen ss. '<em><strong>Mizar</strong></em>' en ss. 'Gamma'.</p> <p>De lading bestonfd uit 4000 ton mais in opdracht van de regering.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: schroefstoomschip<br>Gebouwd: Rotterdamsche Droogdok Mij. N. V., Rotterdam <br>Rederij: Bothnia.</p> <p>Bothnia verloor drie schepen tijdens WW I. Zer kwam daardoor in financiele problemen en werd in 1919 overgenomen door rederij C. Goudriaan.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Lieuwen, K.</td></tr><tr><th scope=\"row\">Snelheid</th><td>9 knopen ~ 17 km/u (10 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>328 &frac12; voet (100,1 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>48 voet (14,6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>22 &frac14; voet (6,8 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>3211 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.wrecksite.eu/wreck.aspx?10185\">Wrecksite.eu.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22SS+Epsilon%22&amp;coll=ddd&amp;sortfield=date&amp;page=1&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;identifier=MMKB23:001984026:mpeg21:a00024&amp;resultsidentifier=MMKB2\">Dagblad van Noord-Brabant 02-02-1917.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4115",
+  "code": "op72",
+  "name": "OP72",
+  "type": "wreck",
+  "lat": "52.4879390",
+  "lon": "5.8246000",
+  "location": "Dronten, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1600",
+  "lastyearend": null,
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:33:41",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bij het greppeltrekken op kavel P72 in Oostelijk Flevoland werd een scheepswrak gevonden, dat in juni 1958 is verkend. Daarbij bleek dat op tal van plaatsen rondom het schip kleine putjes gegraven waren om na te gaan hoe de ligging van het wrak was. Hierbij was enig vaatwerk aan het licht gekomen. Omtrent de datering viel echter niet veel meer vast te stellen, dan dat het vermoedelijk in de zoutwaterfase na de 17de eeuw zou zijn vergaan. Het werd ingeschat als een vrij groot schip, vermoedelijk een koopvaarder of een groter beurtschip. Het schip zelf moet echter ernstig zijn gehavend en er restte vermoedelijk al niet veel meer dan een gedeelte van het vlak. Om na te gaan of van het vroeger verkende scheepswrak nog voldoende over was om een uitgraving te ondernemen, werd de vindplaats in 1966 nog eens nader verkend. Op de aangegeven plaats was toen echter niets meer te vinden, noch in de omgeving. Het schip is toen afgeschreven.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xav-m329\">Opgravingsdocumentatie scheepswrak OP72.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

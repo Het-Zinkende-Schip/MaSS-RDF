@@ -1,0 +1,27 @@
+{
+  "id": "587",
+  "code": "giessenburg",
+  "name": "Giessenburg",
+  "type": "wreck",
+  "lat": "-5.4540000",
+  "lon": "122.5120000",
+  "location": "Buton straat, ingang, Indonesië",
+  "firstdate": null,
+  "firstyear": "1749",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1766",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Gijs Gietema",
+  "created_on": "2018-01-04 00:00:00",
+  "modified_on": "2025-03-05 10:23:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em>De</em> <em>Giessenburg</em> was een VOC retourschip. Ze maakte vier reizen tussen Nederland en Batavia (Jakarta) voordat het schip in Azi&euml; bleef. Het oude schip werd daar in de Indonesische archipel ingezet in haar laatste jaar.</p> <h2>Laatste reis</h2> <p>De <em>Giessenburg</em> kwam in een zware storm terecht op een reis naar Banda en werd door een sterke westelijke stroming uit koers gebracht toen het de Straat van Buton binnenvoer. Het schip reageerde niet meer op het roer, het voortopzeil scheurde en het schip liep aan de grond.</p> <h2>Lading en bemanning gered</h2> <p>De bemanning van De&nbsp;Giessenburg werd gered en de contanten, papieren, stoffen en slaven werden overgebracht in de schepen de <em>Kroonprins</em> en de <em>Snuffelaar</em> en naar Banda gebracht. Een deel van de lading werd veilig gesteld op Buton en daar aan de lokale koning toevertrouwd totdat de factorij in Makassar het kon ophalen. Enkele andere goederen en het buskruit werden met de <em>pantjalan</em> (een lokaal scheepstype, ook <em>pencalang</em> gespeld) <em>Swaan</em> naar Batavia gebracht, waar de schipper H. Huurman en de officieren van het vergane schip ook waren.</p> <p>Nadat hun journalen waren ge&iuml;nspecteerd door het hoofd van de zeemacht van de Compagnie, Nicolaas Houtingh in bijzijn van de advocaat van de Compagnie, werden de schipper en officieren vrijgesproken van plichtsverzuim en weer geschikt voor dienst verklaard in de vergadering van 4 juli 1766.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Werf: Amsterdam,</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>H. Huurman</td></tr><tr><th scope=\"row\">Lengte</th><td>150 voet (45,7 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"http://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=396&amp;accessor=search_in_text&amp;source=14_2&amp;accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D22%26source%3D5%2\">Generale missiven van gouverneurs-generaal en raden aan heren XVII der Verenigde Oostindische Compagnie.</a></li><li><a href=\"https://www.vocsite.nl/schepen/10370/\">VOC site.</a></li><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/94917\">DAS.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

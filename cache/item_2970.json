@@ -1,0 +1,27 @@
+{
+  "id": "2970",
+  "code": "koningin-wilhelmina",
+  "name": "Koningin Wilhelmina",
+  "type": "wreck",
+  "lat": "51.6643620",
+  "lon": "2.5932800",
+  "location": "Noord Hinder",
+  "firstdate": null,
+  "firstyear": "1895",
+  "firstyearend": null,
+  "lastdate": "1917-07-31",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-13 14:27:07",
+  "modified_on": "2025-06-15 14:28:14",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Koningin Wilhelmina</strong></em> was op reis van Vlissingen naar Gravesend. Aan boor waren 49 passagiers en 52 bemanningsleden.</p> <p>Op 31 juli 1916 om 09.50 uur liep het schip op 2 mijl van het lichtschip &lsquo;<em>Noord Hinder</em>&rsquo; op een Duitse mijn.</p> <p>Een hevige ontploffing vond plaats, vermoedelijk onder het voorketelruim. De boten werden gevierd en allen gingen van boord, doch bij gehouden app&egrave;l bleken vijf personen vermist, waaronder 4 man, die in het voorketelruim dienst hadden; dit ruim stond intussen vol water en de 4 personen waren waarschijnlijk al direct bij de ontploffing omgekomen.</p> <p>De Koningin Wilhelmina bleef nog een tijd drijven, zodat ook nog post van de 151 zakken mail kon worden geborgen. Om 10.35 uur in de ochtend van 31 juli 1916 brak het schip in twee&euml;n en zonk. De boten begaven zich naar het lichtschip &lsquo;NOORD-HINDER&rsquo; en werden later naar Vlissingen gebracht, waar de volgende dag nog 2 personen aan hun verwondingen overleden.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Fairfield Shipbuilding &amp; Engineering Co. Ltd., Glasgow,</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>101</td></tr><tr><th scope=\"row\">Lengte</th><td>320 voet (97,5 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>35 &frac34; voet (10,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>16 voet (4,9 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>1964 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.marhisdata.nl/schip&amp;id=3498\">marhisdata id 3498.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

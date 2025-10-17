@@ -1,0 +1,27 @@
+{
+  "id": "761",
+  "code": "bambeek",
+  "name": "Bambeek",
+  "type": "wreck",
+  "lat": "2.5486700",
+  "lon": "101.6687600",
+  "location": "Bambek Shoal, Tanjung Tuan, Maleisië",
+  "firstdate": null,
+  "firstyear": "1696",
+  "firstyearend": null,
+  "lastdate": "1702-01-01",
+  "lastyear": "1702",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-06-13 17:13:23",
+  "modified_on": "2024-06-10 11:29:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Bambeek</strong></em> heeft twee uitreizen gemaakt. Op haar eerste reis verliet De Bambeek op 19 november 1697 de rede van Texel met Batavia als bestemming. Ze was op 25 september 1699 terug in Nederland.&nbsp;<br>Haar tweede uitreis begon op 22 april 1700 en kwam in Batavia aan op 19 november 1700. Een korte reis voerde naar Bantam om peper te halen. Vervolgens vertrok De Bambeek op 30 april 1701 naar Japan. Op de terugweg via de straat van Malakka verging ze vlak na vertrek op 1 januari 1702.<br>De lading werd geborgen. De kapitein en de eerste stuurman probeerden een kist met Japans koper te verdonkeremanen. Dat mislukte. De twee sloegen op de vlucht met een inheemse prauw. Ten westen van Bantam werden ze vermoord door piraten.</p> <p><em>\"Het vastdryven en droevig verongelucken van 't gemelte schip Bambeek op een droogte of santplaat, gelegen ontrent Cabo Rochado en Pulo Passelaar, naaulijks oen en een half mijl buiten de wal en van gemelte uithook noordwest en noordwest ten westen ongevaar vier mylen.&nbsp;</em><br><em>Dat het schip niet alleen van onder aan 't spil ende de voorkant van het grote luik alsook voor aan 't cabelluik gebroken was, maar ook selfs de haken rondom gesprongen waren, zodat dit nieuwe schip niet meer te repareren was, de lading kon onder het oog van den fiskaal Arnoud van Alsem gelost worden.\" (GM VI 185)</em></p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Gebouwd: Amsterdam, 1698&nbsp;<br>Tonnage: 160 last<br>Complement: 200-250<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0179?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">*</a></p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Dirk Verdoes</td></tr><tr><th scope=\"row\">Lengte</th><td>145 voet (44,2 m)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://resources.huygens.knaw.nl/das/detailVoyage/92889\">DAS 1829.2.</a></li><li><a href=\"https://resources.huygens.knaw.nl/retroboeken/generalemissiven/#page=200&amp;accessor=search_in_text&amp;view=imagePane&amp;accessor_href=https%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Fgeneralemissiven%2Fsearch_in_text%2Findex_html%3Fpage%3D0%26source%3\">Generale missiven Deel VI, 185.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4932/file/NL-HaNA_1.04.02_4932_0179?eadID=1.04.02&amp;unitID=4932&amp;query=4932\">NL-HaNA_1.04.02_4932_0179.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

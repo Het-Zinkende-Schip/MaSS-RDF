@@ -1,0 +1,27 @@
+{
+  "id": "2087",
+  "code": "zk53",
+  "name": "ZK53",
+  "type": "wreck",
+  "lat": "52.3246200",
+  "lon": "5.3408300",
+  "location": "Almere, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1800",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Joran Smale",
+  "created_on": "2020-09-14 16:35:12",
+  "modified_on": "2025-07-05 10:46:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Tijdens het diepploegen op kavel K53 in Zuidelijk Flevoland zijn in 1984 een aantal scheepsresten aangetroffen. In hetzelfde jaar is er een verkennend onderzoek uitgevoerd. De locatie bevindt zich tussen de Wulptocht, de Ibisweg en de Wulpweg. Tijdens een meer uitgebreide verkenning in 1985 is vastgesteld dat het vermoedelijk gaat om fragmenten van een dek of vlak van een waterschip. De resten van de bun waren waarneembaar. Aan de hand van de aangetroffen scheepsfragmenten waren de grootse lengte en breedte helaas niet vast te stellen. Ook de datering kon aan de hand van het hout niet worden vastgesteld. Het hout lag verspreid over een gebied van ongeveer 15 meter. De geringste diepte onder het maaiveld was 0,50 meter. Het hout van de verschillende fragmenten was van matige kwaliteit. Na de documentatie zijn de scheepsfragmenten verwijderd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Fragmenten van een waterschip, datering onbekend, Almere.<br><br>De datering in MaSS is gebaseerd op het scheepstype waterschip.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><figure class=\"img-wrapper\"><img src=\"/photos/l/00002045.jpg\" alt=\"Close up van een houten plank met spijkers er in\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Detail van een pen die voorzien is van een deutel.</figcaption> </figure> <figure class=\"img-wrapper\"><img src=\"/photos/l/00002044.jpg\" alt=\"Opgegraven deel van een schip, vooral bestaande uit houten planken\"> <div class=\"img-source\">Batavialand te Lelystad, Maritiem Archeologisch Depot</div> <figcaption class=\"img-description\">Het scheepsfragment dat op de vindplaats is aangetroffen.</figcaption> </figure></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zxn-ucf6\">Opgravingsdocumentatie scheepswrak ZK53.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

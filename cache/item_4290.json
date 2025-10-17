@@ -1,0 +1,27 @@
+{
+  "id": "4290",
+  "code": "raadhuis-van-haarlem-2",
+  "name": "Raadhuis van Haarlem",
+  "type": "wreck",
+  "lat": "51.4408325",
+  "lon": "0.7428195",
+  "location": "Sheerness, Verenigd Koninkrijk",
+  "firstdate": null,
+  "firstyear": "1658",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1690",
+  "lastyearend": null,
+  "country": "Verenigd Koninkrijk",
+  "countrycode": "GB",
+  "author": "Will Brouwers",
+  "created_on": "2025-06-21 14:07:47",
+  "modified_on": "2025-07-13 12:19:27",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het schip '<em>Raadhuis van Haarlem</em>' onder kapitein Jeroen Adelaar nam deel aan de missie van viceadmiraal De Ruiter naar Portugal in 1658.</p> <p>Tijdens de tweede Engels-Nederlandse oorlog nam het schip deel aan de slag bij Lowestoft (13-6-166) onder kapitein Jan Adelaar. (Brandt 469, 476)</p> <p>Tijdens de tocht naar Chattam wederom onder de Ruiter was Pieter Magnus(zoon) kapitein op het Raadhuis. Het schip was betrokken bij de beschieting en verovering van fort Sheerness (Brandt, 587).</p> <p><br>18 augustus 1667 werd Het Raadhuis van Haarlem op de Doggersbank veroverd door het Engelse schip Swallow. Pieter Magnus sneuvelde in het gevecht. (De Jonge nt 2 II, 157) verovert. Binnengebracht in de Humber 23 augustus 1667.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/2.22.24/invnr/HCA32-12.666/file/NL-HaNA_2.22.24_HCA32-12.666_0001?eadID=2.22.24&amp;unitID=HCA32-12.666&amp;query=Raadhuis\">&sup1;</a> Dat was een paar dagen voor de ratificatie van de Vrede van Breda.</p> <p>In 1668 was het schip na het gevecht in slechte staat en werd als 'Stathouse van HarIem' opgelegd en als 'prisonhulk' gebruikt. Uiteindelijk werd de romp in 1690 afgezonken bij Sheerness,</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Bewapening: 46 (1667)<br>Complement; 150</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Pieter Magnus</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://cultureelerfgoed.info/mass/?file=00000069.jpg\">schepen lijst Lowestoft.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/2.22.24/invnr/HCA32-12.666/file/NL-HaNA_2.22.24_HCA32-12.666_0001?eadID=2.22.24&amp;unitID=HCA32-12.666&amp;query=Raadhuis\">2.22.24/invnr/HCA32-12.666.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

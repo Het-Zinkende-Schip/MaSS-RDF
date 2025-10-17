@@ -1,0 +1,27 @@
+{
+  "id": "2997",
+  "code": "wilhelmina-cornelia",
+  "name": "Wilhelmina Cornelia (IJM 132)",
+  "type": "wreck",
+  "lat": "52.5288098",
+  "lon": "4.0476767",
+  "location": "Noordzee , Nederland",
+  "firstdate": null,
+  "firstyear": "1891",
+  "firstyearend": null,
+  "lastdate": "1915-06-03",
+  "lastyear": "1915",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-09-15 15:26:43",
+  "modified_on": "2025-06-15 14:44:59",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p><em><strong>De Wilhelmina</strong></em> Cornelia is op ca. 30 mijl NW van Ijmuiden aangevaren door een andere visserschip de<em> Dordrecht</em>. De Wilhelmina zonk en de Dordrecht (IJM 52) raakte zwaar beschadigd. De bemanning bleef ongedeerd.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: J. en W. Engelhart, Vlaardingen</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40031636\">Centraall visserijregister-40031636.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Wilhelmina+Cornelia%22&amp;coll=ddd&amp;sortfield=date&amp;facets%5Btype%5D%5B%5D=artikel&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1915%7C&amp;page=6&amp;identifier=MMSAVL02:000481084:mpeg21:a00058&amp;resultsident\">Nieuwe Vlaardingse Courant (5-6-1915).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

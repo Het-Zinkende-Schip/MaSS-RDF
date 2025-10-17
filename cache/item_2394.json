@@ -1,0 +1,27 @@
+{
+  "id": "2394",
+  "code": "hr-ms-d",
+  "name": "Hr. Ms. D",
+  "type": "wreck",
+  "lat": "-7.1879646",
+  "lon": "112.6991272",
+  "location": "Surabaja, Indonesië",
+  "firstdate": null,
+  "firstyear": "1929",
+  "firstyearend": null,
+  "lastdate": "1942-03-06",
+  "lastyear": "1942",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-12-28 15:35:51",
+  "modified_on": "2025-06-12 17:44:54",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 6 augustus 1930 vertrok de D samen met de zusterschepen A, B en C richting Nederlands-Indi&euml;.</p> <p>Tot zinken gebracht door de eigen bemanning op Marine Etablissement te Surabaja. Tot zover bekend is dit schip niet gelicht door de Japanse marine.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: mijnenveger, A klasse (naar een Duits ontwerp)<br>Gebouwd: Rijkswerf Willemsoord in Den Helder. 1928-1929<br>Eigenaar: Gouvernement Marine, Divisie Mijnenvegers I<br>Bewapening: 2 x 12,7 mm mitrailleur</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Aantal opvarenden</th><td>38</td></tr><tr><th scope=\"row\">Vermogen</th><td>700 pk</td></tr><tr><th scope=\"row\">Snelheid</th><td>14 knopen ~ 26 km/u (16 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>140 &frac12; voet (42,8 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>19 &frac34; voet (6 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>5 voet (1,5 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>179 ton</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Wikiwand.<br /><a href=\"https://www.wikiwand.com/nl/Hr.Ms._D_(1930)\">Hr. Ms. D.</a></li><li>Münching, L.L. von,  (1978).<br /><em>Schepen van de koninklijke marine in de 2e wereldoorlog. p.76.</em></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

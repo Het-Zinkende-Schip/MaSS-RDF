@@ -1,0 +1,27 @@
+{
+  "id": "896",
+  "code": "moordrecht",
+  "name": "Moordrecht",
+  "type": "wreck",
+  "lat": "44.8049641",
+  "lon": "-13.5878885",
+  "location": "Atlantische Oceaan ",
+  "firstdate": null,
+  "firstyear": "1930",
+  "firstyearend": null,
+  "lastdate": "1940-06-20",
+  "lastyear": "1940",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2019-12-06 16:39:32",
+  "modified_on": "2025-02-05 17:36:31",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Het ms <em>Moordrecht</em> verliet 31 mei 1940 Port Arthur (Texas, VS) in konvooi HX-49 met bestemming La Coruna (ES). <br>Op 18 juni gaf de konvooileider order aan de gezagvoerder van de \"Moordrecht\" het konvooi te verlaten en de reis alleen voort te zetten. Op 20 juni werd het schip getorpedeerd door de Duitse onderzee&euml;r <em>U 48</em>.</p> <p>De \"Moordrecht\"zonk snel. Drie of vier reddingboten waren in brand geraakt. De BB. reddingboot werd te water gelaten. De \"Moordrecht\" was al zo diep gezonken met het gevolg, dat de boot kapseisde. Het lukte aan 5 opvarenden op de omgekantelde boot te klimmen. De matroos A. Stolk werd van de boot afgespoeld en verdronk. De vier overigen werden door het Griekse s.s. ,,Orion\" opgepikt en in Liverpool afgezet. De 25 overige opvarenden kwamen om. (<a href=\"https://oorlogsgravenstichting.nl/exact-zoeken?section[0]=persons&amp;filter[first_name]&amp;filter[last_name]&amp;filter[gender]&amp;filter[categories]&amp;filter[place_of_birth]&amp;filter[place_of_death]=Atl.+Oceaan+a/b+m.s.+Moordrecht&amp;filter[cemetery_name]&amp;filter[profession_rank]&amp;filter[date_of_birth]&amp;filter[date_of_death]&amp;page=1\">lijst slachtoffers</a>)</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: Enkelschroef motortankschip met 21 tanks</p> <p>Gebouwd: De Rotterdamsche Droogdok Maatschappij N.V., Rotterdam,<br>Eigenaar: N.V. Stoomvaart Mij. \"Maas\" te Rotterdam<br>Voortstuwing: RDM diesel (Harland &amp; Wolff), B&amp;W type, 8 cilinders, 2750 rpk, schroef 100 omw/min.</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Hutjes, I.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>29</td></tr><tr><th scope=\"row\">Snelheid</th><td>18 knopen ~ 33 km/u (21 mijl per uur)</td></tr><tr><th scope=\"row\">Lengte</th><td>440 &frac14; voet (134,2 m)</td></tr><tr><th scope=\"row\">Breedte</th><td>58 &frac12; voet (17,9 m)</td></tr><tr><th scope=\"row\">Diepgang</th><td>35 voet (10,7 m)</td></tr><tr><th scope=\"row\">Tonnage</th><td>7493 ton</td></tr></tbody></table></div>\n<h1 id=\"h-status\">Status</h1>\n<div><p>25 opvarenden worden vermist.</p></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Haersolte, J.W.J. van, (ed.) (1947).<br /><em>Scheepsrampen in  oorlogstijd ,nr. 10.</em></li><li><a href=\"https://www.uboat.net/allies/merchants/ship/371.html\">Uboat.net U  48.</a></li><li><a href=\"https://www.marhisdata.nl/schip&amp;id=4380\">marhisdata id 4380.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

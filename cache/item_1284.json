@@ -1,0 +1,27 @@
+{
+  "id": "1284",
+  "code": "netelenburg",
+  "name": "Netelenburg",
+  "type": "wreck",
+  "lat": "12.5556415",
+  "lon": "80.2142121",
+  "location": "Coromandel kust , India",
+  "firstdate": null,
+  "firstyear": "1686",
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1687",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2020-04-06 16:34:05",
+  "modified_on": "2025-06-24 23:37:21",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De kleine fluit Netelenburg vertrok 26 mei 1686 uit Texel. Ze kwam 4 juni 1687 aan in Ceylon.<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/8909/file/NL-HaNA_1.04.02_8909_0086\">*</a> <br>Ze wordt genoemd in de Generale lijst van alle des E. Comp's schepen in Colombo en staat daar in als geschikt voor alle vaarwateren<a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/8909/file/NL-HaNA_1.04.02_8909_0179\">&sup1;</a></p> <p>Ze is 6 aug 1687 in Coromandel met brieven voor de opperhoofden aldaar.</p> <p>Het scheepje Netelenburg wordt als vermist gemeld '<em>op Coromandel</em>' in een storm in oktober 1687. (<a href=\"https://dekok.xyz/htrsearch/transcriptie?scan=689494&amp;query=Netelenburg&amp;varianten=2&amp;archief=VOC\">VOC-archief, inventarisnummer 8909</a>)</p> <p>Later wordt de Mastenbos (op de kust van Bengalen) en Netelenburg op de kust van Coromandel inclusief de lading als verongelukt gemeld. <a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/7532/file/NL-HaNA_1.04.02_7532_0648\">&sup2;</a></p> <ul> <li class=\"note\">Het scheepje wordt in de ene brief 'klein fluit ' genoemd en in andere missiven hoeker. Het lijkt er dat voor de betrokkenen zelf de type aanduiding niet perse vast lag of.</li> </ul></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Type: In de missive van Ceylon 2 aug 'klein fluitje' genoemd. In de missive van Coromandel 6-8 'hoeker' genoemd.</p> <p>Gebouwd: De Netelenburg wordt genoemd in de lijst van Pieter van Dam als hoeker gebouwd in 1685 in Amsterdam. Met als dimensies 81-21,10x 10. In de lijst van Colombo zij de dimensies 85x 21&frac12; x 11.&nbsp;<br><br></p> <figure class=\"img-wrapper\"><img class=\"enlarge\" src=\"/photos/l/00004457.png\" alt=\"Generale lijst van alle schepen in Ceilon, mrt 1688\"> <div class=\"img-source\">NL-HaNA_1.04.02_8909_0179</div> <figcaption class=\"img-description\">Generale lijst van alle schepen in Ceilon, mrt 1688</figcaption> </figure><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Tonnage</th><td>160 ton (80 last)</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>missive Ceylon 2-8-1687.<br /><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/8908/file/NL-HaNA_1.04.02_8908_0129\">NL-HaNA_1.04.02_8908_0129.</a></li><li><a href=\"https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/551/file/NL-HaNA_1.11.01.01_551_0126?eadID=1.11.01.01&amp;unitID=551&amp;query=551\">1.11.01.01.551 Lijst van alle zoodanige Schepen fol. 123.</a></li><li>zoekmachine is gemaakt door historicus en programmeur Gerhard de Kok.<br /><a href=\"https://dekok.xyz/htrsearch/voc/results?query=Netelenburg\">bronnen netelenburg.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

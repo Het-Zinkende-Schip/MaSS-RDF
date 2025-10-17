@@ -1,0 +1,27 @@
+{
+  "id": "2956",
+  "code": "dirk-van-duijne",
+  "name": "Dirk van Duijne (SCH 254)",
+  "type": "wreck",
+  "lat": "52.3986153",
+  "lon": "4.3976148",
+  "location": "Noordzee , thv Zandvoort",
+  "firstdate": null,
+  "firstyear": "1915",
+  "firstyearend": null,
+  "lastdate": "1917-07-27",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-08-11 14:57:54",
+  "modified_on": "2025-06-15 14:21:23",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>Op 27 juli werd op de Noordzee zo'n 19 mijl uit de kust ter hoogte van Zandvoort 6 visserschepen uit Scheveningen tot zinken gebracht door een Duitse U boot.</p> <p>Het waren: <a href=\"https://mass.cultureelerfgoed.nl/van-den-berg-sch-134\">President Commisaris van den Berg</a> SCH 134), <a href=\"https://mass.cultureelerfgoed.nl/sterna-iii-sch-136\">Sterna III</a> (SCH 136), <a href=\"https://mass.cultureelerfgoed.nl/dirk\">Dirk (SCH 382)</a>, <a href=\"https://mass.cultureelerfgoed.nl/majoor-thomson-sch-23\">Majoor Thomson (SCH 23)</a>, <a href=\"https://mass.cultureelerfgoed.nl/jan-sch-170\">Jan</a> (SCH 170) Dirk van Duijne (SCH 254).</p> <p>De bemanning werd gered.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>W. Rog</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40018361\">Centraal Visserijregister 40018361.</a></li><li><a href=\"https://www.delpher.nl/nl/kranten/view?coll=ddd&amp;query=%22SCH+254%22&amp;cql%5B%5D=%28date+_gte_+%2211-07-1917%22%29&amp;cql%5B%5D=%28date+_lte_+%2224-08-1917%22%29&amp;redirect=true&amp;sortfield=date&amp;identifier=MMCODA01:000153852:mpeg21:a0038&amp;resultsidentifier=MMCO\">Nieuwe Apeldoornsche courant (28-7-1917).</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

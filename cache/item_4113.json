@@ -1,0 +1,27 @@
+{
+  "id": "4113",
+  "code": "np4-ii",
+  "name": "NP4-II",
+  "type": "wreck",
+  "lat": "52.6645240",
+  "lon": "5.7907470",
+  "location": "Nagele, Nederland",
+  "firstdate": null,
+  "firstyear": null,
+  "firstyearend": null,
+  "lastdate": null,
+  "lastyear": "1675",
+  "lastyearend": "1700",
+  "country": null,
+  "countrycode": null,
+  "author": "Joran Smale",
+  "created_on": "2024-01-12 10:47:13",
+  "modified_on": "2024-01-12 16:30:56",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Op kavel P4 in de Noordoostpolder zijn twee scheepsresten aangetroffen. Wrak I betrof een visserschip, wrak II een scheef in de grond gelegen vrachtschip. Dit tweede wrak bleek bleek een gekapseisd, vrij sterk vergaan vaartuig te zijn van 19,5 meter lang, dat een lading houten kniestukken vervoerde (afmetingen: 50 x 45 centimeter dik, 3 meter lang, en met voet van ca. 1 meter). Een stookplaats was bij dit schip voorin ingericht, met een rookgat tussen de spil en voorsteven. De ondergang wordt geplaatst laat in de 17de eeuw. Enkele van de weinige uit het wrak geborgen vondsten zijn een bolle koperen pan met hengsel, een geglazuurd aardewerken kannetje en enkele kleipijpen.</p><table class=\"metavalues\"><tbody></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Batavialand te Lelystad, Maritiem Archeologisch Depot.<br /><a href=\"https://archaeology.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xxa-d7jv\">Opgravingsdocumentatie scheepswrak NP4-II.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

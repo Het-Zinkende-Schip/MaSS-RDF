@@ -1,0 +1,27 @@
+{
+  "id": "2904",
+  "code": "ernestine-pauline-ijm-95",
+  "name": "Ernestine Pauline (IJM 95)",
+  "type": "wreck",
+  "lat": "56.7412335",
+  "lon": "2.8911717",
+  "location": "Noordzee",
+  "firstdate": null,
+  "firstyear": "1903",
+  "firstyearend": null,
+  "lastdate": "1917-07-27",
+  "lastyear": "1917",
+  "lastyearend": null,
+  "country": "Nederland",
+  "countrycode": "NL",
+  "author": "Will Brouwers",
+  "created_on": "2022-07-01 16:11:31",
+  "modified_on": "2022-07-01 16:25:09",
+  "deleted_on": null,
+  "feet": "feet",
+  "body": "<h1 id=\"h-history\">Historie</h1>\n<div><p>De <em><strong>Ernestine Pauline</strong></em> was oorspronkelijk een Brits schip de <em><strong>Plutarch</strong></em>. In 1912 verkocht aan rederij Bakker en Dijksen. Verliet de haven van Ijmuiden 20 juli 1917. Sindsdien vermist. Waarschijnlijk op een mijn gelopen.</p></div>\n<h1 id=\"h-description\">Beschrijving</h1>\n<div><p>Eigenaar: Bakker &amp; Dijksen</p><table class=\"metavalues\"><tbody><tr><th scope=\"row\">Kapitein</th><td>Groot de , J.</td></tr><tr><th scope=\"row\">Aantal opvarenden</th><td>10</td></tr></tbody></table></div>\n<h1 id=\"h-references\">Referenties</h1>\n<div><ul><li>Zuiderzee collectie.<br /><a href=\"https://www.zuiderzeecollectie.nl/object/cvr/Centraal_Visserijregister-40033340\">Centraal Visserijregister.</a></li><li>Delpher.nl.<br /><a href=\"https://www.delpher.nl/nl/kranten/view?query=%22Ernestine+Pauline%22&amp;coll=ddd&amp;sortfield=date&amp;facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1910-1919%7C1917%7C&amp;facets%5Btype%5D%5B%5D=artikel&amp;page=2&amp;identifier=MMKB23:001529054:mpeg21:a00020&amp;resultsidentifie\">Het vaderland, 01-08-1917.</a></li><li><a href=\"http://www.vissersnamenmonumentscheveningen.nl/detail/1917-396-ernestine-pauline-ijm-95-vergaan-met-onbekende-oorzaak\">Vissers namen monument, Scheveningen.</a></li></ul></div>\n",
+  "license": {
+    "title": "Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)",
+    "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}
