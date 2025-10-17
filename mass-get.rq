@@ -18,7 +18,7 @@ CONSTRUCT {
 		sdo:license ?license ;
 		sdo:location ?location_node .
 
-	?location_nod a sdo:Place ;
+	?location_node a sdo:Place ;
 		sdo:name ?location ;
 		sdo:geo ?geo ;
 		sdo:location ?location ;

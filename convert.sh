@@ -7,7 +7,7 @@ python3 mass_download.py
 
 # 2 - Haal wat data uit de lijst die niet in de details zit
 
-java -jar sparql-anything-v1.0.0-geosparql.jar -q mass-list.rq -format nt > all_mass.nt
+java -jar sparql-anything-v1.0.0.jar -q mass-list.rq -format nt > all_mass.nt
  
 # 3 - Converteer alle JSON bestanden narr RDF met sparql-anything
 
