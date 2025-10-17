@@ -22,6 +22,8 @@ CONSTRUCT {
 		sdo:name ?location ;
 		sdo:geo ?geo ;
 		sdo:location ?location ;
+		sem:hasBeginTimeStamp ?firstyear ;
+		sem:hasEndTimeStamp ?lastyear ;
 		sdo:additionalType <https://vocab.getty.edu/aat/300193015> ;
 		sdo:containedInPlace ?country .
 
@@ -60,12 +62,13 @@ CONSTRUCT {
 	#  "lastyearend": null,
 
     OPTIONAL {
-      ?root xyz:license ?licnode .
-      ?licnode xyz:title ?license_title .
-      ?licnode xyz:href ?license_href .
-      BIND(IRI(CONCAT("https://mass.cultureelerfgoed.nl/id/", ?id, "/license")) AS ?license)
+	?root xyz:license ?license_node .
+	?license_node xyz:title ?license_title .
+	?license_node xyz:href ?license_href .
     }
 
+    BIND(IRI(CONCAT("https://mass.cultureelerfgoed.nl/id/", ?id, "/license")) AS ?license)
+    BIND(IRI(CONCAT("https://mass.cultureelerfgoed.nl/id/", ?id, "/location")) AS ?location_node)
     BIND(IRI(CONCAT("https://mass.cultureelerfgoed.nl/id/", ?id, "/geo")) AS ?geo)
     BIND(IRI(CONCAT("https://mass.cultureelerfgoed.nl/", ?code)) AS ?url)
   }
