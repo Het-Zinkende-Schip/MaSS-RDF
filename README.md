@@ -6,6 +6,9 @@ De mass.rq bevat the SPARQL CONSTRUCT die de JSON omzet naar RDF. Vanwege missen
 Het script convert.sh voert alle bovengenoemde stappen uit en resulteert in het bestand all_mass.nt.
 
 ![Model of converted RDF](model.png)
+
+De RDF kan bekeken worden via [rdfglance](https://xdobry.github.io/rdfglance/?url=https%3A%2F%2Fraw.githubusercontent.com%2FHet-Zinkende-Schip%2FMaSS-RDF%2Frefs%2Fheads%2Fmain%2Fall_mass_unique.nt) en bevraagdd worden via SPARQL via https://qlever-ui.coret.org/mass 
+
 # Requirements
 
 - Bash
