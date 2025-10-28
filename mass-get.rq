@@ -1,5 +1,5 @@
 PREFIX fx:  <http://sparql.xyz/facade-x/ns/>
-PREFIX sdo: <https://sdo.org/>
+PREFIX sdo: <https://schema.org/>
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX xyz: <http://sparql.xyz/facade-x/data/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
